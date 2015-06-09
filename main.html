@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="Devon main page">
+    <meta name="author" content="Capgemini CSD2015">
+    <link rel="icon" href="images/favicon.ico">
+
+    <title>Devon - Home</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap-3.3.4/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="bootstrap-3.3.4/css/justified-nav.css" rel="stylesheet">
+    <link href="bootstrap-3.3.4/css/style.css" rel="stylesheet">
+    <link href="font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <!-- <link href="bootstrap-3.3.4/css/styles.css" rel="stylesheet"> -->
+    
+    <!-- JavaScript import -->
+		<script src="bootstrap-3.3.4/js/jquery-1.11.2.min.js"></script>
+	  <script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>  
+    
+  </head>
+
+  <body>
+
+    <div class="container">
+			<nav class="navbar navbar-default navbar-fixed-top" role="banner">
+			  <div class="container">
+			    <nav class="pull-right" role="navigation" id="navigation">
+			      <ul class="nav navbar-nav">
+                    <li>
+                        <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.html">iCSD2015</a>
+                    </li>
+			        <li class="active" >
+                        <a href="https://troom.capgemini.com/sites/vcc/devon/main.html" >Devon/OASP</a>  
+			        </li>
+			        <li>
+			            <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/production_line.html">Production line</a>
+			        </li>
+			      </ul>
+			      <p class="navbar-text navbar-right hidden-xs">&nbsp;&nbsp;&nbsp;<a href="https://troom.capgemini.com/sites/vcc/devon/Forms/AllItems.aspx" class="navbar-link navbar-right" title="Visit FAQ for further information!">Edit</a></p>
+	
+			      <script>
+            	function GetText() {
+        				if(document.getElementById("input").value != "")
+        				{
+        					document.location.href = "https://troom.capgemini.com/sites/vcc/_layouts/searchresults.aspx?k=" + document.getElementById("input").value + "&u=https%3A%2F%2Ftroom.capgemini.com%2Fsites%2Fvcc%2Fdevon";
+        					/*open search in new window
+        						var newUrl = "https://troom.capgemini.com/sites/vcc/_layouts/searchresults.aspx?k=" + document.getElementById("input").value + "&u=https%3A%2F%2Ftroom.capgemini.com%2Fsites%2Fvcc%2Fdevon";
+        						window.open(newUrl, '_blank');
+        					*/
+        				}else
+        				{
+        					alert("Please insert a keyword!");
+        				}
+        			}
+            </script>
+            <p class="navbar-text navbar-right hidden-xs" id="form">
+        			<input type="text" id="input" placeholder="Search this site..." maxlength="255" />
+        			<input id="search" type="image" value="Search" onclick="GetText()" alt="Search" src="images/gosearch.png" />
+          	</p>
+			    </nav>
+			  </div>
+			</nav>
+	  </div>
+
+    <div class="container">
+      <div class="masthead">
+       <a href="main.html"><img src="images/logo_devonfw.jpg" alt="devon-logo" style="width:250px; height:88px;"/></a>
+        <nav class="navbar navbar-default" role="navigation" id="menunav">
+    			<div class="navbar-header">
+        		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
+    			</div>
+    			<nav class="collapse navbar-collapse" role="navigation" id="menu">
+          	<ul class="nav nav-justified">
+            	<li><a href="roadmap.html">Roadmap</a></li>
+            	<li><a href="overview.html">Overview</a></li>
+            	<li><a href="collaboration.html">Collaboration</a></li>
+            	<li><a href="references.html">References</a></li>
+                <li><a href="faq.html">FAQs</a></li>
+                <li><a href="getstarted.html">Getting started</a></li>
+          	</ul>
+          </nav>
+        </nav>
+      </div>
+      </div>
+
+      <div class="container">
+      <div class="jumbotron">
+        <p>Devon is about to become the CSD standard platform for Capgemini SBU. It provides a standardized architecture blueprint, an open best-of-breed technology stack as well as industry proven best practices and code conventions. It is a industrialization initiative that is aligned across the SBU.</p>
+      </div>
+
+			<div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
+    		<!-- Carousel indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>   
+        <!-- Carousel items -->
+        <div class="carousel-inner">
+            <div class="active item">
+            		<div class="smallcenter">
+                  <br/><br/><br/><br/><br/><br/>
+                	<h1>Get started</h1>
+        					<p>Get introduced to how to jump-start your project with Devon in the Getting started section.</p>
+        					<a class="btn btn-lg btn-success" href="getstarted.html" role="button"><span class="fa fa-cloud-download"></span> Get started today</a>
+                </div>
+            </div>
+            <div class="item">
+            		<div class="smallcenter">
+                  <br/>
+            			<h2>Relation of Devon and OASP</h2>
+                	<img src="images/relation_devon_oasp.png"/>
+                	<p>Devon consists of a private IP solution + the open source nucleus OASP.</p>
+                	<a class="btn btn-lg btn-success" href="https://troom.capgemini.com/sites/vcc/devon/overview.html" role="button">Read more...</a>
+              	</div>
+            </div>
+            <div class="item">
+            		<div class="smallcenter">
+                  <br/><br/><br/><br/><br/>
+                	<p>You will find references of Devon usage across SBU on</p>
+                	<a class="btn btn-lg btn-success" href="references.html" role="button">References</a>
+        					<p id="text-danger">If you are investigating, exploring or planning to use a component of Devon or OASP, please send a note to </p>
+        					<a class="btn btn-lg btn-success" href="mailto:marco.rose@capgemini.com;angel-luis.marin-soler@capgemini.com" role="button">Devon Team</a>
+                </div>
+            </div>
+        </div>
+        <!-- Carousel nav -->
+        <a class="carousel-control left" href="#myCarousel" data-slide="prev" role="button" >
+            <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+        <a class="carousel-control right" href="#myCarousel" data-slide="next" role="button" >
+            <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+    	</div>
+   
+
+        <div class="row">
+        <div class="col-md-12 logos text-center">
+         <a href="https://spring.io/" target="_blank"><img src="images/logo_spring.png" alt="spring-logo"/></a>
+         <a href="http://oasp.github.io/" target="_blank"><img src="images/logo_oasp.png" alt="oasp-logo"/></a>
+         <a href="http://www.sencha.com/" target="_blank"><img src="images/logo_sencha.png" alt="sencha-logo"/></a>
+         <a href="https://angularjs.org/" target="_blank"><img src="images/logo_angularjs.png" alt="angularjs-logo"/></a>
+         <a href="https://spring.io/" target="_blank"><img src="images/logo_javaee.png" alt="javaee-logo"/></a>
+         <a href="https://maven.apache.org/" target="_blank"><img src="images/logo_maven.png" alt="maven-logo"/></a>
+         <a href="http://cxf.apache.org/" target="_blank"><img src="images/logo_apache.png" alt="apache-logo"/></a>
+         <a href="http://projects.spring.io/spring-boot/" target="_blank"><img src="images/logo_springboot.png" alt="springboot-logo"/></a>
+         <a href="http://www.querydsl.com/" target="_blank"><img src="images/logo_querydsl.png" alt="querydsl-logo"/></a>
+        </div>
+        </div>
+
+      <!-- Site footer -->
+      <footer class="footer">
+        <div class="col-md-9">
+     		<p>This page is maintained by <a href="https://troom.capgemini.com/sites/vcc/default.aspx" target="_blank">Capgemini Germany APPS Evolve</a> and <a href="#">Capgemini Spain</a>.</p>
+            <p>&copy; Capgemini 2015</p>
+        </div>
+        <div class="col-md-3"><img alt="Capgemini logo" class="pull-right" src="images/logocapg.gif"></div>
+      </footer>
+
+    </div>
+  </body>
+</html>
