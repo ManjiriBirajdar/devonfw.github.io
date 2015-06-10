@@ -78,18 +78,17 @@ a{color:#00A0D7;}
 	margin: 20px;
 }
 .item{
-    background: #00A0D7;    
+    background: #fff;    
     text-align: center;
     height: 600px;
     border-radius: 6px;
 }
 .carousel-control.left {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.3) 0px, rgba(0, 0, 0, 0) 100%);
-  background-repeat: repeat-x;
+  background: #fff;
+  
 }
 .carousel-control.right {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.3) 100%);
-  background-repeat: repeat-x;
+background: #fff;
 }
 .smallcenter {
   margin: 0px auto;
@@ -105,20 +104,22 @@ a{color:#00A0D7;}
     color: #FFF;   
 }
 .smallcenter>h2{
-	  margin: 0;     
-    padding-top: 20px;
-    font-size: 45px;
+	margin: 0;     
+    padding-top: 0px;
+    font-size: 35px;
     font-family: "Helvetica Neue", sans-serif; 
-    color: #FFF;   
+    color: #888;   
+    margin-bottom:10px;
 }
 .smallcenter > p {
   font-family: "Helvetica Neue", sans-serif;
-  /*font-size: 24px;*/
+  font-size: 18px;
   font-weight: 300;
   line-height: 140%;
   margin: 0;
   padding-top: 20px;
-  color: #FFF;
+  color: #888;
+  width:  90%;
 }
 .smallcenter>img{
 	padding-top: 20px;
@@ -258,4 +259,33 @@ hr {
 .table-bordered-blue > thead > tr > td, .table-bordered-blue > thead > tr > th {
   border-bottom-color: #00a0d7 !important;
   border-bottom-width: 2px !important;
+}
+
+.glyphicon.glyphicon-chevron-right {
+	color: #888;
+}
+
+.glyphicon.glyphicon-chevron-left {
+	color: #888;
+}
+
+.carousel-indicators li {
+	border: 1px solid #888;
+}
+
+.carousel-indicators li.active {
+	background:#ccc;
+}
+
+.masthead{
+  margin-top: 30px;
+}
+
+@media screen and (min-width: 768px){
+   .jumbotron {
+		padding: 28px 20px;
+	}
+	.carousel{
+     height:500px;
+   }
 }
