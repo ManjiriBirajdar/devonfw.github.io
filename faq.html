@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="Devon faq page">
+    <meta name="author" content="Capgemini CSD2015">
+    <link rel="icon" href="images/favicon.ico">
+
+    <title>Devon - FAQ</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap-3.3.4/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="bootstrap-3.3.4/css/justified-nav.css" rel="stylesheet">
+    <link href="data:text/css;charset=utf-8," data-href="bootstrap-3.3.4/css/bootstrap-theme.min.css" rel="stylesheet" id="bs-theme-stylesheet">
+    <link href="bootstrap-3.3.4/css/test.min.css" rel="stylesheet">
+    <link href="bootstrap-3.3.4/css/style.css" rel="stylesheet">
+    <link href="font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <!-- JavaScript import -->
+		<script src="bootstrap-3.3.4/js/jquery-1.11.2.min.js"></script>
+		<script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>
+    <script src="bootstrap-3.3.4/js/test.min.js"></script>
+		
+  </head>
+
+  <body data-spy="scroll" data-target="#myScrollspy">
+
+		<div class="container">
+			<nav class="navbar navbar-default navbar-fixed-top" role="banner">
+			  <div class="container">
+			    <nav class="pull-right" role="navigation" id="navigation">
+            <ul class="nav navbar-nav">
+              <li>
+                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.html">iCSD2015</a>
+              </li>
+              <li class="active" >
+                  <a href="https://troom.capgemini.com/sites/vcc/devon/main.html" >Devon/OASP</a>  
+              </li>
+              <li>
+                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/production_line.html">Production line</a>
+              </li>
+            </ul>
+			      <p class="navbar-text navbar-right hidden-xs">&nbsp;&nbsp;&nbsp;<a href="https://troom.capgemini.com/sites/vcc/devon/Forms/AllItems.aspx" class="navbar-link navbar-right"  title="Visit FAQ for further information!">Edit</a></p>
+	
+			      <script>
+            	function GetText() {
+        				if(document.getElementById("input").value != "")
+        				{
+        					document.location.href = "https://troom.capgemini.com/sites/vcc/_layouts/searchresults.aspx?k=" + document.getElementById("input").value + "&u=https%3A%2F%2Ftroom.capgemini.com%2Fsites%2Fvcc%2Fdevon";
+        					/*open search in new window
+        						var newUrl = "https://troom.capgemini.com/sites/vcc/_layouts/searchresults.aspx?k=" + document.getElementById("input").value + "&u=https%3A%2F%2Ftroom.capgemini.com%2Fsites%2Fvcc%2Fdevon";
+        						window.open(newUrl, '_blank');
+        					*/
+        				}else
+        				{
+        					alert("Please insert a keyword!");
+        				}
+        			}
+            </script>
+            <p class="navbar-text navbar-right hidden-xs" id="form">
+        			<input type="text" id="input" placeholder="Search this site..." maxlength="255" />
+        			<input id="search" type="image" value="Search" onclick="GetText()" alt="Search" src="images/gosearch.png" />
+          	</p>
+			    </nav>
+			  </div>
+			</nav>
+		</div>
+
+    <div class="container">
+      <div class="masthead">
+        <a href="main.html"><img src="images/logo_devonfw.jpg" alt="devon-logo" style="width:250px; height:88px;"/></a>
+        <nav class="navbar navbar-default" role="navigation" id="menunav">
+    			<div class="navbar-header">
+        		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
+    			</div>
+    			<nav class="collapse navbar-collapse" role="navigation" id="menu">
+          	<ul class="nav nav-justified">
+            	<li><a href="roadmap.html">Roadmap</a></li>
+            	<li><a href="overview.html">Overview</a></li>
+            	<li><a href="collaboration.html">Collaboration</a></li>
+            	<li><a href="references.html">References</a></li>
+              <li class="active"><a href="faq.html">FAQs</a></li>
+              <li><a href="getstarted.html">Getting started</a></li>
+          	</ul>
+          </nav>
+        </nav>
+      </div>
+      </div>
+    
+        <div class="container">  
+        <div class="row">
+        <div class="col-md-12" id="main">
+      		
+      		<!-- FAQ section-->
+          <div class="col-md-10" id="main">
+    			<div class="panel-group" id="accordion">
+    				
+    				<!-- Maintenance section -->
+      			<div class="faqHeader page-header bs-docs-section" id="sec1"><h2>Maintenance questions</h2></div>
+    				<!-- question0 -->
+        		<div class="panel panel-default">
+            	<div class="panel-heading">
+                <h4 class="panel-title">
+                	<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseZero" id="sec1-1">How can I edit the content of these pages?</a>
+                </h4>
+            	</div>
+            	<div id="collapseZero" class="panel-collapse collapse">
+            		<div class="panel-body">
+              		<p>You can use several ways to get access to the source files behind the pages.
+              			<p class="text-danger">Attention: You can only access these files by using Internet Explorer</p>
+              			<ol>
+              				<p>
+              					<li>Access via Windows Explorer:</li>
+          								<ul>
+          									<li>Open Windows Explorer (e.g. by Windows Key + E) and type "<span class="text-info">\\troom.capgemini.com@SSL\DavWWWRoot\sites\vcc\devon</span>" without quotation marks.</li>
+          									<li>Now you get the overview over all source files.</li>
+          								</ul>
+          						</p>
+          						<p>
+                				<li>Access via SharePoint:</li>
+                					<ul>
+            								<li>Click <a href="https://troom.capgemini.com/sites/vcc/devon/Forms/AllItems.aspx">here</a> or at the right top corner of every page to switch to Mircosoft SharePoint, where an overview over all available source files is given.</li>
+            								<li>Left click "Actions" from the menu bar and select "Open with Windows explorer".</li>
+            								<li>Now you are able to change the source files in the opening explorer window.</li>
+            							</ul>
+            					</p>
+            					<p>
+            						<li>Access via SharePoint, <span class="text-danger">for frequent usage </span>(if you have not installed Microsoft SharePoint Designer):</li>
+            							<ul>
+            								<li>Once open the file list by accessing it with one of the two approaches above.</li>
+            								<li>Change default program settings for the source files. Select the editor you would like to work with.</li>
+            								<li>From now on you can use this easy approach:</li>
+            								<ul>
+            									<li>Click <a href="https://troom.capgemini.com/sites/vcc/devon/Forms/AllItems.aspx">here</a> or at the right top corner of every page to switch to Mircosoft SharePoint, where an overview over all available source files is given.</li>
+            									<li>Hover the file you want to change and left click the orange dropdown arrow.</li>
+            									<li>Select "Edit in Microsoft SharePoint Designer" from the opened context menu.</li>
+            									<li>The selected file will now open in your standard editor.</li>
+            								</ul>
+            							</ul>
+            					</p>
+        						</ol>
+              		</p>
+            		</div>
+            	</div>
+        		</div>
+        		
+    				<!-- general section -->
+      			<div class="faqHeader page-header bs-docs-section" id="sec2"><h2>General questions</h2></div>
+    				<!-- question1 -->
+        		<div class="panel panel-default">
+            	<div class="panel-heading">
+                <h4 class="panel-title">
+                	<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" id="sec2-1">Where do I find more details? Where does discussion take place?</a>
+                </h4>
+            	</div>
+            	<div id="collapseOne" class="panel-collapse collapse">
+            		<div class="panel-body">
+              		<p>We are using the following infrastructure for the OASP:
+              			<ul>
+          						<li><a href="https://github.com/oasp">github</a></li>
+          							<ul>
+          								<li>repositories per variant (OSAP4J, OASP4JS, OASP4Net) with code and wikis (1 repo for the standard incl. docs, 1 for sample application, 1 for capgemini IP)</li>
+          								<li><a href="https://github.com/oasp/oasp4j/wiki">Wiki</a></li>
+          								<li>repository for the OASP itself containing variant independent stuff (e.g. general methodology for specification, requirements, agile, etc.)</li>
+          							</ul>
+          						<li>APPS Evolve! SharePoint (this one and VCC Java, VCC .NET, etc.)</li>
+          							<ul>
+          								<li>TODO: Folder and directory structure for document templates and ready to use documents as well as un-approved input</li>
+          							</ul>
+          						<li><a href="https://www.yammer.com/capgemini.com">Yammer</a>, Devon Group</li>
+          						<li><a href="mailto:appsoasp.de@capgemini.com">Capgemini Mailing List</a></li>
+          						<li>CI</li>
+          							<ul>
+          								<li><a href="http://oasp-ci.cloudapp.net/jenkins">Jenkins</a></li>
+          								<li><a href="http://oasp-ci.cloudapp.net/sonarqube/">Sonarqube</a></li>
+          							</ul>
+        						</ul>
+              		</p>
+            		</div>
+            	</div>
+        		</div>
+        	
+        	<!-- question2 -->
+        		<div class="panel panel-default">
+            	<div class="panel-heading">
+            		<h4 class="panel-title">
+              		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" id="sec2-2">How can I have a look? How can I join?</a>
+              	</h4>
+            	</div>
+            	<div id="collapseTwo" class="panel-collapse collapse">
+              	<div class="panel-body">
+                	<p>Until the repositories are public, you need to have a github account to even read the contents. This is an undesired situation but it is only temporary. You should do the following steps:</p>
+                		<ul>
+          						<li>Create a <a href="https://github.com/join">free github account</a> - use your real name or Capgemini Corp login for your github account so we can associate you with the account</li>
+          						<li>Send an email to one of the following person as request to join. Please also state if you want to actively contribute to Java or JavaScript variant. We will later switch to pull-requests but so far we just give you direct write permissions</li>
+          							<ul>
+          								<li><a href="mailto:joerg.hohwiller@capgemini.com">J&ouml;rg Hohwiller</a></li>
+          								<li><a href="mailto:marek.matczak@capgemini.com">Marek Matczak</a></li>
+          								<li><a href="mailto:simon.spielmann@capgemini.com">Simon Spielmann</a></li>
+          							</ul>
+        						</ul>
+        						<p>The OASP admin receiving your mail will then</p>
+        						<ul>
+          						<li>Add you to the <a href="hhttp://corporatedirectory.capgemini.com/">Capgemini mailing list</a></li>
+          						<li>Add you to the readaccess team on github </li>
+          						<li>Add you to the JavaDev or JsDev team as requested</li>
+        						</ul>
+                </div>
+            	</div>
+        		</div>
+        		
+        		<!-- question3 -->
+        		<div class="panel panel-default">
+            	<div class="panel-heading">
+            		<h4 class="panel-title">
+              		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" id="sec2-3">Why are we using github and not XXX?</a>
+              	</h4>
+            	</div>
+            	<div id="collapseThree" class="panel-collapse collapse">
+              	<div class="panel-body">
+                	<ol>
+          					<li>We believe that a standard has to be open-source in order to gain attention and have success. Our customers can use it and receive updates and will not be trapped in a vendor lock-in when we publish it as open source. Github is the most popular open source platform. </li>
+          					<li>Github is the number one platform for social coding. Via seamless git usage, pull-requests, AsciiDoc support for Wiki and other features it is unrivaled compared to other solutions.</li>
+          				</ol>
+                </div>
+            	</div>
+        		</div>
+        		
+        		<!-- OASP section -->
+      			<div class="faqHeader page-header bs-docs-section" id="sec3"><h2>OASP related questions</h2></div>
+        		
+        		<!-- question4 -->
+        		<div class="panel panel-default">
+            	<div class="panel-heading">
+            		<h4 class="panel-title">
+              		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" id="sec3-1">Is the OASP licensed as Open Source?</a>
+              	</h4>
+            	</div>
+            	<div id="collapseFour" class="panel-collapse collapse">
+              	<div class="panel-body">
+                	<p>The OASP is licensed as open source under the Apache Software License 2.0. There will also be add-ons and tools with more code and invest that will not be open sourced and licensed proprietary (agreement with our customers for free non-exclusive usage in the context of the project). This way we will keep our intellectual property (IP) for high-level invests.</p>
+                	<p>Therefore we are using the brand "devon" for IP content and OASP in combination. The name "devon" will be used to promote this to our customers.</p>
+                </div>
+            	</div>
+        		</div>
+        		
+        		<!-- question5 -->
+        		<div class="panel panel-default">
+            	<div class="panel-heading">
+            		<h4 class="panel-title">
+              		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" id="sec3-2">Why is the name OASP and not XXX? What is Devon?</a>
+              	</h4>
+            	</div>
+            	<div id="collapseFive" class="panel-collapse collapse">
+              	<div class="panel-body">
+                	<p>For the name we had to choose something that fulfills the following requirements:</p>
+                	<ol>
+          					<li>The name has to be available as internet domain name (DNS) with TLD .org (or maybe .net).</li>
+          					<li>The name must not be registered as trademark or the like.</li>
+          					<li>The name should stand for what is behind the project (the terms open and standard should be addressed).</li>
+          				</ol>
+          				<p>Various obvious names (e.g. QUASAR) did not match all of these criteria. In the end we had to make a decision and the content is what we wanted to focus on rather than waiting month or years to find a perfect name.</p>
+          				<p>As a marketing name we are using "devon" that is a brand owned by Capgemini. The OASP is "only" the public part of devon and we can use the name OASP for university collaborations where we only focus on the open standard.</p>
+                </div>
+            	</div>
+        		</div>
+    			</div>
+          </div>
+                  <!-- right navigation -->   
+        <div class="col-md-2" role="complementary">
+          <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm">
+            <ul class="nav bs-docs-sidenav">
+              <li><a href="#sec1">Maintenance</a>
+                <ul class="nav">
+                  <li><a href="#sec1-1">How can I edit the content of these pages?</a></li>
+                </ul>
+              </li>
+              <li><a href="#sec2">General</a>
+                <ul class="nav">
+                  <li><a href="#sec2-1">Where do I find more details? Where does discussion take place?</a></li>
+                  <li><a href="#sec2-2">How can I have a look? How can I join?</a></li>
+                  <li><a href="#sec2-3">Why are we using github and not XXX?</a></li>
+                </ul>
+              </li>
+              <li><a href="#sec3">OASP</a>
+                <ul class="nav">
+                  <li><a href="#sec3-1">Is the OASP licensed as Open Source?</a></li>
+                  <li><a href="#sec3-2">Why is the name OASP and not XXX? What is Devon?</a></li>
+                </ul>
+              </li>
+            </ul>
+            <a class="back-to-top" href="#top">Back to top</a>
+          </nav>
+        </div>
+    		</div>
+        </div>
+    			    	
+
+      <footer class="footer">
+        <div class="col-md-9">
+        <p>This page is maintained by <a href="https://troom.capgemini.com/sites/vcc/default.aspx">Capgemini Germany APPS Evolve</a> and <a href="#">Capgemini Spain</a>.</p>
+            <p>&copy; Capgemini 2015</p>
+        </div>
+        <div class="col-md-3"><img alt="Capgemini logo" class="pull-right" src="images/logocapg.gif"></div>
+      </footer>
+      
+    	</div> 
+  </body>
+</html>
