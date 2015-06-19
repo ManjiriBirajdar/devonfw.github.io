@@ -167,7 +167,7 @@
 	          </div>
             <div class="row">
         			<div class="col-lg-6" style="background-color:#77BBBB">
-		            <h3 id="sec5-2">Devon Server Example</h3>
+		            <h3 id="sec5-2">Devonfw Server Example</h3>
 					      <p>Here you find the <a href="https://github.com/devonfw/devon" target="_blank">Devonfw Server Repo &raquo;</a></p>
 					      <p>Here you find the <a href="https://github.com/devonfw/devon/wiki" target="_blank">Wiki &raquo;</a></p>
 					      <p>Here you find the <a href="http://devon-ci.cloudapp.net/devonfw-sample-server/" target="_blank">CI &raquo;</a> (protected access)</p>
@@ -198,7 +198,7 @@
 	          </div>
             <div class="row">
         			<div class="col-lg-6" style="background-color:#77BBBB">
-		            <h3 id="sec5-2">Devon Server Platform Guide</h3>
+		            <h3 id="sec5-2">Devonfw Server Platform Guide</h3>
 				        <p>Devonfw server consists of OASP4j Server  + a plugin system for IP + IP. To understand the architecture of devonfw, please read the OASP4j Server Platform Guide</p>
 				        <p>Architecture Guidelines for IP building blocks will be kept separate. The most important ones will be:</p>
 				        <p><a href="#" target="_blank">Enterprise devonfw (not yet available) &raquo;</a></p>
@@ -228,29 +228,66 @@
 	          </div>
             <div class="row">
         			<div class="col-lg-6" style="background-color:#77BBBB">
-		            <h3 id="sec5-2">Devon Server Tutorial</h3>
+		            <h3 id="sec5-2">Devonfw Server Tutorial</h3>
 				        <p>Here you find the <a href="" target="_blank">devonfw Server Tutorial as PDF &raquo;</a></p>
 				        <p>Here you find the <a href="" target="_blank">devonfw Server Tutorial as WIKI &raquo;</a></p>
 							</div>
         			<div class="col-lg-6" style="background-color:#BBBB77">
 		            <h3 id="sec5-3">OASP4j Server Tutorial</h3>
-				        <p>The tutorial of OASP is handled as IP.<br/></p>
-				        <p>Thus it is contained in the Devon Server Tutorial.<br/></p>
+				        <p>The tutorial of OASP is handled as IP. Thus it is contained in the Devon Server Tutorial.</p>
 							</div>
 						</div>
           </div>
 
           <div class="bs-docs-section" id="sec3">
             <h2>Tooling</h2>
+            <p>devonfw proposes to use of group tooling and services in your project to the highest possible extent. devonfw provides the following additional tooling to be used in projects for efficiency gains.</p>
             <h3 id="sec3-1">IDE</h3>
+            <p>For all main building blocks of devonfw a highly integrated development environment is available, preintegrated - packaged - ready to use. 
+            As of now the tooling available on the market does not allow a single IDE for all partsof the solution. Client and server require their own tools to be efficient in the software development process. devonfw-team will observe the market and give recommendations for unified tooling as soon as a common IDE gets available.</p>
+            
+		        <p>We don't reference the IDE-download packages here. The references to the download location are contained in the respective IDE setup documentation mentioned below.</p>
+            <div class="row">
+        			<div class="col-lg-6" style="background-color:#99BBBB">
+		            <h3 id="sec5-4">Sencha Web Client IDE</h3>
+				        <p>TBD: To develop a Sencha web client the editor + application template</p>
+				        <p>Here you find the <a href="" target="_blank">IDE setup guide</a> which explains how to setup the integrated development environment and how to use the application template.</p>
+		            <p>TBD: image</p>
+							</div>
+        			<div class="col-lg-6" style="background-color:#BBBB99">
+		            <h3 id="sec5-5">OASP4js/AngularJs Client IDE</h3>
+		            <p>TBD: bracket  application template></p>
+				        <p>Here you find the <a href="" target="_blank">OASP4js IDE setup guide &raquo;</a></p>
+		            <p>TBD: image</p>
+		          </div>
+	          </div>
+            <div class="row">
+        			<div class="col-lg-6" style="background-color:#77BBBB">
+		            <h3 id="sec5-2">Devonfw Server IDE</h3>
+		            <p>The prepackaged and preconfigured IDE is eclipse-based. It contains an eclipse-archetype definition that allows to create a empty devonfw application. You can get this package running in about 2hours. It further provides integration such as: static code quality check, issues, test-server, etc.</p>
+		            <p>TBD: image</p>
+				        <p>Here you find the <a href="" target="_blank">devonfw IDE setup guide &raquo;</a></p>
+							</div>
+        			<div class="col-lg-6" style="background-color:#BBBB77">
+		            <h3 id="sec5-3">OASP4j Server IDE</h3>
+				        <p>We recommend to build your application using the prepackaged devonfw server IDE and application template. The IDE is not IP, but it is hosted in Capgemini. For OASP there is no separate IDE.</p>
+							</div>
+						</div>
+            
             <h3 id="sec3-2">CoBiGen</h3>
-            <h3 id="sec3-3">CI-Blueprint</h3>
-            <h3 id="sec3-3">DocGen-Blueprint</h3>
+            <p>CoBiGen is a high value IP asset that is used by devonfw projects to generate code across all layers of a devon-application, including the clients. 
+            	It works iteratively without leaving marks or regions in the code due to its basic understanding of Java. 
+            	Due to architecture patterns set in devonfw, the generator is able to support generation of higher-level concepts than just - class. 
+            	It is best integrated into the provided eclipse package but also works on command line.</p>
+            <p>TBD: image</p>
+            
+            <h3 id="sec3-3">Production Line</h3>
+            Production line - once available - will be the natural best fit IT4IT environment for the development process of a devonfw project, including full service CI, configuration management, artefact storage, issue tracking, etc. 
           </div>
 
           <div class="bs-docs-section" id="sec6">
             <h2>IP Add Ons</h2>
-            <p>devonfw covers IP: RuleEngine, BPM-Engine, SDLC, RDV, Enterprise, Immediate, HANA, ....</p>
+            <p>devonfw has the follwing IP on the roadmap: RuleEngine, BPM, Enterprise, Immediate, HANA, Security, Usability, ....</p>
           </div>
       
           <div class="bs-docs-section" id="sec7">
