@@ -105,13 +105,12 @@
           <div class="bs-docs-section">
           	<div class="jumbotron" id="start">
           		<h1>devonfw overview</h1>
-          		<p class="lead">This section presents a overview of the product devonfw.</p>
+          		<p class="lead">This section presents a overview of the product devonfw and all assets that it contains.</p>
         		</div>
 					</div>
 
           <div class="bs-docs-section" id="sec2">
             <h2>Introduction</h2>
-            <h3>Reading instructions</h3>
           	<p>This page presents an overview of the product devonfw and its core assets. For detailed information you will find references to indepth material.<br/>
          		   Please also consult the <a href="getstarted.html">support section</a> of this site to find additional supporting material (e.g. marketing material).<br/>
          			 In order to learn how the initiative CSD2015 governs the development, maintenance and support of devonfw, please visit <a href="collaboration.html">Building devonfw</a>.</p>
@@ -135,54 +134,110 @@
             <h3 id="sec1-3">Technology Overview</h3>
             
             Picture technology stack OASP
-
           </div>
 
-          <div class="bs-docs-section" id="sec5">
+          <div class="bs-docs-section" id="sec5" style="background-image: url(images/overview/restaurant.png)">
             <h2>Reference implementation</h2>
 
             <h3 id="sec5-1">Restaurant</h3>
-	          <p>The reference implementation is a very important asset to show a working example of a application build with devon.</p>
-	          <p>This example consists of two independent but similar web frontend implementations:</p> 
+	          <p>The reference implementation is a very important asset that shows on a working example how a application built with devonfw actually looks in coding. 
+	          	It makes architectural decisions visible as code. It also acts as playground for training and innovation.<br/>
+	          	<b>The example is a complete reference implementation for devonfw showing all concepts and its variations on a real application.</b></p>
+
+            <p>To get familiar with the restaurant you might like to visit the <a href="https://troom.capgemini.com/sites/vcc/java/Shared%20Documents/StandardPlatform/ExampleApplication/Specification/presentation/Restaurant_use_cases_and_dialogs.pptx" target="_blank">use-case-overview of the restaurant</a>.</p>
+            <p><img src="images/overview/screen-from-restaurant-usecases-pdf.png" alt="screen from restaurant usecases"/></p>
+
+	          <p>The example consists of a base server and an extended (+IP) server implementation and two independent (but functionally similar) web frontend implementations:</p> 
           	<ul>
-              <li>one using OASP4js running against the OASP4j server.</li>
-              <li>the other using Sencha-UI running against a devonfw-server.</li>
+              <li>one client using OASP4js running against the core OASP4j restaurant server</li>
+              <li>the other client using Sencha-UI running against a devonfw restaurant server that extends the OASPjj server.</li>
             </ul>
             
-            <p>To get familiar with the restaurant you might like to visit the <a href="" target="_blank">use-case-overview of the restaurant</a>.</p>
-            <p>image</p>
-            
-            <h3 id="sec5-2">Devon Server</h3>
-								repo
-			          <p><a class="btn btn-primary" href="https://github.com/devonfw/devon/wiki/tutorial-devon-introduction" role="button" target="_blank">Devonfw Introduction</a></p>
-			          <p><a class="btn btn-primary" href="https://github.com/devonfw/devon/wiki/tutorial-introduction" role="button" target="_blank">Devonfw Tutorial</a></p>
-            <h3 id="sec5-4">Sencha Web Client</h3>
-		          <p><a class="btn btn-primary" href="https://github.com/devonvw/devon4sencha" role="button" target="_blank">Sencha Example Implementation &raquo;</a></p>
-		          <p><a class="btn btn-primary" href="http://devon-ci.cloudapp.net/devonfw-sample-server/jsclient" role="button" target="_blank">Sencha Example &raquo;</a></p>
-
-            <h3 id="sec5-5">Sencha Native Mobile APP</h3>
-							planned end of 2015
-							
-            <h3 id="sec5-3">OASP4js/AngularJs Client</h3>
-		          <p><a class="btn btn-primary" href="https://github.com/oasp/oasp4js" role="button" target="_blank">OASP4js Example Implementation &raquo;</a></p>
-		          <p><a class="btn btn-primary" href="http://oasp-ci.cloudapp.net/oasp4j-sample" role="button" target="_blank">OASP4js Example &raquo;</a></p>
-
+            <div class="row">
+        			<div class="col-lg-6" style="background-color:#99BBBB">
+		            <h3 id="sec5-4">Sencha Web Client Example</h3>
+				        <p>Here you find the <a href="https://github.com/devonvw/devon4sencha" target="_blank">Sencha Example Repo &raquo;</a></p>
+				        <p>Here you find the <a href="http://devon-ci.cloudapp.net/devonfw-sample-server/jsclient" target="_blank">Sencha Example &raquo;</a></p>
+							</div>
+        			<div class="col-lg-6" style="background-color:#BBBB99">
+		            <h3 id="sec5-5">OASP4js/AngularJs Client Example</h3>
+				        <p>Here you find the <a href="https://github.com/oasp/oasp4js" target="_blank">OASP4js Example Repo &raquo;</a></p>
+				        <p>Here you find the <a href="http://oasp-ci.cloudapp.net/oasp4j-sample" target="_blank">OASP4js Example &raquo;</a></p>
+		          </div>
+	          </div>
+            <div class="row">
+        			<div class="col-lg-6" style="background-color:#77BBBB">
+		            <h3 id="sec5-2">Devon Server Example</h3>
+					      <p>Here you find the <a href="https://github.com/devonfw/devon" target="_blank">Devonfw Server Repo &raquo;</a></p>
+					      <p>Here you find the <a href="https://github.com/devonfw/devon/wiki" target="_blank">Wiki &raquo;</a></p>
+					      <p>Here you find the <a href="http://devon-ci.cloudapp.net/devonfw-sample-server/" target="_blank">CI &raquo;</a> (protected access)</p>
+							</div>
+        			<div class="col-lg-6" style="background-color:#BBBB77">
+		            <h3 id="sec5-3">OASP4j Server Example</h3>
+					      <p>Here you find the <a href="https://github.com/oasp/oasp4j" target="_blank">OASP4j Server Repo &raquo;</a></p>
+					      <p>Here you find the <a href="https://github.com/oasp/oasp4j/wiki" target="_blank">Wiki &raquo;</a></p>
+					      <p>Here you find the <a href="http://oasp-ci.cloudapp.net/jenkins/" target="_blank">CI &raquo;</a> (protected access)</p>
+							</div>
+						</div>
           </div>
-
-
-					
-
-          <h2>Server Blueprint OASP4j</h2>
-          <p>devonfw uses OASP4J as lean open source architecture blueprint for the server side of an application. OASP4J offers you a holistic documentation for building your application. Stop with digging in the docs of many different open-source projects in parallel getting on the wrong track or lost in space. </p>
-          <p><a class="btn btn-primary" href="http://oasp.github.io/oasp4j/" role="button" target="_blank">OASP4j Home &raquo;</a></p>
-          <p><a class="btn btn-primary" href="http://oasp.github.io/oasp4j/1.0.0/OASP4J.pdf" role="button" target="_blank">OASP4j Platform Guide &raquo;</a></p>
-          <p><a class="btn btn-primary" href="https://github.com/oasp/oasp4j/wiki/oasp-ide-setup" role="button" target="_blank">IDE Setup (for contributors) &raquo;</a></p>
 
           <div class="bs-docs-section" id="sec4">
             <h2>Documentation Assets</h2>
-            <h3 id="sec4-1">Platform Guide</h3>
+            <h3 id="sec4-1">Architecture documentation</h3>
+
+            <div class="row">
+        			<div class="col-lg-6" style="background-color:#99BBBB">
+		            <h3 id="sec5-4">Sencha Web Client Guidelines</h3>
+				        <p>Here you find the <a href="" target="_blank">Sencha Architecture as WIKI &raquo;</a></p>
+							</div>
+        			<div class="col-lg-6" style="background-color:#BBBB99">
+		            <h3 id="sec5-5">OASP4js/AngularJs Client Guidelines</h3>
+				        <p>Here you find the <a href="" target="_blank">OASP4js Architecture as WIKI &raquo;</a></p>
+				        <p>&nbsp;</p>
+		          </div>
+	          </div>
+            <div class="row">
+        			<div class="col-lg-6" style="background-color:#77BBBB">
+		            <h3 id="sec5-2">Devon Server Platform Guide</h3>
+				        <p>Devonfw server consists of OASP4j Server  + a plugin system for IP + IP. To understand the architecture of devonfw, please read the OASP4j Server Platform Guide</p>
+				        <p>Architecture Guidelines for IP building blocks will be kept separate. The most important ones will be:</p>
+				        <p><a href="#" target="_blank">Enterprise devonfw (not yet available) &raquo;</a></p>
+							</div>
+        			<div class="col-lg-6" style="background-color:#BBBB77">
+		            <h3 id="sec5-3">OASP4j Server Platform Guide</h3>
+				        <p>Here you find the <a href="" target="_blank">OASP4j Platform Guide as PDF &raquo;</a></p>
+				        <p>Here you find the <a href="" target="_blank">OASP4j Platform Guide as WIKI &raquo;</a></p>
+							</div>
+						</div>
+
+
             <h3 id="sec4-2">Tutorials</h3>
-            <h3 id="sec4-3">Webcast</h3>
+            Step by step tutorials explain how to build the software in the right order and conform to the architecture guidelines. 
+
+            <div class="row">
+        			<div class="col-lg-6" style="background-color:#99BBBB">
+		            <h3 id="sec5-4">Sencha Web Client Tutorial</h3>
+				        <p>Here you find the <a href="" target="_blank">Sencha Tutorial as PDF &raquo;</a></p>
+				        <p>Here you find the <a href="" target="_blank">Sencha Tutorial as WIKI &raquo;</a></p>
+							</div>
+        			<div class="col-lg-6" style="background-color:#BBBB99">
+		            <h3 id="sec5-5">OASP4js/AngularJs Client Tutorial</h3>
+				        <p>Here you find the <a href="" target="_blank">OASP4js Tutorial outline as WIKI &raquo;</a></p>
+				        <p>&nbsp;</p>
+		          </div>
+	          </div>
+            <div class="row">
+        			<div class="col-lg-6" style="background-color:#77BBBB">
+		            <h3 id="sec5-2">Devon Server Tutorial</h3>
+				        <p>Here you find the <a href="" target="_blank">devonfw Server Tutorial as PDF &raquo;</a></p>
+				        <p>Here you find the <a href="" target="_blank">devonfw Server Tutorial as WIKI &raquo;</a></p>
+							</div>
+        			<div class="col-lg-6" style="background-color:#BBBB77">
+		            <h3 id="sec5-3">OASP4j Server Tutorial</h3>
+				        <p>The tutorial of OASP is handled as IP.<br/></p>
+				        <p>Thus it is contained in the Devon Server Tutorial.<br/></p>
+							</div>
+						</div>
           </div>
 
           <div class="bs-docs-section" id="sec3">
