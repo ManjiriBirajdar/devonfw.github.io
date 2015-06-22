@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE aspx>
+<aspx lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -28,13 +28,13 @@
 			    <nav class="cg_internal pull-right" role="navigation" id="navigation">
 			      <ul class="nav navbar-nav">
               <li>
-                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.html">iCSD2015</a>
+                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.aspx">iCSD2015</a>
               </li>
 			        <li class="active" >
-                <a href="https://troom.capgemini.com/sites/vcc/devon/index.html" >devonfw/OASP</a>
+                <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx" >devonfw/OASP</a>
 			        </li>
 			        <li>
-		            <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/production_line.html">Production line</a>
+		            <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/production_line.aspx">Production line</a>
 			        </li>
 			      </ul>
 			      <p class="navbar-text navbar-right hidden-xs">&nbsp;&nbsp;&nbsp;<a href="https://troom.capgemini.com/sites/vcc/devon/Forms/AllItems.aspx" class="navbar-link navbar-right" title="Visit FAQ for further information!">Edit</a></p>
@@ -65,19 +65,19 @@
 
     <div class="container">
       <div class="masthead">
-        <a href="https://troom.capgemini.com/sites/vcc/devon/index.html"><img src="images/logo_devonfw.jpg" alt="devonfw-logo" style="width:250px; height:88px;"/></a>
+        <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx"><img src="images/logo_devonfw.jpg" alt="devonfw-logo" style="width:250px; height:88px;"/></a>
         <nav class="navbar navbar-default" role="navigation" id="menunav">
     			<div class="navbar-header">
         		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
     			</div>
     			<nav class="collapse navbar-collapse" role="navigation" id="menu">
           	<ul class="nav nav-justified">
-            	<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/roadmap.html">Roadmap</a></li>
-            	<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/overview.html">Overview</a></li>
-            	<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/collaboration.html">Collaboration</a></li>
-            	<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/references.html">References</a></li>
-              <li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/faq.html">FAQs</a></li>
-              <li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/getstarted.html">Getting started</a></li>
+            	<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/roadmap.aspx">Roadmap</a></li>
+            	<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx">Overview</a></li>
+            	<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/collaboration.aspx">Collaboration</a></li>
+            	<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/references.aspx">References</a></li>
+              <li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/faq.aspx">FAQs</a></li>
+              <li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/getstarted.aspx">Getting started</a></li>
           	</ul>
           </nav>
 	      </nav>
@@ -109,7 +109,7 @@
           	<div class="center">
           		<div class="smallcenter">
           			<h2>One flexible Solution</h2>
-              	<a href="https://troom.capgemini.com/sites/vcc/devon/overview.html"><img height="280" src="images/main/OneFlexSolution.png"/></a>
+              	<a href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx"><img height="280" src="images/main/OneFlexSolution.png"/></a>
               	<p>devonfw - one integrated flexible solution! (click pictures to learn more)</p>
 
                 </div>
@@ -120,7 +120,7 @@
           	<div class="center">
           		<div class="smallcenter">
           			<h2>Technology</h2>
-              	<a href="https://troom.capgemini.com/sites/vcc/devon/overview.html#Solution"><img height="280" src="images/main/TechnologyMap.png"/></a>
+              	<a href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx#Solution"><img height="280" src="images/main/TechnologyMap.png"/></a>
               	<p>pre-integrated open source technologies, enhanced with outstanding commercial components as Sencha.</p>
             	</div>
             </div>
@@ -130,7 +130,7 @@
           	<div class="center">
           		<div class="smallcenter">
           			<h2>Integrated Development Environment</h2>
-              	<a href="https://troom.capgemini.com/sites/vcc/devon/overview.html#IDE"><img height="280" src="images/main/IntegratedIDE.png"/></a>
+              	<a href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx#IDE"><img height="280" src="images/main/IntegratedIDE.png"/></a>
               	<p>Highly integrated development environment, from model to CI.</p>
             	</div>
             </div>
@@ -170,7 +170,7 @@
           	<div class="center">
           		<div class="smallcenter">
           			<h2>Restaurant Example with SenchaJS</h2>
-              	<a href="https://troom.capgemini.com/sites/vcc/devon/overview.html"><img height="280" src="images/main/Example_Sencha_Restaurant_Screen.png"/></a>
+              	<a href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx"><img height="280" src="images/main/Example_Sencha_Restaurant_Screen.png"/></a>
               	<p>technical reference Web-UI for Sencha showing concepts as template</p>
             	</div>
             </div>
@@ -180,7 +180,7 @@
           	<div class="center">
           		<div class="smallcenter">
           			<h2>Restaurant Example with AngularJS</h2>
-              	<a href="https://troom.capgemini.com/sites/vcc/devon/overview.html"><img height="280" src="images/main/Example_Angular_Restaurant_Screen.png"/></a>
+              	<a href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx"><img height="280" src="images/main/Example_Angular_Restaurant_Screen.png"/></a>
               	<p>technical reference Web-UI for open source JS-Framework Angular JS</p>
             	</div>
             </div>
@@ -190,7 +190,7 @@
           	<div class="center">
           		<div class="smallcenter">
           			<h2>Industrialization</h2>
-              	<a href="https://troom.capgemini.com/sites/vcc/devon/overview.html#indus"><img height="280" src="images/main/Industrialized.png"/></a>
+              	<a href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx#indus"><img height="280" src="images/main/Industrialized.png"/></a>
               	<p>Alignment with industrialization services through the production line.</p>
             	</div>
             </div>
@@ -200,8 +200,8 @@
           	<div class="center">
           		<div class="smallcenter">
           			<h2>Believers</h2>
-              	<a href="https://troom.capgemini.com/sites/vcc/devon/collaboration.html"><img height="280" src="images/main/BelieversContribute.png"/></a>
-      					<p><a class="btn btn-lg btn-success" href="collaboration.html">Join the devon-believers and contribute. Get started here...!</a></p>
+              	<a href="https://troom.capgemini.com/sites/vcc/devon/collaboration.aspx"><img height="280" src="images/main/BelieversContribute.png"/></a>
+      					<p><a class="btn btn-lg btn-success" href="collaboration.aspx">Join the devon-believers and contribute. Get started here...!</a></p>
             	</div>
             </div>
 			</div>
@@ -245,4 +245,4 @@
           <script src="bootstrap-3.3.4/js/jquery-1.11.2.min.js"></script>
           <script src="js/devon.js"></script>
 	  <script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>
-</html>
+</aspx>
