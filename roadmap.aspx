@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE aspx>
+<aspx lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -32,13 +32,13 @@
 			    <nav class="pull-right" role="navigation" id="navigation">
 	            <ul class="nav navbar-nav">
 	              <li>
-	                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.html">iCSD2015</a>
+	                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.aspx">iCSD2015</a>
 	              </li>
 	              <li class="active" >
-	                  <a href="https://troom.capgemini.com/sites/vcc/devon/index.html" >devonfw/OASP</a>  
+	                  <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx" >devonfw/OASP</a>  
 	              </li>
 	              <li>
-	                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/production_line.html">Production line</a>
+	                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/production_line.aspx">Production line</a>
 	              </li>
 	            </ul>
 			      <p class="navbar-text navbar-right hidden-xs">&nbsp;&nbsp;&nbsp;<a href="https://troom.capgemini.com/sites/vcc/devon/Forms/AllItems.aspx" class="navbar-link navbar-right"  title="Visit FAQ for further information!">Edit</a></p>
@@ -69,7 +69,7 @@
 
     <div class="container">
       <div class="masthead">
-        <a href="index.html"><img src="images/logo_devonfw.jpg" alt="devonfw-logo" style="width:250px; height:88px;"/></a>
+        <a href="index.aspx"><img src="images/logo_devonfw.jpg" alt="devonfw-logo" style="width:250px; height:88px;"/></a>
         <nav class="navbar navbar-default" role="navigation" id="menunav">
     			<div class="navbar-header">
         		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
@@ -77,11 +77,11 @@
     			<nav class="collapse navbar-collapse" role="navigation" id="menu">
           	<ul class="nav nav-justified">
             	<li class="active"><a href="#">Roadmap</a></li>
-            	<li><a href="overview.html">Overview</a></li>
-            	<li><a href="collaboration.html">Collaboration</a></li>
-            	<li><a href="references.html">References</a></li>
-            	<li><a href="faq.html">FAQs</a></li>
-                <li><a href="getstarted.html">Getting started</a></li>
+            	<li><a href="overview.aspx">Overview</a></li>
+            	<li><a href="collaboration.aspx">Collaboration</a></li>
+            	<li><a href="references.aspx">References</a></li>
+            	<li><a href="faq.aspx">FAQs</a></li>
+              <li><a href="getstarted.aspx">Getting started</a></li>
           	</ul>
         	</nav>
         </nav>
@@ -203,4 +203,4 @@
       </footer>
     </div>
   </body>
-</html>
+</aspx>

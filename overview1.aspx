@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE aspx>
+<aspx lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -37,23 +37,23 @@
 			        <span class="icon-bar"></span>
 			        <span class="icon-bar"></span>
 			      </button>
-			      <a href="https://troom.capgemini.com/sites/vcc/devon/index.html" class="navbar-brand">devonfw/OASP</a>
+			      <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx" class="navbar-brand">devonfw/OASP</a>
 			    </div>
 			    <nav class="collapse navbar-collapse" role="navigation" id="navigation">
 			      <ul class="nav navbar-nav">
 			        <li>
-			          <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.html">iCSD2015</a>
+			          <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.aspx">iCSD2015</a>
 			        </li>
 			        <!--<li>
-			          <a href="https://troom.capgemini.com/sites/vcc/devon/index.html">devonfw/OASP</a>
+			          <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx">devonfw/OASP</a>
 			        </li>-->
 			        <li>
-			          <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/production_line.html">Production line</a>
+			          <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/production_line.aspx">Production line</a>
 			        </li>
 			      </ul>
 			      <p class="navbar-text navbar-right hidden-xs">&nbsp;&nbsp;&nbsp;<a href="https://troom.capgemini.com/sites/vcc/devon/Forms/AllItems.aspx" class="navbar-link navbar-right"  title="Visit FAQ for further information!">Edit</a></p>
 	
-			      <p class="navbar-text navbar-right hidden-xs"><a href="faq.html" class="navbar-link navbar-right">FAQ</a></p>
+			      <p class="navbar-text navbar-right hidden-xs"><a href="faq.aspx" class="navbar-link navbar-right">FAQ</a></p>
 			      <script>
             	function GetText() {
         				if(document.getElementById("input").value != "")
@@ -80,19 +80,19 @@
   	
   	<div class="container">
       <div class="masthead">
-        <h3 class="text-muted"><a href="index.html"><img src="images/logo_devonfw.jpg" alt="devonfw-logo" /></a></h3>
+        <h3 class="text-muted"><a href="index.aspx"><img src="images/logo_devonfw.jpg" alt="devonfw-logo" /></a></h3>
        	<nav class="navbar navbar-default" role="navigation" id="menunav">
   				<div class="navbar-header">
       			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
   				</div>
   				<nav class="collapse navbar-collapse" role="navigation" id="menu">
           	<ul class="nav nav-justified">
-            	<li><a href="index.html">Home</a></li>
-            	<li><a href="roadmap.html">Roadmap</a></li>
+            	<li><a href="index.aspx">Home</a></li>
+            	<li><a href="roadmap.aspx">Roadmap</a></li>
             	<li class="active"><a href="#">Overview</a></li>
-            	<li><a href="getstarted.html">Getting started</a></li>
-            	<li><a href="collaboration.html">Collaboration</a></li>
-            	<li><a href="references.html">References</a></li>
+            	<li><a href="getstarted.aspx">Getting started</a></li>
+            	<li><a href="collaboration.aspx">Collaboration</a></li>
+            	<li><a href="references.aspx">References</a></li>
           	</ul>
           </nav>
         </nav>
@@ -112,8 +112,8 @@
           <div class="bs-docs-section" id="sec2">
             <h2>Introduction</h2>
           	<p>This page presents an overview of the product devonfw and its core assets. For detailed information you will find references to indepth material.<br/>
-         		   Please also consult the <a href="getstarted.html">support section</a> of this site to find additional supporting material (e.g. marketing material).<br/>
-         			 In order to learn how the initiative CSD2015 governs the development, maintenance and support of devonfw, please visit <a href="collaboration.html">Building devonfw</a>.</p>
+         		   Please also consult the <a href="getstarted.aspx">support section</a> of this site to find additional supporting material (e.g. marketing material).<br/>
+         			 In order to learn how the initiative CSD2015 governs the development, maintenance and support of devonfw, please visit <a href="collaboration.aspx">Building devonfw</a>.</p>
             <h3>Relation devonfw to OASP</h3>
           	<p>devonfw integrates 
 								•OASP as the open source core reference architecture that is state-of-the-art.
@@ -367,7 +367,7 @@
               </li>
             </ul>
             <ul class="nav">
-              <li><a href="faq.html">FAQ</a></li>
+              <li><a href="faq.aspx">FAQ</a></li>
             </ul>
             <a class="back-to-top" href="#top">Back to top</a>
           </nav>
@@ -379,4 +379,4 @@
 	    </footer>
     </div>
   </body>
-</html>
+</aspx>
