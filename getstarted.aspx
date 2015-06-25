@@ -183,41 +183,6 @@ margin-right:10px;
           </ul>
         </div>
       </div>
-      <div class="row">
-        <div class="col-lg-6">
-          <h2>Multichannel Rich-UI on Sencha</h2>
-          <p>devonfw proposes Sencha as the base for rich internet applications. It provides an impressive rich user-experience, serves multi-channel purposes and can be integrated with native-mobile apps. Have a look at the example.</p>
-          <p><a class="btn btn-primary" href="https://github.com/devonfw/devon4sencha/wiki" role="button" target="_blank">Devon4Sencha Home &raquo;</a></p>
-          <p><a class="btn btn-primary" href="http://devon-ci.cloudapp.net/jenkins/job/devon4sencha_documentation/lastBuild/artifact/devonfw-docgen/target/generated-docs/DEVON4SENCHA.pdf" role="button" target="_blank">Devon4Sencha Tutorial &raquo;</a></p>
-          <p><a class="btn btn-primary" href="http://devon-ci.cloudapp.net/devonfw-sample-server/jsclient" role="button" target="_blank">Sencha Example Implementation &raquo;</a></p>
-          <p><a class="btn btn-primary" href="http://devon.es.capgemini.com/portal/" role="button" target="_blank">Further Sencha RichUI-Examples &raquo;</a><i class="text-info"> (Request login on devon-yammer)</i></p>
-        </div>
-
-        <div class="col-lg-6">
-          <h2>Web-Client on AngularJs</h2>
-          <p>devonfw uses OASP4JS as open source technology for a web client blueprint. OASP4JS offers you a template for building AngularJS client applications. The application template defines a structure as well as integrates best-in-class frameworks and libraries.</p>
-          <p><a class="btn btn-primary" href="http://oasp.github.io/oasp4js/" role="button" target="_blank">OASP4js Home on GitHub &raquo;</a></p>
-          <p><a class="btn btn-primary" href="https://github.com/oasp/oasp4js/wiki" role="button" target="_blank">OASP4js WIKI &raquo;</a></p>
-          <p><a class="btn btn-primary" href="https://github.com/oasp/oasp4js" role="button" target="_blank">OASP4js Example Implementation &raquo;</a></p>
-          <p><a class="btn btn-primary" href="http://oasp-ci.cloudapp.net/oasp4j-sample" role="button" target="_blank">OASP4js Example &raquo;</a><i class="text-info"> (Login using waiter/waiter)</i></p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-6">
-          <h2>Server Blueprint devonfw</h2>
-          <p>The devonfw server makes use of OASP as the architectural core and integrates a multitude of additional IP via a plugin sytem.</p>
-          <p><a class="btn btn-primary" href="http://devonfw.github.io" role="button" target="_blank">Devonfw Home on GitHub &raquo;</a></p>
-          <p><a class="btn btn-primary" href="https://github.com/devonfw/devon/wiki/tutorial-devon-introduction" role="button" target="_blank">Devonfw Introduction</a></p>
-          <p><a class="btn btn-primary" href="https://github.com/devonfw/devon/wiki/tutorial-introduction" role="button" target="_blank">Devonfw Tutorial</a></p>
-        </div>
-        <div class="col-lg-6">
-          <h2>Server Blueprint OASP4j</h2>
-          <p>devonfw uses OASP4J as lean open source architecture blueprint for the server side of an application. OASP4J offers you a holistic documentation for building your application. Stop with digging in the docs of many different open-source projects in parallel getting on the wrong track or lost in space. </p>
-          <p><a class="btn btn-primary" href="http://oasp.github.io/oasp4j/" role="button" target="_blank">OASP4j Home on GitHub &raquo;</a></p>
-          <p><a class="btn btn-primary" href="http://oasp.github.io/oasp4j/1.0.0/OASP4J.pdf" role="button" target="_blank">OASP4j Platform Guide &raquo;</a></p>
-          <p><a class="btn btn-primary" href="https://github.com/oasp/oasp4j/wiki/oasp-ide-setup" role="button" target="_blank">IDE Setup (for contributors) &raquo;</a></p>
-        </div>
-      </div>
 
       <footer class="footer">
         <div class="col-md-9">
