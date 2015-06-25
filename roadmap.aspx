@@ -18,10 +18,10 @@
     <link href="bootstrap-3.3.4/css/justified-nav.css" rel="stylesheet">
     <link href="bootstrap-3.3.4/css/style.css" rel="stylesheet">
     <link href="font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet">
- 
+
     <!-- JavaScript import -->
     <script src="bootstrap-3.3.4/js/jquery-1.11.2.min.js"></script>
-    <script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>  
+    <script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>
   </head>
 
   <body>
@@ -35,14 +35,14 @@
 	                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.aspx">iCSD2015</a>
 	              </li>
 	              <li class="active" >
-	                  <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx" >devonfw/OASP</a>  
+	                  <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx" >devonfw/OASP</a>
 	              </li>
 	              <li>
 	                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/production_line.aspx">Production line</a>
 	              </li>
 	            </ul>
 			      <p class="navbar-text navbar-right hidden-xs">&nbsp;&nbsp;&nbsp;<a href="https://troom.capgemini.com/sites/vcc/devon/Forms/AllItems.aspx" class="navbar-link navbar-right"  title="Visit FAQ for further information!">Edit</a></p>
-	
+
 			      <script>
             	function GetText() {
         				if(document.getElementById("input").value != "")
@@ -91,7 +91,7 @@
     <div class="container">
       <div class="jumbotron">
         <h1>Roadmap</h1>
-        <p>devonfw V0.8 is available and ready to be used in projects. The roadmap towards version 2.0 aims to enrich features to address even more requirements and provide supporting material.</p>
+        <p>devonfw V1.0 is available and ready to be used in projects. The roadmap towards version 2.0 aims to enrich features to address even more requirements and provide supporting material.</p>
       </div>
 
       <div class="row">
@@ -114,7 +114,7 @@
 					<p>
 						<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
 						<ul>
-							<li>OASP4j architecture guide</li>
+							<li>OASP4j platform guide</li>
 							<li>OASP4js Tutorial Video</li>
 							<li>Eclipse IDE for OASP4j with fully integrated tooling</li>
 							<li>CobiGen codegenerator</li>
@@ -123,7 +123,7 @@
 	      </div>
 	    </div>
 
-			
+
       <div class="row">
         <div class="col-lg-12">
 		      <h2 class="page-header">devonfw version 1.0<small><i class="text-danger">End of June 2015</i></small></h2>
@@ -137,11 +137,12 @@
 							<li>Alternative deployment as EAR</li>
 							<li>Batch component</li>
 							<li>Metadata-protocol on server interfaces</li>
+              <li>devon<b>4</b>sencha module for RIA development</li>
 							<li>Aligned Sencha RIA showcase</li>
 							<li>Enhanced AngularJs showcase</li>
 							<li>Enhanced validation in clients</li>
-							<li>Pagination support in clients</li>
-							<li>File upload/download</li>
+              <li>Pagination and sorting support in the back-end</li>
+              <li>Pagination and sorting support in clients</li>
 							<li>devonfw server based on OASP4j with plugin-system</li>
 						</ul>
 					</p>
@@ -150,13 +151,13 @@
 					<p>
 						<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
 						<ul>
+              <li>Ready to use development environment. Unzip & start coding</li>
 							<li>Eclipse IDE with devonfw archetype</li>
-							<li>Simplified IDE startup (via JHipster?)</li>
-							<li>OASP4j tutorial</li>
 							<li>devonfw requirement and feature list</li>
 							<li>devonfw tutorial</li>
 							<li>devonfw webcast</li>
-							<li>devonfw news (regular part of engineering newsletter?)</li>
+              <li>devonfw website on troom</li>
+							<li>devonfw news</li>
 							<li>External devonfw Homepage</li>
 							<li>Inclusion into Indus-Service-Catalog iProd</li>
 							<li>Training offers on SBU-level</li>
@@ -164,8 +165,8 @@
 					</p>
 	      </div>
 	    </div>
-			
-			
+
+
       <div class="row">
         <div class="col-lg-12">
 		      <h2 class="page-header">devonfw version 2.0<small><i class="text-danger">End of 2015 (subject to change)</i></small></h2>
@@ -176,6 +177,8 @@
 					<p>
 						<h3><span class="fa fa-cube text-info"></span> Solution</h3>
 						<ul>
+              <li>File upload/download</li>
+              <li>Reporting with JasperReports</li>
 							<li>Mobile support with Sencha Touch</li>
 							<li>Mobile support with Cordova</li>
 							<li>Integration of rules engine</li>

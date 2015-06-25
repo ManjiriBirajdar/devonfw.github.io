@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="CSD2015 organisational model page">
+    <meta name="author" content="Capgemini CSD2015">
+    <link rel="icon" href="images/favicon.ico">
+
+    <title>CSD2015 - Organisational model</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap-3.3.4/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="bootstrap-3.3.4/css/justified-nav.css" rel="stylesheet">    
+    <link href="bootstrap-3.3.4/css/style.css" rel="stylesheet">
+    
+    <!-- JavaScript import -->
+		<script src="bootstrap-3.3.4/js/jquery-1.11.2.min.js"></script>
+		<script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>
+  </head>
+
+  <body> 
+  
+    <div class="container">
+		<nav class="navbar navbar-default navbar-fixed-top" role="banner">
+			<div class="container">
+			   <nav class="pull-right" role="navigation" id="navigation">
+			      <ul class="nav navbar-nav">
+                    <li class="active">
+                        <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.html">iCSD2015</a>
+                    </li>
+			        <li>
+                        <a href="https://troom.capgemini.com/sites/vcc/devon/main.html" >Devon/OASP</a>  
+			        </li>
+			        <li>
+			            <a href="production_line.html">Production line</a>
+			        </li>
+			      </ul>
+			      <p class="navbar-text navbar-right hidden-xs">&nbsp;&nbsp;&nbsp;<a href="https://troom.capgemini.com/sites/vcc/devon/Forms/AllItems.aspx" class="navbar-link navbar-right" title="Visit FAQ for further information!">Edit</a></p>
+	
+			      <script>
+            	function GetText() {
+        				if(document.getElementById("input").value != "")
+        				{
+        					document.location.href = "https://troom.capgemini.com/sites/vcc/_layouts/searchresults.aspx?k=" + document.getElementById("input").value + "&u=https%3A%2F%2Ftroom.capgemini.com%2Fsites%2Fvcc%2Fdevon";
+        					/*open search in new window
+        						var newUrl = "https://troom.capgemini.com/sites/vcc/_layouts/searchresults.aspx?k=" + document.getElementById("input").value + "&u=https%3A%2F%2Ftroom.capgemini.com%2Fsites%2Fvcc%2Fdevon";
+        						window.open(newUrl, '_blank');
+        					*/
+        				}else
+        				{
+        					alert("Please insert a keyword!");
+        				}
+        			}
+            </script>
+            	<p class="navbar-text navbar-right hidden-xs" id="form">
+        			<input type="text" id="input" placeholder="Search this site..." maxlength="255" />
+        			<input id="search" type="image" value="Search" onclick="GetText()" alt="Search" src="images/gosearch.png" />
+          		</p>
+			    </nav>
+			 </div>
+		</nav>
+	</div>
+
+    <div class="container">
+      <div class="masthead">
+       <a href="introduction.html"><img src="images/logoiCSD.fw.png" alt="iCSD2015-logo" style="width:250px; height:88px;"/></a>
+        <nav class="navbar navbar-default" role="navigation" id="menunav">
+    			<div class="navbar-header">
+        		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
+    			</div>
+    			<nav class="collapse navbar-collapse" role="navigation" id="menu">
+          			<ul class="nav nav-justified">
+            			<li><a href="introduction.html">Introduction</a></li>
+            			<li class="active"><a href="organisational_model.html">Organisational model</a></li>
+            			<li><a href="success_factors.html">Success factors</a></li>
+            			<li><a href="governance_model.html">Gobernance model</a></li>
+                        <li><a href="faq.html">FAQs</a></li>
+                		<li><a href="use_cases.html">Use cases</a></li>
+                
+          			</ul>
+          		</nav>
+        </nav>
+      </div>
+    </div>
+
+    <div class="container">
+	
+      
+      
+      <div class="jumbotron">
+        <h1>The organisational model</h1>
+        <p class="lead">The organisational model consists of following major elements:</p>
+        <ul>
+         <li><a href="#csdboard">CSD Board</a></li>
+         <li><a href="#icsdsponsor">iCSD Stream Sponsor</a> & <a href="#icsdlead">iCSD Stream Lead</a></li>
+		 <li><a href="#design">Design Authority</a></li>
+		 <li><a href="mailto:marco.rose@capgemini.com;angel-luis.marin-soler@capgemini.com">Dedicated Core Team</a></li>
+		 <li><a href="#buspoc">BU SPOC and BU Local Experts</a></li>
+      </ul>
+       <p><a href="images/org_model.png"><img src="images/org_model.png" alt="Organisational model overview"/></a></p>
+			</div>
+	  
+	 
+	  <div class="container bs-docs-container">
+      <p id="csdboard"><h3>The iCSD Board</h3></p>
+	  <p>The iCSD Board reports to the Transformation Board about the progress with the Plat-form and Production Line. This Board reviews the advance and deployment of the initiative. At the same moment, it ensures and supports the transformation process in the different BUs. This includes the forecast and sales topic, as one of the core suc-cess factors is selling the right engagements.
+There will be one representative per main BU. Ensures that there are not any diver-gent / local initiatives on the same topic. Commit and monitor the deployment of the iCSD initiative at high level. 
+As we have a close relation between the iCSD topic and the S2 & IT4IT stream this board ensures the aligned governance.</p>
+	  <p id="icsdsponsor"><h3>iCSD Sponsor</h3></p>
+	  <p>The iCSD Sponsor, represents the iCSD initiative at the Transformation Board. Com-municates advance, needs, plans, budget and decisions. 
+Drives the initiative to ensure alignment and direction at top level and helps the iCSD Stream Lead to achieve results and take decisions.</p>
+	  <p id="icsdlead"><h3>iCSD Stream Lead</h3></p>
+	  <p>The iCSD Stream Lead leads the dedicated core team as well as the design authority. He supports in the different countries the set up of the local expert service team and/or (depending on the BU) the acceptance in the existing communities. He ensures the support especially in the pilot phase.</p>
+	  <p>One other very important field he has to cover is the legal area especially in the case of the Platform.</p>
+	  <p id="design"><h3>Design Authority</h3></p>
+	  <p>The Design Authority defines the Roadmap (and the related Release Plan), the design guidelines and takes technical decisions. </p>
+	  <p>Some examples may enlighten what is meant by guidelines and technical decisions:</p>
+	  <ul>
+	    <li>
+		  <p>Guidelines:</p>
+		  <p>The Design Authority defines the open source licences that components to be integrated may be coming along with. A simple example would be the refusal of components coming along with GNU license. </p>
+		</li>
+		<li>
+		  <p>Technical Decisions:</p>
+		  <p>An engagement is working on a technical question and they produce a solution they want to become part of the devon. Then the design authority has to define whether the component becomes part of the core or if it might be an add on not being part of the core product for example because the solution is the much specialised to use it in a broader range of engagements.</p>
+		</li>
+	  </ul>
+	  <p>In addition it is also responsible for mobilising the community together with the iCSD Board and the iCSD lead.</p>
+	  <p>The Design Authority consists of in maximum two members from each BU in the SBU. These members are nominated by the BUs. </p>
+	  <p>It is headed by the iCSD Stream Lead. </p>
+	  <p id="coreteam"><h3>Dedicated Core Team</h3></p>
+	  <p>The Dedicated Core Team takes the role as product owner in the sense of product development (not in the agile sense). It gets contributions from the engagements and communities of local experts, ensures quality, integrates and provides the new releas-es. Beside this product development related work it ensures support, communication and training for deployment.</p>
+	  <p>The core team supports the BU local experts and train them.</p>
+	  <p>The Dedicated Core Team consists of experts, at least half of them are architects with a broad reputation.</p>
+	  <p id="buspoc"><h3>BU SPOC and Local Experts</h3></p>
+	  <p>They belong to each Business Unit (country).</p>
+	  <h4>BU SPOC:</h4>
+	  <p>There will be a Nominated BU SPOC (single point of contact) per Business Unit / country. This person is responsible of the deployment in each BU of the iCSD ini-tiative. Has to mobilize the local community and local experts and ensure support and feedback from the engagements.The feedback given through the governance meet-ings and the Community.</p>
+      <h4>BU Local Experts:</h4>
+	  <p>Set of CSD experts working on billable projects involved in a Community. They push the new CSD model. They share of knowledge and give feedback. The Community is created and increased with the natural deployment of the initiative in each engage-ment. They receive the communications (defined in the communication plan).</p>
+	  <p>There are one or two Nominated local experts that participate in the Design Au-thority Committee to decide Product Roadmap and requirements</p>
+	  <p>The local engagements make use of the current versions, they provide new contribu-tions for devon and/or the Production Line and they may ask for changes (CRs). Hereby they are driven by the feedback from bids and engagements.</p>
+	  <p>The BU local expert networks provide contributions and feedback to devon and/or the Production Line as well. Together with their representatives in the Design Authority they must ensure deployment in each BU.</p>
+	  <p>The local experts are the ones to provide expert support for the Production Line and the Platform (probably in two different streams)</p>
+	  <p>The network of Local Experts of the different BUs joins into an SBU CSD Community.</p>
+      </div>
+	  <!-- Site footer -->
+      <footer class="footer">
+        <div class="col-md-9">
+     		<p>This page is maintained by <a href="https://troom.capgemini.com/sites/vcc/default.aspx" target="_blank">Capgemini Germany APPS Evolve</a> and <a href="#">Capgemini Spain</a>.</p>
+            <p>&copy; Capgemini 2015</p>
+        </div>
+        <div class="col-md-3"><img alt="Capgemini logo" class="pull-right" src="images/logocapg.gif"></div>
+      </footer>
+    </div>
+  </body>
+</html>
