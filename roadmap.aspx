@@ -1,5 +1,5 @@
-<!DOCTYPE aspx>
-<aspx lang="en">
+<!DOCTYPE html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -35,7 +35,7 @@
 	                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.aspx">iCSD2015</a>
 	              </li>
 	              <li class="active" >
-	                  <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx" >devonfw/OASP</a>
+	                  <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx" >devonfw</a>
 	              </li>
 	              <li>
 	                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/production_line.aspx">Production line</a>
@@ -104,6 +104,7 @@
 					<p>
 						<h3><span class="fa fa-cube text-info"></span> Solution</h3>
 						<ul>
+							<li>devonfw server with plugin-system (using OASP4j 1.3.0)</li>
 							<li>Alternative deployment as EAR</li>
 							<li>Batch component</li>
 							<li>Metadata-protocol on server interfaces</li>
@@ -111,9 +112,7 @@
 							<li>Aligned Sencha RIA showcase</li>
 							<li>Enhanced AngularJs showcase</li>
 							<li>Enhanced validation in clients</li>
-              <li>Pagination and sorting support in the back-end</li>
-              <li>Pagination and sorting support in clients</li>
-							<li>devonfw server based on OASP4j with plugin-system</li>
+              <li>Pagination and sorting support on server and clients</li>
 						</ul>
 					</p>
 	      </div>
@@ -121,15 +120,17 @@
 					<p>
 						<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
 						<ul>
-              <li>ready to use development environment. Unzip & start coding</li>
-							<li>Eclipse IDE with devonfw archetype</li>
-							<li>enhanced cobigen-support also for clients</li>
+							<li>public devonfw release folder on Teamforge</li>
+							<li>Eclipse IDE with devonfw archetype. Unzip & start coding</li>
+							<li>improved IDE set up guides</li>
 							<li>devonfw step by step tutorial</li>
-							<li>devonfw webcast</li>
+							<li>devon4sencha step by step tutorial</li>
               <li>devonfw troom</li>
-							<li>devonfw flyer/li>
+							<li>devonfw flyer</li>
+							<li>enhanced cobigen-support also for clients</li>
 							<li>CobiGen guide</li>
-							<li>devonfw in iProd Service-Catalog</li>
+							<li>devonfw webcast</li>
+							<li>devonfw available in iProd Service-Catalog</li>
 							<li>training offers on SBU-level</li>
 						</ul>
 					</p>
@@ -209,4 +210,4 @@
       </footer>
     </div>
   </body>
-</aspx>
+</html>
