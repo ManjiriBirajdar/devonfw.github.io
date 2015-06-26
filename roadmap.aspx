@@ -96,36 +96,6 @@
 
       <div class="row">
         <div class="col-lg-12">
-		      <h2 class="page-header">devonfw version 0.8<small><i class="text-success">Released April 2015</i></small></h2>
-	      </div>
-	    </div>
-      <div class="row well">
-        <div class="col-sm-6">
-					<p>
-						<h3><span class="fa fa-cube text-info"></span> Solution</h3>
-						<ul>
-							<li>Server reference implementation (OASP4j 1.1)</li>
-							<li>AngularJs Client showcase (OASP4js 1.0.1)</li>
-							<li>Sencha RIA showcase</li>
-						</ul>
-					</p>
-	      </div>
-        <div class="col-sm-6">
-					<p>
-						<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
-						<ul>
-							<li>OASP4j platform guide</li>
-							<li>OASP4js Tutorial Video</li>
-							<li>Eclipse IDE for OASP4j with fully integrated tooling</li>
-							<li>CobiGen codegenerator</li>
-						</ul>
-					</p>
-	      </div>
-	    </div>
-
-
-      <div class="row">
-        <div class="col-lg-12">
 		      <h2 class="page-header">devonfw version 1.0<small><i class="text-danger">End of June 2015</i></small></h2>
 	      </div>
 	    </div>
@@ -151,16 +121,16 @@
 					<p>
 						<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
 						<ul>
-              <li>Ready to use development environment. Unzip & start coding</li>
+              <li>ready to use development environment. Unzip & start coding</li>
 							<li>Eclipse IDE with devonfw archetype</li>
-							<li>devonfw requirement and feature list</li>
-							<li>devonfw tutorial</li>
+							<li>enhanced cobigen-support also for clients</li>
+							<li>devonfw step by step tutorial</li>
 							<li>devonfw webcast</li>
-              <li>devonfw website on troom</li>
-							<li>devonfw news</li>
-							<li>External devonfw Homepage</li>
-							<li>Inclusion into Indus-Service-Catalog iProd</li>
-							<li>Training offers on SBU-level</li>
+              <li>devonfw troom</li>
+							<li>devonfw flyer/li>
+							<li>CobiGen guide</li>
+							<li>devonfw in iProd Service-Catalog</li>
+							<li>training offers on SBU-level</li>
 						</ul>
 					</p>
 	      </div>
@@ -169,7 +139,7 @@
 
       <div class="row">
         <div class="col-lg-12">
-		      <h2 class="page-header">devonfw version 2.0<small><i class="text-danger">End of 2015 (subject to change)</i></small></h2>
+		      <h2 class="page-header">devonfw version 2.0<small><i class="text-danger">End of 2015 (please expect intermediate versions)</i></small></h2>
 	      </div>
 	    </div>
       <div class="row well">
@@ -190,11 +160,44 @@
 					<p>
 						<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
 						<ul>
-							<li>to be defined</li>
+							<li>devonfw requirement and feature list</li>
+							<li>external devonfw Homepage</li>
 						</ul>
 					</p>
 	      </div>
 	    </div>
+
+      <div class="row">
+        <div class="col-lg-12">
+        	<h4 class="text-success"><br/>previously released</h4>
+        	
+		      <h2 class="page-header">devonfw version 0.8<small><i class="text-success">Released April 2015</i></small></h2>
+	      </div>
+	    </div>
+      <div class="row well">
+        <div class="col-sm-6">
+					<p>
+						<h3><span class="fa fa-cube text-info"></span> Solution</h3>
+						<ul>
+							<li>Server reference implementation (OASP4j 1.1)</li>
+							<li>AngularJs Client showcase (OASP4js 1.0.1)</li>
+							<li>Sencha RIA PoC</li>
+						</ul>
+					</p>
+	      </div>
+        <div class="col-sm-6">
+					<p>
+						<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
+						<ul>
+							<li>OASP4j platform guide</li>
+							<li>OASP4js Tutorial Video</li>
+							<li>Eclipse IDE for OASP4j with fully integrated tooling</li>
+							<li>CobiGen codegenerator</li>
+						</ul>
+					</p>
+	      </div>
+	    </div>
+
 
       <!-- Site footer -->
       <footer class="footer">
