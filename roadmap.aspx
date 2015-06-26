@@ -35,7 +35,7 @@
 	                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.aspx">iCSD2015</a>
 	              </li>
 	              <li class="active" >
-	                  <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx" >devonfw</a>
+	                  <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx">devonfw</a>
 	              </li>
 	              <li>
 	                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/production_line.aspx">Production line</a>

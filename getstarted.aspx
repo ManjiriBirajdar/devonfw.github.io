@@ -81,7 +81,7 @@ margin-right:10px;
                   <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.aspx">iCSD2015</a>
               </li>
               <li class="active" >
-                  <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx">devonfw/OASP</a>
+                  <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx">devonfw</a>
               </li>
               <li>
                   <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/production_line.aspx">Production line</a>
@@ -156,7 +156,8 @@ margin-right:10px;
                   <li><a target="_blank" href="http://oasp-ci.cloudapp.net/oasp4j-sample-server/jsclient">OASP4JS sample application</a></li>
                 </ul>
               </li>
-            <li><h2>Read the documentation <img src="images/books.png" width="30"></h2>
+            <li>
+            	<h2>Read the documentation <img src="images/books.png" width="30"></h2>
               <p>Now you can start reading the devonfw main documentation for the platform as well as some step-by-step tutorials that will guide you for creating your first devonfw application</p>
               <p>The tutorials also will guide you on how to get the environment up and running</p>
               <p>You can access the documentation both in PDF format or online wiki from the Github project pages</p>
@@ -172,8 +173,7 @@ margin-right:10px;
                   <p><a href="https://github.com/oasp/oasp4js/wiki" role="button" target="_blank">OASP4js wiki <span class="note"> - GitHub public repository</span></a></p>
                   <p>devonfw uses OASP4JS as open source technology for a web client blueprint. OASP4JS offers you a template for building AngularJS client applications. The application template defines a structure as well as integrates best-in-class frameworks and libraries</p>
                 </li>
-                <li>
-							</p><a hre="http://devon-ci.cloudapp.net/jenkins/job/devon4sencha.wiki/lastSuccessfulBuild/artifact/devonfw-docgen/target/generated-docs/DEVON4SENCHA.pdf">devon<b>4</b>sencha documentation and step-by-step tutorial on PDF</b></a></p>
+                <li></p><a hre="http://devon-ci.cloudapp.net/jenkins/job/devon4sencha.wiki/lastSuccessfulBuild/artifact/devonfw-docgen/target/generated-docs/DEVON4SENCHA.pdf">devon<b>4</b>sencha documentation and step-by-step tutorial on PDF</b></a></p></li>
 								<ul>
 									<li>
 											<p><a href="https://github.com/devonfw/devon4sencha/wiki/guide-devon4sencha-introduction" target="_blank">devon<b>4</b>sencha wiki <span class="note"> - GitHub private repo, please request access</span></a><p>
@@ -183,7 +183,8 @@ margin-right:10px;
                 </li>
               </ul>
             </li>
-            <li><h2>Get the code <img src="images/code.png" width="30"></h2>
+            <li>
+              <h2>Get the code <img src="images/code.png" width="30"></h2>
               <p>Once you are able to code applications with devonfw support you surely want to take a peek to the technology underneath and be able to customize for your needs. </p>
               <p>Currently the code is hosted on Github, here are the main repositories</p>
               <ul>
@@ -200,7 +201,7 @@ margin-right:10px;
               </ul>
             </li>
             <li><h2>Help making devonfw even better ;-)</h2>
-              <p>Remember this is a joint effort and you are welcome to <a href="collaborate.aspx">collaborate</a></p>
+              <p>Remember this is a joint effort and you are welcome to <a href="collaboration.aspx">collaborate</a></p>
             </li>
           </ul>
         </div>

@@ -1,58 +1,47 @@
-<!DOCTYPE aspx>
-<aspx lang="en">
+<!DOCTYPE html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="devonfw overview page">
+    <meta name="description" content="devonfw references page">
     <meta name="author" content="Capgemini CSD2015">
     <link rel="icon" href="images/favicon.ico">
 
-    <title>devonfw - Overview</title>
-    
-	 	<!-- Bootstrap core CSS -->
+    <title>devonfw - References</title>
+
+    <!-- Bootstrap core CSS -->
     <link href="bootstrap-3.3.4/css/bootstrap.min.css" rel="stylesheet">
-    
+
     <!-- Custom styles for this template -->
     <link href="bootstrap-3.3.4/css/justified-nav.css" rel="stylesheet">
-  	<link href="data:text/css;charset=utf-8," data-href="bootstrap-3.3.4/css/bootstrap-theme.min.css" rel="stylesheet" id="bs-theme-stylesheet">
-		<link href="bootstrap-3.3.4/css/test.min.css" rel="stylesheet">
-		<link href="bootstrap-3.3.4/css/style.css" rel="stylesheet">
-		
-		<!-- JavaScript import -->
-		<script src="bootstrap-3.3.4/js/jquery-1.11.2.min.js"></script>
-  	<script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>
-  	<script src="bootstrap-3.3.4/js/test.min.js"></script>
+    <link href="bootstrap-3.3.4/css/style.css" rel="stylesheet">
+    
+    <!-- JavaScript import -->
+    <script src="bootstrap-3.3.4/js/jquery-1.11.2.min.js"></script>
+    <script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>  
   </head>
-  
+
   <body>
-  	<div class="container">
+
+ 		<div class="container">
 			<nav class="navbar navbar-default navbar-fixed-top" role="banner">
 			  <div class="container">
-			    <div class="navbar-header">
-			      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navigation">
-			        <span class="sr-only">Toggle navigation</span>
-			        <span class="icon-bar"></span>
-			        <span class="icon-bar"></span>
-			      </button>
-			      <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx" class="navbar-brand">devonfw</a>
-			    </div>
-			    <nav class="collapse navbar-collapse" role="navigation" id="navigation">
-			      <ul class="nav navbar-nav">
-			        <li>
-			          <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.aspx">iCSD2015</a>
-			        </li>
-			        <!--<li>
-			          <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx">devonfw</a>
-			        </li>-->
-			        <li>
-			          <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/production_line.aspx">Production line</a>
-			        </li>
-			      </ul>
+			    <nav class="pull-right" role="navigation" id="navigation">
+	            <ul class="nav navbar-nav">
+	              <li>
+	                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.aspx">iCSD2015</a>
+	              </li>
+	              <li class="active" >
+	                  <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx">devonfw</a>  
+	              </li>
+	              <li>
+	                  <a href="https://troom.capgemini.com/sites/vcc/iCSD2015/production_line.aspx">Production line</a>
+	              </li>
+	            </ul>
 			      <p class="navbar-text navbar-right hidden-xs">&nbsp;&nbsp;&nbsp;<a href="https://troom.capgemini.com/sites/vcc/devon/Forms/AllItems.aspx" class="navbar-link navbar-right"  title="Visit FAQ for further information!">Edit</a></p>
 	
-			      <p class="navbar-text navbar-right hidden-xs"><a href="faq.aspx" class="navbar-link navbar-right">FAQ</a></p>
 			      <script>
             	function GetText() {
         				if(document.getElementById("input").value != "")
@@ -76,22 +65,22 @@
 			  </div>
 			</nav>
 	  </div>
-  	
-  	<div class="container">
+	  
+    <div class="container">
       <div class="masthead">
-        <h3 class="text-muted"><a href="index.aspx"><img src="images/logo_devonfw.jpg" alt="devonfw-logo" /></a></h3>
-       	<nav class="navbar navbar-default" role="navigation" id="menunav">
-  				<div class="navbar-header">
-      			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
-  				</div>
-  				<nav class="collapse navbar-collapse" role="navigation" id="menu">
+        <a href="index.aspx"><img src="images/logo_devonfw.jpg" alt="devonfw-logo" style="width:250px; height:88px;"/></a>
+        <nav class="navbar navbar-default" role="navigation" id="menunav">
+    			<div class="navbar-header">
+        		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
+    			</div>
+    			<nav class="collapse navbar-collapse" role="navigation" id="menu">
           	<ul class="nav nav-justified">
-            	<li><a href="index.aspx">Home</a></li>
             	<li><a href="roadmap.aspx">Roadmap</a></li>
             	<li class="active"><a href="#">Overview</a></li>
-            	<li><a href="getstarted.aspx">Getting started</a></li>
             	<li><a href="collaboration.aspx">Collaboration</a></li>
             	<li><a href="references.aspx">References</a></li>
+            	<li><a href="faq.aspx">FAQs</a></li>
+                <li><a href="getstarted.aspx">Getting started</a></li>
           	</ul>
           </nav>
         </nav>
@@ -392,4 +381,4 @@
 	    </footer>
     </div>
   </body>
-</aspx>
+</html>
