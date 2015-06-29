@@ -213,5 +213,6 @@ margin-right:10px;
         <div class="col-md-3"><img alt="Capgemini logo" class="pull-right" src="images/logocapg.gif"></div>
       </footer>
     </div>
+  	<script src="js/devon.js"></script>
   </body>
 </html>
