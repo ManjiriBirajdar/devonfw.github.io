@@ -123,7 +123,7 @@
         			<li>Impact: Devonfw provides state-of-the-art technology embracing all the innovative use cases coming from the engagements. A unified platform also means more and better marketing material, training and support that will benefit our client in a way as it is usually associated with packaged products.</li>
         		</ul>
 
-          	<img src="images/overview/productivity_flexibility_impact.png">
+          	<img src="images/overview/productivity_flexibility_impact.png" alt=""/>
 
             <h3>What is in the package?</h3>
 
@@ -138,25 +138,24 @@
         		</ul>
 
           	<p>The following picture shows main building blocks of the platform. 
-          	
-          	Angular Client
-          	Sencha Client
-          	Server
-          	Add-On-IP
-          	Tools
-	          	Integrated Development Env
-	          	CobiGen
-          	Supporting Documentation & Tutorials
-          	Reference implementation
+	          	Angular Client
+	          	Sencha Client
+	          	Server
+	          	Add-On-IP
+	          	Tools
+		          	Integrated Development Env
+		          	CobiGen
+	          	Supporting Documentation & Tutorials
+	          	Reference implementation
         	
 						</p>
+            <img src="images/overview/devon_technologies_used.png" alt="building blocks of devonfw"/>
             
             <h3 id="sec1-3">Technology Overview</h3>
 				
-          	<p>devonfw is based on <p>
-
+          	<p>As any modern java application today, devonfw is based on a number of standards and technologies that provide the technical components to support the business related code in the layered.<p>
             
-            Picture technology stack
+            <img src="images/overview/devon_technologies_used.png" alt="technology stack of devonfw"/>
 
             <h3>devonfw IP and open source</h3>
           	<p>devonfw uses a state-of-the-art open source core reference architecture for the server (today treated as commodity in the IT-industry) and on top of it an ever increasing number of high-value assets that are Capgemini IP.
@@ -294,7 +293,16 @@
 
           <div class="bs-docs-section" id="sec6">
             <h2>IP Add Ons</h2>
-            <p>devonfw has the follwing IP on the roadmap: RuleEngine, BPM, Enterprise, Immediate, HANA, Security, Usability, ....</p>
+            <p>devonfw will gain further strength by a number of high value IP (intellectual property) solutions that are on the roadmap: 
+            <ul>
+            	<li>Spring administration console</li>
+            	<li>RuleEngine integration</li>
+            	<li>jBPM integration</li>
+            	<li>HANA-Backend (optimized)</li>
+            	<li>Enterprise integration</li>
+            </ul>
+            
+            The aim is to make high value IP the USP that will sell devonfw to your client easily. To enforce this IP will be integrated with a <b>plugin-system</b> that allows very easy adoption of a IP-solution for your project.
           </div>
       
           <div class="bs-docs-section" id="sec7">
