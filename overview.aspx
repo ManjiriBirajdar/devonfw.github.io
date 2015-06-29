@@ -9,7 +9,7 @@
     <meta name="author" content="Capgemini CSD2015">
     <link rel="icon" href="images/favicon.ico">
 
-    <title>devonfw - References</title>
+    <title>devonfw - Overview</title>
 
 	 	<!-- Bootstrap core CSS -->
     <link href="bootstrap-3.3.4/css/bootstrap.min.css" rel="stylesheet">
@@ -23,7 +23,21 @@
 		<!-- JavaScript import -->
 		<script src="bootstrap-3.3.4/js/jquery-1.11.2.min.js"></script>
   	<script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>
-  	<script src="bootstrap-3.3.4/js/test.min.js"></script>
+  	
+<style>
+.oasp h3{
+  border-left: 20px solid #bbbb99;
+  padding-left:5px;
+}
+.devon h3{
+  border-left: 20px solid #99bbbb;
+  padding-left:5px;
+}
+
+
+</style>
+
+<script src="bootstrap-3.3.4/js/test.min.js"></script>
   </head>
 
   <body>
@@ -108,7 +122,7 @@
          			 In order to learn how the initiative CSD2015 governs the development, maintenance and support of devonfw, please visit <a href="collaboration.aspx">Building devonfw</a>.</p>
 -->
             <h2>Summary</h2>
-          	<p>Capgemini Apps2 SBU uses the Java-based standard platform <b>devonfw</b> as an industrialised approach to efficiently deliver CSD-projects to our customers. 
+          	<p>Capgemini Apps2 SBU uses the Java-based standard platform devonfw as an industrialised approach to efficiently deliver CSD-projects to our customers. 
           	This platform is aimed to engagements where the client is flexible in the use of technology or uses outdated technology, so we can offer a modern technology approach using our experience as a group.
 						The main idea is to not create a monolithic framework but to provide proven patterns described by guides, tutorials and a reference application you can derive from. 
 						Devon is making extensive use of standards and existing products and not relying too much on technical custom components implemented by CG.
@@ -120,10 +134,12 @@
         		<ul>
         			<li>Productivity: Using an established platform for your CSD-project results in efficiency gains (if you need a number: we promise at least 20%). Efforts in your project will be dedicated to creating business functionality using a vast range of ready to use, pre-integrated components on server side and in your single page web client.</li>
         			<li>Flexibility: Implementation blueprints are your starting point to develop a mature solution for small to very large business applications.</li>
-        			<li>Impact: Devonfw provides state-of-the-art technology embracing all the innovative use cases coming from the engagements. A unified platform also means more and better marketing material, training and support that will benefit our client in a way as it is usually associated with packaged products.</li>
+        			<li>Impact: devonfw provides state-of-the-art technology embracing all the innovative use cases coming from the engagements. A unified platform also means more and better marketing material, training and support that will benefit our client in a way as it is usually associated with packaged products.</li>
         		</ul>
 
-          	<img src="images/overview/productivity_flexibility_impact.png" alt=""/>
+<p style="text-align:center"><img src="images/overview/productivity_flexibility_impact.png" alt=""/></p>
+<br/>
+<br/>
 
             <h3>What is in the package?</h3>
 
@@ -137,19 +153,22 @@
         			<li>Support through large community + industrialization services (Standard Platform as a service) available in the iProd service catalog.</li>
         		</ul>
 
-          	<p>The following picture shows main building blocks of the platform. 
-	          	Angular Client
-	          	Sencha Client
-	          	Server
-	          	Add-On-IP
-	          	Tools
-		          	Integrated Development Env
-		          	CobiGen
-	          	Supporting Documentation & Tutorials
-	          	Reference implementation
+          	<p>The following picture shows main building blocks of the platform. </p>
+	<ul>
+		<li>Angular Client</li>
+		<li>Sencha Client</li>
+		<li>Server</li>
+	        <li>Add-On-IP</li>
+	        <li>Tools</li>
+		<ul>
+		     <li>Integrated Development Env</li>
+		     <li>CobiGen</li>
+		</ul>
+	         <li>Supporting Documentation & Tutorials</li>
+	         <li>Reference implementation</li>
+	</ul>
         	
-						</p>
-            <img src="images/overview/devon_technologies_used.png" alt="building blocks of devonfw"/>
+            <p style="text-align:center"><img src="images/overview/devon_technologies_used.png" alt="building blocks of devonfw"/></p>
             
             <h3 id="sec1-3">Technology Overview</h3>
 				
@@ -157,6 +176,8 @@
             
             <img src="images/overview/devon_technologies_used.png" alt="technology stack of devonfw"/>
 
+<br/>
+<br/>
             <h3>devonfw IP and open source</h3>
           	<p>devonfw uses a state-of-the-art open source core reference architecture for the server (today treated as commodity in the IT-industry) and on top of it an ever increasing number of high-value assets that are Capgemini IP.
           	Why do we use an open source core: in some countries of the SBU clients only accept open source stacks (most to mention customers who want to stay vendor-independent by principle), so being open is a market need.
@@ -164,9 +185,8 @@
           	The following picture shows the line between IP and open source.  
           	
 						</p>
-						<p><a href="images/relation_devon_oasp.png"><img src="images/relation_devon_oasp.png" width="600" height="300" alt="schematic devonfw assets IP vs OS"/></a></p>
+						<p style="text-align:center"><a href="images/relation_devon_oasp.png"><img src="images/relation_devon_oasp.png" width="600" height="300" alt="schematic devonfw assets IP vs OS"/></a></p>
             
-          	<p>Lorem</p>
 
           </div>
 
@@ -189,25 +209,25 @@
             </ul>
             
             <div class="row">
-        			<div class="col-lg-6">
-		            <h3 style="background-color:#99BBBB" id="sec5-4">Sencha Web Client Example</h3>
+        			<div class="col-lg-6 devon">
+		            <h3 id="sec5-4">Sencha Web Client Example</h3>
 				        <p>Here you find the <a href="http://devon-ci.cloudapp.net/devonfw-sample-server/jsclient" target="_blank">Sencha example application &raquo;</a> to play with.</p>
 				        <p>Here you find the <a href="https://github.com/devonvw/devon4sencha" target="_blank">Sencha Example Repo &raquo;</a></p>
 							</div>
-        			<div class="col-lg-6">
-		            <h3 style="background-color:#BBBB99" id="sec5-5">AngularJs Client Example</h3>
+        			<div class="col-lg-6 oasp">
+		            <h3 id="sec5-5">AngularJs Client Example</h3>
 				        <p>Here you find the <a href="http://oasp-ci.cloudapp.net/oasp4j-sample" target="_blank">AngularJs example application &raquo;</a> to play with.</p>
 				        <p>Here you find the <a href="https://github.com/oasp/oasp4js" target="_blank">AngularJs Example Repo &raquo;</a></p>
 		          </div>
 	          </div>
             <div class="row">
-        			<div class="col-lg-6">
-		            <h3 style="background-color:#77BBBB" id="sec5-2">Server Example (IP-container)</h3>
+        			<div class="col-lg-6 devon">
+		            <h3 id="sec5-2">Server Example (IP-container)</h3>
 					      <p>Here you find the <a href="https://github.com/devonfw/devon" target="_blank">devonfw Server Software Repository &raquo;</a></p>
 					      <p>This server is being used with the Sencha Client.</p> 
 							</div>
-        			<div class="col-lg-6">
-		            <h3 style="background-color:#BBBB77" id="sec5-3">Server Example (open source core)</h3>
+        			<div class="col-lg-6 oasp">
+		            <h3 id="sec5-3">Server Example (open source core)</h3>
 					      <p>Here you find the <a href="https://github.com/oasp/oasp4j" target="_blank">Core open source Server Software Repository &raquo;</a></p>
 					      <p>This server is being used with the AngularJs Client.</p> 
 							</div>
@@ -221,28 +241,31 @@
             Step by step tutorials explain how to build the software in the right order and conform to the architecture guidelines. 
 
             <div class="row">
-        			<div class="col-lg-6">
-		            <h3 style="background-color:#99BBBB" id="sec5-4">Sencha Web Client documentation</h3>
+        			<div class="col-lg-6 devon">
+		            <h3 id="sec5-4">Sencha Web Client documentation</h3>
 				        <p>Here you find the <a href="" target="_blank">Sencha Client Architecture as WIKI &raquo;</a></p>
 				        <p>Here you find the <a href="" target="_blank">Sencha Tutorial as PDF &raquo;</a></p>
 				        <p>Here you find the <a href="" target="_blank">Sencha Tutorial as WIKI &raquo;</a></p>
 							</div>
-        			<div class="col-lg-6">
-		            <h3 style="background-color:#BBBB99" id="sec5-5">AngularJs Client Guidelines</h3>
+        			<div class="col-lg-6 oasp">
+		            <h3 id="sec5-5">AngularJs Client Guidelines</h3>
 				        <p>Here you find the <a href="" target="_blank">AngularJs Client Architecture as WIKI &raquo;</a></p>
 				        <p>Here you find the <a href="" target="_blank">AngularJs Tutorial outline as WIKI &raquo;</a></p>
 		          </div>
 	          </div>
             <div class="row">
-        			<div class="col-lg-12">
-		            <h3 style="background-color:#77BBBB" id="sec5-2">Server</h3>
+        			<div class="col-lg-6 devon">
+		            <h3 id="sec5-2">Server</h3>
 				        <p>Here you find the <a href="" target="_blank">Server Guide as PDF &raquo;</a></p>
-					      <p>Here you find the <a href="https://github.com/oasp/oasp4j/wiki" target="_blank">Server Core Guide as Wiki &raquo;</a></p>
 				        <p>Here you find the <a href="" target="_blank">devonfw Server Tutorial as PDF &raquo;</a></p>
 				        <p>Here you find the <a href="https://github.com/devonfw/devon/wiki" target="_blank">devonfw Server Tutorial as WIKI &raquo;</a></p>
 				        <p>Architecture Guidelines for IP building blocks will be kept separate. The most important ones will be:</p>
 				        <p><a href="#" target="_blank">Enterprise devonfw (not yet available) &raquo;</a></p>
 							</div>
+        			<div class="col-lg-6 oasp">
+		            <h3 id="sec5-5">Server (Open source)</h3>
+			  	      <p>Here you find the <a href="https://github.com/oasp/oasp4j/wiki" target="_blank">Server Core Guide as Wiki &raquo;</a></p>
+		          </div>
 						</div>
 					</div>
 
@@ -255,28 +278,30 @@
             
 		        <p>We don't reference the location of the IDE-download packages here. The references to the download location are contained in the respective IDE setup documentation mentioned below.</p>
             <div class="row">
-        			<div class="col-lg-6">
-		            <h3 style="background-color:#99BBBB" id="sec5-4">Sencha Web Client IDE</h3>
+        			<div class="col-lg-6 devon">
+		            <h3 id="sec5-4">Sencha Web Client IDE</h3>
 				        <p>TBD: To develop a Sencha web client the editor + application template</p>
 				        <p>Here you find the <a href="" target="_blank">IDE setup guide</a> which explains how to setup the integrated development environment and how to use the application template.</p>
 		            <p>TBD: image</p>
 							</div>
-        			<div class="col-lg-6">
-		            <h3 style="background-color:#BBBB99" id="sec5-5">AngularJs Client IDE</h3>
+        			<div class="col-lg-6 oasp">
+		            <h3 id="sec5-5">AngularJs Client IDE</h3>
 		            <p>TBD: bracket  application template></p>
 				        <p>Here you find the <a href="" target="_blank">AngularJs IDE setup guide &raquo;</a></p>
 		            <p>TBD: image</p>
 		          </div>
 	          </div>
             <div class="row">
-        			<div class="col-lg-12">
-		            <h3 style="background-color:#77BBBB" id="sec5-2">devonfw Server IDE</h3>
+        			<div class="col-lg-6 devon">
+		            <h3 id="sec5-2">devonfw Server IDE</h3>
 		            <p>The prepackaged and preconfigured IDE to start your project is Eclipse-based. It contains an eclipse-archetype definition that allows to create a empty devonfw application. It further provides integration such as: static code quality check, issues, test-server, etc. You can get this package running in about 2hours.</p>
 		            <p>TBD: image</p>
 				        <p>Here you find the <a href="" target="_blank">devonfw IDE setup guide &raquo;</a>
 							</div>
 						</div>
             
+            <div class="row">
+        			<div class="col-lg-6 devon">
             <h3 id="sec3-2">CoBiGen</h3>
             <p>CoBiGen is a high value IP asset that is used by devonfw projects to generate code across all layers of a devon-application, including the clients. 
             	It works iteratively without leaving marks or regions in the code due to its basic understanding of Java. 
@@ -285,11 +310,33 @@
             <p>TBD: image</p>
 		        <p>Here you find the <a href="" target="_blank">CobiGen documentation as PDF &raquo;</a></p>
 		        <p>Here you find the <a href="https://github.com/devonfw/tools-cobigen/wiki" target="_blank">CobiGen documentation as WIKI &raquo;</a></p>
+		</div>
+		</div>
             
             <h3 id="sec3-3">CI</h3>
             devonfw team makes extensive use of modern integrated CI (Jenkins, etc.). However this is not part of the product devonfw. Your project may use the best fit project environment as required.
             Production line - once available - will be the natural best fit IT4IT environment for the development process of a devonfw project, including full service CI, configuration management, artefact storage, issue tracking, etc. 
           </div>
+
+            <div class="row">
+		<div class="col-lg-6 devon">
+		    <h3 id="sec3-2">Devon-CI</h3>
+			<p>Devon continuous integration environment can be found here:</p>
+			<ul>
+			  <li><a href="http://devon-ci.cloudapp.net/jenkins">devon-ci.cloudapp.net/jenkins</a></li>
+			  <li><a href="http://devon-ci.cloudapp.net/nexus">devon-ci.cloudapp.net/nexus</a></li>
+ 			</ul>
+		</div>
+		<div class="col-lg-6 oasp">
+		    <h3 id="sec3-2">OASP-CI</h3>
+			<p>Open source continuous integration environment can be found here:</p>
+			<ul>
+			  <li><a href="http://oasp-ci.cloudapp.net/jenkins">oasp-ci.cloudapp.net/jenkins</a></li>
+			  <li><a href="http://oasp-ci.cloudapp.net/nexus">oasp-ci.cloudapp.net/nexus</a></li>
+			  <li><a href="http://oasp-ci.cloudapp.net/sonarqube">oasp-ci.cloudapp.net/sonarqube</a></li>
+ 			</ul>
+		</div>
+	   </div>
 
           <div class="bs-docs-section" id="sec6">
             <h2>IP Add Ons</h2>
@@ -395,5 +442,6 @@
 	    	<p>&copy; Capgemini 2015</p>
 	    </footer>
     </div>
+  	<script src="js/devon.js"></script>
   </body>
 </html>

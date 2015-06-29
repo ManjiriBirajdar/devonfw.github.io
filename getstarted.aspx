@@ -122,8 +122,8 @@ margin-right:10px;
     			</div>
     			<nav class="collapse navbar-collapse" role="navigation" id="menu">
           	<ul class="nav nav-justified">
-            	<li><a href="roadmap.aspx">Roadmap</a></li>
             	<li><a href="overview.aspx">Overview</a></li>
+            	<li><a href="roadmap.aspx">Roadmap</a></li>
             	<li><a href="collaboration.aspx">Collaboration</a></li>
             	<li><a href="references.aspx">References</a></li>
               <li><a href="faq.aspx">FAQs</a></li>
@@ -160,32 +160,30 @@ margin-right:10px;
             	<h2>Read the documentation <img src="images/books.png" width="30"></h2>
               <p>Now you can start reading the devonfw main documentation for the platform as well as some step-by-step tutorials that will guide you for creating your first devonfw application</p>
               <p>The tutorials also will guide you on how to get the environment up and running</p>
-              <p>You can access the documentation both in PDF format or online wiki from the Github project pages</p>
+              <p>You can find all files for Devonfw releases on the Capgemini troom for the project</p>
+<ul>
+  <li><a href="https://coconet.capgemini.com/sf/frs/do/viewRelease/projects.apps2_devon/frs.devon_distribution.1_0_0">Devonfw distribution 1.0.0 files</a></li>
+  <ul>
+     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43013?dl=1">Devonfw guide</a></li>
+     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43015?dl=1">Devonfw tutorial</a></li>
+     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43016?dl=1">OASP4J guide</a></li>
+     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43012?dl=1">CobiGen guide</a></li>
+     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43014?dl=1">Devon4sencha guide</a></li>
+     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43021?dl=1">Devon4sencha tutorial</a></li>
+     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43017?dl=1">Devonfw development environment (1Gb ZIP file)</a></li>
+  </ul>
+</ul>
+              <p>You can also access the documentation in wiki format from the Github project pages</p>
               <ul>
-                <li><a href="http://devon-ci.cloudapp.net/jenkins/job/devon.wiki/lastSuccessfulBuild/artifact/devonfw-docgen/target/generated-docs/DEVON.pdf">Devon documentation on PDF</a></li>
-                <ul>
-									<li><a href="https://github.com/devonfw/devon/wiki/tutorial-devon-introduction" role="button" target="_blank">Devonfw wiki  <span class="note"> - GitHub private repo, please request access</span></a></li>
-                  <li><a href="#missing">Environment setup <span class="note"> - GitHub private repo, please request access</span></a></li>
-                  <li><a href="#missing">ZIP with bundled environment <span class="note"> - accessible on troom for all Capgemini users</span></a></li>
-                  <li><a href="https://github.com/devonfw/devon/wiki/tutorial-introduction" role="button" target="_blank">Step-by-step tutorial for server side app <span class="note"> - GitHub private repo, please request access</span></a></li>
-                </ul>
-                <li>
-                  <p><a href="https://github.com/oasp/oasp4js/wiki" role="button" target="_blank">OASP4js wiki <span class="note"> - GitHub public repository</span></a></p>
-                  <p>devonfw uses OASP4JS as open source technology for a web client blueprint. OASP4JS offers you a template for building AngularJS client applications. The application template defines a structure as well as integrates best-in-class frameworks and libraries</p>
-                </li>
-                <li></p><a hre="http://devon-ci.cloudapp.net/jenkins/job/devon4sencha.wiki/lastSuccessfulBuild/artifact/devonfw-docgen/target/generated-docs/DEVON4SENCHA.pdf">devon<b>4</b>sencha documentation and step-by-step tutorial on PDF</b></a></p></li>
-								<ul>
-									<li>
-											<p><a href="https://github.com/devonfw/devon4sencha/wiki/guide-devon4sencha-introduction" target="_blank">devon<b>4</b>sencha wiki <span class="note"> - GitHub private repo, please request access</span></a><p>
-									</li>
-								</ul>
-                  <p>devonfw proposes Sencha as the base for rich internet applications. It provides an impressive rich user-experience, serves multi-channel purposes and can be integrated with native-mobile apps. Have a look at the example.</p>
-                </li>
+		<li><a href="https://github.com/devonfw/devon/wiki/tutorial-devon-introduction" role="button" target="_blank">Devonfw wiki  <span class="note"> - GitHub private repo, please request access</span></a></li>
+                <li><a href="https://github.com/oasp/oasp4js/wiki" role="button" target="_blank">OASP4js wiki <span class="note"> - GitHub public repository</span></a></li>
+                <li><a href="https://github.com/devonfw/devon4sencha/wiki/guide-devon4sencha-introduction" target="_blank">devon<b>4</b>sencha wiki <span class="note"> - GitHub private repo, please request access</span></a></li>
               </ul>
             </li>
             <li>
               <h2>Get the code <img src="images/code.png" width="30"></h2>
               <p>Once you are able to code applications with devonfw support you surely want to take a peek to the technology underneath and be able to customize for your needs. </p>
+
               <p>Currently the code is hosted on Github, here are the main repositories</p>
               <ul>
                 <li><a href="http://github.com/devonfw" role="button" target="_blank">devonfw project <span class="note"> - GitHub private repo, please request access</span></a></li>
