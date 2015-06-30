@@ -19,6 +19,39 @@
     <link href="bootstrap-3.3.4/css/style.css" rel="stylesheet">
     <link href="font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet">
   </head>
+  <style>
+body {
+	background: url("images/index_background.jpg") repeat-x;
+/*	background-attachment: fixed;*/
+    background-position: center top;
+}
+
+.nav-justified > li > a {
+	color: white;
+	text-shadow: 1px 1px 2px black;
+}
+.nav-justified > li > a:hover {
+	color:white;
+	text-decoration: underline;
+}
+
+.nav-justified > li:first-child > a {
+	background: transparent;
+}
+.jumbotron {
+	border:none;
+	background: none;
+}
+.jumbotron p{
+	font-size: 18px;
+	color:#999;
+	color:#26869E;
+}
+
+#menunav.navbar {
+	margin-top: 155px;
+}
+  </style>
 
   <body>
 
@@ -63,9 +96,10 @@
 			</nav>
 	  </div>
 
+	  <div class="index_header">
     <div class="container">
       <div class="masthead">
-        <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx"><img src="images/logo_devonfw.jpg" alt="devonfw-logo" style="width:250px; height:88px;"/></a>
+        <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx"><img src="images/logo_white.png" alt="devonfw-logo" style="width:257px; height:73px;margin-top:127px"/></a>
         <nav class="navbar navbar-default" role="navigation" id="menunav">
     			<div class="navbar-header">
         		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
@@ -83,6 +117,7 @@
 	      </nav>
 	    </div>
     </div>
+    </div><!--index_header -->
 
       <div class="container">
       <div class="jumbotron">
