@@ -37,6 +37,7 @@
 		</style>
 
 		<script src="bootstrap-3.3.4/js/test.min.js"></script>
+		<script src="js/devon.js"></script>
   </head>
 
   <body>
@@ -91,12 +92,12 @@
           </div>
           <nav class="collapse navbar-collapse" role="navigation" id="menu">
             <ul class="nav nav-justified">
-              <li><a href="roadmap.aspx">Roadmap</a></li>
               <li class="active"><a href="#">Overview</a></li>
+              <li><a href="roadmap.aspx">Roadmap</a></li>
               <li><a href="collaboration.aspx">Collaboration</a></li>
               <li><a href="references.aspx">References</a></li>
               <li><a href="faq.aspx">FAQs</a></li>
-                <li><a href="getstarted.aspx">Getting started</a></li>
+              <li><a href="getstarted.aspx">Getting started</a></li>
             </ul>
           </nav>
         </nav>
