@@ -300,7 +300,7 @@
               <div class="col-lg-12 devon">
                 <h3 id="sec5-2">devonfw Server IDE</h3>
                 <p>The prepackaged and preconfigured IDE to start your project is Eclipse-based. It contains an eclipse-archetype definition that allows to create a empty devonfw application. It further provides integration such as: static code quality check, issues, test-server, etc. You can get this package running in about 2hours. The same package can be used to contribute to the devonfw product since we put all example implementations into the Eclipse workspace.</p>
-								<p>You can download the IDE (zip) from the devonfw teamforge <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0">file release area</a>.</p>
+								<p>You can download the IDE (zip) from the devonfw teamforge <a href="ihttps://coconet.capgemini.com/sf/frs/do/viewRelease/projects.apps2_devon/frs.devon_distribution.1_0_0">file release area</a>.</p>
 		            <p style="text-align:center"><img src="images/overview/IntegratedIDE.png" height="450" width="800" alt="Eclipse IDE"/></p>
                 
                 <p>Here you find the <a href="https://github.com/oasp/oasp4j/wiki/oasp-ide-setup" target="_blank">devonfw IDE setup guide &raquo;</a>
