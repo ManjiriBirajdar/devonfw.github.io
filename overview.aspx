@@ -372,16 +372,24 @@
 
             <div class="row">
               <div class="col-lg-6 devon">
-								<h3 id="sec5-2">devon<b>4</b>sencha</h3>
-								<p>devon4sencha is an IP asset of devonfw that builds on top of Sencha libraries adding more functionality like:
-								<ul>
-									<li>Automatic REST client creation</li>
-									<li>Protocol communication with the server</li>
-									<li>CORS support</li>
-									<li>Internationalization</li>
-									<li>Security management (login/logoff, csrf protection)</li>
-									<li>Layout templates</li>
-								</ul></p>
+		<h3 id="sec5-2">devon<b>4</b>sencha</h3>
+		<p>devon4sencha is an IP asset of devonfw that builds on top of Sencha libraries adding more functionality like:
+		<ul>
+			<li>Automatic REST client creation</li>
+			<li>Protocol communication with the server</li>
+			<li>CORS support</li>
+			<li>Internationalization</li>
+			<li>Security management (login/logoff, csrf protection)</li>
+			<li>Layout templates</li>
+		</ul></p>
+		<p style="padding-left:150px">Check the video for some samples &gt;&gt;</p>
+              </div>
+              <div class="col-lg-6 devon">
+		<br/>
+		<br/>
+		<video width="320" height="240" controls>
+		  <source src="http://devon-ci.cloudapp.net/troom/Webcast_Devon.mp4" type="video/mp4" >
+		</video>
               </div>
             </div>
 
