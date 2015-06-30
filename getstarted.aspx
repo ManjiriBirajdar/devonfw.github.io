@@ -145,7 +145,7 @@ margin-right:10px;
           <h3 class="text-success">Get started with...</h3>
           <ul class="custom-counter steps">
             <li><h2>The platform guide <img src="images/book.png" width="30"></h2>
-              <p>First things first. Start your way through devonfw by reading the <a href="http://oasp.github.io/oasp4j/1.0.0/OASP4J.pdf" target="_blank">OASP4j Platform Guide &raquo;</a></p>
+              <p>First things first. Start your way through devonfw by reading the <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43016?dl=1" target="_blank">OASP4j Platform Guide<span class="note"> - stored on coconet free access to anyone logged in</span></a></p>
               <p>devonfw uses OASP4J as lean open source architecture blueprint for the server side of an application. OASP4J offers you a holistic documentation for building your application. Stop with digging in the docs of many different open-source projects in parallel getting on the wrong track or lost in space. </p>
             </li>
             <li><h2>View some demos <img src="images/cursor.png" width="30"></h2>
@@ -162,22 +162,22 @@ margin-right:10px;
               <p>The tutorials also will guide you on how to get the environment up and running</p>
               <p>You can find all files for Devonfw releases on the Capgemini troom for the project</p>
 <ul>
-  <li><a href="https://coconet.capgemini.com/sf/frs/do/viewRelease/projects.apps2_devon/frs.devon_distribution.1_0_0">Devonfw distribution 1.0.0 files</a></li>
+  <li><a href="https://coconet.capgemini.com/sf/frs/do/viewRelease/projects.apps2_devon/frs.devon_distribution.1_0_0">devonfw distribution 1.0.0 files</a></li>
   <ul>
-     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43013?dl=1">Devonfw guide</a></li>
-     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43015?dl=1">Devonfw tutorial</a></li>
+     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43013?dl=1">devonfw guide</a></li>
+     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43015?dl=1">devonfw tutorial</a></li>
      <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43016?dl=1">OASP4J guide</a></li>
      <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43012?dl=1">CobiGen guide</a></li>
-     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43014?dl=1">Devon4sencha guide</a></li>
-     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43021?dl=1">Devon4sencha tutorial</a></li>
-     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43017?dl=1">Devonfw development environment (1Gb ZIP file)</a></li>
+     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43014?dl=1">devon4sencha guide</a></li>
+     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43021?dl=1">devon4sencha tutorial</a></li>
+     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43017?dl=1">devonfw development environment (1Gb ZIP file)</a></li>
   </ul>
 </ul>
               <p>You can also access the documentation in wiki format from the Github project pages</p>
               <ul>
-		<li><a href="https://github.com/devonfw/devon/wiki/tutorial-devon-introduction" role="button" target="_blank">Devonfw wiki  <span class="note"> - GitHub private repo, please request access</span></a></li>
+		<li><a href="https://github.com/devonfw/devon/wiki/tutorial-devon-introduction" role="button" target="_blank">devonfw wiki  <span class="note"> - GitHub private repo, please request access</span></a></li>
                 <li><a href="https://github.com/oasp/oasp4js/wiki" role="button" target="_blank">OASP4js wiki <span class="note"> - GitHub public repository</span></a></li>
-                <li><a href="https://github.com/devonfw/devon4sencha/wiki/guide-devon4sencha-introduction" target="_blank">devon<b>4</b>sencha wiki <span class="note"> - GitHub private repo, please request access</span></a></li>
+                <li><a href="https://github.com/devonfw/devon4sencha/wiki/guide-devon4sencha-introduction" target="_blank">devon4sencha wiki <span class="note"> - GitHub private repo, please request access</span></a></li>
               </ul>
             </li>
             <li>
