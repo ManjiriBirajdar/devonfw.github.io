@@ -24,20 +24,19 @@
     <script src="bootstrap-3.3.4/js/jquery-1.11.2.min.js"></script>
     <script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>
     
-<style>
-.oasp h3{
-  border-left: 20px solid #bbbb99;
-  padding-left:5px;
-}
-.devon h3{
-  border-left: 20px solid #99bbbb;
-  padding-left:5px;
-}
+		<style>
+			.oasp h3{
+			  border-left: 20px solid #bbbb99;
+			  padding-left:5px;
+			}
+			
+			.devon h3{
+			  border-left: 20px solid #99bbbb;
+			  padding-left:5px;
+			}
+		</style>
 
-
-</style>
-
-<script src="bootstrap-3.3.4/js/test.min.js"></script>
+		<script src="bootstrap-3.3.4/js/test.min.js"></script>
   </head>
 
   <body>
@@ -114,14 +113,15 @@
             </div>
           </div>
 
-          <div class="bs-docs-section" id="sec2">
+          <div class="bs-docs-section" id="sec1">
 <!--
             <h2>Scope of this overview</h2>
             <p>This overview presents the product devonfw and its core assets. For detailed information you will find references to indepth material.<br/>
                 Please also consult the <a href="getstarted.aspx">support section</a> of this site to find additional supporting material (e.g. marketing material).<br/>
                 In order to learn how the initiative CSD2015 governs the development, maintenance and support of devonfw, please visit <a href="collaboration.aspx">Building devonfw</a>.</p>
 -->
-            <h2>Summary</h2>
+            <h2 id="sec1">Overview</h2>
+            <h3 id="sec1-2">Summary</h3>
             <p>Capgemini Apps2 SBU uses the Java-based standard platform devonfw as an industrialised approach to efficiently deliver CSD-projects to our customers. 
             This platform is aimed to engagements where the client is flexible in the use of technology or uses outdated technology, so we can offer a modern technology approach using our experience as a group.
             The main idea is to not create a monolithic framework but to provide proven patterns described by guides, tutorials and a reference application you can derive from. 
@@ -139,9 +139,9 @@
 
 						<p style="text-align:center"><img src="images/overview/productivity_flexibility_impact.png" alt=""/></p>
 						<br/>
-            <p>Promote devonfw using our <a href="https://troom.capgemini.com/sites/vcc/java/Shared%20Documents/StandardPlatform/Marketing/Flyer_Onepager/Devonfw_Flyer_EN_2015.pdf">devonfw-Flyer</a>. Other marketing material is in preparation.</p>
+            <p>Please promote devonfw using our <a href="https://troom.capgemini.com/sites/vcc/java/Shared%20Documents/StandardPlatform/Marketing/Flyer_Onepager/Devonfw_Flyer_EN_2015.pdf">devonfw-Flyer</a>. Other marketing material is in preparation.</p>
 
-            <h3>What is in the package?</h3>
+            <h3 id="sec1-3">What is in the package?</h3>
 
             <p>So, what is in the package you get?:
             <ul>
@@ -154,6 +154,10 @@
             </ul>
 
             <p>The following picture shows main building blocks of the platform. </p>
+
+            <p style="text-align:center"><img src="images/overview/devon_buildingblocks.png" alt="building blocks of devonfw"/></p>
+
+						<!--
 					  <ul>
 					    <li>Angular Client</li>
 					    <li>Sencha Client</li>
@@ -166,12 +170,9 @@
 					    </ul>
 							<li>Supporting Documentation & Tutorials</li>
 							<li>Reference implementation</li>
-					  </ul>
-
-						IMG TBD:		          
-            <p style="text-align:center"><img src="images/overview/devon_technologies_used.png" alt="building blocks of devonfw"/></p>
+					  </ul> -->
             
-            <h3 id="sec1-3">Technology Overview</h3>
+            <h3 id="sec1-4">Technology Overview</h3>
         
             <p>As any modern java application today, devonfw is based on a large number of technologies and standards that build the software architecture. 
             devonfw defines how to use these technologies in a layered component-oriented architecture to solve all the technical aspects that make the business code work.
@@ -180,18 +181,17 @@
             <p style="text-align:center"><img src="images/overview/devon_technologies_used.png" alt="technology stack of devonfw"/></p>
 						<br/>
 						
-            <h3>devonfw IP and open source</h3>
+            <h3 id="sec1-5">devonfw IP and open source</h3>
             <p>devonfw uses a state-of-the-art open source core reference architecture for the server (today considerd as commodity in the IT-industry) and on top of it an ever increasing number of high-value assets that are Capgemini IP.
             Why do we use an open source core: in some countries of the SBU clients only accept open source stacks (most to mention customers who want to stay vendor-independent by principle), so being open is a market need.
             This also is the rationale for providing a open source reference architecture for the client built with AngularJs.
             The following picture shows the line between IP and open source.  
-						IMG TBD:		             
             </p>
-            <p style="text-align:center"><a href="images/relation_devon_oasp.png"><img src="images/relation_devon_oasp.png" width="600" height="300" alt="schematic devonfw assets IP vs OS"/></a></p>
+            <p style="text-align:center"><a href="images/overview/devon-fw_devon-os.png"><img src="images/overview/devon-fw_devon-os" width="600" height="300" alt="devonfw assets IP vs OS"/></a></p>
           </div>
 
-          <div class="bs-docs-section" id="sec5" style="background-image: url(images/overview/restaurant.png)">
-            <h2 id="sec5-1">Restaurant Reference implementation</h2>
+          <div class="bs-docs-section" id="sec2" style="background-image: url(images/overview/restaurant.png)">
+            <h2>Restaurant Reference implementation</h2>
             <p>The reference implementation of devonfw shows all concepts and its variations on a real application and how an application built with devonfw actually looks in coding. 
             It makes architectural decisions visible as code. It also acts as playground for training and innovation.</p>
             <p>You can also play with the working example and show it to your customer. To get familiar with the restaurant you might like to visit the <a href="https://troom.capgemini.com/sites/vcc/java/Shared%20Documents/StandardPlatform/ExampleApplication/Specification/presentation/Restaurant_use_cases_and_dialogs.pptx" target="_blank">use-case-overview of the restaurant</a> (PPT).</p>
@@ -234,8 +234,8 @@
             </div>
           </div>
 
-          <div class="bs-docs-section" id="sec4">
-            <h2 id="sec4-1">Documentation and Tutorials</h3>
+          <div class="bs-docs-section" id="sec3">
+            <h2>Documentation and Tutorials</h2>
             The architecture is decribed in guides that go through the layered architecture and explain in detail how to use devonfw components to build a business application. 
             The guides are the main assets decribing the best-practices that make up the architecture.
             Step by step tutorials explain how to build the software in the right order and conform to the architecture guidelines. 
@@ -274,24 +274,24 @@
             </div>
           </div>
 
-          <div class="bs-docs-section" id="sec3">
+          <div class="bs-docs-section" id="sec4">
             <h2>Tooling</h2>
             <p>devonfw proposes the usage of Capgemini group tooling + services (as ERaas) to the highest possible extent. devonfw provides the following additional tooling to be used in your project for efficiency gains.</p>
 
-            <h3 id="sec3-1">Integrated development environment</h3>
+            <h3 id="sec4-1">Integrated development environment</h3>
             <p>For all main building blocks of devonfw a highly integrated development environment is available, preintegrated - packaged - ready to use. 
-            As of now the tooling available on the market does not allow a single IDE for all parts of the solution. Client and server require their own tools to be efficient in the software development process. devonfw-team will observe the market and give recommendations for unified tooling as soon as a common IDE gets available.
-            You can download the IDE (zip) from the devonfw teamforge <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0">file release area</a>.</p>
+            As of now the tooling available on the market does not allow a single IDE for all parts of the solution. Instead we propose the following tools to be efficient in the software development process. devonfw-team will observe the market and give recommendations for unified tooling as soon as a common IDE gets available.</p>
+            
+            <p>Further for each type of application a application template is provide that allows creation of an empty preconfigured project that already provides the needed structure.</p>
             
             <div class="row">
               <div class="col-lg-6 devon">
                 <h3 id="sec5-4">Sencha Web Client IDE</h3>
                 <p>TBD: To develop a Sencha web client the editor + application template</p>
-                <p>Here you find the <a href="" target="_blank">IDE setup guide</a> which explains how to setup the integrated development environment and how to use the application template.</p>
+                <p>Here you find the <a href="" target="_blank">Sencha IDE setup guide</a> which explains how to setup the integrated development environment and how to use the application template.</p>
               </div>
               <div class="col-lg-6 oasp">
                 <h3 id="sec5-5">AngularJs Client IDE</h3>
-                <p>TBD: bracket application template></p>
                 <p>Here you find the <a href="" target="_blank">AngularJs IDE setup guide &raquo;</a></p>
               </div>
             </div>
@@ -299,6 +299,7 @@
               <div class="col-lg-12 devon">
                 <h3 id="sec5-2">devonfw Server IDE</h3>
                 <p>The prepackaged and preconfigured IDE to start your project is Eclipse-based. It contains an eclipse-archetype definition that allows to create a empty devonfw application. It further provides integration such as: static code quality check, issues, test-server, etc. You can get this package running in about 2hours. The same package can be used to contribute to the devonfw product since we put all example implementations into the Eclipse workspace.</p>
+								<p>You can download the IDE (zip) from the devonfw teamforge <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0">file release area</a>.</p>
 		            <p style="text-align:center"><img src="images/overview/IntegratedIDE.png" height="450" width="800" alt="Eclipse IDE"/></p>
                 
                 <p>Here you find the <a href="https://github.com/oasp/oasp4j/wiki/oasp-ide-setup" target="_blank">devonfw IDE setup guide &raquo;</a>
@@ -307,7 +308,7 @@
             
             <div class="row">
               <div class="col-lg-12">
-		            <h3 id="sec3-2">CoBiGen</h3>
+		            <h3 id="sec4-2">CoBiGen</h3>
 		            <p>CoBiGen is a high value IP asset that is used by devonfw projects to generate code across all layers of a devon-application, including the clients. 
 		              It works iteratively without leaving marks or regions in the code due to its basic understanding of Java. 
 		              Due to architecture patterns set in devonfw, the generator is able to support generation of higher-level concepts than just - class. 
@@ -319,7 +320,7 @@
 					    </div>
 				    </div>
             
-            <h3 id="sec3-3">CI</h3>
+            <h3 id="sec4-3">CI</h3>
             <p>devonfw team makes extensive use of modern integrated CI (Jenkins, etc.). However this is not part of the product devonfw. Your project may use it's own best fit project environment as required.
             Worth mentioning here, the production line - once available as another shared service - will be the natural best fit IT4IT environment for the development process of a devonfw project, including full service CI, configuration management, artefact storage, issue tracking, etc. </p>
             
@@ -344,7 +345,7 @@
 			      </div>
 		      </div>
 
-          <div class="bs-docs-section" id="sec6">
+          <div class="bs-docs-section" id="sec5">
             <h2>IP Add Ons</h2>
             <p>devonfw will gain further strength by a number of high value IP (intellectual property) solutions that are on the roadmap: 
             <ul>
@@ -358,12 +359,19 @@
             <p>The aim is to make high value IP the USP that will sell devonfw to your client easily. To enforce this IP will be integrated with a <b>plugin-system</b> that allows very easy adoption of a IP-solution for your project.</p>
           </div>
       
-          <div class="bs-docs-section" id="sec7">
+          <div class="bs-docs-section" id="sec6">
             <h2>License</h2>
             <p>IP: You can use devonfw in your Capgemini project. A legally approved licensing model including liablity terms is not yet in place. The licensing aims to allow the usage of the platform in Capgemini-projects for any customer. TBD!</p>
             <p>Open Source: The core of devonfw is licensed as open source under the <a href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons License (Attribution-NoDerivatives 4.0 International)</a>.</p>
           </div>
       
+          <div class="bs-docs-section" id="sec7">
+            <h2>APPS2 Industrialisation catalogue</h2>
+            <p>The standard platform devonfw and related services are provided in the iProd Shared Service Catalogue as <b>SPaas</b>. Therefore you will be able to use these services with the group-tools: BRIDGE, INSERE, iSTART. devonfw therefore provides one of the first engineering related services to the Group.</p>
+            <p style="text-align:center"><img src="images/overview/industools.png" height="450" width="800" alt="devonfw in the SBU indus-catalogue"/></p>
+            <p>Please be aware that services on the left are visible to the whole SBU but the three supporting services on the right are visible in Spain and Germany only. However, don't hesitate to contact us anyway.</p>
+          </div>
+
           <!--div class="bs-docs-section" id="sec1">
             <h2 id="sec1-1">Caption A</h2>
             <p class="lead">Lorem ipsum</p>
@@ -412,6 +420,9 @@
 				      </li>
 				      <li>
 				        <a href="#sec6">License</a>
+				      </li>
+				      <li>
+				        <a href="#sec7">INDUS services</a>
 				      </li>
 				    </ul>
 				    <ul class="nav">
