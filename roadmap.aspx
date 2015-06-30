@@ -106,7 +106,6 @@
 						<ul>
 							<li>devonfw server with plugin-system (using OASP4j 1.3.0)</li>
 							<li>Alternative deployment as EAR</li>
-							<li>Batch component</li>
 							<li>Metadata-protocol on server interfaces</li>
               <li>devon<b>4</b>sencha module for RIA development</li>
 							<li>Aligned Sencha RIA showcase</li>
@@ -148,6 +147,7 @@
 					<p>
 						<h3><span class="fa fa-cube text-info"></span> Solution</h3>
 						<ul>
+							<li>Batch component</li>
               <li>File upload/download</li>
               <li>Reporting with JasperReports</li>
 							<li>Mobile support with Sencha Touch</li>
