@@ -153,7 +153,7 @@ margin-right:10px;
                 <ul>
                   <li><p><a target="_blank" href="http://devon-ci.cloudapp.net/devonfw-sample-server/jsclient">devon4sencha sample application</a>
                   <p>Further Sencha UI examples are avaiable under request from real engagements. Please contact us at yammer or by mail to be able to access</p></li>
-                  <li><a target="_blank" href="http://oasp-ci.cloudapp.net/oasp4j-sample-server/jsclient">OASP4JS sample application</a></li>
+                  <li><a target="_blank" href="http://oasp-ci.cloudapp.net/oasp4j-sample/jsclient">OASP4JS sample application</a></li>
                 </ul>
               </li>
             <li>
