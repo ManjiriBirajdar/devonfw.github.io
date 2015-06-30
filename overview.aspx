@@ -223,7 +223,7 @@
               <div class="col-lg-6 devon">
                 <h3 id="sec5-4">Sencha Web Client Example</h3>
                 <p>Here you find the <a href="http://devon-ci.cloudapp.net/devonfw-sample-server/jsclient" target="_blank">Sencha example application &raquo;</a> to play with.</p>
-                <p>Here you find the <a href="https://github.com/devonvw/devon4sencha" target="_blank">Sencha Example Repo &raquo;</a></p>
+                <p>Here you find the <a href="https://github.com/devonfw/devon4sencha" target="_blank">Sencha Example Repo &raquo;</a></p>
               </div>
               <div class="col-lg-6 oasp">
                 <h3 id="sec5-5">AngularJs Client Example</h3>
@@ -303,7 +303,7 @@
               </div>
               <div class="col-lg-6 oasp">
                 <h3 id="sec5-5">AngularJs Client IDE</h3>
-                <p>Here you find the <a href="" target="_blank">AngularJs IDE setup guide &raquo;</a></p>
+                <p>Here you find the <a href="https://github.com/oasp/oasp4js/wiki/IDE-agnostic-setup" target="_blank">AngularJs IDE setup guide &raquo;</a></p>
               </div>
             </div>
             <div class="row">
