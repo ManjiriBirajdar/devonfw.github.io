@@ -168,37 +168,16 @@
 
             <p style="text-align:center"><img src="images/overview/devon_buildingblocks.png" alt="building blocks of devonfw"/></p>
 
-						<!--
-					  <ul>
-					    <li>Angular Client</li>
-					    <li>Sencha Client</li>
-					    <li>Server</li>
-		          <li>Add-On-IP</li>
-		          <li>Tools</li>
-					    <ul>
-			         <li>Integrated Development Env</li>
-			         <li>CobiGen</li>
-					    </ul>
-							<li>Supporting Documentation & Tutorials</li>
-							<li>Reference implementation</li>
-					  </ul> -->
+            <p>devonfw uses a state-of-the-art open source core reference architecture for the server (today considerd as commodity in the IT-industry) and on top of it an ever increasing number of high-value assets that are Capgemini IP.
+            Why do we use an open source core?: in some countries of the SBU clients only accept open source stacks (most to mention customers who want to stay vendor-independent by principle), so being open is a market need.
+            This also is the rationale for providing a open source reference architecture for the client built with AngularJs (open source itself). The picture above shows the open-source parts of devonfw on the left.</p>
 
             <h3 id="sec1-4">Technology Overview</h3>
 
             <p>As any modern java application today, devonfw is based on a large number of technologies and standards that build the software architecture.
             devonfw defines how to use these technologies in a layered component-oriented architecture to solve all the technical aspects that make the business code work.
             <p>
-
             <p style="text-align:center"><img src="images/overview/devon_technologies_used.png" alt="technology stack of devonfw"/></p>
-						<br/>
-
-            <h3 id="sec1-5">devonfw IP and open source</h3>
-            <p>devonfw uses a state-of-the-art open source core reference architecture for the server (today considerd as commodity in the IT-industry) and on top of it an ever increasing number of high-value assets that are Capgemini IP.
-            Why do we use an open source core: in some countries of the SBU clients only accept open source stacks (most to mention customers who want to stay vendor-independent by principle), so being open is a market need.
-            This also is the rationale for providing a open source reference architecture for the client built with AngularJs.
-            The following picture shows the line between IP and open source.
-            </p>
-            <p style="text-align:center"><a href="images/overview/devon-fw_devon-os.png"><img src="images/overview/devon-fw_devon-os" width="600" height="300" alt="devonfw assets IP vs OS"/></a></p>
           </div>
 
           <div class="bs-docs-section" id="sec2" style="background-image: url(images/overview/restaurant.png)">
@@ -298,8 +277,9 @@
             <div class="row">
               <div class="col-lg-6 devon">
                 <h3 id="sec5-4">Sencha Cmd</h3>
-                <p>Leveraging Sencha own productivity tool (Sencha Cmd), devonfw environment includes the set-up for the tool and creating Sencha workspaces for applications</p>
-								<p>There is also an StarterTemplate for fast application start, kind of a maven archetype but for Sencha applications</p>
+                <p>Leveraging Sencha own productivity tool (Sencha Cmd), devonfw environment includes the set-up for the tool and creating Sencha workspaces for applications.</p>
+								<p>There is also an StarterTemplate for fast application start, kind of a maven archetype but for Sencha applications.
+                The Sencha tool is part of the devonfw distribution install package.</p>
               </div>
               <div class="col-lg-6 oasp">
                 <h3 id="sec5-5">AngularJs Client IDE</h3>
@@ -431,7 +411,6 @@
 				          <li><a href="#sec1-2">Summary</a></li>
 				          <li><a href="#sec1-3">What is in the package?</a></li>
 				          <li><a href="#sec1-4">Technology overview</a></li>
-				          <li><a href="#sec1-5">IP and open source</a></li>
 				        </ul>
 				      </li>
 				      <li>
@@ -446,7 +425,6 @@
 				          <li><a href="#sec4-1">IDE</a></li>
 				          <li><a href="#sec4-2">CoBiGen</a></li>
 				          <li><a href="#sec4-3">CI</a></li>
-				          <li><a href="#sec4-4">DocGen</a></li>
 				        </ul>
 				      </li>
 				      <li>
