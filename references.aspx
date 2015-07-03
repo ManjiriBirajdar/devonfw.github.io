@@ -259,7 +259,70 @@
 						  <td>May 2015</td>
 						  <td>Koen Huisstede</td>
 						  <td>in progress</td>
-						</tr>		
+						</tr>	
+						<tr>
+						  <td>Spain</td>
+						  <td>Vaesa - Volkswagen Audi Spain </td>
+						  <td>devonfw</td>
+						  <td>Rappels and Compensation System Re-engineering</td>
+						  <td>September 2015</td>
+						  <td>Manuel Cid Garcia</td>
+						  <td>in progress</td>
+						</tr>
+						<tr>
+						  <td>Spain</td>
+						  <td>Carrefour</td>
+						  <td>devonfw</td>
+						  <td>Optimization of distribution processes and tracking customer orders</td>
+						  <td>Juli 2015</td>
+						  <td>Manuel Cid Garcia</td>
+						  <td>in progress</td>
+						</tr>						
+						<tr>
+						  <td>Spain</td>
+						  <td>Carrefour</td>
+						  <td>devonfw</td>
+						  <td>Logistics system re-engineering to Devon</td>
+						  <td>September 2015</td>
+						  <td>Manuel Cid Garcia</td>
+						  <td>in progress</td>
+						</tr>						
+						<tr>
+						  <td>Spain</td>
+						  <td>Valencia University </td>
+						  <td>devonfw</td>
+						  <td>new modules, introduce new Devon</td>
+						  <td>August 2015</td>
+						  <td>Manuel Cid Garcia</td>
+						  <td>in progress</td>
+						</tr>						
+						<tr>
+						  <td>Spain</td>
+						  <td>Iberia</td>
+						  <td>devonfw</td>
+						  <td>Tablet Application for Flight Coordinators</td>
+						  <td>September 2015</td>
+						  <td>Manuel Cid Garcia</td>
+						  <td>in progress</td>
+						</tr>
+						<tr>
+						  <td>Spain</td>
+						  <td>UMH - Miguel Hernandez University </td>
+						  <td></td>
+						  <td>eAdministration Platform SOA/BPM</td>
+						  <td>October 2015</td>
+						  <td>Manuel Cid Garcia</td>
+						  <td>in progress</td>
+						</tr>	
+						<tr>
+						  <td>Spain</td>
+						  <td>Malaga Town Council eAdministration Platform</td>
+						  <td>devonfw</td>
+						  <td></td>
+						  <td>August 2015</td>
+						  <td>Manuel Cid Garcia</td>
+						  <td>in progress</td>
+						</tr>										
 					</tbody>
 				</table>
 				</div>
