@@ -299,8 +299,8 @@
 
             <div class="row">
               <div class="col-lg-12">
-		            <h3 id="sec4-2">CoBiGen</h3>
-		            <p>CoBiGen is a high value IP asset that is used by devonfw projects to generate code across all layers of a devon-application, including the clients.
+		            <h3 id="sec4-2">CobiGen</h3>
+		            <p>  CobiGen is a high value IP asset that is used by devonfw projects to generate code across all layers of a devon-application, including the clients.
 		              It works iteratively without leaving marks or regions in the code due to its basic understanding of Java.
 		              Due to architecture patterns set in devonfw, the generator is able to support generation of higher-level concepts than just - class.
 		              It is best integrated into the provided eclipse package but also works on command line.</p>
@@ -423,7 +423,7 @@
 				        <a href="#sec4">Tooling</a>
 				        <ul class="nav">
 				          <li><a href="#sec4-1">IDE</a></li>
-				          <li><a href="#sec4-2">CoBiGen</a></li>
+				          <li><a href="#sec4-2">  CobiGen</a></li>
 				          <li><a href="#sec4-3">CI</a></li>
 				        </ul>
 				      </li>
