@@ -284,6 +284,7 @@
               <div class="col-lg-6 oasp">
                 <h3 id="sec5-5">AngularJs Client IDE</h3>
                 <p>Here you find the <a href="https://github.com/oasp/oasp4js/wiki/IDE-agnostic-setup" target="_blank">AngularJs IDE setup guide &raquo;</a></p>
+				<iframe width="356" height="200" src="https://www.youtube.com/embed/NB5N5A8gg5Q" frameborder="0" allowfullscreen></iframe>
               </div>
             </div>
             <div class="row">
