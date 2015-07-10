@@ -150,35 +150,35 @@ margin-right:10px;
             </li>
             <li><h2>View some demos <img src="images/cursor.png" width="30"></h2>
               <p>There are currently two demos simulating a restaurant management application<p>
-                <ul>
-                  <li><p><a target="_blank" href="http://devon-ci.cloudapp.net/devonfw-sample-server/jsclient">devon4sencha sample application</a>
-                  <p>Further Sencha UI examples are avaiable under request from real engagements. Please contact us at yammer or by mail to be able to access</p></li>
-                  <li><a target="_blank" href="http://oasp-ci.cloudapp.net/oasp4j-sample/jsclient">OASP4JS sample application</a></li>
-                </ul>
-              </li>
-			<li>
-			<h2>Setup the development environment</h2>
-			<p>The <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43015?dl=1">devonfw tutorial</a> will guide you how to get your development environment up and running.</a> </p>
-			<p>You can download it from the devonfw distribution 1.0.0 <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43017?dl=1">devonfw development environment (1Gb ZIP file)</a> </p>			
-			</li>
+              <ul>
+                <li><p><a target="_blank" href="http://devon-ci.cloudapp.net/devonfw-sample-server/jsclient">devon4sencha sample application</a>
+                <p>Further Sencha UI examples are avaiable under request from real engagements. Please contact us at yammer or by mail to be able to access</p></li>
+                <li><a target="_blank" href="http://oasp-ci.cloudapp.net/oasp4j-sample/jsclient">OASP4JS sample application</a></li>
+              </ul>
+            </li>
+						<li>
+							<h2>Setup the development environment <img src="images/tools.png" width="30"></h2>
+							<p>The <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43015?dl=1">devonfw tutorial</a> will guide you how to get your development environment up and running.</a> </p>
+							<p>You can download it from the devonfw distribution 1.0.0 <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43017?dl=1">devonfw development environment (1Gb ZIP file)</a> </p>			
+						</li>
             <li>
             	<h2>Read the documentation <img src="images/books.png" width="30"></h2>
               <p>Now you can start reading the devonfw main documentation for the platform as well as some step-by-step tutorials that will guide you for creating your first devonfw application</p>
               <p>You can find all files for devonfw releases on the Capgemini troom for the project</p>
-<ul>
-  <li><a href="https://coconet.capgemini.com/sf/frs/do/viewRelease/projects.apps2_devon/frs.devon_distribution.1_0_0">devonfw distribution 1.0.0 files</a></li>
-  <ul>
-     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43013?dl=1">devonfw guide</a></li>
-     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43015?dl=1">devonfw tutorial</a></li>
-     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43016?dl=1">OASP4J guide</a></li>
-     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43012?dl=1">CobiGen guide</a></li>
-     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43014?dl=1">devon4sencha guide</a></li>
-     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43021?dl=1">devon4sencha tutorial</a></li>
-  </ul>
-</ul>
+							<ul>
+							  <li><a href="https://coconet.capgemini.com/sf/frs/do/viewRelease/projects.apps2_devon/frs.devon_distribution.1_0_0">devonfw distribution 1.0.0 files</a></li>
+							  <ul>
+							     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43013?dl=1">devonfw guide</a></li>
+							     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43015?dl=1">devonfw tutorial</a></li>
+							     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43016?dl=1">OASP4J guide</a></li>
+							     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43012?dl=1">CobiGen guide</a></li>
+							     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43014?dl=1">devon4sencha guide</a></li>
+							     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43021?dl=1">devon4sencha tutorial</a></li>
+							  </ul>
+							</ul>
               <p>You can also access the documentation in wiki format from the Github project pages</p>
               <ul>
-		<li><a href="https://github.com/devonfw/devon/wiki/tutorial-devon-introduction" role="button" target="_blank">devonfw wiki  <span class="note"> - GitHub private repo, please request access</span></a></li>
+								<li><a href="https://github.com/devonfw/devon/wiki/tutorial-devon-introduction" role="button" target="_blank">devonfw wiki  <span class="note"> - GitHub private repo, please request access</span></a></li>
                 <li><a href="https://github.com/oasp/oasp4js/wiki" role="button" target="_blank">OASP4js wiki <span class="note"> - GitHub public repository</span></a></li>
                 <li><a href="https://github.com/devonfw/devon4sencha/wiki/guide-devon4sencha-introduction" target="_blank">devon4sencha wiki <span class="note"> - GitHub private repo, please request access</span></a></li>
               </ul>
