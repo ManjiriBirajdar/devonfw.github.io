@@ -284,17 +284,17 @@
               <div class="col-lg-6 oasp">
                 <h3 id="sec5-5">AngularJs Client IDE</h3>
                 <p>Here you find the <a href="https://github.com/oasp/oasp4js/wiki/IDE-agnostic-setup" target="_blank">AngularJs IDE setup guide &raquo;</a></p>
-				<iframe width="356" height="200" src="https://www.youtube.com/embed/NB5N5A8gg5Q" frameborder="0" allowfullscreen></iframe>
+								<iframe width="356" height="200" src="https://www.youtube.com/embed/NB5N5A8gg5Q" frameborder="0" allowfullscreen></iframe>
               </div>
             </div>
             <div class="row">
-              <div class="col-lg-6 devon">
+              <div class="col-lg-12 devon">
                 <h3 id="sec5-2">devonfw Server IDE</h3>
-                <p>The prepackaged and preconfigured IDE to start your project is Eclipse-based. It contains an eclipse-archetype definition that allows to create a empty devonfw application. It further provides integration such as: static code quality check, issues, test-server, etc. You can get this package running in about 2hours. The same package can be used to contribute to the devonfw product since we put all example implementations into the Eclipse workspace.</p>
-								<p>You can download the IDE (zip) from the devonfw teamforge <a href="https://coconet.capgemini.com/sf/frs/do/viewRelease/projects.apps2_devon/frs.devon_distribution.1_0_0">file release area</a>.</p>
+                <p>devonfw comes with a prepackaged and preconfigured Eclipse-IDE. It contains an eclipse-archetype definition that allows to create an empty devonfw application. 
+                It further provides integration with several dozens of plugins including UML reverse-engineering, automatic adding of version-tags, soap-ui, terminal integration, sonarcube, anyedit, checkstyle, findbugs, eclemma for code-coverage, regexp-plugin, etc.
+								The same package you use for your customer project can be used to contribute to the devonfw product since we put all example implementations into the Eclipse workspace.</p>
+								<p>You can download the IDE (zip) from the devonfw teamforge <a href="https://coconet.capgemini.com/sf/frs/do/viewRelease/projects.apps2_devon/frs.devon_distribution.1_0_0">file release area</a>. Follow the <a href="https://github.com/oasp/oasp4j/wiki/oasp-ide-setup" target="_blank">IDE setup guide</a> to set up the IDE in less than 2 hours.</p>
 		            <p style="text-align:center"><img src="images/overview/IntegratedIDE.png" height="450" width="800" alt="Eclipse IDE"/></p>
-
-                <p>Here you find the <a href="https://github.com/oasp/oasp4j/wiki/oasp-ide-setup" target="_blank">devonfw IDE setup guide &raquo;</a>
               </div>
             </div>
 
