@@ -249,7 +249,7 @@
 								  <td>used a tailored devon-prototype</td>
 								  <td>May 2015</td>
 								  <td>Karl Prott</td>
-								  <td>in progress</td>
+								  <td>win</td>
 								</tr>						
 								<tr>
 								  <td>Netherlands</td>
