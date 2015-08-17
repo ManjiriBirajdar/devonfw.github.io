@@ -116,9 +116,8 @@
 	        <div class="col-sm-4">
 	          <img class="img-responsive halfimg center-block" src="images/mail.png"/>
 	          <h3>Mail</h3>
-	          <p><a href="mailto:marco.rose@capgemini.com;angel-luis.marin-soler@capgemini.com">devonfw Team</a></p>
+	          <p><a href="mailto:icsddevonfwsupport.apps2@capgemini.com">devonfw Team</a></p>
 	          <p><a href="mailto:marek.matczak@capgemini.com">SPOC OASP4js</a></p></p>
-	          <p><a href="mailto:gerhard.pews@capgemini.com;angel-luis.marin-soler@capgemini.com">SBU Design authority (members)</a></p></p>
 	          <p><a href="mailto:thilo.hermann@capgemini.com">iCSD Lead</a></p></p>
 	        </div>
 	      </div>
@@ -126,7 +125,7 @@
 	      <div class="row callout callout-blue">
           <div class="col-lg-12">
           <h1>Notes on Contribution</h1>
-          <p>devonfw Platform is organized in a way that it is easy for you to contribute. Therefore we have chosen to use github - the number one platform for social coding - which provides lean processes and great tooling. Currently most repositories are marked as private, hence invisible to you. You can send an email from your Capgemini account with your github login to the <a href="mailto:joerg.hohwiller@capgemini.com">dedicated core team</a> if you want to get access. Please ensure your real name is set in your github account or your login is matching your Capgemini CORP login. You will be also added to our Capgemini OASP mailing list (see contact).</p>
+          <p>devonfw Platform is organized in a way that it is easy for you to contribute. Therefore we have chosen to use github - the number one platform for social coding - which provides lean processes and great tooling. Currently most repositories are marked as private, hence invisible to you. You can send an email from your Capgemini account with your github login to the <a href="mailto:icsddevonfwsupport.apps2@capgemini.com">devonfw team</a> if you want to get access. Please ensure your real name is set in your github account or your login is matching your Capgemini CORP login. You will be also added to our Capgemini OASP mailing list (see contact).</p>
         </div>
         <div class="col-lg-3">
 		      <a href="images/devon-collaboration.png"><img src="images/devon-collaboration.png" class="fullimg"/></a>

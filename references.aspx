@@ -87,16 +87,16 @@
       </div>
     </div>
 
-      <div class="container">
+    <div class="container">
       <div class="jumbotron">
         <h1>References</h1>
-        <p class="text-success">If you are investigating, exploring or planning to use a component or concept (even partially) of devonfw/OASP, !please! send a note to <a href="mailto:marco.rose@capgemini.com;angel-luis.marin-soler@capgemini.com">devonfw Team</a>.</p>
+        <p class="text-success">If you are investigating, exploring or planning to use a component or concept (even partially) of devonfw/OASP, !please! send a note to <a href="mailto:icsddevonfwsupport.apps2@capgemini.com">devonfw Team</a>.</p>
       </div>
 
-        <div class="row">
+      <div class="row">
       	<div class="col-lg-12">
- 			<h2>Foundations of devonfw</h2>
- 			<p>devonfw has been built on the foundation of large CSD platforms that have been developed and improved over years.</p>
+		 			<h2>Foundations of devonfw</h2>
+		 			<p>devonfw has been built on the foundation of large CSD platforms that have been developed and improved over years.</p>
 		    <div>
 					<table class="table table-bordered table-bordered-blue">
 						<thead>
@@ -131,7 +131,6 @@
 				</div>
 			</div>
 		</div>
-
 			
 		<div class="row">
 			<div class="col-lg-12">
@@ -198,182 +197,182 @@
 	    </div>
 			
 			<div class="row">
-			<div class="col-lg-12">
-			<h2>Used in akquisitions</h2>
-			<p>devonfw/OASP has been considered in the following sales.</p>
+				<div class="col-lg-12">
+					<h2>Used in akquisitions</h2>
+					<p>devonfw/OASP has been considered in the following sales.</p>
+
 			    <div class="table-responsive">
-				<table class="table table-bordered table-bordered-blue">
-					<thead>
-						<tr>
-						  <th>Country</th>
-						  <th>Opportunity</th>
-						  <th>devonfw components</th>
-						  <th>Remark</th>
-						  <th>Date</th>
-						  <th>Contact</th>
-						  <th>Status</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-						  <td>Germany</td>
-						  <td>Munich City Council SOWON</td>
-						  <td>full OASP4j, OASP4js</td>
-						  <td>JEE-Platform for housing allocation</td>
-						  <td>February 2015</td>
-						  <td>Sascha Aderhold</td>
-						  <td>lost</td>
-						</tr>
-						<tr>
-						  <td>Germany</td>
-						  <td>Open Grid Europe (OGE)</td>
-						  <td>full OASP4j</td>
-						  <td>Usage of SAP Hana as Backend</td>
-						  <td>April 2015</td>
-						  <td>Roman Bartlog</td>
-						  <td>lost</td>
-						</tr>						
-						<tr>
-						  <td>Germany</td>
-						  <td>Lufthansa</td>
-						  <td>airline.com</td>
-						  <td>OASP4js</td>
-						  <td>April 2015</td>
-						  <td>Stefan Sack</td>
-						  <td>in progress</td>
-						</tr>						
-						<tr>
-						  <td>Germany</td>
-						  <td>Bundesnotarkammer</td>
-						  <td>OASP4j/OASP4js</td>
-						  <td>used a tailored devon-prototype</td>
-						  <td>May 2015</td>
-						  <td>Karl Prott</td>
-						  <td>in progress</td>
-						</tr>						
-						<tr>
-						  <td>Netherlands</td>
-						  <td>Cadastre (public)</td>
-						  <td>devonfw & OASP4js</td>
-						  <td>devonfw Server & AngularJS perfect match</td>
-						  <td>May 2015</td>
-						  <td>Koen Huisstede</td>
-						  <td>in progress</td>
-						</tr>	
-						<tr>
-						  <td>Spain</td>
-						  <td>Vaesa - Volkswagen Audi Spain </td>
-						  <td>devonfw</td>
-						  <td>Rappels and Compensation System Re-engineering</td>
-						  <td>September 2015</td>
-						  <td>Manuel Cid Garcia</td>
-						  <td>in progress</td>
-						</tr>
-						<tr>
-						  <td>Spain</td>
-						  <td>Carrefour</td>
-						  <td>devonfw</td>
-						  <td>Optimization of distribution processes and tracking customer orders</td>
-						  <td>Juli 2015</td>
-						  <td>Manuel Cid Garcia</td>
-						  <td>in progress</td>
-						</tr>						
-						<tr>
-						  <td>Spain</td>
-						  <td>Carrefour</td>
-						  <td>devonfw</td>
-						  <td>Logistics system re-engineering to Devon</td>
-						  <td>September 2015</td>
-						  <td>Manuel Cid Garcia</td>
-						  <td>in progress</td>
-						</tr>						
-						<tr>
-						  <td>Spain</td>
-						  <td>Valencia University </td>
-						  <td>devonfw</td>
-						  <td>new modules, introduce new Devon</td>
-						  <td>August 2015</td>
-						  <td>Manuel Cid Garcia</td>
-						  <td>in progress</td>
-						</tr>						
-						<tr>
-						  <td>Spain</td>
-						  <td>Iberia</td>
-						  <td>devonfw</td>
-						  <td>Tablet Application for Flight Coordinators</td>
-						  <td>September 2015</td>
-						  <td>Manuel Cid Garcia</td>
-						  <td>in progress</td>
-						</tr>
-						<tr>
-						  <td>Spain</td>
-						  <td>UMH - Miguel Hernandez University </td>
-						  <td></td>
-						  <td>eAdministration Platform SOA/BPM</td>
-						  <td>October 2015</td>
-						  <td>Manuel Cid Garcia</td>
-						  <td>in progress</td>
-						</tr>	
-						<tr>
-						  <td>Spain</td>
-						  <td>Malaga Town Council eAdministration Platform</td>
-						  <td>devonfw</td>
-						  <td></td>
-						  <td>August 2015</td>
-						  <td>Manuel Cid Garcia</td>
-						  <td>in progress</td>
-						</tr>										
-					</tbody>
-				</table>
+						<table class="table table-bordered table-bordered-blue">
+							<thead>
+								<tr>
+								  <th>Country</th>
+								  <th>Opportunity</th>
+								  <th>devonfw components</th>
+								  <th>Remark</th>
+								  <th>Date</th>
+								  <th>Contact</th>
+								  <th>Status</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+								  <td>Germany</td>
+								  <td>Munich City Council SOWON</td>
+								  <td>full OASP4j, OASP4js</td>
+								  <td>JEE-Platform for housing allocation</td>
+								  <td>February 2015</td>
+								  <td>Sascha Aderhold</td>
+								  <td>lost</td>
+								</tr>
+								<tr>
+								  <td>Germany</td>
+								  <td>Open Grid Europe (OGE)</td>
+								  <td>full OASP4j</td>
+								  <td>Usage of SAP Hana as Backend</td>
+								  <td>April 2015</td>
+								  <td>Roman Bartlog</td>
+								  <td>lost</td>
+								</tr>						
+								<tr>
+								  <td>Germany</td>
+								  <td>Lufthansa</td>
+								  <td>airline.com</td>
+								  <td>OASP4js</td>
+								  <td>April 2015</td>
+								  <td>Stefan Sack</td>
+								  <td>in progress</td>
+								</tr>						
+								<tr>
+								  <td>Germany</td>
+								  <td>Bundesnotarkammer</td>
+								  <td>OASP4j/OASP4js</td>
+								  <td>used a tailored devon-prototype</td>
+								  <td>May 2015</td>
+								  <td>Karl Prott</td>
+								  <td>in progress</td>
+								</tr>						
+								<tr>
+								  <td>Netherlands</td>
+								  <td>Cadastre (public)</td>
+								  <td>devonfw & OASP4js</td>
+								  <td>devonfw Server & AngularJS perfect match</td>
+								  <td>May 2015</td>
+								  <td>Koen Huisstede</td>
+								  <td>in progress</td>
+								</tr>	
+								<tr>
+								  <td>Spain</td>
+								  <td>Vaesa - Volkswagen Audi Spain </td>
+								  <td>devonfw</td>
+								  <td>Rappels and Compensation System Re-engineering</td>
+								  <td>September 2015</td>
+								  <td>Manuel Cid Garcia</td>
+								  <td>in progress</td>
+								</tr>
+								<tr>
+								  <td>Spain</td>
+								  <td>Carrefour</td>
+								  <td>devonfw</td>
+								  <td>Optimization of distribution processes and tracking customer orders</td>
+								  <td>Juli 2015</td>
+								  <td>Manuel Cid Garcia</td>
+								  <td>in progress</td>
+								</tr>						
+								<tr>
+								  <td>Spain</td>
+								  <td>Carrefour</td>
+								  <td>devonfw</td>
+								  <td>Logistics system re-engineering to Devon</td>
+								  <td>September 2015</td>
+								  <td>Manuel Cid Garcia</td>
+								  <td>in progress</td>
+								</tr>						
+								<tr>
+								  <td>Spain</td>
+								  <td>Valencia University </td>
+								  <td>devonfw</td>
+								  <td>new modules, introduce new Devon</td>
+								  <td>August 2015</td>
+								  <td>Manuel Cid Garcia</td>
+								  <td>in progress</td>
+								</tr>						
+								<tr>
+								  <td>Spain</td>
+								  <td>Iberia</td>
+								  <td>devonfw</td>
+								  <td>Tablet Application for Flight Coordinators</td>
+								  <td>September 2015</td>
+								  <td>Manuel Cid Garcia</td>
+								  <td>in progress</td>
+								</tr>
+								<tr>
+								  <td>Spain</td>
+								  <td>UMH - Miguel Hernandez University </td>
+								  <td></td>
+								  <td>eAdministration Platform SOA/BPM</td>
+								  <td>October 2015</td>
+								  <td>Manuel Cid Garcia</td>
+								  <td>in progress</td>
+								</tr>	
+								<tr>
+								  <td>Spain</td>
+								  <td>Malaga Town Council eAdministration Platform</td>
+								  <td>devonfw</td>
+								  <td></td>
+								  <td>August 2015</td>
+								  <td>Manuel Cid Garcia</td>
+								  <td>in progress</td>
+								</tr>										
+							</tbody>
+						</table>
+					</div>
 				</div>
-			</div>
 			</div>
 
 			
 			<div class="row">
-			<div class="col-lg-12">
-			<h2>Under investigation by</h2>
-			<p>devonfw/OASP is under investigation by the following projects</p>
+				<div class="col-lg-12">
+					<h2>Under investigation by</h2>
+					<p>devonfw/OASP is under investigation by the following projects</p>
 			    <div class="table-responsive">
-				<table class="table table-bordered table-bordered-blue">
-					<thead>
-						<tr>
-						  <th>Country</th>
-						  <th>Project</th>
-						  <th>devonfw components</th>
-						  <th>Remark</th>
-						  <th>Contact</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-						  <td>France</td>
-						  <td>Sodexo</td>
-						  <td>full OASP4j</td>
-						  <td>small application to support custom features for a CMS</td>
-						  <td>Lilian Chamontin, Franck Stephanovitch</td>
-						</tr>
-						<tr>
-						  <td>France</td>
-						  <td>l`ASIP</td>
-						  <td>full OASP4j</td>
-						  <td></td>
-						  <td>Mabrouk Belhout, Kevin Raynel</td>
-						</tr>
-						<tr>
-						  <td>Germany</td>
-						  <td>UTA</td>
-						  <td>full OASP4j</td>
-						  <td>Present devonfw/OASP to customer</td>
-						  <td>Joerg Hohwiller</td>
-						</tr>
-					</tbody>
-				</table>
+						<table class="table table-bordered table-bordered-blue">
+							<thead>
+								<tr>
+								  <th>Country</th>
+								  <th>Project</th>
+								  <th>devonfw components</th>
+								  <th>Remark</th>
+								  <th>Contact</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+								  <td>France</td>
+								  <td>Sodexo</td>
+								  <td>full OASP4j</td>
+								  <td>small application to support custom features for a CMS</td>
+								  <td>Lilian Chamontin, Franck Stephanovitch</td>
+								</tr>
+								<tr>
+								  <td>France</td>
+								  <td>l`ASIP</td>
+								  <td>full OASP4j</td>
+								  <td></td>
+								  <td>Mabrouk Belhout, Kevin Raynel</td>
+								</tr>
+								<tr>
+								  <td>Germany</td>
+								  <td>UTA</td>
+								  <td>full OASP4j</td>
+								  <td>Present devonfw/OASP to customer</td>
+								  <td>Joerg Hohwiller</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
 				</div>
 			</div>
-			</div>
 			
-
       <!-- Site footer -->
       <footer class="footer">
         <div class="col-md-9">
