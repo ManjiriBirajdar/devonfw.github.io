@@ -377,7 +377,7 @@
           <div class="bs-docs-section" id="sec6">
             <h2>License</h2>
             <p>IP: You can use devonfw in your Capgemini project. A legally approved licensing model including liablity terms is not yet in place. The licensing aims to allow the usage of the platform in Capgemini-projects for any customer. TBD!</p>
-            <p>Open Source: The core of devonfw is licensed as open source under the <a href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons License (Attribution-NoDerivatives 4.0 International)</a>.</p>
+            <p>Open Source: The technical core of devonfw is licensed as open source under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License 2.0</a>. The related documentation to the core-architecture is licensed under  <a href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons License (Attribution-NoDerivatives 4.0 International)</a>.</p>
           </div>
 
           <div class="bs-docs-section" id="sec7">
