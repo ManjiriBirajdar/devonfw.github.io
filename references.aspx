@@ -235,18 +235,9 @@
 								</tr>						
 								<tr>
 								  <td>Germany</td>
-								  <td>Lufthansa</td>
-								  <td>airline.com</td>
-								  <td>OASP4js</td>
-								  <td>April 2015</td>
-								  <td>Stefan Sack</td>
-								  <td>in progress</td>
-								</tr>						
-								<tr>
-								  <td>Germany</td>
 								  <td>Bundesnotarkammer</td>
 								  <td>OASP4j/OASP4js</td>
-								  <td>used a tailored devon-prototype</td>
+								  <td>devon-team provided a tailored devon-prototype</td>
 								  <td>May 2015</td>
 								  <td>Karl Prott</td>
 								  <td>win</td>
@@ -258,7 +249,7 @@
 								  <td>devonfw Server & AngularJS perfect match</td>
 								  <td>May 2015</td>
 								  <td>Koen Huisstede</td>
-								  <td>in progress</td>
+								  <td>withdrawn</td>
 								</tr>	
 								<tr>
 								  <td>Spain</td>
@@ -267,34 +258,25 @@
 								  <td>Rappels and Compensation System Re-engineering</td>
 								  <td>September 2015</td>
 								  <td>Manuel Cid Garcia</td>
-								  <td>in progress</td>
+								  <td>in bid phase</td>
 								</tr>
 								<tr>
 								  <td>Spain</td>
 								  <td>Carrefour</td>
 								  <td>devonfw</td>
-								  <td>Optimization of distribution processes and tracking customer orders</td>
-								  <td>Juli 2015</td>
+								  <td>Optimization of distribution processes and tracking customer orders.</td>
+								  <td>August 2015</td>
 								  <td>Manuel Cid Garcia</td>
-								  <td>in progress</td>
+								  <td>win</td>
 								</tr>						
 								<tr>
 								  <td>Spain</td>
 								  <td>Carrefour</td>
 								  <td>devonfw</td>
-								  <td>Logistics system re-engineering to Devon</td>
+								  <td>Logistics system re-engineering to Devon. Customer buys devon-package.</td>
 								  <td>September 2015</td>
 								  <td>Manuel Cid Garcia</td>
-								  <td>in progress</td>
-								</tr>						
-								<tr>
-								  <td>Spain</td>
-								  <td>Valencia University </td>
-								  <td>devonfw</td>
-								  <td>new modules, introduce new Devon</td>
-								  <td>August 2015</td>
-								  <td>Manuel Cid Garcia</td>
-								  <td>in progress</td>
+								  <td>win</td>
 								</tr>						
 								<tr>
 								  <td>Spain</td>
@@ -303,7 +285,7 @@
 								  <td>Tablet Application for Flight Coordinators</td>
 								  <td>September 2015</td>
 								  <td>Manuel Cid Garcia</td>
-								  <td>in progress</td>
+								  <td>in bid phase</td>
 								</tr>
 								<tr>
 								  <td>Spain</td>
@@ -312,7 +294,7 @@
 								  <td>eAdministration Platform SOA/BPM</td>
 								  <td>October 2015</td>
 								  <td>Manuel Cid Garcia</td>
-								  <td>in progress</td>
+								  <td>in bid phase</td>
 								</tr>	
 								<tr>
 								  <td>Spain</td>
@@ -321,52 +303,81 @@
 								  <td></td>
 								  <td>August 2015</td>
 								  <td>Manuel Cid Garcia</td>
-								  <td>in progress</td>
+								  <td>in bid phase</td>
+								</tr>										
+								<tr>
+								  <td>Germany</td>
+								  <td>ZDF</td>
+								  <td>devonfw</td>
+								  <td>Microservices-Architecture with devonfw services (REST) and persistence</td>
+								  <td>October 2015</td>
+								  <td>Marco Rose</td>
+								  <td>in bid phase</td>
+								</tr>										
+								<tr>
+								  <td>France</td>
+								  <td>?</td>
+								  <td>devonfw</td>
+								  <td>?</td>
+								  <td>October 2015</td>
+								  <td>Thilo Herrmann</td>
+								  <td>in bid phase</td>
 								</tr>										
 							</tbody>
 						</table>
 					</div>
 				</div>
 			</div>
-
 			
 			<div class="row">
 				<div class="col-lg-12">
-					<h2>Under investigation by</h2>
-					<p>devonfw/OASP is under investigation by the following projects</p>
+					<h2>University activities</h2>
+					<p>devonfw/OASP is used within the following university-collaborations to attract students.</p>
 			    <div class="table-responsive">
 						<table class="table table-bordered table-bordered-blue">
 							<thead>
 								<tr>
 								  <th>Country</th>
-								  <th>Project</th>
-								  <th>devonfw components</th>
-								  <th>Remark</th>
+								  <th>University</th>
+								  <th>Activity</th>
+								  <th>Date</th>
 								  <th>Contact</th>
+								  <th>Status</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
-								  <td>France</td>
-								  <td>Sodexo</td>
-								  <td>full OASP4j</td>
-								  <td>small application to support custom features for a CMS</td>
-								  <td>Lilian Chamontin, Franck Stephanovitch</td>
-								</tr>
-								<tr>
-								  <td>France</td>
-								  <td>l`ASIP</td>
-								  <td>full OASP4j</td>
-								  <td></td>
-								  <td>Mabrouk Belhout, Kevin Raynel</td>
-								</tr>
+								  <td>Spain</td>
+								  <td>Valencia University </td>
+								  <td>agreement for a cathedra / chair on Devon for students</td>
+								  <td>August 2015</td>
+								  <td>Manuel Cid Garcia</td>
+								  <td>started</td>
+								</tr>						
 								<tr>
 								  <td>Germany</td>
-								  <td>UTA</td>
-								  <td>full OASP4j</td>
-								  <td>Present devonfw/OASP to customer</td>
-								  <td>Joerg Hohwiller</td>
-								</tr>
+								  <td>University of Kaiserlautern</td>
+								  <td>Practical semester for a group of students to build a mobile client on OASP with AngularJs, IONIC, Cordova.</td>
+								  <td>April - September 2015</td>
+								  <td>Malte Brunnlieb</td>
+								  <td>finished</td>
+								</tr>						
+								<tr>
+								  <td>Germany</td>
+								  <td>University of Cologne/Gummersbach</td>
+								  <td>Practical semester for a group of students to develop and integrate richt-client-controls into OASP4js.</td>
+								  <td>September 2015 - February 2016</td>
+								  <td>Axel Burghoff</td>
+								  <td>started</td>
+								</tr>						
+								<tr>
+								  <td>Germany</td>
+								  <td>University of Darmstadt</td>
+								  <td>Series of lectures on software engineering using devon-material.</td>
+								  <td>September 2015 - February 2016</td>
+								  <td>Martin Girschick</td>
+								  <td>planned</td>
+								</tr>						
 							</tbody>
 						</table>
 					</div>

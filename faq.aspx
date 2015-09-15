@@ -111,38 +111,29 @@
             	</div>
             	<div id="collapseZero" class="panel-collapse collapse">
             		<div class="panel-body">
-              		<p>You can use several ways to get access to the source files behind the pages.
-              			<p class="text-danger">Attention: You can only access these files by using Internet Explorer</p>
+              		<p>For full version control, these pages are maintained in a github-repository and copied on demand to the Capgemini-devonfw-sharepoint</p>
+              		<p>To change a page, follow these steps
               			<ol>
               				<p>
-              					<li>Access via Windows Explorer:</li>
+              					<li>Checkout from GitHub</li>
           								<ul>
-          									<li>Open Windows Explorer (e.g. by Windows Key + E) and type "<span class="text-info">\\troom.capgemini.com@SSL\DavWWWRoot\sites\vcc\devon</span>" without quotation marks.</li>
-          									<li>Now you get the overview over all source files.</li>
+          									<li>Have a GitHub client installed on your computer. Be informed about GitHub usage and procedures.</li>
+          									<li>Clone the repo: https://github.com/devonfw/devonfw.github.io</li>
+          									<li>Be aware that there are two branches used: private and master. You may want to switch to either of the branches to find the file to be changed.</li>
+          									<li>Make changes to the files and verify in your browser (i.e. IE).</li>
+          									<li>Commit and push changed contents back to GitHub.</li>
           								</ul>
+          							</li>
           						</p>
-          						<p>
-                				<li>Access via SharePoint:</li>
-                					<ul>
-            								<li>Click <a href="https://troom.capgemini.com/sites/vcc/devon/Forms/AllItems.aspx">here</a> or at the right top corner of every page to switch to Mircosoft SharePoint, where an overview over all available source files is given.</li>
-            								<li>Left click "Actions" from the menu bar and select "Open with Windows explorer".</li>
-            								<li>Now you are able to change the source files in the opening explorer window.</li>
-            							</ul>
-            					</p>
-            					<p>
-            						<li>Access via SharePoint, <span class="text-danger">for frequent usage </span>(if you have not installed Microsoft SharePoint Designer):</li>
-            							<ul>
-            								<li>Once open the file list by accessing it with one of the two approaches above.</li>
-            								<li>Change default program settings for the source files. Select the editor you would like to work with.</li>
-            								<li>From now on you can use this easy approach:</li>
-            								<ul>
-            									<li>Click <a href="https://troom.capgemini.com/sites/vcc/devon/Forms/AllItems.aspx">here</a> or at the right top corner of every page to switch to Mircosoft SharePoint, where an overview over all available source files is given.</li>
-            									<li>Hover the file you want to change and left click the orange dropdown arrow.</li>
-            									<li>Select "Edit in Microsoft SharePoint Designer" from the opened context menu.</li>
-            									<li>The selected file will now open in your standard editor.</li>
-            								</ul>
-            							</ul>
-            					</p>
+              				<p>
+              					<li>Copy changed files to Sharepoint Windows Explorer:</li>
+          								<ul>
+          									<li>Open Windows Explorer (e.g. by Windows Key + E) and type "<span class="text-info">\\troom.capgemini.com@SSL\DavWWWRoot\sites\vcc\devon</span>" without quotation marks. Now you see all source files.</li>
+          									<li>Copy the changed filed from your github-folder to this location</li>
+          									<li>Verify the changed contents on <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx">the sharepoint</a>.</li>
+          								</ul>
+          							</li>
+          						</p>
         						</ol>
               		</p>
             		</div>
