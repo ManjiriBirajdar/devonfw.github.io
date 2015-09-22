@@ -307,7 +307,16 @@
 								</tr>										
 								<tr>
 								  <td>Germany</td>
-								  <td>ZDF</td>
+								  <td>Daimler Febe</td>
+								  <td>devonfw/Sencha</td>
+								  <td>HR application, architect support from Spain planned.</td>
+								  <td>September 2015</td>
+								  <td>Thilo Hermann</td>
+								  <td>win</td>
+								</tr>										
+								<tr>
+								  <td>Germany</td>
+								  <td>ZDFonline</td>
 								  <td>devonfw</td>
 								  <td>Microservices-Architecture with devonfw services (REST) and persistence</td>
 								  <td>October 2015</td>
@@ -316,9 +325,9 @@
 								</tr>										
 								<tr>
 								  <td>France</td>
-								  <td>?</td>
+								  <td>Ecoflottes</td>
 								  <td>devonfw</td>
-								  <td>?</td>
+								  <td></td>
 								  <td>October 2015</td>
 								  <td>Thilo Herrmann</td>
 								  <td>in bid phase</td>
