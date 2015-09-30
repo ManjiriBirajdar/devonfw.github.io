@@ -150,7 +150,7 @@
 
 						<p style="text-align:center"><img src="images/overview/productivity_flexibility_impact.png" alt=""/></p>
 						<br/>
-            <p>Please promote devonfw using our <a href="https://troom.capgemini.com/sites/vcc/java/Shared%20Documents/StandardPlatform/Marketing/Flyer_Onepager/Devonfw_Flyer_EN_2015.pdf">devonfw-Flyer</a>. Other marketing material is in preparation.</p>
+            <p>Please promote devonfw using our <a href="https://www.de.capgemini.com/resource-file-access/resource/pdf/devon_2.pdf">devonfw-Flyer</a>. Other marketing material is in preparation.</p>
 
             <h3 id="sec1-3">What is in the package?</h3>
 
