@@ -316,6 +316,15 @@
 								</tr>										
 								<tr>
 								  <td>Germany</td>
+								  <td>Zivit StID</td>
+								  <td>devonfw</td>
+								  <td>Architecture blueprint using modules from OASP (REST services).</td>
+								  <td>October 2015</td>
+								  <td>Marco Rose</td>
+								  <td>in bid phase</td>
+								</tr>										
+								<tr>
+								  <td>Germany</td>
 								  <td>ZDFonline</td>
 								  <td>devonfw</td>
 								  <td>Microservices-Architecture with devonfw services (REST) and persistence</td>
@@ -330,6 +339,15 @@
 								  <td></td>
 								  <td>October 2015</td>
 								  <td>Thilo Herrmann</td>
+								  <td>in bid phase</td>
+								</tr>										
+								<tr>
+								  <td>Germany</td>
+								  <td>DHL Parcelshop</td>
+								  <td>devonfw</td>
+								  <td>using full devonfw</td>
+								  <td>October 2015</td>
+								  <td>Marco Rose</td>
 								  <td>in bid phase</td>
 								</tr>										
 							</tbody>
@@ -373,11 +391,27 @@
 								</tr>						
 								<tr>
 								  <td>Germany</td>
+								  <td>University of Darmstadt</td>
+								  <td>Practical semester for a group of students to integrate OASP with Immediate security (OAuth, OpenID, OpenAM, Kerberos).</td>
+								  <td>April - Oktober 2015</td>
+								  <td>Joerg Hohwiller</td>
+								  <td>running</td>
+								</tr>						
+								<tr>
+								  <td>Germany</td>
 								  <td>University of Cologne/Gummersbach</td>
 								  <td>Practical semester for a group of students to develop and integrate richt-client-controls into OASP4js.</td>
 								  <td>September 2015 - February 2016</td>
 								  <td>Axel Burghoff</td>
 								  <td>started</td>
+								</tr>						
+								<tr>
+								  <td>Germany</td>
+								  <td>University of Darmstadt</td>
+								  <td>Practical semester for a group of students to work on usability patterns on OASP.</td>
+								  <td>Oktober 2015 - March 2016</td>
+								  <td>Gunter Grieser</td>
+								  <td>planned</td>
 								</tr>						
 								<tr>
 								  <td>Germany</td>
