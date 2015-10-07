@@ -100,13 +100,88 @@
           <div class="col-md-10" id="main">
     			<div class="panel-group" id="accordion">
     				
+    				<!-- infrastructure section -->
+	      		<div class="faqHeader page-header bs-docs-section" id="sec1"><h2>Infrastructure questions</h2></div>
+	        		
+		      		<!-- question1 -->
+		      		<div class="panel panel-default">
+		          	<div class="panel-heading">
+		          		<h4 class="panel-title">
+		            		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" id="sec1-1">Why are we using github and not XXX?</a>
+		            	</h4>
+		          	</div>
+		          	<div id="collapseThree" class="panel-collapse collapse">
+		            	<div class="panel-body">
+										<p>A large part of devonfw - namely the OASP - is open source. This in order to gain attention and have success. Customers can use it and receive updates without getting trapped in a vendor lock-in when we publish it as open source.</p> 
+		        				<p>Github is the most popular open source platform - the number one platform for social coding. Capgemini is using Github already here and there as a channel to attract social communitys (you may like <a href="http://capgemini.github.io/" target="_blank">Capgemini architecture blog</a>).</p> 
+		        				<p>Github, via seamless git usage, pull-requests, asciidoc support (for Wiki), convenient issue-tracking, all across integrated with Eclipse IDE and other features today it is unrivaled compared to other solutions.</p> 
+		              </div>
+		          	</div>
+		      		</div>
+	    			</div>
+
+     	 			<!-- question2 -->
+	      		<div class="panel panel-default">
+	          	<div class="panel-heading">
+	          		<h4 class="panel-title">
+  	          		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" id="sec1-2">How can I join? How can I get access to the devonfw and oasp-github?</a>
+	            	</h4>
+    	      	</div>
+	          	<div id="collapseTwo" class="panel-collapse collapse">
+	            	<div class="panel-body">
+	              	<p>To access the repositories, you need to have a github account and send it to us. You should do the following steps:</p>
+	            		<ul>
+	      						<li>Create a <a href="https://github.com/join">free github account</a> - use your real name or Capgemini Corp login for your github account so we can associate you with the account. If you are not using your real name as account name please additionally state your real name in the public profile.</li>
+	      						<li>Send an email to <a href="mailto:icsddevonfwsupport.apps2@capgemini.com">devonfw Team</a> with your github name and what repo you want to work on.</li>
+	    						</ul>
+	              </div>
+	        		</div>
+		        </div>
+    				
+        		<!-- OASP section -->
+      			<div class="faqHeader page-header bs-docs-section" id="sec2"><h2>OASP related questions</h2></div>
+        		
+        		<!-- question3 -->
+        		<div class="panel panel-default">
+            	<div class="panel-heading">
+            		<h4 class="panel-title">
+              		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" id="sec2-1">How is the OASP licensed?</a>
+              	</h4>
+            	</div>
+            	<div id="collapseFour" class="panel-collapse collapse">
+              	<div class="panel-body">
+                	<p>The OASP is licensed as open source under the Apache Software License 2.0. You can find the license terms <a href="http://oasp.github.io/terms-of-use.aspx">here</a>.</p>
+                	<p>Any intellectual property of Capgemini must not be included or references by OASP but in devonfw.</p>
+                </div>
+            	</div>
+        		</div>
+        		
+        		<!-- question4 -->
+        		<div class="panel panel-default">
+            	<div class="panel-heading">
+            		<h4 class="panel-title">
+              		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" id="sec2-2">Why is the name devonfw? What means OASP? When to use what?</a>
+              	</h4>
+            	</div>
+            	<div id="collapseFive" class="panel-collapse collapse">
+              	<div class="panel-body">
+          				<p>As brand name for the entire platform we are using "devonfw", which is a brand owned by Capgemini.</p>
+          				<p>The OASP is the open-source technical core of devonfw. Keeping it separate, we can use the name OASP for university collaborations where we only focus on the open standard. OASP stands for open application standard platform.</p>
+
+          				<p>devonfw stands for devon framework - even though devonfw rather is a platform approach insteaf of a framework. In architectural terms there is a huge difference between platforms and frameworks - however, if you bother for this inconsistency, ask your husband/wife/customer for the difference - curious if they get it differentiated.</p>
+          				<p>So what is d e v o n supposed to mean then? We don't know, but if you are asked just say "develop on".</p>
+          				<p>Talking about the platform as a whole internally, 95% of the time please just use the term devon. Be strict and correct when using the term externally, especially in proposals, publications.</p>
+                </div>
+            	</div>
+        		</div>
+
     				<!-- Maintenance section -->
-      			<div class="faqHeader page-header bs-docs-section" id="sec1"><h2>Maintenance questions</h2></div>
-    				<!-- question0 -->
+      			<div class="faqHeader page-header bs-docs-section" id="sec3"><h2>Maintenance questions</h2></div>
+    				<!-- question5 -->
         		<div class="panel panel-default">
             	<div class="panel-heading">
                 <h4 class="panel-title">
-                	<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseZero" id="sec1-1">How can I edit the content of these pages?</a>
+                	<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseZero" id="sec3-1">How can I edit the content of these pages?</a>
                 </h4>
             	</div>
             	<div id="collapseZero" class="panel-collapse collapse">
@@ -139,85 +214,29 @@
             		</div>
             	</div>
         		</div>
-        		
-        		<!-- OASP section -->
-      			<div class="faqHeader page-header bs-docs-section" id="sec3"><h2>OASP related questions</h2></div>
-        		
-        		<!-- question4 -->
-        		<div class="panel panel-default">
-            	<div class="panel-heading">
-            		<h4 class="panel-title">
-              		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" id="sec3-1">How is the OASP licensed?</a>
-              	</h4>
-            	</div>
-            	<div id="collapseFour" class="panel-collapse collapse">
-              	<div class="panel-body">
-                	<p>The OASP is licensed as open source under the Apache Software License 2.0. You can find the license terms <a href="http://oasp.github.io/terms-of-use.aspx">here</a>.</p>
-                	<p>Any intellectual property of Capgemini must not be included or references by OASP but in devonfw.</p>
-                </div>
-            	</div>
-        		</div>
-        		
-        		<!-- question5 -->
-        		<div class="panel panel-default">
-            	<div class="panel-heading">
-            		<h4 class="panel-title">
-              		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" id="sec3-2">Why is the name devonfw? What means OASP? When to use what?</a>
-              	</h4>
-            	</div>
-            	<div id="collapseFive" class="panel-collapse collapse">
-              	<div class="panel-body">
-          				<p>As brand name for the entire platform we are using "devonfw", which is a brand owned by Capgemini.</p>
-          				<p>The OASP is the open-source technical core of devonfw. Keeping it separate, we can use the name OASP for university collaborations where we only focus on the open standard. OASP stands for open application standard platform.</p>
-
-          				<p>devonfw stands for devon framework - even though devonfw rather is a platform approach insteaf of a framework. In architectural terms there is a huge difference between platforms and frameworks - however, if you bother for this inconsistency, ask your husband/wife/customer for the difference - curious if they get it differentiated.</p>
-          				<p>So what is d e v o n supposed to mean then? We don't know, but if you are asked just say "develop on".</p>
-          				<p>Talking about the platform as a whole internally, 95% of the time please just use the term devon. Be strict and correct when using the term externally, especially in proposals, publications.</p>
-                </div>
-            	</div>
-        		</div>
-        		
-	    				<!-- infrastructure section -->
-	      		<div class="faqHeader page-header bs-docs-section" id="sec2"><h2>Infrastructure questions</h2></div>
-	        		
-	      		<!-- question3 -->
-	      		<div class="panel panel-default">
-	          	<div class="panel-heading">
-	          		<h4 class="panel-title">
-	            		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" id="sec2-3">Why are we using github and not XXX?</a>
-	            	</h4>
-	          	</div>
-	          	<div id="collapseThree" class="panel-collapse collapse">
-	            	<div class="panel-body">
-									<p>A large part of devonfw - namely the OASP - is open source. This in order to gain attention and have success. Customers can use it and receive updates without getting trapped in a vendor lock-in when we publish it as open source.</p> 
-	        				<p>Github is the most popular open source platform - the number one platform for social coding. Capgemini is using Github already here and there as a channel to attract social communitys (you may like <a href="http://capgemini.github.io/" target="_blank">Capgemini architecture blog</a>).</p> 
-	        				<p>Github, via seamless git usage, pull-requests, asciidoc support (for Wiki), convenient issue-tracking, all across integrated with Eclipse IDE and other features today it is unrivaled compared to other solutions.</p> 
-	              </div>
-	          	</div>
-	      		</div>
-    			</div>
 
 	        </div>
-
+        		
 
 	        <!-- right navigation -->   
 	        <div class="col-md-2" role="complementary">
 	          <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm">
 	            <ul class="nav bs-docs-sidenav">
-	              <li><a href="#sec1">Maintenance</a>
+	              <li><a href="#sec1">Infrastructure</a>
 	                <ul class="nav">
-	                  <li><a href="#sec1-1">How can I edit the content of these pages?</a></li>
+	                  <li><a href="#sec1-1">Why are we using github and not XXX?</a></li>
+	                  <li><a href="#sec1-2">How to access GitHub?</a></li>
 	                </ul>
 	              </li>
-	              <li><a href="#sec3">OASP</a>
+	              <li><a href="#sec2">OASP</a>
 	                <ul class="nav">
-	                  <li><a href="#sec3-1">Is the OASP licensed as Open Source?</a></li>
-	                  <li><a href="#sec3-2">Why is the name OASP and not XXX? What is Devon?</a></li>
+	                  <li><a href="#sec2-1">Is the OASP licensed as Open Source?</a></li>
+	                  <li><a href="#sec2-2">Why is the name OASP and not XXX? What is Devon?</a></li>
 	                </ul>
 	              </li>
-	              <li><a href="#sec2">Infrastructure</a>
+	              <li><a href="#sec3">Maintenance</a>
 	                <ul class="nav">
-	                  <li><a href="#sec2-3">Why are we using github and not XXX?</a></li>
+	                  <li><a href="#sec3-1">How can I edit the content of these pages?</a></li>
 	                </ul>
 	              </li>
 	            </ul>
