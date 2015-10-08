@@ -156,13 +156,6 @@
 							  <td>Joerg Hohwiller</td>
 							</tr>
 							<tr>
-							  <td>France</td>
-							  <td>CIP</td>
-							  <td>full OASP4j</td>
-							  <td>using a Websphere App server</td>
-							  <td>Lilian Chamontin</td>
-							</tr>
-							<tr>
 							  <td>Germany</td>
 							  <td>Deutsche Welle</td>
 							  <td>OASP4js</td>
@@ -242,6 +235,15 @@
 								  <td>Karl Prott</td>
 								  <td>win</td>
 								</tr>						
+								<tr>
+								  <td>France</td>
+								  <td>CIP</td>
+								  <td>devonfw</td>
+								  <td>evaluating devon for use with websphere appserver</td>
+								  <td>May 2015</td>
+								  <td>Lilian Chamontin</td>
+								  <td>withdrawn</td>
+								</tr>
 								<tr>
 								  <td>Netherlands</td>
 								  <td>Cadastre (public)</td>
@@ -327,7 +329,7 @@
 								  <td>Germany</td>
 								  <td>ZDFonline</td>
 								  <td>devonfw</td>
-								  <td>Microservices-Architecture with devonfw services (REST) and persistence</td>
+								  <td>Microservices-Architecture with devonfw services (REST) and persistence.</td>
 								  <td>October 2015</td>
 								  <td>Marco Rose</td>
 								  <td>in bid phase</td>
@@ -348,6 +350,42 @@
 								  <td>using full devonfw</td>
 								  <td>October 2015</td>
 								  <td>Marco Rose</td>
+								  <td>in bid phase</td>
+								</tr>										
+								<tr>
+								  <td>Spain</td>
+								  <td>Grupo Boluda Lines</td>
+								  <td>devonfw</td>
+								  <td>Development of an extranet for the booking of containers for customers.</td>
+								  <td>September 2015</td>
+								  <td>Manuel Cid Garcia</td>
+								  <td>win</td>
+								</tr>										
+								<tr>
+								  <td>Germany</td>
+								  <td>VKB</td>
+								  <td>devonfw</td>
+								  <td>Architecture blueprinting for a new master data management system.</td>
+								  <td>October 2015</td>
+								  <td>Jochen Rawolle</td>
+								  <td>in bid phase</td>
+								</tr>										
+								<tr>
+								  <td>Spain</td>
+								  <td>Aguas de Valencia Group</td>
+								  <td>devonfw</td>
+								  <td>Development of a kanban tool that covers the billing life cycle (meter).</td>
+								  <td>October 2015</td>
+								  <td>Manuel Cid Garcia</td>
+								  <td>in bid phase</td>
+								</tr>										
+								<tr>
+								  <td>Spain</td>
+								  <td>Gas Natural</td>
+								  <td>devonfw</td>
+								  <td>Developing an estimation tool, configurable, for Gas Natural. It includes all front-office, for the creation of estimates, and the back office for administration, configuration and operation metrics tool.</td>
+								  <td>October 2015</td>
+								  <td>Manuel Cid Garcia</td>
 								  <td>in bid phase</td>
 								</tr>										
 							</tbody>
