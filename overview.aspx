@@ -150,7 +150,7 @@
 
 						<p style="text-align:center"><img src="images/overview/productivity_flexibility_impact.png" alt=""/></p>
 						<br/>
-            <p>Please promote devonfw using our <a href="https://www.de.capgemini.com/resource-file-access/resource/pdf/devon_2.pdf">devonfw-Flyer</a>. Other marketing material is in preparation.</p>
+            <p>Please promote devonfw using our <a href="https://www.de.capgemini.com/resource-file-access/resource/pdf/devon_2.pdf">devonfw-Flyer</a>. Other marketing material is constantly improved on our open <a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw">Team Forge</a>.</p>
 
             <h3 id="sec1-3">What is in the package?</h3>
 
@@ -353,24 +353,24 @@
 
             <div class="row">
               <div class="col-lg-6 devon">
-		<h3 id="sec5-2">devon<b>4</b>sencha</h3>
-		<p>devon4sencha is an IP asset of devonfw that builds on top of Sencha libraries adding more functionality like:
-		<ul>
-			<li>Automatic REST client creation</li>
-			<li>Protocol communication with the server</li>
-			<li>CORS support</li>
-			<li>Internationalization</li>
-			<li>Security management (login/logoff, csrf protection)</li>
-			<li>Layout templates</li>
-		</ul></p>
-		<p style="padding-left:150px">Check the video for some samples &gt;&gt;</p>
+								<h3 id="sec5-2">devon<b>4</b>sencha</h3>
+								<p>devon4sencha is an IP asset of devonfw that builds on top of Sencha libraries adding more functionality like:
+								<ul>
+									<li>Automatic REST client creation</li>
+									<li>Protocol communication with the server</li>
+									<li>CORS support</li>
+									<li>Internationalization</li>
+									<li>Security management (login/logoff, csrf protection)</li>
+									<li>Layout templates</li>
+								</ul></p>
+								<p style="padding-left:150px">Check the video for some samples &gt;&gt;</p>
               </div>
               <div class="col-lg-6 devon">
-		<br/>
-		<br/>
-		<video width="320" height="240" controls>
-		  <source src="http://devon-ci.cloudapp.net/troom/Webcast_Devon.mp4" type="video/mp4" >
-		</video>
+								<br/>
+								<br/>
+								<video width="320" height="240" controls>
+								  <source src="http://devon-ci.cloudapp.net/troom/Webcast_Devon.mp4" type="video/mp4" >
+								</video>
               </div>
             </div>
 
@@ -385,6 +385,17 @@
             <p>The standard platform devonfw and related services are provided in the iProd Shared Service Catalogue as <b>SPaas</b>. Therefore you will be able to use these services with the group-tools: BRIDGE, INSERE, iSTART. devonfw therefore provides one of the first engineering related services to the Group.</p>
             <p style="text-align:center"><img src="images/overview/industools.png" height="450" width="800" alt="devonfw in the SBU indus-catalogue"/></p>
             <p>Please be aware that services on the left are visible to the whole SBU but the three supporting services on the right are visible in Spain and Germany only. However, don't hesitate to contact us anyway.</p>
+          </div>
+
+          <div class="bs-docs-section" id="sec8">
+            <h2>Additional material</h2>
+            <p>If you did not find the information you were looking for, please check documents area in our public <a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw">Teamforge</a>, e.g.:</p>
+							<ul>
+								<li><a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.bid_support">Bidsupport templates</a></li>
+								<li><a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.marketing">Marketing slides</a></li>
+								<li><a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.marketing.presentations">Recent presentations</a></li>
+							</ul>
+						</p>
           </div>
 
           <!--div class="bs-docs-section" id="sec1">
@@ -437,7 +448,11 @@
 				      <li>
 				        <a href="#sec7">INDUS services</a>
 				      </li>
+				      <li>
+				        <a href="#sec8">Add On material</a>
+				      </li>
 				    </ul>
+				    <br/>
 				    <ul class="nav">
 				      <li><a href="faq.aspx">FAQ</a></li>
 				    </ul>

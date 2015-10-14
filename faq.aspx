@@ -145,10 +145,29 @@
         		<div class="panel panel-default">
             	<div class="panel-heading">
             		<h4 class="panel-title">
-              		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" id="sec2-1">How is the OASP licensed?</a>
+              		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse3" id="sec2-1">Why is the name devonfw? What means OASP? When to use what?</a>
               	</h4>
             	</div>
-            	<div id="collapseFour" class="panel-collapse collapse">
+            	<div id="collapse3" class="panel-collapse collapse">
+              	<div class="panel-body">
+          				<p>As brand name for the entire platform we are using "devonfw", which is a brand owned by Capgemini.</p>
+          				<p>The OASP is the open-source technical core of devonfw. Keeping it separate, we can use the name OASP for university collaborations where we only focus on the open standard. OASP stands for open application standard platform.</p>
+
+          				<p>devonfw stands for devon framework.</p>
+          				<p>So what is d e v o n supposed to mean then? We don't know, but if you are asked just say "develop on".</p>
+          				<p>Talking about the framework as a whole internally, 95% of the time please just use the term devon. Be strict and correct using the term "devonfw" externally, especially in proposals, publications.</p>
+                </div>
+            	</div>
+        		</div>
+
+        		<!-- question4 -->
+        		<div class="panel panel-default">
+            	<div class="panel-heading">
+            		<h4 class="panel-title">
+              		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse4" id="sec2-2">How is the OASP licensed?</a>
+              	</h4>
+            	</div>
+            	<div id="collapse4" class="panel-collapse collapse">
               	<div class="panel-body">
                 	<p>The OASP is licensed as open source under the Apache Software License 2.0. You can find the license terms <a href="http://oasp.github.io/terms-of-use.aspx">here</a>.</p>
                 	<p>Any intellectual property of Capgemini must not be included or references by OASP but in devonfw.</p>
@@ -156,25 +175,24 @@
             	</div>
         		</div>
         		
-        		<!-- question4 -->
+        		<!-- question5 -->
         		<div class="panel panel-default">
             	<div class="panel-heading">
             		<h4 class="panel-title">
-              		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" id="sec2-2">Why is the name devonfw? What means OASP? When to use what?</a>
+              		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse5" id="sec2-3">Why don't we provide a OASP-IDE-package with the OASP?</a>
               	</h4>
             	</div>
-            	<div id="collapseFive" class="panel-collapse collapse">
+            	<div id="collapse5" class="panel-collapse collapse">
               	<div class="panel-body">
-          				<p>As brand name for the entire platform we are using "devonfw", which is a brand owned by Capgemini.</p>
-          				<p>The OASP is the open-source technical core of devonfw. Keeping it separate, we can use the name OASP for university collaborations where we only focus on the open standard. OASP stands for open application standard platform.</p>
-
-          				<p>devonfw stands for devon framework - even though devonfw rather is a platform approach insteaf of a framework. In architectural terms there is a huge difference between platforms and frameworks - however, if you bother for this inconsistency, ask your husband/wife/customer for the difference - curious if they get it differentiated.</p>
-          				<p>So what is d e v o n supposed to mean then? We don't know, but if you are asked just say "develop on".</p>
-          				<p>Talking about the platform as a whole internally, 95% of the time please just use the term devon. Be strict and correct when using the term externally, especially in proposals, publications.</p>
+                	<p>The Eclipse-based OASP-IDE-Package must not be distributed out of Capgemini, especially not hosted externally. 
+                		 Instead a <a href="https://github.com/oasp/oasp4j-ide/wiki/guide-software-package">IDE-setup-tutorial</a> is provided to manually configure Eclipse.
+                		 This is because e.g. Oracle Binary Code License Agreement prevents redistribution. 
+                		 The Eclipse IDE that we are using comes with a lot of plugins that mix different licenses that are in the end not officially compatible. 
+                		 Eclipse product solves this such that you only get EPL code to download and have to download other licensed plugins manually and thereby confirm license agreement.</p>
                 </div>
             	</div>
         		</div>
-
+        		
     				<!-- Maintenance section -->
       			<div class="faqHeader page-header bs-docs-section" id="sec3"><h2>Maintenance questions</h2></div>
     				<!-- question5 -->
@@ -230,8 +248,9 @@
 	              </li>
 	              <li><a href="#sec2">OASP</a>
 	                <ul class="nav">
-	                  <li><a href="#sec2-1">Is the OASP licensed as Open Source?</a></li>
-	                  <li><a href="#sec2-2">Why is the name OASP and not XXX? What is Devon?</a></li>
+	                  <li><a href="#sec2-1">Naming</a></li>
+	                  <li><a href="#sec2-2">Open Source?</a></li>
+	                  <li><a href="#sec2-3">IDE</a></li>
 	                </ul>
 	              </li>
 	              <li><a href="#sec3">Maintenance</a>

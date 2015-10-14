@@ -388,6 +388,15 @@
 								  <td>Manuel Cid Garcia</td>
 								  <td>in bid phase</td>
 								</tr>										
+								<tr>
+								  <td>Germany</td>
+								  <td>BVA UMF</td>
+								  <td>oasp</td>
+								  <td>Webapplication for young refugee administration to be used by youth welfare offices across Germany.</td>
+								  <td>October 2015</td>
+								  <td>Marco Rose</td>
+								  <td>win</td>
+								</tr>										
 							</tbody>
 						</table>
 					</div>
