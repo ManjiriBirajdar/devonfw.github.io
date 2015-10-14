@@ -97,11 +97,11 @@
         <div class="row text-center">
 	        <div class="col-sm-4">
 	          <img class="img-responsive halfimg center-block" src="images/yammer.jpg"/>
-	          <h3>Discuss on Yammer</h3>
+	          <h3>Discuss on Forums</h3>
 	          <p>Yammer group <a href="https://www.yammer.com/capgemini.com/groups/devon" target="blank">devon</a></p>
 	          <p>Related Yammer group <a href="https://www.yammer.com/capgemini.com/#/threads/inGroup?type=in_group&feedId=1169812" target="blank">engineering</a></p>
-	          <p>Related Yammer group <a href="https://www.yammer.com/capgemini.com/#/threads/inGroup?type=in_group&feedId=1169812" target="blank">architecture</a></p>
 	          <p>Related Yammer group <a href="https://www.yammer.com/capgemini.com/#/threads/inGroup?type=in_group&feedId=1336436">JAVA</a>
+	          <p>Open community group <a href="https://groups.google.com/forum/?nomobile=true#!forum/oasp">OASP</a>
 	        </div>
 	
 	        <div class="col-sm-4">
