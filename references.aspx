@@ -323,7 +323,7 @@
 								  <td>Architecture blueprint using modules from OASP (REST services).</td>
 								  <td>October 2015</td>
 								  <td>Marco Rose</td>
-								  <td>in bid phase</td>
+								  <td>lost</td>
 								</tr>										
 								<tr>
 								  <td>Germany</td>
@@ -332,7 +332,7 @@
 								  <td>Microservices-Architecture with devonfw services (REST) and persistence.</td>
 								  <td>October 2015</td>
 								  <td>Marco Rose</td>
-								  <td>in bid phase</td>
+								  <td>lost</td>
 								</tr>										
 								<tr>
 								  <td>France</td>

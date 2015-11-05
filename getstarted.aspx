@@ -145,7 +145,7 @@ margin-right:10px;
           <h3 class="text-success">Get started with...</h3>
           <ul class="custom-counter steps">
             <li><h2>The platform guide <img src="images/book.png" width="30"></h2>
-              <p>First things first. Start your way through devonfw by reading the <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43016?dl=1" target="_blank">OASP4j Platform Guide<span class="note"> - stored on coconet free access to anyone logged in</span></a></p>
+              <p>First things first. Start your way through devonfw by reading the <a href="http://oasp.github.io/oasp4j/1.5.0/OASP4J.pdf" target="_blank">OASP4j Platform Guide<span class="note"> - most recent version stored on git with free access to anyone</span></a></p>
               <p>devonfw uses OASP4J as lean open source architecture blueprint for the server side of an application. OASP4J offers you a holistic documentation for building your application. Stop with digging in the docs of many different open-source projects in parallel getting on the wrong track or lost in space. </p>
             </li>
             <li><h2>View some demos <img src="images/cursor.png" width="30"></h2>
@@ -176,7 +176,7 @@ margin-right:10px;
 							     <li><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43021?dl=1">devon4sencha tutorial</a></li>
 							  </ul>
 							</ul>
-              <p>You can also access the documentation in wiki format from the Github project pages</p>
+              <p>You can also access the latest working-copy of our documentation in wiki format from the Github project pages</p>
               <ul>
 								<li><a href="https://github.com/devonfw/devon/wiki/tutorial-devon-introduction" role="button" target="_blank">devonfw wiki  <span class="note"> - GitHub private repo, please request access</span></a></li>
                 <li><a href="https://github.com/oasp/oasp4js/wiki" role="button" target="_blank">OASP4js wiki <span class="note"> - GitHub public repository</span></a></li>

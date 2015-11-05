@@ -184,7 +184,7 @@
             <h2>Restaurant Reference implementation</h2>
             <p>The reference implementation of devonfw shows all concepts and its variations on a real application and how an application built with devonfw actually looks in coding.
             It makes architectural decisions visible as code. It also acts as playground for training and innovation.</p>
-            <p>You can also play with the working example and show it to your customer. To get familiar with the restaurant you might like to visit the <a href="https://troom.capgemini.com/sites/vcc/java/Shared%20Documents/StandardPlatform/ExampleApplication/Specification/presentation/Restaurant_use_cases_and_dialogs.pptx" target="_blank">use-case-overview of the restaurant</a> (PPT).</p>
+            <p>You can also play with the working example and show it to your customer. To get familiar with the restaurant you might like to visit the <a href="https://coconet.capgemini.com/sf/go/doc9130820" target="_blank">use-case-overview of the restaurant</a> (PPT).</p>
             <p style="text-align:center"><img src="images/overview/screen-from-restaurant-usecases-pdf.png" width="600" height="240" alt="screen from restaurant usecases"/></p>
 
             <p>The example consists of two independent web frontend single page application implementations:</p>
