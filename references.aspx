@@ -145,6 +145,7 @@
 							  <th>devonfw components</th>
 							  <th>Remark</th>
 							  <th>Contact</th>
+							  <th>exp. revenue</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -154,6 +155,7 @@
 							  <td>full OASP4j</td>
 							  <td>enterprise application platform approach mith multiple CSD-applications on OASP</td>
 							  <td>Joerg Hohwiller</td>
+							  <td></td>
 							</tr>
 							<tr>
 							  <td>Germany</td>
@@ -161,6 +163,7 @@
 							  <td>OASP4js</td>
 							  <td>NSC-project; OASP4JS-Application-Template as basis of development</td>
 							  <td>Marek Matczak</td>
+							  <td></td>
 							</tr>
 							<tr>
 							  <td>Germany</td>
@@ -168,6 +171,7 @@
 							  <td>OASP4j</td>
 							  <td>Usage of architecture-blueprint/concepts of OASP</td>
 							  <td>Horst Jilg</td>
+							  <td></td>
 							</tr>
 							<tr>
 							  <td>Germany</td>
@@ -175,6 +179,7 @@
 							  <td>OASP4js</td>
 							  <td>consulting for the build of a pricing calculator for new CRM-portal</td>
 							  <td>Alexander Hofmann</td>
+							  <td></td>
 							</tr>
 							<tr>
 							  <td>Germany</td>
@@ -182,7 +187,80 @@
 							  <td>OASP4net</td>
 							  <td>Usage of architecture-blueprint/concepts of OASP. Contributor to OASP.Net</td>
 							  <td>Sebastian Willemsen</td>
+							  <td></td>
 							</tr>
+							<tr>
+							  <td>Germany</td>
+							  <td>Bundesnotarkammer</td>
+							  <td>OASP4j/OASP4js</td>
+							  <td>frame contract - first project expected in January</td>
+							  <td>Karl Prott</td>
+							  <td></td>
+							</tr>						
+							<tr>
+							  <td>Spain</td>
+							  <td>Carrefour</td>
+							  <td>devonfw</td>
+							  <td>Optimization of distribution processes and tracking customer orders.</td>
+							  <td>Manuel Cid Garcia</td>
+							  <td></td>
+							</tr>						
+							<tr>
+							  <td>Spain</td>
+							  <td>Carrefour</td>
+							  <td>devonfw</td>
+							  <td>Logistics system re-engineering to Devon. Customer buys devon-package.</td>
+							  <td>Manuel Cid Garcia</td>
+							  <td></td>
+							</tr>						
+							<tr>
+							  <td>Germany</td>
+							  <td>Daimler Febe</td>
+							  <td>devonfw/Sencha</td>
+							  <td>HR application, architect support from Spain</td>
+							  <td>Thilo Hermann</td>
+							  <td>1,5m</td>
+							</tr>										
+							<tr>
+							  <td>Germany</td>
+							  <td>DHL Parcelshop</td>
+							  <td>devonfw (with own extensions)</td>
+							  <td></td>
+							  <td>Marco Rose</td>
+							  <td></td>
+							</tr>										
+							<tr>
+							  <td>Spain</td>
+							  <td>Grupo Boluda Lines</td>
+							  <td>devonfw</td>
+							  <td>Development of an extranet for the booking of containers for customers.</td>
+							  <td>Manuel Cid Garcia</td>
+							  <td></td>
+							</tr>										
+							<tr>
+							  <td>Germany</td>
+							  <td>BVA UMF</td>
+							  <td>oasp</td>
+							  <td>Webapplication for young refugee administration to be used by youth welfare offices across Germany.</td>
+							  <td>Marco Rose</td>
+							  <td>200k</td>
+							</tr>										
+							<tr>
+							  <td>Spain</td>
+							  <td>Aguas de Valencia Group</td>
+							  <td>devonfw</td>
+							  <td>Development of a kanban tool that covers the billing life cycle (meter). Running on JBoss</td>
+							  <td>Manuel Cid Garcia</td>
+							  <td></td>
+							</tr>										
+							<tr>
+							  <td>Netherlands</td>
+							  <td>Logius DigiD</td>
+							  <td>devonfw</td>
+							  <td>Migration from Ruby to Devonfw of current DigiD solution used i.e. to provide login access for governmental departments like Tax authority</td>
+							  <td>Paul Kerseboom</td>
+							  <td>> 10m</td>
+							</tr>										
 						</tbody>
 						</table>
 					</div>
@@ -191,7 +269,7 @@
 			
 			<div class="row">
 				<div class="col-lg-12">
-					<h2>Used in akquisitions</h2>
+					<h2>Currently used in akquisitions</h2>
 					<p>devonfw/OASP has been considered in the following sales.</p>
 
 			    <div class="table-responsive">
@@ -209,51 +287,6 @@
 							</thead>
 							<tbody>
 								<tr>
-								  <td>Germany</td>
-								  <td>Munich City Council SOWON</td>
-								  <td>full OASP4j, OASP4js</td>
-								  <td>JEE-Platform for housing allocation</td>
-								  <td>February 2015</td>
-								  <td>Sascha Aderhold</td>
-								  <td>lost</td>
-								</tr>
-								<tr>
-								  <td>Germany</td>
-								  <td>Open Grid Europe (OGE)</td>
-								  <td>full OASP4j</td>
-								  <td>Usage of SAP Hana as Backend</td>
-								  <td>April 2015</td>
-								  <td>Roman Bartlog</td>
-								  <td>lost</td>
-								</tr>						
-								<tr>
-								  <td>Germany</td>
-								  <td>Bundesnotarkammer</td>
-								  <td>OASP4j/OASP4js</td>
-								  <td>devon-team provided a tailored devon-prototype</td>
-								  <td>May 2015</td>
-								  <td>Karl Prott</td>
-								  <td>win</td>
-								</tr>						
-								<tr>
-								  <td>France</td>
-								  <td>CIP</td>
-								  <td>devonfw</td>
-								  <td>evaluating devon for use with websphere appserver</td>
-								  <td>May 2015</td>
-								  <td>Lilian Chamontin</td>
-								  <td>withdrawn</td>
-								</tr>
-								<tr>
-								  <td>Netherlands</td>
-								  <td>Cadastre (public)</td>
-								  <td>devonfw & OASP4js</td>
-								  <td>devonfw Server & AngularJS perfect match</td>
-								  <td>May 2015</td>
-								  <td>Koen Huisstede</td>
-								  <td>withdrawn</td>
-								</tr>	
-								<tr>
 								  <td>Spain</td>
 								  <td>Vaesa - Volkswagen Audi Spain </td>
 								  <td>devonfw</td>
@@ -262,24 +295,6 @@
 								  <td>Manuel Cid Garcia</td>
 								  <td>in bid phase</td>
 								</tr>
-								<tr>
-								  <td>Spain</td>
-								  <td>Carrefour</td>
-								  <td>devonfw</td>
-								  <td>Optimization of distribution processes and tracking customer orders.</td>
-								  <td>August 2015</td>
-								  <td>Manuel Cid Garcia</td>
-								  <td>win</td>
-								</tr>						
-								<tr>
-								  <td>Spain</td>
-								  <td>Carrefour</td>
-								  <td>devonfw</td>
-								  <td>Logistics system re-engineering to Devon. Customer buys devon-package.</td>
-								  <td>September 2015</td>
-								  <td>Manuel Cid Garcia</td>
-								  <td>win</td>
-								</tr>						
 								<tr>
 								  <td>Spain</td>
 								  <td>Iberia</td>
@@ -306,15 +321,6 @@
 								  <td>August 2015</td>
 								  <td>Manuel Cid Garcia</td>
 								  <td>in bid phase</td>
-								</tr>										
-								<tr>
-								  <td>Germany</td>
-								  <td>Daimler Febe</td>
-								  <td>devonfw/Sencha</td>
-								  <td>HR application, architect support from Spain planned.</td>
-								  <td>September 2015</td>
-								  <td>Thilo Hermann</td>
-								  <td>win</td>
 								</tr>										
 								<tr>
 								  <td>Germany</td>
@@ -345,38 +351,11 @@
 								</tr>										
 								<tr>
 								  <td>Germany</td>
-								  <td>DHL Parcelshop</td>
-								  <td>devonfw</td>
-								  <td>using full devonfw</td>
-								  <td>October 2015</td>
-								  <td>Marco Rose</td>
-								  <td>in bid phase</td>
-								</tr>										
-								<tr>
-								  <td>Spain</td>
-								  <td>Grupo Boluda Lines</td>
-								  <td>devonfw</td>
-								  <td>Development of an extranet for the booking of containers for customers.</td>
-								  <td>September 2015</td>
-								  <td>Manuel Cid Garcia</td>
-								  <td>win</td>
-								</tr>										
-								<tr>
-								  <td>Germany</td>
 								  <td>VKB</td>
 								  <td>devonfw</td>
 								  <td>Architecture blueprinting for a new master data management system.</td>
 								  <td>October 2015</td>
 								  <td>Jochen Rawolle</td>
-								  <td>in bid phase</td>
-								</tr>										
-								<tr>
-								  <td>Spain</td>
-								  <td>Aguas de Valencia Group</td>
-								  <td>devonfw</td>
-								  <td>Development of a kanban tool that covers the billing life cycle (meter).</td>
-								  <td>October 2015</td>
-								  <td>Manuel Cid Garcia</td>
 								  <td>in bid phase</td>
 								</tr>										
 								<tr>
@@ -387,15 +366,6 @@
 								  <td>October 2015</td>
 								  <td>Manuel Cid Garcia</td>
 								  <td>in bid phase</td>
-								</tr>										
-								<tr>
-								  <td>Germany</td>
-								  <td>BVA UMF</td>
-								  <td>oasp</td>
-								  <td>Webapplication for young refugee administration to be used by youth welfare offices across Germany.</td>
-								  <td>October 2015</td>
-								  <td>Marco Rose</td>
-								  <td>win</td>
 								</tr>										
 							</tbody>
 						</table>
@@ -450,15 +420,15 @@
 								  <td>Practical semester for a group of students to develop and integrate richt-client-controls into OASP4js.</td>
 								  <td>September 2015 - February 2016</td>
 								  <td>Axel Burghoff</td>
-								  <td>started</td>
+								  <td>running</td>
 								</tr>						
 								<tr>
 								  <td>Germany</td>
 								  <td>University of Darmstadt</td>
-								  <td>Practical semester for a group of students to work on usability patterns on OASP.</td>
+								  <td>Practical semester for two groups of students to work on usability patterns on OASP.</td>
 								  <td>Oktober 2015 - March 2016</td>
-								  <td>Gunter Grieser</td>
-								  <td>planned</td>
+								  <td>Simon Barnikol</td>
+								  <td>running</td>
 								</tr>						
 								<tr>
 								  <td>Germany</td>
