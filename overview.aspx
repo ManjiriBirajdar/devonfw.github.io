@@ -345,7 +345,7 @@
 	          <div class="row">
 	            <div class="col-lg-6 devon">
 								<h3 id="sec5-1">devon<b>4</b>sencha</h3>
-								<p>devon4sencha is an IP asset of devonfw that builds on top of Sencha ExtJs 6 libraries adding blueprint functionality like:
+								<p>devon4sencha is an IP asset of devonfw that builds on top of <a href="https://www.sencha.com/products/extjs/#overview">Sencha ExtJs 6</a> libraries adding blueprint functionality like:
 								<ul>
 									<li>Automatic REST client creation</li>
 									<li>Protocol communication with the server</li>
@@ -368,9 +368,9 @@
 	          <div class="row">
 	            <div class="col-lg-6 devon">
 								<h3 id="sec5-2">devon<b>4</b>ionic</h3>
-								<p>devon4ionic is an IP asset of devonfw that shows a Ionic client with AngularJs and Cordova:
+								<p>devon4ionic is an IP asset of devonfw that shows an <a href="http://ionicframework.com/" target="_blank">Ionic client</a> with AngularJs and <a href="https://cordova.apache.org/" target="_blank">Cordova</a>:
 								<ul>
-									<li>cross device: Android, iOS, (Windows Phone)</li>
+									<li>hybrid mobile-apps across devices: Android, iOS, (Windows Phone)</li>
 									<li>simple Forms</li>
 									<li>lists and tables</li>
 									<li>push notifications</li>
