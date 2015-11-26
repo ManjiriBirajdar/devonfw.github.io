@@ -91,7 +91,7 @@
     <div class="container">
       <div class="jumbotron">
         <h1>Roadmap</h1>
-        <p>devonfw V1.0 is available and ready to be used in projects. The roadmap towards version 2.0 aims to enrich features to address even more requirements and provide supporting material.</p>
+        <p>devonfw V1.0 is available and ready to be used in projects. The roadmap towards version 2.0 aims to enrich features to address further requirements and provide supporting material.</p>
       </div>
 
       <div class="row">
@@ -136,10 +136,9 @@
 	      </div>
 	    </div>
 
-
       <div class="row">
         <div class="col-lg-12">
-		      <h2 class="page-header">devonfw version 2.0<small><i class="text-danger">End of 2015 (please expect intermediate versions)</i></small></h2>
+		      <h2 class="page-header">devonfw version 2.0<small><i class="text-danger">February 2016</i></small></h2>
 	      </div>
 	    </div>
       <div class="row well">
@@ -147,13 +146,27 @@
 					<p>
 						<h3><span class="fa fa-cube text-info"></span> Solution</h3>
 						<ul>
+							<li>Spring Boot</li>
 							<li>Batch component</li>
               <li>File upload/download</li>
+              <li>enhanced ui-component-catalog with AngularJs</li>
+              <li>updated security-guidelines</li>
+							<li>Upgrade to Sencha Ext JS6</li>
+							<li>Mobile apps with Sencha Ext JS6</li>
+							<li>Cross platform mobile apps with Ionic + Cordova</li>
+							<li>Integration showcase with Immediate Accelarators as 
+								<ul>
+									<li>Security (with OpenAM)</li>
+									<li>Integration (with WSO2)</li>
+									<li>Monitoring (with Grafana, Sensu)</li>
+									<li>Logging (with ELK)</li>
+									<li>API management (with mule ESB)</li>
+									<li>automated provisioning (with puppet)</li>
+								</ul>
+							</li>
+							<li>Thin portal frame component</li>
+							<li>App Server Compatibility (Websphere, JBoss, JEE 6)</li>							
               <li>Reporting with JasperReports</li>
-							<li>Mobile support with Sencha Touch</li>
-							<li>Mobile support with Cordova</li>
-							<li>Integration of rules engine</li>
-							<li>Integration of jBPM engine</li>
 						</ul>
 					</p>
 	      </div>
@@ -161,8 +174,10 @@
 					<p>
 						<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
 						<ul>
-							<li>devonfw requirement and feature list</li>
+							<li>devonfw feature list</li>
 							<li>external devonfw Homepage</li>
+							<li>mature marketing slide deck</li>
+							<li>processes handbook</li>
 						</ul>
 					</p>
 	      </div>

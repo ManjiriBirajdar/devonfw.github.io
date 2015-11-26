@@ -200,24 +200,24 @@
 
             <div class="row">
               <div class="col-lg-6 devon">
-                <h3 id="sec5-4">Sencha Web Client Example</h3>
+                <h3>Sencha Web Client Example</h3>
                 <p>Here you find the <a href="http://devon-ci.cloudapp.net/devonfw-sample-server/jsclient" target="_blank">Sencha example application &raquo;</a> to play with.</p>
                 <p>Here you find the <a href="https://github.com/devonfw/devon4sencha" target="_blank">Sencha Example Repo &raquo;</a></p>
               </div>
               <div class="col-lg-6 oasp">
-                <h3 id="sec5-5">AngularJs Client Example</h3>
+                <h3>AngularJs Client Example</h3>
                 <p>Here you find the <a href="http://oasp-ci.cloudapp.net/oasp4j-sample" target="_blank">AngularJs example application &raquo;</a> to play with.</p>
                 <p>Here you find the <a href="https://github.com/oasp/oasp4js" target="_blank">AngularJs Example Repo &raquo;</a></p>
               </div>
             </div>
             <div class="row">
               <div class="col-lg-6 devon">
-                <h3 id="sec5-2">Server Example (IP-container)</h3>
+                <h3>Server Example (IP-container)</h3>
                 <p>Here you find the <a href="https://github.com/devonfw/devon" target="_blank">devonfw Server Software Repository &raquo;</a></p>
                 <p>This server is being used with the Sencha Client.</p>
               </div>
               <div class="col-lg-6 oasp">
-                <h3 id="sec5-3">Server Example (open source core)</h3>
+                <h3>Server Example (open source core)</h3>
                 <p>Here you find the <a href="https://github.com/oasp/oasp4j" target="_blank">Core open source Server Software Repository &raquo;</a></p>
                 <p>This server is being used with the AngularJs Client.</p>
               </div>
@@ -232,7 +232,7 @@
 
             <div class="row">
               <div class="col-lg-6 devon">
-                <h3 id="sec5-4">Sencha Web Client</h3>
+                <h3>Sencha Web Client</h3>
                 <p>Here you find the Sencha Client Architecture
                 <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43014" target="_blank">PDF &raquo;</a> |
                 <a href="https://github.com/devonfw/devon4sencha/wiki/guide-devon4sencha-introduction" target="_blank">WIKI &raquo;</a></p>
@@ -243,14 +243,14 @@
                 </p>
               </div>
               <div class="col-lg-6 oasp">
-                <h3 id="sec5-5">AngularJs Client</h3>
+                <h3>AngularJs Client</h3>
                 <p>Here you find the AngularJs Client Architecture <a href="https://github.com/oasp/oasp4js/wiki" target="_blank">WIKI &raquo;</a></p>
                 <p>Here you find the AngularJs Tutorial outline <a href="https://github.com/oasp/oasp4js/wiki/Tutorial-Introduction" target="_blank">WIKI &raquo;</a></p>
               </div>
             </div>
             <div class="row">
               <div class="col-lg-6 devon">
-                <h3 id="sec5-2">Server</h3>
+                <h3>Server</h3>
                 <p>Here you find the Server Guide <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43013" target="_blank">PDF &raquo;</a></p>
                 <p>Here you find the devonfw Server Tutorial
                 <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43015" target="_blank">PDF &raquo;</a> |
@@ -258,7 +258,7 @@
                 </p>
               </div>
               <div class="col-lg-6 oasp">
-                <h3 id="sec5-5">Server (Open source)</h3>
+                <h3>Server (Open source)</h3>
                 <p>Here you find the Server Core Guide <a href="https://github.com/oasp/oasp4j/wiki" target="_blank">Wiki &raquo;</a></p>
               </div>
             </div>
@@ -270,26 +270,26 @@
 
             <h3 id="sec4-1">Integrated development environment</h3>
             <p>For all main building blocks of devonfw a highly integrated development environment is available, preintegrated - packaged - ready to use.
-            As of now the tooling available on the market does not allow a single IDE for all parts of the solution. Instead we propose the following tools to be efficient in the software development process. devonfw-team will observe the market and give recommendations for unified tooling as soon as a common IDE gets available.</p>
+             As of now the tooling available on the market does not allow a single IDE for all parts of the solution. Instead we propose the following tools to be efficient in the software development process. devonfw-team will observe the market and give recommendations for unified tooling as soon as a common IDE gets available.</p>
 
             <p>Further for each type of application a application template is provide that allows creation of an empty preconfigured project that already provides the needed structure.</p>
 
             <div class="row">
               <div class="col-lg-6 devon">
-                <h3 id="sec5-4">Sencha Cmd</h3>
+                <h3>Sencha Cmd</h3>
                 <p>Leveraging Sencha own productivity tool (Sencha Cmd), devonfw environment includes the set-up for the tool and creating Sencha workspaces for applications.</p>
 								<p>There is also an StarterTemplate for fast application start, kind of a maven archetype but for Sencha applications.
                 The Sencha tool is part of the devonfw distribution install package.</p>
               </div>
               <div class="col-lg-6 oasp">
-                <h3 id="sec5-5">AngularJs Client IDE</h3>
+                <h3>AngularJs Client IDE</h3>
                 <p>Here you find the <a href="https://github.com/oasp/oasp4js/wiki/IDE-agnostic-setup" target="_blank">AngularJs IDE setup guide &raquo;</a></p>
 								<iframe width="356" height="200" src="https://www.youtube.com/embed/NB5N5A8gg5Q" frameborder="0" allowfullscreen></iframe>
               </div>
             </div>
             <div class="row">
               <div class="col-lg-12 devon">
-                <h3 id="sec5-2">devonfw Server IDE</h3>
+                <h3>devonfw Server IDE</h3>
                 <p>devonfw comes with a prepackaged and preconfigured Eclipse-IDE. It contains an eclipse-archetype definition that allows to create an empty devonfw application. 
                 It further provides integration with several dozens of plugins including UML reverse-engineering, automatic adding of version-tags, soap-ui, terminal integration, sonarcube, anyedit, checkstyle, findbugs, eclemma for code-coverage, regexp-plugin, etc.
 								The same package you use for your customer project can be used to contribute to the devonfw product since we put all example implementations into the Eclipse workspace.</p>
@@ -300,7 +300,7 @@
 
             <div class="row">
               <div class="col-lg-12">
-		            <h3 id="sec4-2">CobiGen</h3>
+		            <h3 id="sec4-2">CobiGen (IP)</h3>
 		            <p>  CobiGen is a high value IP asset that is used by devonfw projects to generate code across all layers of a devon-application, including the clients.
 		              It works iteratively without leaving marks or regions in the code due to its basic understanding of Java.
 		              Due to architecture patterns set in devonfw, the generator is able to support generation of higher-level concepts than just - class.
@@ -318,7 +318,7 @@
 
 	          <div class="row">
 					    <div class="col-lg-6 devon">
-					      <h3 id="sec3-2">devonfw-CI</h3>
+					      <h3>devonfw-CI</h3>
 					      <p>devonfw continuous integration environment can be found here:</p>
 					      <ul>
 					        <li><a href="http://devon-ci.cloudapp.net/jenkins">devon-ci.cloudapp.net/jenkins</a></li>
@@ -326,7 +326,7 @@
 					      </ul>
 					    </div>
 					    <div class="col-lg-6 oasp">
-				        <h3 id="sec3-2">OASP-CI</h3>
+				        <h3>OASP-CI</h3>
 					      <p>Open source continuous integration environment can be found here:</p>
 					      <ul>
 					        <li><a href="http://oasp-ci.cloudapp.net/jenkins">oasp-ci.cloudapp.net/jenkins</a></li>
@@ -339,22 +339,13 @@
 
           <div class="bs-docs-section" id="sec5">
             <h2>IP Add Ons</h2>
-            <p>devonfw will gain further strength by a number of high value IP (intellectual property) solutions that are on the roadmap:
-            <ul>
-              <li>Spring administration console</li>
-              <li>RuleEngine integration</li>
-              <li>jBPM integration</li>
-              <li>HANA-Backend (optimized)</li>
-              <li>Enterprise integration</li>
-            </ul>
-
-            <p>The aim is to make high value IP the USP that will sell devonfw to your client easily. To enforce this IP will be integrated with a <b>plugin-system</b> that allows very easy adoption of a IP-solution for your project.</p>
-          </div>
-
-            <div class="row">
-              <div class="col-lg-6 devon">
-								<h3 id="sec5-2">devon<b>4</b>sencha</h3>
-								<p>devon4sencha is an IP asset of devonfw that builds on top of Sencha libraries adding more functionality like:
+            <p>devonfw gains further strength by a number of high value IP (intellectual property) solutions that are constantly extended:
+            <p>The aim is to make high value IP the USP that will sell devonfw to your client easily. To enforce this, IP will be integrated with a <b>plugin-system</b> that allows very easy adoption of a IP-solution in a project.</p>
+	
+	          <div class="row">
+	            <div class="col-lg-6 devon">
+								<h3 id="sec5-1">devon<b>4</b>sencha</h3>
+								<p>devon4sencha is an IP asset of devonfw that builds on top of Sencha ExtJs 6 libraries adding blueprint functionality like:
 								<ul>
 									<li>Automatic REST client creation</li>
 									<li>Protocol communication with the server</li>
@@ -364,20 +355,61 @@
 									<li>Layout templates</li>
 								</ul></p>
 								<p style="padding-left:150px">Check the video for some samples &gt;&gt;</p>
-              </div>
-              <div class="col-lg-6 devon">
+	            </div>
+	            <div class="col-lg-6 devon">
 								<br/>
 								<br/>
 								<video width="320" height="240" controls>
 								  <source src="http://devon-ci.cloudapp.net/troom/Webcast_Devon.mp4" type="video/mp4" >
 								</video>
-              </div>
-            </div>
-
+	            </div>
+	          </div>
+	          
+	          <div class="row">
+	            <div class="col-lg-6 devon">
+								<h3 id="sec5-2">devon<b>4</b>ionic</h3>
+								<p>devon4ionic is an IP asset of devonfw that shows a Ionic client with AngularJs and Cordova:
+								<ul>
+									<li>cross device: Android, iOS, (Windows Phone)</li>
+									<li>simple Forms</li>
+									<li>lists and tables</li>
+									<li>push notifications</li>
+									<li>hardware features: take a photo</li>
+									<li>Security (login/logoff)</li>
+									<li>Tooling</li>
+									<li>DevOps for crossplatform apps generation</li>
+								</ul></p>
+	            </div>
+	            <div class="col-lg-6 devon">
+	 							<br/>
+								<br/>
+								<img src="images/overview/ionic-examples.png" width="320" height="290" alt="screens from the Ionic mobile restaurant"/>
+	            </div>
+	          </div>
+	          
+	          <div class="row">
+	            <div class="col-lg-6 devon">
+								<h3 id="sec5-3">IP on the roadmap</h3>
+								<p>There is an increasing number of modular IP being worked at :
+		            <ul>
+		              <li>Spring administration console</li>
+		              <li>App Server Compatibility (Websphere, JBoss, JEE 6)</li>
+		              <li>HANA-Backend + HANA features</li>
+		              <li>Enterprise integration with Immediate</li>
+		              <li>Security patterns</li>
+		              <li>Reporting</li>
+		            </ul></p>
+	            </div>
+	            <div class="col-lg-6 devon">
+								<br/>
+	            </div>
+	          </div>
+          </div>
+          
           <div class="bs-docs-section" id="sec6">
             <h2>License</h2>
-            <p>IP: You can use devonfw in your Capgemini project. A legally approved licensing model including liablity terms is not yet in place. The licensing aims to allow the usage of the platform in Capgemini-projects for any customer. TBD!</p>
-            <p>Open Source: The technical core of devonfw is licensed as open source under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License 2.0</a>. The related documentation to the core-architecture is licensed under  <a href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons License (Attribution-NoDerivatives 4.0 International)</a>.</p>
+            <p>IP: Legally approved licensing conditions are available at: TODO</p>
+            <p>Open Source: The technical core of devonfw is licensed as open source under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License 2.0</a>. The related documentation to the core-architecture is licensed under  <a href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons License (Attribution-NoDerivatives 4.0 International)</a> (using this combination of licenses on code and documentation is just normal in the world of Java open source).</p>
           </div>
 
           <div class="bs-docs-section" id="sec7">
@@ -435,12 +467,17 @@
 				        <a href="#sec4">Tooling</a>
 				        <ul class="nav">
 				          <li><a href="#sec4-1">IDE</a></li>
-				          <li><a href="#sec4-2">  CobiGen</a></li>
+				          <li><a href="#sec4-2">CobiGen</a></li>
 				          <li><a href="#sec4-3">CI</a></li>
 				        </ul>
 				      </li>
 				      <li>
 				        <a href="#sec5">IP Add Ons</a>
+				        <ul class="nav">
+				          <li><a href="#sec5-1">Sencha Client</a></li>
+				          <li><a href="#sec5-2">Ionic Mobile Client</a></li>
+				          <li><a href="#sec5-3">IP Roadmap</a></li>
+				        </ul>
 				      </li>
 				      <li>
 				        <a href="#sec6">License</a>

@@ -146,6 +146,7 @@
 							  <th>Remark</th>
 							  <th>Contact</th>
 							  <th>exp. revenue</th>
+							  <th>finished?</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -156,6 +157,7 @@
 							  <td>enterprise application platform approach mith multiple CSD-applications on OASP</td>
 							  <td>Joerg Hohwiller</td>
 							  <td></td>
+							  <td>running</td>
 							</tr>
 							<tr>
 							  <td>Germany</td>
@@ -164,14 +166,16 @@
 							  <td>NSC-project; OASP4JS-Application-Template as basis of development</td>
 							  <td>Marek Matczak</td>
 							  <td></td>
+							  <td></td>
 							</tr>
 							<tr>
 							  <td>Germany</td>
 							  <td>DHL Parcelshop Europe</td>
 							  <td>OASP4j</td>
-							  <td>Usage of architecture-blueprint/concepts of OASP</td>
+							  <td>Usage of architecture-blueprint/concepts of OASP for a native mobile app + server.</td>
 							  <td>Horst Jilg</td>
 							  <td></td>
+							  <td>running</td>
 							</tr>
 							<tr>
 							  <td>Germany</td>
@@ -179,6 +183,7 @@
 							  <td>OASP4js</td>
 							  <td>consulting for the build of a pricing calculator for new CRM-portal</td>
 							  <td>Alexander Hofmann</td>
+							  <td></td>
 							  <td></td>
 							</tr>
 							<tr>
@@ -188,6 +193,7 @@
 							  <td>Usage of architecture-blueprint/concepts of OASP. Contributor to OASP.Net</td>
 							  <td>Sebastian Willemsen</td>
 							  <td></td>
+							  <td>finished</td>
 							</tr>
 							<tr>
 							  <td>Germany</td>
@@ -196,6 +202,7 @@
 							  <td>frame contract - first project expected in January</td>
 							  <td>Karl Prott</td>
 							  <td></td>
+							  <td>running</td>
 							</tr>						
 							<tr>
 							  <td>Spain</td>
@@ -204,6 +211,7 @@
 							  <td>Optimization of distribution processes and tracking customer orders.</td>
 							  <td>Manuel Cid Garcia</td>
 							  <td></td>
+							  <td>running</td>
 							</tr>						
 							<tr>
 							  <td>Spain</td>
@@ -212,6 +220,7 @@
 							  <td>Logistics system re-engineering to Devon. Customer buys devon-package.</td>
 							  <td>Manuel Cid Garcia</td>
 							  <td></td>
+							  <td>running</td>
 							</tr>						
 							<tr>
 							  <td>Germany</td>
@@ -220,14 +229,7 @@
 							  <td>HR application, architect support from Spain</td>
 							  <td>Thilo Hermann</td>
 							  <td>1,5m</td>
-							</tr>										
-							<tr>
-							  <td>Germany</td>
-							  <td>DHL Parcelshop</td>
-							  <td>devonfw (with own extensions)</td>
-							  <td></td>
-							  <td>Marco Rose</td>
-							  <td></td>
+							  <td>running</td>
 							</tr>										
 							<tr>
 							  <td>Spain</td>
@@ -235,8 +237,18 @@
 							  <td>devonfw</td>
 							  <td>Development of an extranet for the booking of containers for customers.</td>
 							  <td>Manuel Cid Garcia</td>
-							  <td></td>
+							  <td>>40k</td>
+							  <td>running</td>
 							</tr>										
+							<tr>
+							  <td>Spain</td>
+							  <td>Iberia</td>
+							  <td>devonfw</td>
+							  <td>Tablet Application for Flight Coordinators</td>
+							  <td>Manuel Cid Garcia</td>
+							  <td>>250k</td>
+							  <td>running</td>
+							</tr>
 							<tr>
 							  <td>Germany</td>
 							  <td>BVA UMF</td>
@@ -244,14 +256,7 @@
 							  <td>Webapplication for young refugee administration to be used by youth welfare offices across Germany.</td>
 							  <td>Marco Rose</td>
 							  <td>200k</td>
-							</tr>										
-							<tr>
-							  <td>Spain</td>
-							  <td>Aguas de Valencia Group</td>
-							  <td>devonfw</td>
-							  <td>Development of a kanban tool that covers the billing life cycle (meter). Running on JBoss</td>
-							  <td>Manuel Cid Garcia</td>
-							  <td></td>
+							  <td>running</td>
 							</tr>										
 							<tr>
 							  <td>Netherlands</td>
@@ -259,7 +264,17 @@
 							  <td>devonfw</td>
 							  <td>Migration from Ruby to Devonfw of current DigiD solution used i.e. to provide login access for governmental departments like Tax authority</td>
 							  <td>Paul Kerseboom</td>
-							  <td>> 10m</td>
+							  <td>>10m</td>
+							  <td>running</td>
+							</tr>										
+							<tr>
+							  <td>Spain</td>
+							  <td>Aguas de Valencia Group</td>
+							  <td>devonfw</td>
+							  <td>Development of a kanban tool that covers the billing life cycle (meter). Running on JBoss</td>
+							  <td>Manuel Cid Garcia</td>
+							  <td>>60k</td>
+							  <td>running</td>
 							</tr>										
 						</tbody>
 						</table>
@@ -291,15 +306,6 @@
 								  <td>Vaesa - Volkswagen Audi Spain </td>
 								  <td>devonfw</td>
 								  <td>Rappels and Compensation System Re-engineering</td>
-								  <td>September 2015</td>
-								  <td>Manuel Cid Garcia</td>
-								  <td>in bid phase</td>
-								</tr>
-								<tr>
-								  <td>Spain</td>
-								  <td>Iberia</td>
-								  <td>devonfw</td>
-								  <td>Tablet Application for Flight Coordinators</td>
 								  <td>September 2015</td>
 								  <td>Manuel Cid Garcia</td>
 								  <td>in bid phase</td>
