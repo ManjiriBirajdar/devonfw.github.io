@@ -372,11 +372,10 @@
 								<ul>
 									<li>hybrid mobile-apps across devices: Android, iOS, (Windows Phone)</li>
 									<li>simple Forms</li>
-									<li>lists and tables</li>
-									<li>push notifications</li>
+									<li>lists</li>
 									<li>hardware features: take a photo</li>
-									<li>Security (login/logoff)</li>
-									<li>Tooling</li>
+									<li>security (login/logoff)</li>
+									<li>suggested development tools</li>
 									<li>DevOps for crossplatform apps generation</li>
 								</ul></p>
 	            </div>
@@ -408,7 +407,7 @@
           
           <div class="bs-docs-section" id="sec6">
             <h2>License</h2>
-            <p>IP: Legally approved licensing conditions are available at: TODO</p>
+            <p>IP: Legally approved licensing conditions are available at <a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.licenses" target="_blank">teamforge (check subfolders too)</a></p>
             <p>Open Source: The technical core of devonfw is licensed as open source under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License 2.0</a>. The related documentation to the core-architecture is licensed under  <a href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons License (Attribution-NoDerivatives 4.0 International)</a> (using this combination of licenses on code and documentation is just normal in the world of Java open source).</p>
           </div>
 

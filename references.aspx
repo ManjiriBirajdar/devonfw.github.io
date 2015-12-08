@@ -373,6 +373,24 @@
 								  <td>Manuel Cid Garcia</td>
 								  <td>in bid phase</td>
 								</tr>										
+								<tr>
+								  <td>Germany</td>
+								  <td>VW CMS</td>
+								  <td>devonfw</td>
+								  <td>Compliance Management System for all VW subsidiaries (3600 PD).</td>
+								  <td>November 2015</td>
+								  <td>Thilo Herrmann</td>
+								  <td>in bid phase</td>
+								</tr>										
+								<tr>
+								  <td>Sweden</td>
+								  <td>Volvo Mig</td>
+								  <td>devonfw</td>
+								  <td>Migrate an existing application built on IBM process server to OS Java stack (3240 PD).</td>
+								  <td>November 2015</td>
+								  <td>Thilo Herrmann</td>
+								  <td>in bid phase</td>
+								</tr>										
 							</tbody>
 						</table>
 					</div>
