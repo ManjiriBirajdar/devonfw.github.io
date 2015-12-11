@@ -166,7 +166,7 @@
 
             <p>The following picture shows main building blocks of the platform. </p>
 
-            <p style="text-align:center"><img src="images/overview/devon_buildingblocks.png" alt="building blocks of devonfw"/></p>
+            <p style="text-align:center"><img src="images/overview/devon_buildingblocks.png" height="557" width="800" alt="building blocks of devonfw"/></p>
 
             <p>devonfw uses a state-of-the-art open source core reference architecture for the server (today considerd as commodity in the IT-industry) and on top of it an ever increasing number of high-value assets that are Capgemini IP.
             Why do we use an open source core?: in some countries of the SBU clients only accept open source stacks (most to mention customers who want to stay vendor-independent by principle), so being open is a market need.
