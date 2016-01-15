@@ -407,9 +407,10 @@
           
           <div class="bs-docs-section" id="sec6">
             <h2>License scenarios</h2>
+            <p>The available licensing models allow three different usage scenarios that have been approved from legal.</p>
             <p><a href="https://troom.capgemini.com/sites/vcc/devon/images/overview/license-devonfw-scenarios.png"><img src="https://troom.capgemini.com/sites/vcc/devon/images/overview/license-devonfw-scenarios.png" height="557" width="800" alt="devonfw license scenarios"/></a></p> 
-            <p>IP: Legally approved licensing conditions are available at <a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.licenses" target="_blank">teamforge (check subfolders too)</a></p>
-            <p>Open Source: The technical core of devonfw is licensed as open source under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License 2.0</a>. The related documentation to the core-architecture is licensed under  <a href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons License (Attribution-NoDerivatives 4.0 International)</a> (using this combination of licenses on code and documentation is just normal in the world of Java open source).</p>
+            <p><a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.licenses" target="_blank">Text blocks IP (check subfolders too)</a></p>
+            <p><a href="http://www.apache.org/licenses/LICENSE-2.0.html">License Open Source (Apache License 2.0)</a>. The related documentation to OASP is licensed under <a href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons License (Attribution-NoDerivatives 4.0 International)</a> (using this combination of licenses on code and documentation is just normal in the world of Java open source).</p>
           </div>
 
           <div class="bs-docs-section" id="sec7">
