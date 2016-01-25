@@ -278,11 +278,20 @@
 							</tr>										
 							<tr>
 							  <td>France</td>
-							  <td>French public minitry - Apep</td>
+							  <td>French public ministry - Apep</td>
 							  <td>devonfw</td>
 							  <td>Apep is a mobile application for the driver examination ( the client is the French minister). devon is used to build the back-end for the mobile app.</td>
 							  <td>Mabrouk Belhout</td>
 							  <td></td>
+							  <td>running</td>
+							</tr>										
+							<tr>
+							  <td>Germany</td>
+							  <td>TollCollect - ZME</td>
+							  <td>oasp</td>
+							  <td>Rebuild of a decentralized solution for gathering and billing toll data. Mostly high traffiq backend.</td>
+							  <td>Olaf Detering-Meyer</td>
+							  <td>big</td>
 							  <td>running</td>
 							</tr>										
 						</tbody>
@@ -338,39 +347,12 @@
 								  <td>in bid phase</td>
 								</tr>										
 								<tr>
-								  <td>Germany</td>
-								  <td>Zivit StID</td>
-								  <td>devonfw</td>
-								  <td>Architecture blueprint using modules from OASP (REST services).</td>
-								  <td>October 2015</td>
-								  <td>Marco Rose</td>
-								  <td>lost</td>
-								</tr>										
-								<tr>
-								  <td>Germany</td>
-								  <td>ZDFonline</td>
-								  <td>devonfw</td>
-								  <td>Microservices-Architecture with devonfw services (REST) and persistence.</td>
-								  <td>October 2015</td>
-								  <td>Marco Rose</td>
-								  <td>lost</td>
-								</tr>										
-								<tr>
 								  <td>France</td>
 								  <td>Ecoflottes</td>
 								  <td>devonfw</td>
 								  <td></td>
 								  <td>October 2015</td>
 								  <td>Thilo Herrmann</td>
-								  <td>in bid phase</td>
-								</tr>										
-								<tr>
-								  <td>Germany</td>
-								  <td>VKB</td>
-								  <td>devonfw</td>
-								  <td>Architecture blueprinting for a new master data management system.</td>
-								  <td>October 2015</td>
-								  <td>Jochen Rawolle</td>
 								  <td>in bid phase</td>
 								</tr>										
 								<tr>
@@ -398,6 +380,15 @@
 								  <td>Migrate an existing application built on IBM process server to OS Java stack (3240 PD).</td>
 								  <td>November 2015</td>
 								  <td>Thilo Herrmann</td>
+								  <td>in bid phase</td>
+								</tr>										
+								<tr>
+								  <td>Germany</td>
+								  <td>TollCollect - KonZ</td>
+								  <td>devonfw</td>
+								  <td>Build of a centralized management solution for the toll bridges and other toll controll devices.</td>
+								  <td>February 2016</td>
+								  <td>Andreas Redel</td>
 								  <td>in bid phase</td>
 								</tr>										
 							</tbody>
