@@ -321,30 +321,12 @@
 							<tbody>
 								<tr>
 								  <td>Spain</td>
-								  <td>Vaesa - Volkswagen Audi Spain </td>
-								  <td>devonfw</td>
-								  <td>Rappels and Compensation System Re-engineering</td>
-								  <td>September 2015</td>
-								  <td>Manuel Cid Garcia</td>
-								  <td>in bid phase</td>
-								</tr>
-								<tr>
-								  <td>Spain</td>
-								  <td>UMH - Miguel Hernandez University </td>
-								  <td></td>
-								  <td>eAdministration Platform SOA/BPM</td>
-								  <td>October 2015</td>
-								  <td>Manuel Cid Garcia</td>
-								  <td>in bid phase</td>
-								</tr>	
-								<tr>
-								  <td>Spain</td>
 								  <td>Malaga Town Council eAdministration Platform</td>
 								  <td>devonfw</td>
 								  <td></td>
 								  <td>August 2015</td>
 								  <td>Manuel Cid Garcia</td>
-								  <td>in bid phase</td>
+								  <td>on pause</td>
 								</tr>										
 								<tr>
 								  <td>France</td>
@@ -362,7 +344,7 @@
 								  <td>Developing an estimation tool, configurable, for Gas Natural. It includes all front-office, for the creation of estimates, and the back office for administration, configuration and operation metrics tool.</td>
 								  <td>October 2015</td>
 								  <td>Manuel Cid Garcia</td>
-								  <td>in bid phase</td>
+								  <td>on pause</td>
 								</tr>										
 								<tr>
 								  <td>Germany</td>
