@@ -121,7 +121,7 @@ body {
 
       <div class="container">
       <div class="jumbotron">
-        <p class="lead">devonfw is about to become the CSD standard platform for Capgemini SBU. It provides a standardized architecture blueprint, an open best-of-breed technology stack as well as industry proven best practices and code conventions. It is a industrialization initiative that is aligned across the SBU.</p>
+        <p class="lead">devonfw is the CSD standard platform for Capgemini APPS2. It provides a standardized architecture blueprint for Java-applications, an open best-of-breed technology stack as well as industry proven best practices and code conventions. It is a industrialization initiative that is aligned across Capgemini APPS2.</p>
 			</div>
 
 			<div id="myCarousel" class="carousel slide" data-interval="40000" data-ride="carousel">
