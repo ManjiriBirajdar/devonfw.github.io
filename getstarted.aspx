@@ -144,8 +144,8 @@ margin-right:10px;
         <div class="col-lg-12">
           <h3 class="text-success">Get started with...</h3>
           <ul class="custom-counter steps">
-            <li><h2>The platform guide <img src="images/book.png" width="30"></h2>
-              <p>First things first. Start your way through devonfw by reading the <a href="http://oasp.github.io/oasp4j/1.5.0/OASP4J.pdf" target="_blank">OASP4j Platform Guide<span class="note"> - most recent version stored on git with free access to anyone</span></a></p>
+            <li><h2>Wiki Page <img src="images/book.png" width="30"></h2>
+              <p>First things first. Start your way through devonfw by reading the platform guide (PDF), which you find on the <a href="https://github.com/oasp/oasp4j/wiki" target="_blank">OASP4j wiki<span class="note">.</span></a></p>
               <p>devonfw uses OASP4J as lean open source architecture blueprint for the server side of an application. OASP4J offers you a holistic documentation for building your application. Stop with digging in the docs of many different open-source projects in parallel getting on the wrong track or lost in space. </p>
             </li>
             <li><h2>View some demos <img src="images/cursor.png" width="30"></h2>
