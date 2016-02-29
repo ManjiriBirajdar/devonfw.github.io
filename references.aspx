@@ -443,7 +443,15 @@
 								  <td>September 2015 - February 2016</td>
 								  <td>Martin Girschick</td>
 								  <td>planned</td>
-								</tr>						
+								</tr>	
+								<tr>
+								  <td>Germany</td>
+								  <td>University of Cologne/Gummersbach	</td>
+								  <td>Practical semester for a group of students to develop and implement microservices with OASP.</td>
+								  <td>March 2016 - September 2016</td>
+								  <td>Axel Burghof</td>
+								  <td>running</td>
+								</tr>									
 							</tbody>
 						</table>
 					</div>

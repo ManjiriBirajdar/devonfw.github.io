@@ -13,7 +13,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrap-3.3.4/css/bootstrap.min.css" rel="stylesheet">
-
+	<link href="css/faq.css" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="bootstrap-3.3.4/css/justified-nav.css" rel="stylesheet">
     <link href="data:text/css;charset=utf-8," data-href="bootstrap-3.3.4/css/bootstrap-theme.min.css" rel="stylesheet" id="bs-theme-stylesheet">
@@ -193,6 +193,63 @@
             	</div>
         		</div>
         		
+				<!-- question6 -->
+        		<div class="panel panel-default">
+            	<div class="panel-heading">
+            		<h4 class="panel-title">
+              		<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse6" id="sec2-4">What skillset is required for a developer role to be able to use devon?</a>
+              	</h4>
+            	</div>
+            	<div id="collapse6" class="panel-collapse collapse">
+              	<div class="panel-body">
+                	<p>We distinguish two clear profiles: “Back-end developer (Java)”  and “Front-end developer (JavaScript)” with a possible combination of the two (“Full stack developer”) and the explicit warning against considering the profile of “Front–end developer” to be synonymous with “web developer”. This is absolutely not the case. Knowledge of HTML and CSS is desired or recommended, especially in cases like a framework like Angular – less so with Ext JS – but is completely orthogonal the subject at hand, which is programming complex application in the browser  in JavaScript. 
+
+					he front-end developer should therefore know and understand JavaScript as the complex multi-paradigm programming language it is, akin to how the Back-end developer should know Java. The Web browser becomes (is) therefore far more analogous to the Java VM and requires a markedly different skillet from the Web developer or designer. 
+					</p>
+					<table border="1px" border-spacing: "15px">
+						<tr>
+							<td>Back-end developer (Java) </td>
+							<td>University or polytechnic graduate (or equivalent) with minimal one year of working experience</br>
+								Mandatory</br>
+								Java 7 or 8</br>
+								SQL </br>
+								Recommend</br>
+								IDE like Eclipse,  IntelliJ IDEA or Netbeans</br>
+								Actual experience working with databases like Oracle, MS SQL Server, PostgreSQL, MySQL</br>
+								Maven</br>
+								Spring</br>
+								JPA/Hibernate</br>
+								Unit tests (JUnit or otherwise)</br>
+							</td>
+						</tr>
+						
+						<tr>
+							<td>
+							Front–end developer (JavaScript)
+							</td>
+							<td>
+							University or polytechnic graduate (or equivalent) with minimal one year of working experience</br>
+							Mandatory</br>
+							JavaScript / ECMAScript 5 or 2015 (6); but known and understood as the complex multi-paradigm programming language it is
+							Working knowledge of JQuery</br>
+							Basic HTML / CSS</br>
+							Recommend
+										   HTML5 / CSS3
+										   Working with a “modern” JavaScript tool chain (npm, bower, grunt, gulp etc)
+										   IDE or Editor like Eclipse, Sublime, Atom 
+							Unit tests (Mocha, Jasmin or otherwise)
+										   Experience with a modern client-side library like Sencha Ext JS, Kendo UI, Angular, React, Backbone
+
+							</td>
+						</tr>
+						<tr>
+						<td>Full-stack </td>
+						<td>Both previous profiles combined</td>
+						</tr>
+					</table>
+                </div>
+            	</div>
+        		</div>
     				<!-- Maintenance section -->
       			<div class="faqHeader page-header bs-docs-section" id="sec3"><h2>Maintenance questions</h2></div>
     				<!-- question5 -->
