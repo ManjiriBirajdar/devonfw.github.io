@@ -96,7 +96,9 @@
 
       <div class="row">
         <div class="col-lg-12">
-		      <h2 class="page-header">devonfw version 1.0<small><i class="text-danger">End of June 2015</i></small></h2>
+        	<h4 class="text-success"><br/>latest release</h4>
+        	
+		      <h2 class="page-header">devonfw version 1.0<small><i class="text-success">Released End of June 2015</i></small></h2>
 	      </div>
 	    </div>
       <div class="row well">
@@ -138,6 +140,8 @@
 
       <div class="row">
         <div class="col-lg-12">
+        	<h4 class="text-danger"><br/>upcoming release</h4>
+        	
 		      <h2 class="page-header">devonfw version 2.0<small><i class="text-danger">April 2016</i></small></h2>
 	      </div>
 	    </div>
