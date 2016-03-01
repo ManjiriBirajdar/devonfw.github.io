@@ -138,7 +138,7 @@
 
       <div class="row">
         <div class="col-lg-12">
-		      <h2 class="page-header">devonfw version 2.0<small><i class="text-danger">February 2016</i></small></h2>
+		      <h2 class="page-header">devonfw version 2.0<small><i class="text-danger">April 2016</i></small></h2>
 	      </div>
 	    </div>
       <div class="row well">
@@ -149,7 +149,6 @@
 							<li>Spring Boot</li>
 							<li>Batch component</li>
               <li>File upload/download</li>
-              <li>enhanced ui-component-catalog with AngularJs</li>
               <li>updated security-guidelines</li>
 							<li>Upgrade to Sencha Ext JS6</li>
 							<li>Mobile apps with Sencha Ext JS6</li>
@@ -164,7 +163,6 @@
 									<li>automated provisioning (with puppet)</li>
 								</ul>
 							</li>
-							<li>Thin portal frame component</li>
 							<li>App Server Compatibility (Websphere, JBoss, JEE 6)</li>							
               <li>Reporting with JasperReports</li>
 						</ul>
