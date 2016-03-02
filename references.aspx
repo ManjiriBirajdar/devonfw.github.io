@@ -293,7 +293,16 @@
 							  <td>Olaf Detering-Meyer</td>
 							  <td>big</td>
 							  <td>running</td>
-							</tr>										
+							</tr>	
+							<tr>
+							  <td>Germany</td>
+							  <td>Daimler ISP4D</td>
+							  <td>OASP4js</td>
+							  <td>Webapplication to manage parameters in a grid.</td>
+							  <td>Max Emmert</td>
+							  <td>-</td>
+							  <td>running</td>
+							</tr>								
 						</tbody>
 						</table>
 					</div>
