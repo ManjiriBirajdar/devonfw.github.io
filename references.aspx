@@ -302,7 +302,16 @@
 							  <td>Max Emmert</td>
 							  <td>-</td>
 							  <td>running</td>
-							</tr>								
+							</tr>	
+							<tr>
+							  <td>Spain</td>
+							  <td>TEPSA</td>
+							  <td>devonfw</td>
+							  <td>Business Process Re-engineering</td>
+							  <td>Manuel Cid Garcia</td>
+							  <td>>200k</td>
+							  <td>running</td>
+							</tr>							
 						</tbody>
 						</table>
 					</div>
