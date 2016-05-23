@@ -1,5 +1,5 @@
 $(function(){
-  if (document.location.toString().indexOf("troom")<0 && document.location.toString().indexOf("localhost")<0){
+  if (document.location.toString().indexOf("troom")<0 && document.location.toString().indexOf("localhost")<0&& document.location.toString().indexOf("file")<0){
     $('.cg_internal').remove();
   }
   $('p:contains("devonfw")').each(function(x){
