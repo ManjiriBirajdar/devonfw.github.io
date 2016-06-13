@@ -70,7 +70,7 @@
 	</div>
 
     <!--CONTAINER-->
-	<div class="container-fluid">
+	<div class="container-fluid content">
 		<div class="col-md-offset-2 col-md-8">
 			<h1>Roadmap</h1>
 			<p class="lead">devonfw V1.0 is available and ready to be used in projects. The roadmap towards version 2.0 aims to enrich features to address further requirements and provide supporting material.</p>
@@ -264,7 +264,7 @@
 			<p>&copy; Capgemini 2016</p>
 			<p class="font10">This page is maintained by <a href="https://troom.capgemini.com/sites/vcc/default.aspx" target="_blank">Capgemini Germany APPS Evolve</a> and <a href="#">Capgemini Spain</a>.</p>
 		</div>
-		<div class="col-md-2">
+		<div class="col-md-3">
 			<img alt="Capgemini logo" src="images/logo_capgemini_white.png">
 		</div>
 	</div>

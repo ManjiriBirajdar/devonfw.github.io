@@ -20,6 +20,28 @@
 	<link href="bootstrap-3.3.4/css/style.css" rel="stylesheet" type="text/css">
 	<link href="font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	<link href="css/custom.css" rel="stylesheet" type="text/css">
+	
+		<style>
+			h2 {
+				border-bottom: 1px solid #ccc;
+			}
+			.oasp h3{
+			  border-left: 20px solid #bbbb99;
+			  border-left: 20px solid #6FDEFA;
+			  border-left: 20px solid #FFB400;
+			  padding-left:5px;
+			}
+			.oasp a{
+			  color:  #FFB400;
+			  color:  #C18800;
+			}
+
+			.devon h3{
+			  border-left: 20px solid #99bbbb;
+			  border-left: 20px solid #00A0D7;
+			  padding-left:5px;
+			}
+		</style>
  </head>
 
  <body>
@@ -70,7 +92,7 @@
 		</div>
 	</div>
 
-	<div class="container-fluid bs-docs-container">
+	<div class="container-fluid bs-docs-container content">
 		<div class="col-md-offset-2 col-md-8" role="main">
 		<div class="bs-docs-section" id="start">
 			<h1>Sales & Marketing</h1>
@@ -534,7 +556,7 @@
 						<a href="#sec3">References</a>
 							<ul class="nav">
 								<li><a href="#sec3-1">References for devonfw usage</a></li>
-								<li><a href="#sec3-2">Currently used in akquisitions</a></li>
+								<li><a href="#sec3-2">Currently used in acquisitions</a></li>
 								<li><a href="#sec3-3">University activities</a></li>
 							</ul>
 					</li>
@@ -554,7 +576,7 @@
 			<p>&copy; Capgemini 2016</p>
 			<p class="font10">This page is maintained by <a href="https://troom.capgemini.com/sites/vcc/default.aspx" target="_blank">Capgemini Germany APPS Evolve</a> and <a href="#">Capgemini Spain</a>.</p>
 		</div>
-		<div class="col-md-2">
+		<div class="col-md-3">
 			<img alt="Capgemini logo" src="images/logo_capgemini_white.png">
 		</div>
 	</div>
