@@ -78,7 +78,7 @@ margin-right:10px;
 				<nav class="cg_internal pull-left" role="navigation" id="navigation">
 					<ul class="nav navbar-nav">
 						<li>
-							<a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.aspx">iCSD2016</a>
+							<a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.aspx">iCSD Initiative</a>
 						</li>
 						<li class="active" >
 							<a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx">devonfw</a>

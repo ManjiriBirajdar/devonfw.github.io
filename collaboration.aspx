@@ -31,7 +31,7 @@
 				<nav class="cg_internal pull-left" role="navigation" id="navigation">
 					<ul class="nav navbar-nav">
 						<li>
-							<a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.aspx">iCSD2016</a>
+							<a href="https://troom.capgemini.com/sites/vcc/iCSD2015/introduction.aspx">iCSD Initiative</a>
 						</li>
 						<li class="active" >
 							<a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx">devonfw</a>
@@ -72,7 +72,7 @@
     <div class="container-fluid content">
 	    <div class="col-md-offset-2 col-md-8">
 			<h1>Collaboration & Contribution</h1>
-	        <p>devonfw is a iCSD2016-initiative driven by the SBU. It is supported by a core team, local expert groups, engagements and the community. You are welcome to get on board ;-)</p>
+	        <p>devonfw is a iCSD-initiative driven by the SBU. It is supported by a core team, local expert groups, engagements and the community. You are welcome to get on board ;-)</p>
 	    </div>
 	
 	    <div class="col-md-offset-3 col-md-2">
