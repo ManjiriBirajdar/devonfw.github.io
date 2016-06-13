@@ -2,6 +2,8 @@
 
 body {
 	font-family: 'Maven Pro', sans-serif;
+	height:100%;
+	background-color:#015776;
 }
 
 .nav-justified > li > a {
@@ -89,7 +91,6 @@ ul.nav.nav-justified li:last-of-type {
 .header {
 	background:#EEF6F7 url('../images/index_background.png') no-repeat;
 	margin-top: 30px;
-	margin-bottom:30px;
 	padding-top: 30px;
 }
 
@@ -110,6 +111,12 @@ ul.nav.nav-justified li:last-of-type {
 .nav-justified > li > a:hover, .nav-justified > li:last-child > a:hover  {
 	color: #015776;
 	text-decoration:underline;
+}
+
+.content {
+	background-color:#FFFFFF;
+	padding-top:30px;
+	min-height:650px;
 }
 
 p.lead {
@@ -184,7 +191,7 @@ p.lead {
 	background-color:#015776;
 	border-top:transparent;
 	margin-top:0px;
-	margin-bottom:0px;
+	margin-bottom: 0px;
 	padding-bottom:0px;
 }
 
