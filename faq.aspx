@@ -69,7 +69,7 @@
 		</div>
 	</div>
 
-    <div class="container-fluid">  
+    <div class="container-fluid content">  
 		<div class="col-md-offset-2 col-md-8" id="main">
 			<!-- FAQ section-->
 			<div class="col-md-10" id="main">
@@ -264,25 +264,9 @@
 			<div class="col-md-2" role="complementary">
 				<nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm">
 					<ul class="nav bs-docs-sidenav">
-							              <li><a href="#sec1">Infrastructure</a>
-	                <ul class="nav">
-	                  <li><a href="#sec1-1">Why are we using github and not XXX?</a></li>
-	                  <li><a href="#sec1-2">How to access GitHub?</a></li>
-	                </ul>
-	              </li>
-	              <li><a href="#sec2">OASP</a>
-	                <ul class="nav">
-	                  <li><a href="#sec2-1">Naming</a></li>
-	                  <li><a href="#sec2-2">Open Source?</a></li>
-	                  <li><a href="#sec2-3">IDE</a></li>
-	                </ul>
-	              </li>
-	              <li><a href="#sec3">Maintenance</a>
-	                <ul class="nav">
-	                  <li><a href="#sec3-1">How can I edit the content of these pages?</a></li>
-	                </ul>
-	              </li>
-
+						<li><a href="#sec1">Infrastructure</a></li>
+						<li><a href="#sec2">OASP</a></li>
+						<li><a href="#sec3">Maintenance</a></li>
 					</ul>
 					<a class="back-to-top" href="#top">Back to top</a>
 				</nav>
@@ -296,7 +280,7 @@
 			<p>&copy; Capgemini 2016</p>
 			<p class="font10">This page is maintained by <a href="https://troom.capgemini.com/sites/vcc/default.aspx" target="_blank">Capgemini Germany APPS Evolve</a> and <a href="#">Capgemini Spain</a>.</p>
 		</div>
-		<div class="col-md-2">
+		<div class="col-md-3">
 			<img alt="Capgemini logo" src="images/logo_capgemini_white.png">
 		</div>
 	</div>

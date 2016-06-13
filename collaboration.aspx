@@ -69,7 +69,7 @@
 		</div>
 	</div>
 
-    <div class="container-fluid">
+    <div class="container-fluid content">
 	    <div class="col-md-offset-2 col-md-8">
 			<h1>Collaboration & Contribution</h1>
 	        <p>devonfw is a iCSD2016-initiative driven by the SBU. It is supported by a core team, local expert groups, engagements and the community. You are welcome to get on board ;-)</p>
@@ -120,7 +120,7 @@
 			<p>&copy; Capgemini 2016</p>
 			<p class="font10">This page is maintained by <a href="https://troom.capgemini.com/sites/vcc/default.aspx" target="_blank">Capgemini Germany APPS Evolve</a> and <a href="#">Capgemini Spain</a>.</p>
 		</div>
-		<div class="col-md-2">
+		<div class="col-md-3">
 			<img alt="Capgemini logo" src="images/logo_capgemini_white.png">
 		</div>
 	</div>

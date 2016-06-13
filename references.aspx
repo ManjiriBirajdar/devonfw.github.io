@@ -70,7 +70,7 @@
 		</div>
 	</div>
 
-    <div class="container-fluid">
+    <div class="container-fluid content">
 		<div class="col-md-offset-2 col-md-8">
 			<h1>References</h1>
 			<p class="lead">If you are investigating, exploring or planning to use a component or concept (even partially) of devonfw/OASP, !please! send a note to <a href="mailto:icsddevonfwsupport.apps2@capgemini.com">devonfw Team</a>.</p>
@@ -457,7 +457,7 @@
 			<p>&copy; Capgemini 2016</p>
 			<p class="font10">This page is maintained by <a href="https://troom.capgemini.com/sites/vcc/default.aspx" target="_blank">Capgemini Germany APPS Evolve</a> and <a href="#">Capgemini Spain</a>.</p>
 		</div>
-		<div class="col-md-2">
+		<div class="col-md-3">
 			<img alt="Capgemini logo" src="images/logo_capgemini_white.png">
 		</div>
 	</div>

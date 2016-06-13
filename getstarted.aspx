@@ -116,7 +116,7 @@ margin-right:10px;
 		</div>
 	</div>
 
-    <div class="container-fluid">
+    <div class="container-fluid content">
 		<div class="col-md-offset-2 col-md-8">
 			<h1>Getting started on devonfw</h1>
 			<p class="lead">Get to know what devonfw has to offer and start coding in zero time by following these steps. </p>
@@ -195,7 +195,7 @@ margin-right:10px;
 			<p>&copy; Capgemini 2016</p>
 			<p class="font10">This page is maintained by <a href="https://troom.capgemini.com/sites/vcc/default.aspx" target="_blank">Capgemini Germany APPS Evolve</a> and <a href="#">Capgemini Spain</a>.</p>
 		</div>
-		<div class="col-md-2">
+		<div class="col-md-3">
 			<img alt="Capgemini logo" src="images/logo_capgemini_white.png">
 		</div>
 	</div>
