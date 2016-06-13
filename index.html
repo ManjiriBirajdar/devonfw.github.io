@@ -70,12 +70,27 @@
 	</div>
 	
 	<!--CONTAINER-->
-	<div class="container-fluid">
+	<div class="container-fluid content">
 		<div class="col-md-offset-2 col-md-8">
 			<p class="lead">devonfw is the CSD standard platform for Capgemini APPS2. It provides a standardized architecture blueprint for Java-applications, an open best-of-breed technology stack as well as industry proven best practices and code conventions. It is a industrialization initiative that is aligned across Capgemini APPS2.</p>
 		</div>
 		<div class="col-md-offset-2 col-md-8">
 			<div id="myCarousel" class="carousel slide" data-interval="40000" data-ride="carousel">
+			<!-- Carousel indicators -->
+				<ol class="carousel-indicators">
+					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+					<li data-target="#myCarousel" data-slide-to="1"></li>
+					<li data-target="#myCarousel" data-slide-to="2"></li>
+					<li data-target="#myCarousel" data-slide-to="3"></li>
+					<li data-target="#myCarousel" data-slide-to="4"></li>
+					<li data-target="#myCarousel" data-slide-to="5"></li>
+					<li data-target="#myCarousel" data-slide-to="6"></li>
+					<li data-target="#myCarousel" data-slide-to="7"></li>
+					<li data-target="#myCarousel" data-slide-to="8"></li>
+					<li data-target="#myCarousel" data-slide-to="9"></li>
+				</ol>
+			<!-- Carousel items -->
+
 				<div class="carousel-inner">
 					<div class="active item">
 						<div class="smallcenter">
@@ -166,23 +181,6 @@
 				<span class="glyphicon glyphicon-chevron-right"></span>
 			</a>
 		</div>
-		
-		<div class="col-md-offset-2 col-md-8">
-			<!-- Carousel indicators -->
-			<ol class="carousel-indicators">
-				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-				<li data-target="#myCarousel" data-slide-to="1"></li>
-				<li data-target="#myCarousel" data-slide-to="2"></li>
-				<li data-target="#myCarousel" data-slide-to="3"></li>
-				<li data-target="#myCarousel" data-slide-to="4"></li>
-				<li data-target="#myCarousel" data-slide-to="5"></li>
-				<li data-target="#myCarousel" data-slide-to="6"></li>
-				<li data-target="#myCarousel" data-slide-to="7"></li>
-				<li data-target="#myCarousel" data-slide-to="8"></li>
-				<li data-target="#myCarousel" data-slide-to="9"></li>
-			</ol>
-			<!-- Carousel items -->
-		</div>
 	</div>
 	
 	<!-- PARTNERS LOGO CONTAINER -->
@@ -204,7 +202,7 @@
 			<p>&copy; Capgemini 2016</p>
 			<p class="font10">This page is maintained by <a href="https://troom.capgemini.com/sites/vcc/default.aspx" target="_blank">Capgemini Germany APPS Evolve</a> and <a href="#">Capgemini Spain</a>.</p>
 		</div>
-		<div class="col-md-2">
+		<div class="col-md-3">
 			<img alt="Capgemini logo" src="images/logo_capgemini_white.png">
 		</div>
 	</div>
@@ -215,4 +213,9 @@
     <script src="bootstrap-3.3.4/js/jquery-1.11.2.min.js"></script>
     <script src="js/devon.js"></script>
 	<script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>
+	<script>
+		$('.carousel').carousel({
+		  interval: 4000
+		}) 
+	</script>
 </aspx>
