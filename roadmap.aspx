@@ -60,7 +60,7 @@
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx">Overview</a></li>
 						<li><a class="cg_internal active" href="#">Roadmap</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/collaboration.aspx">Collaboration</a></li>
-						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/references.aspx">References</a></li>
+						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/references.aspx">Sales & Marketing</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/faq.aspx">FAQs</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/getstarted.aspx">Getting started</a></li>
 					</ul>
@@ -75,8 +75,122 @@
 			<h1>Roadmap</h1>
 			<p class="lead">devonfw V1.0 is available and ready to be used in projects. The roadmap towards version 2.0 aims to enrich features to address further requirements and provide supporting material.</p>
 		</div>
-      
-        <div class="col-md-offset-2 col-md-8">
+		
+		       	<div class="col-md-offset-2 col-md-8">
+        	<h4 class="text-danger"><br/>planned release</h4>
+        	<h2 class="page-header">devonfw version 2.1</h2>
+	    </div>
+		
+		<div class="col-md-offset-2 col-md-4">
+			<p>
+				<h3><span class="fa fa-cube text-info"></span> Solution</h3>
+				<ul>
+					<li>App Server Compatibility (Websphere, JBoss, JEE 6)</li>
+					<li>Drools RuleEngine module</li>
+					<li>File upload / download</li>
+					<li>Secure implementation guide</li>
+					<li>System / Integration-Test Guide and Reference Implementation</li>
+					<li>Microervice integration portal</li>
+					<li>Estimation tool</li>
+					<li>Standard ui styleguide template</li>
+					<li>Devon onboarding kit</li>
+					<li>Renewed devon shared services offering</li>
+				</ul>
+			</p>
+	    </div>
+        <div class="col-md-4">
+			<p>
+				<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
+				<ul>
+					<li>TBD</li>
+				</ul>
+			</p>
+	    </div>
+		<div class="col-md-offset-2 col-md-8">
+			<p>
+				<h3><span class="fa fa-code text-info"></span> Integration Showcases</h3>
+				<ul>
+					<li>Integration showcase with Immediate Accelarators as</li>
+						<ul>
+							<li>Security (with OpenAM)</li>
+							<li>Integration (with WSO2)</li>
+							<li>Monitoring (with Grafana, Sensu)</li>
+							<li>Logging (with ELK)</li>
+							<li>API management (with mule ESB)</li>
+							<li>Automated provisioning (with puppet)</li>
+						</ul>
+					</li>
+					<li>Cassandra (NoSQL) & SpringData</li>
+					<li>OWASP AppSensor</li>
+				</ul>
+			</p>
+	    </div>
+
+       	<div class="col-md-offset-2 col-md-8">
+        	<h4 class="text-danger"><br/>upcoming release</h4>
+        	<h2 class="page-header">devonfw version 2.0<small><i class="text-danger">June 2016</i></small></h2>
+	    </div>
+		
+		<div class="col-md-offset-2 col-md-4">
+			<p>
+				<h3><span class="fa fa-cube text-info"></span> Solution</h3>
+				<ul>
+					<li>Spring Boot integration</li>
+					<li>Batch component and sample implementation</li>
+					<li>Upgrade to Sencha Ext JS6</li>
+					<li>Upgrade to Apache CXF 3.1.x </li>
+					<li>Reporting with JasperReports</li>
+					<li>Enhanced IDE package for OASP based on Eclipse Mars</li>
+					<li>Enhanced IDE package for Devon</li>
+					<li>Improved test infrastructure, new integration test suite</li>
+					<li>I18N support for server and metadata</li>
+					<li>Auditing Support</li>
+					<li>Server deployment variants, incl. standalone startup</li>
+				</ul>
+			</p>
+	    </div>
+        <div class="col-md-4">
+			<p>
+				<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
+				<ul>
+					<li>Comprehensive devonfw tutorial for all devon building blocks</li>
+						<ul>
+							<li>Environemnt setup</li>
+							<li>Using the code generator</li>
+							<li>Securing the application</li>
+							<li>Packaging the application</li>
+							<li>Deployment</li>
+							<li>Programming though the layers</li>
+							<li>etc.</li>
+						</ul>
+					<li>Redesigned layout templates for all marketing channels</li>
+					<li>New marketing section in troom</li>
+					<li>Publicly available marketing team forge</li>
+					<li>Sales slide deck addressing architects</li>
+					<li>Sales one pager addressing management</li>
+					<li>First project references</li>
+					<li>Licensing Scenarios</li>
+					<li>Updated internal marketing slidedeck</li>
+					<li>Updated external marketing slidedeck</li>
+					<li>Product list for OASP and devon showing License usage</li> 
+					<li>Updated training materials</li>
+					<li>Devonfw overview video on 360learning platform</li>
+					<li>External marketing websites with PoV on devonfw</li>
+				</ul>
+			</p>
+	    </div>
+		<div class="col-md-offset-2 col-md-4">
+			<p>
+				<h3><span class="fa fa-code text-info"></span> Integration Showcases</h3>
+				<ul>
+					<li>Cross platform mobile apps with Ionic & Cordova</li>
+					<li>SAP-HANA integration showcase</li>
+					<li>Sencha 6 Mobile showcase</li>
+				</ul>
+			</p>
+	    </div>
+		
+		<div class="col-md-offset-2 col-md-8">
         	<h4 class="text-success"><br/>latest release</h4>
         	<h2 class="page-header">devonfw version 1.0<small><i class="text-success">Released End of June 2015</i></small></h2>
 	    </div>
@@ -115,49 +229,6 @@
 				</ul>
 			</p>
 		</div>
-
-       	<div class="col-md-offset-2 col-md-8">
-        	<h4 class="text-danger"><br/>upcoming release</h4>
-        	<h2 class="page-header">devonfw version 2.0<small><i class="text-danger">June 2016</i></small></h2>
-	    </div>
-		
-		<div class="col-md-offset-2 col-md-4">
-			<p>
-				<h3><span class="fa fa-cube text-info"></span> Solution</h3>
-				<ul>
-					<li>Spring Boot</li>
-					<li>Batch component</li>
-					<li>File upload/download</li>
-					<li>updated security-guidelines</li>
-					<li>Upgrade to Sencha Ext JS6</li>
-					<li>Mobile apps with Sencha Ext JS6</li>
-					<li>Cross platform mobile apps with Ionic + Cordova</li>
-					<li>Integration showcase with Immediate Accelarators as 
-						<ul>
-							<li>Security (with OpenAM)</li>
-							<li>Integration (with WSO2)</li>
-							<li>Monitoring (with Grafana, Sensu)</li>
-							<li>Logging (with ELK)</li>
-							<li>API management (with mule ESB)</li>
-							<li>automated provisioning (with puppet)</li>
-						</ul>
-					</li>
-					<li>App Server Compatibility (Websphere, JBoss, JEE 6)</li>							
-					<li>Reporting with JasperReports</li>
-				</ul>
-			</p>
-	    </div>
-        <div class="col-md-4">
-			<p>
-				<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
-				<ul>
-					<li>devonfw feature list</li>
-					<li>external devonfw Homepage</li>
-					<li>mature marketing slide deck</li>
-					<li>processes handbook</li>
-				</ul>
-			</p>
-	    </div>
 
        	<div class="col-md-offset-2 col-md-8">
         	<h4 class="text-success"><br/>previously released</h4>

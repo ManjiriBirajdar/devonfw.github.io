@@ -107,7 +107,7 @@ margin-right:10px;
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx">Overview</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/roadmap.aspx">Roadmap</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/collaboration.aspx">Collaboration</a></li>
-						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/references.aspx">References</a></li>
+						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/references.aspx">Sales & Marketing</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/faq.aspx">FAQs</a></li>
 						<li><a class="cg_internal active" href="#">Getting started</a></li>
 					</ul>
