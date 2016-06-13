@@ -91,7 +91,7 @@
 		</div>
 	</div>
 
-    <div class="container-fluid bs-docs-container">
+    <div class="container-fluid bs-docs-container content">
         <div class="col-md-offset-2 col-md-8" role="main">
 			<div class="bs-docs-section" id="start">
 				<h1>devonfw overview</h1>
@@ -467,7 +467,7 @@
 			<p>&copy; Capgemini 2016</p>
 			<p class="font10">This page is maintained by <a href="https://troom.capgemini.com/sites/vcc/default.aspx" target="_blank">Capgemini Germany APPS Evolve</a> and <a href="#">Capgemini Spain</a>.</p>
 		</div>
-		<div class="col-md-2">
+		<div class="col-md-3">
 			<img alt="Capgemini logo" src="images/logo_capgemini_white.png">
 		</div>
 	</div>
