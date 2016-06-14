@@ -395,17 +395,6 @@
 				<p style="text-align:center"><img src="images/overview/industools.png" height="450" width="800" alt="devonfw in the SBU indus-catalogue"/></p>
 				<p>Please be aware that services on the left are visible to the whole SBU but the three supporting services on the right are visible in Spain and Germany only. However, don't hesitate to contact us anyway.</p>
 			</div>
-
-			<div class="bs-docs-section" id="sec8">
-				<h2>Additional material</h2>
-				<p>If you did not find the information you were looking for, please check documents area in our public <a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw">Teamforge</a>, e.g.:</p>
-					<ul>
-						<li><a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.bid_support">Bidsupport templates</a></li>
-						<li><a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.marketing">Marketing slides</a></li>
-						<li><a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.marketing.presentations">Recent presentations</a></li>
-					</ul>
-				</p>
-			</div>
         </div>
 
 		<!-- right navigation -->
@@ -447,9 +436,6 @@
 				    </li>
 				    <li>
 				        <a href="#sec7">INDUS services</a>
-				    </li>
-				    <li>
-				        <a href="#sec8">Add On material</a>
 				    </li>
 				</ul>
 				<br/>

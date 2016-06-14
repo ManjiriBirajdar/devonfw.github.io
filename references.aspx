@@ -103,37 +103,20 @@
 		<div class="col-md-offset-2 col-md-8">
 			<div class="bs-docs-section" id="sec3">
 				<h2 id="sec1">External Marketing</h2>
-				<p>The following devonfw web sites are publibly accessible.</p>
+				<p>The following devonfw web sites are publicly accessible.</p>
 				<ul>
-					<li>English version</li>
-					<ul>
-					<li>https://www.capgemini.com/devonfw</li>
-					</ul>
-					<li>German version</li>
-					<ul>
-					<li>https://www.de.capgemini.com/devonfw</li>
-					</ul>
-					<li>Spanish version</li>
-					<ul>
-					<li>http://devonfw.com</li>
-					<li>https://www.es.capgemini.com/application-lifecycle-services/desarrollo-acelerado-de-soluciones-devon</li>
-					</ul>
-					<li>Github version</li>
-					<ul>
-					<li>http://devonfw.github.io</li>
-					</ul>
+					<li><a href="https://www.capgemini.com/devonfw">English version</a></li>
+					<li><a href="https://www.de.capgemini.com/devonfw">German version</a></li>
+					<li><a href="http://devonfw.com">Spanish version</a></li>
+					<li><a href="http://devonfw.github.io">Github version</a></li>
 				</ul>
 				<h2 id="sec2">Internal Marketing</h2>
 				<p>The following devonfw web sites are only accessible internally.</p>
 				<ul>
-					<li>TeamForge site (marketing material, etc.)</li>
-						<ul>
-							<li>https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw</li>
-						</ul>
-					<li>Spanish devon portal (entry point to access several "vintage" Devon applications)</li>
-						<ul>
-							<li>http://devon.es.capgemini.com</li>
-						</ul>
+					<li><a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.bid_support">Bidsupport templates</a></li>
+					<li><a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.marketing">Marketing slides</a></li>
+					<li><a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.marketing.presentations">Recent presentations</a></li>
+					<li><a href="http://devon.es.capgemini.com">Spanish devon portal (entry point to access several "vintage" Devon applications)</a></li>
 				</ul>
 				<h2 id="sec3">References</h2>
 				<h3 id="sec3-1">References for devonfw usage</h3>
@@ -152,42 +135,6 @@
 							</tr>
 						</thead>
 						<tbody>
-							<tr>
-							  <td>Germany</td>
-							  <td>HPA - Harbour management</td>
-							  <td>devon server and client</td>
-							  <td>Implement a fullstack application for Hamburg Port Authority with strong GIS focus</td>
-							  <td>Carsten Frank</td>
-							  <td></td>
-							  <td>running</td>
-							</tr>
-							<tr>
-							  <td>Germany</td>
-							  <td>UBA</td>
-							  <td>OASP</td>
-							  <td>RFI at Federal ministry for Environment</td>
-							  <td>Lars Santesson</td>
-							  <td></td>
-							  <td>running</td>
-							</tr>
-							<tr>
-							  <td>Germany</td>
-							  <td>EOS - IT receivables management</td>
-							  <td>devon</td>
-							  <td>Planning of Greenfield implementation for their core systemwith a microservice architecture Java (server side) and Javascript based clients. Crossborder staffing of devon experts from Spain</td>
-							  <td>Thomas Arend</td>
-							  <td></td>
-							  <td>running</td>
-							</tr>
-							<tr>
-							  <td>Germany</td>
-							  <td>VW - SCM</td>
-							  <td>devon</td>
-							  <td>RFI to create new common microservice-platform</td>
-							  <td>Barbara Burkhard</td>
-							  <td></td>
-							  <td>running</td>
-							</tr>
 							<tr>
 							  <td>Germany</td>
 							  <td>LFU ADAMAS</td>
@@ -370,6 +317,42 @@
 							</tr>
 						</thead>
 						<tbody>
+							<tr>
+							  <td>Germany</td>
+							  <td>HPA - Harbour management</td>
+							  <td>devon server and client</td>
+							  <td>Implement a fullstack application for Hamburg Port Authority with strong GIS focus</td>
+							  <td>June 2016</td>
+							  <td>Carsten Frank</td>
+							  <td>in bid phase</td>
+							</tr>
+							<tr>
+							  <td>Germany</td>
+							  <td>UBA</td>
+							  <td>OASP</td>
+							  <td>RFI at Federal ministry for Environment</td>
+							  <td>June 2016</td>
+							  <td>Lars Santesson</td>
+							  <td>in bid phase</td>
+							</tr>
+							<tr>
+							  <td>Germany</td>
+							  <td>EOS - IT receivables management</td>
+							  <td>devon</td>
+							  <td>Planning of Greenfield implementation for their core systemwith a microservice architecture Java (server side) and Javascript based clients. Crossborder staffing of devon experts from Spain</td>
+							  <td>June 2016</td>
+							  <td>Thomas Arend</td>
+							  <td>in bid phase</td>
+							</tr>
+							<tr>
+							  <td>Germany</td>
+							  <td>VW - SCM</td>
+							  <td>devon</td>
+							  <td>RFI to create new common microservice-platform</td>
+							  <td>June 2016</td>
+							  <td>Barbara Burkhard</td>
+							  <td>in bid phase</td>
+							</tr>
 							<tr>
 							  <td>Spain</td>
 							  <td>Malaga Town Council eAdministration Platform</td>
