@@ -346,9 +346,9 @@
 							</tr>
 							<tr>
 							  <td>Germany</td>
-							  <td>VW - SCM</td>
+							  <td>VW</td>
 							  <td>devon</td>
-							  <td>RFI to create new common microservice-platform</td>
+							  <td>RRFI to create new Order Management Solution using micro services</td>
 							  <td>June 2016</td>
 							  <td>Barbara Burkhard</td>
 							  <td>in bid phase</td>
