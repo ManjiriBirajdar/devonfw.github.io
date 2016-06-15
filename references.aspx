@@ -489,7 +489,7 @@
 				
 			<div class="bs-docs-section" id="sec4">
 				<h2>Foundations of devonfw</h2>
-				<p>devonfw has been built on the foundation of large CSD platforms that have been developed and improved over years.</p>
+				<p>devonfw has been created on the extensive architectural experience of building large CSD platforms that have been developed by large Capgemini-Teams over years.</p>
 				<div>
 					<table class="table table-bordered table-bordered-blue">
 						<thead>
@@ -503,7 +503,7 @@
 						<tbody>
 							<tr>
 							  <td>Spain</td>
-							  <td><a href="https://troom.capgemini.com/sites/vcc/java/Shared%20Documents/StandardPlatform/Marketing/CoE_Java-Devon_ingles_v1.2.pptx" target="blank">devonfw Framework</a> Spain</td>
+							  <td><a href="https://troom.capgemini.com/sites/vcc/java/Shared%20Documents/StandardPlatform/Marketing/CoE_Java-Devon_ingles_v1.2.pptx" target="blank">vintage devonfw Framework</a> Spain</td>
 							  <td>Large JEE-based framework sold to multiple projects at multiple customers in various industries.</td>
 							  <td>David Luengo Ruiz, Angel Luis Marin Soler, Manuel Cid-Garcia </td>
 							</tr>
@@ -516,7 +516,7 @@
 							<tr>
 							  <td>Germany</td>
 							  <td><a href="https://seu.sdm.de/pu/tecbase/twiki/bin/view">TecBase</a> used at Schenker Tango</td>
-							  <td>Capgemini has distilled its decades of software architecture and engineering expertise into the software development method Quasar (Quality Software Architecture). A concrete manifestation of the Quasar 3.0 approach, specific for Java development, is the development platform TECBASE.</td>
+							  <td>Capgemini has destilled its decades of software architecture and engineering expertise into the software development method Quasar (Quality Software Architecture). A concrete manifestation of the Quasar 3.0 approach, specific for Java development, is the development platform TECBASE.</td>
 							  <td>Thomas Rath</td>
 							</tr>
 						</tbody>
