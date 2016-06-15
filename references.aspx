@@ -348,7 +348,7 @@
 							  <td>Germany</td>
 							  <td>VW</td>
 							  <td>devon</td>
-							  <td>RRFI to create new Order Management Solution using micro services</td>
+							  <td>RFI to create new Order Management Solution using micro services</td>
 							  <td>June 2016</td>
 							  <td>Barbara Burkhard</td>
 							  <td>in bid phase</td>
