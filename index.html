@@ -15,7 +15,6 @@
     <link href="bootstrap-3.3.4/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
     <!-- Custom styles for this template -->
-	<link href='https://fonts.googleapis.com/css?family=Maven+Pro:400,500,900,700' rel="stylesheet" type="text/css">
     <link href="bootstrap-3.3.4/css/justified-nav.css" rel="stylesheet" type="text/css">
     <link href="bootstrap-3.3.4/css/style.css" rel="stylesheet" type="text/css">
     <link href="font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
