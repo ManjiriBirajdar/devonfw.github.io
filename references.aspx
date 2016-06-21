@@ -15,6 +15,7 @@
 	<link href="bootstrap-3.3.4/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
 	<!-- Custom styles for this template -->
+	<link href='https://fonts.googleapis.com/css?family=Maven+Pro:400,500,900,700' rel="stylesheet" type="text/css">
 	<link href="bootstrap-3.3.4/css/justified-nav.css" rel="stylesheet" type="text/css">
 	<link href="bootstrap-3.3.4/css/style.css" rel="stylesheet" type="text/css">
 	<link href="font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -104,13 +105,14 @@
 				<h2 id="sec1">External Marketing</h2>
 				<p>The following devonfw web sites are publicly accessible.</p>
 				<ul>
-					<li><a href="https://www.capgemini.com/devonfw">English version</a></li>
-					<li><a href="https://www.de.capgemini.com/devonfw">German version</a></li>
-					<li><a href="http://devonfw.com">Spanish version</a></li>
-					<li><a href="http://devonfw.github.io">Github version</a></li>
+					<li><a href="https://www.capgemini.com/devonfw">Main devon-page on capgemini.com (English)</a></li>
+					<li><a href="https://www.de.capgemini.com/devonfw">German version on de.capgemini.com (English)</a></li>
+					<li><a href="http://devonfw.com">Spanish version on es.capgemini.com (Spanish)</a></li>
+					<li><a href="http://devonfw.github.io">Devonfw-page on Github</a></li>
+					<li><a href="http://oasp.io">OASP main page on Github</a></li>
 				</ul>
 				<h2 id="sec2">Internal Marketing</h2>
-				<p>The following devonfw web sites are only accessible internally.</p>
+				<p>For internal marketing the following material is accessible internally.</p>
 				<ul>
 					<li><a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.bid_support">Bidsupport templates</a></li>
 					<li><a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.marketing">Marketing slides</a></li>
@@ -118,7 +120,7 @@
 					<li><a href="http://devon.es.capgemini.com">Spanish devon portal (entry point to access several "vintage" Devon applications)</a></li>
 				</ul>
 				<h2 id="sec3">References</h2>
-				<h3 id="sec3-1">References for devonfw usage</h3>
+				<h3 id="sec3-1">References for devonfw usage in projects</h3>
 				<p>Treat any of the following references confidential until you received approval from the project-contact.</p>
 				<div class="table-responsive">
 					<table class="table table-bordered table-bordered-blue">
@@ -316,6 +318,15 @@
 							</tr>
 						</thead>
 						<tbody>
+							<tr>
+							  <td>Germany</td>
+							  <td>Daimler - SMARAGD</td>
+							  <td>devon server and client</td>
+							  <td>Replace Central RD System of Daimler with a custom solution in an agile way; Deployment to PCF.</td>
+							  <td>July 2016</td>
+							  <td>Thilo Hermann</td>
+							  <td>in bid phase</td>
+							</tr>
 							<tr>
 							  <td>Germany</td>
 							  <td>HPA - Harbour management</td>
