@@ -30,11 +30,12 @@
 	border-bottom: 1px solid rgb(0, 160, 215);
 }
 .note {
-	color: white;
+	display:none;
 }
 a:hover .note {
 	color: #aaa;
 	border-bottom: 1px solid white;
+	display:inline-block;
 }
   h2 {
     margin-top:40px;
