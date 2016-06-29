@@ -150,13 +150,13 @@ margin-right:10px;
 					<table class="table table-bordered table-bordered-blue">
 						<thead>
 							<tr>
-							  <th colspan="2" style="text-align:center;">Devonfw distribution 2.0 files</th>
+							  <th colspan="2" style="text-align:center;">devonfw distribution 2.0 files</th>
 							</tr>
 						</thead>
 						<tbody>
 							<tr>
 							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.devonfw_2_0/frs49847?dl=1">Devonfw Guide</a></td>
-							  <td>A complete guide to the whole Devonfw distribution. Includes documentation about how to getting started with Devonfw and Sencha (devon4sencha) along with a cookbook with more advanced and specific features of the distribution.</td>
+							  <td>A complete guide to the whole devonfw distribution. Includes documentation about how to getting started with devonfw and Sencha (devon4sencha) along with a cookbook with more advanced and specific features of the distribution.</td>
 							 </tr>
 							 <tr>
 							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43016?dl=1">OAPS4J Guide</a></td>
