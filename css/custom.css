@@ -203,8 +203,12 @@ p.lead {
 	color:#FFFFFF;
 }
 
-.footer p > a, a:hover {
+.footer p > a {
 	color:white;
+}
+
+a:hover {
+	color:#015776;
 }
 
 .font10 {
