@@ -41,3 +41,11 @@ function wrapMatchesInNode(textNode) {
  
 }
 });
+
+$(function(){
+	$('#affix').affix({
+		offset: {
+			top: $('#affix').offset().top
+		}
+	});
+});
