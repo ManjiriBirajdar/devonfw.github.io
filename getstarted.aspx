@@ -170,10 +170,10 @@ margin-right:10px;
 					</table>
 					<p>You can also access the latest working-copy of our documentation in wiki format from the Github project pages</p>
 					<ul>
-						<li><a href="https://github.com/devonfw/devon/wiki" role="button" target="_blank">devonfw wiki</a></li>
-						<li><a href="https://github.com/oasp/oasp4j/wiki" role="button" target="_blank">OASP4J</a></li>
-						<li><a href="https://github.com/oasp/oasp4js/wiki" role="button" target="_blank">OASP4JS</a></li>
-						<li><a href="https://github.com/devonfw/tools-cobigen/wiki" target="_blank">CobiGen</a></li>
+						<li><a href="https://github.com/devonfw/devon/wiki" role="button" target="_blank">devonfw wiki <span class="note"> - GitHub private repo, please request access</span></a></li>
+						<li><a href="https://github.com/oasp/oasp4j/wiki" role="button" target="_blank">OASP4J <span class="note"> - GitHub public repository</span></a></li>
+						<li><a href="https://github.com/oasp/oasp4js/wiki" role="button" target="_blank">OASP4JS <span class="note"> - GitHub public repository</span></a></li>
+						<li><a href="https://github.com/devonfw/tools-cobigen/wiki" target="_blank">CobiGen <span class="note"> - GitHub private repo, please request access</span></a></li>
 					</ul>
 				</li>
 				<li>
