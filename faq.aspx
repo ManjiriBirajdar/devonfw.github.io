@@ -21,10 +21,10 @@
 	<link href="css/custom.css" rel="stylesheet" type="text/css">	
 </head>
 
-<body data-spy="scroll" data-target="#myScrollspy">
+<body data-spy="scroll" data-target="scrollspy">
 
 	<!-- HEADER MAIN MENU -->
-	<nav class="navbar navbar-default navbar-fixed-top bottom0" role="banner">
+	<nav class="navbar navbar-default bottom0" role="banner">
 		<div class="container-fluid">
 			<div class="col-md-offset-2 col-md-8">
 				<nav class="cg_internal pull-left" role="navigation" id="navigation">
@@ -261,8 +261,8 @@
 
 			<!-- right navigation -->   
 			<div class="col-md-2" role="complementary">
-				<nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm">
-					<ul class="nav bs-docs-sidenav">
+				<nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm scrollspy">
+					<ul id="affix" class="nav bs-docs-sidenav" data-spy="affix">
 						<li><a href="#sec1">Infrastructure</a></li>
 						<li><a href="#sec2">OASP</a></li>
 						<li><a href="#sec3">Maintenance</a></li>
@@ -287,6 +287,6 @@
 
     <!-- JavaScript import -->
     <script src="bootstrap-3.3.4/js/jquery-1.11.2.min.js"></script>
-    <script src="js/devon.js"></script>
 	<script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>
+    <script src="js/devon.js"></script>
 </html>

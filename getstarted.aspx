@@ -72,7 +72,7 @@ margin-right:10px;
 <body>
 
  	<!-- HEADER MAIN MENU -->
-	<nav class="navbar navbar-default navbar-fixed-top bottom0" role="banner">
+	<nav class="navbar navbar-default bottom0" role="banner">
 		<div class="container-fluid">
 			<div class="col-md-offset-2 col-md-8">
 				<nav class="cg_internal pull-left" role="navigation" id="navigation">
@@ -203,6 +203,6 @@ margin-right:10px;
 
 	 <!-- JavaScript import -->
     <script src="bootstrap-3.3.4/js/jquery-1.11.2.min.js"></script>
-    <script src="js/devon.js"></script>
 	<script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>
+    <script src="js/devon.js"></script>
 </html>

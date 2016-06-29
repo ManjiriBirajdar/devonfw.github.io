@@ -43,10 +43,10 @@
 		</style>
 </head>
 
-<body>
+<body data-spy="scroll" data-target=".scrollspy">
 
      <!-- HEADER MAIN MENU -->
-	<nav class="navbar navbar-default navbar-fixed-top bottom0" role="banner">
+	<nav class="navbar navbar-default bottom0" role="banner">
 		<div class="container-fluid">
 			<div class="col-md-offset-2 col-md-8">
 				<nav class="cg_internal pull-left" role="navigation" id="navigation">
@@ -332,7 +332,7 @@
 					<div class="col-lg-6 devon">
 						<br/>
 						<br/>
-						<video width="320" height="240" controls>
+						<video width="320" height="240" controls preload="none">
 							<source src="http://devon-ci.cloudapp.net/troom/Webcast_Devon.mp4" type="video/mp4" >
 						</video>
 					</div>
@@ -398,8 +398,8 @@
 
 		<!-- right navigation -->
 		<div class="col-md-2" role="complementary">
-			<nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm">
-				<ul class="nav bs-docs-sidenav">
+			<nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm scrollspy">
+				<ul id="affix" class="nav bs-docs-sidenav" data-spy="affix">
 				    <li>
 				        <a href="#sec1">Overview</a>
 				        <ul class="nav">
@@ -437,11 +437,6 @@
 				        <a href="#sec7">INDUS services</a>
 				    </li>
 				</ul>
-				<br/>
-				<ul class="nav">
-				    <li><a href="faq.aspx">FAQ</a></li>
-				</ul>
-				<a class="back-to-top" href="#top">Back to top</a>
 			</nav>
         </div>
     </div>
@@ -460,6 +455,6 @@
 
 	 <!-- JavaScript import -->
     <script src="bootstrap-3.3.4/js/jquery-1.11.2.min.js"></script>
-    <script src="js/devon.js"></script>
 	<script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>
+    <script src="js/devon.js"></script>
 </html>

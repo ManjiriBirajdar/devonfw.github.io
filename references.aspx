@@ -44,10 +44,10 @@
 		</style>
  </head>
 
- <body>
+<body data-spy="scroll" data-target=".scrollspy">
 
  	<!-- HEADER MAIN MENU -->
-	<nav class="navbar navbar-default navbar-fixed-top bottom0" role="banner">
+	<nav class="navbar navbar-default bottom0" role="banner">
 		<div class="container-fluid">
 			<div class="col-md-offset-2 col-md-8">
 				<nav class="cg_internal pull-left" role="navigation" id="navigation">
@@ -79,7 +79,7 @@
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
 				</div>
 				<nav class="collapse navbar-collapse" role="navigation" id="menu">
-					<ul class="nav nav-justified">
+					<ul class="nav nav-justified" >
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx">Overview</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/roadmap.aspx">Roadmap</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/collaboration.aspx">Collaboration</a></li>
@@ -537,8 +537,8 @@
 		
 		<!-- right navigation -->
 		<div class="col-md-2" role="complementary">
-			<nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm">
-				<ul class="nav bs-docs-sidenav">
+			<nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm scrollspy">
+				<ul class="nav bs-docs-sidenav" id="affix" data-spy="affix">
 					<li>
 						<a href="#sec1">External Marketing</a>
 					</li>
@@ -577,6 +577,6 @@
  
 	<!-- JavaScript import -->
     <script src="bootstrap-3.3.4/js/jquery-1.11.2.min.js"></script>
-    <script src="js/devon.js"></script>
 	<script src="bootstrap-3.3.4/js/bootstrap.min.js"></script>
+    <script src="js/devon.js"></script>
 </html>
