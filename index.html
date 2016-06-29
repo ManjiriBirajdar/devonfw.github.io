@@ -24,7 +24,7 @@
 <body>
     
 	<!-- HEADER MAIN MENU -->
-	<nav class="navbar navbar-default navbar-fixed-top bottom0" role="banner">
+	<nav class="navbar navbar-default bottom0" role="banner">
 		<div class="container-fluid">
 			<div class="col-md-offset-2 col-md-8">
 				<nav class="cg_internal pull-left" role="navigation" id="navigation">
