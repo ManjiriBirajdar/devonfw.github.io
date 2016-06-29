@@ -107,7 +107,7 @@
 				<ul>
 					<li><a href="https://www.capgemini.com/devonfw">Main devon-page on capgemini.com (English)</a></li>
 					<li><a href="https://www.de.capgemini.com/devonfw">German version on de.capgemini.com (English)</a></li>
-					<li><a href="http://devonfw.com">Spanish version on es.capgemini.com (Spanish)</a></li>
+					<li><a href="https://www.es.capgemini.com/application-lifecycle-services/desarrollo-acelerado-de-soluciones-devon">Spanish version on es.capgemini.com (Spanish)</a></li>
 					<li><a href="http://devonfw.github.io">Devonfw-page on Github</a></li>
 					<li><a href="http://oasp.io">OASP main page on Github</a></li>
 				</ul>
