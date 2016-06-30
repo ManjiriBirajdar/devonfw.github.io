@@ -71,6 +71,9 @@
 	<!--CONTAINER-->
 	<div class="container-fluid content">
 		<div class="col-md-offset-2 col-md-8">
+			<script src="js/infobox.js"></script>
+		</div>
+		<div class="col-md-offset-2 col-md-8">
 			<p class="lead">devonfw is the CSD standard platform for Capgemini APPS2. It provides a standardized architecture blueprint for Java-applications, an open best-of-breed technology stack as well as industry proven best practices and code conventions. It is a industrialization initiative that is aligned across Capgemini APPS2.</p>
 		</div>
 		<div class="col-md-offset-2 col-md-8">
