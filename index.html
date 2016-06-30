@@ -226,11 +226,11 @@
 			url:'https://troom.capgemini.com/sites/vcc/devon/overview.aspx',
 			dataType: 'jsonp',
 			method: 'GET',
-			timeout:1000,
+			timeout:3000,
 			error: function(hrx,textStatus,error){
 				if (textStatus=='parsererror'){
 					$('[data-cap-href]').each(function(){
-						$(this).attr('ref').data('cap-href');
+						$(this).attr('href', $(this).data('cap-href'));
 					});
 				}
 			}
