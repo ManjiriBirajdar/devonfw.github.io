@@ -228,7 +228,7 @@
 			method: 'GET',
 			timeout:1000,
 			error: function(hrx,textStatus,error){
-				if (textStatus=='parseerror'){
+				if (textStatus=='parsererror'){
 					$('[data-cap-href]').each(function(){
 						$(this).attr('ref').data('cap-href');
 					});
