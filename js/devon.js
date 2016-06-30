@@ -43,6 +43,7 @@ function wrapMatchesInNode(textNode) {
 });
 
 $(function(){
+	if ($('#affix').length==0) return;
 	$('#affix').affix({
 		offset: {
 			top: $('#affix').offset().top
