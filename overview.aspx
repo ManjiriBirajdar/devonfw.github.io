@@ -91,6 +91,9 @@
 	</div>
 
     <div class="container-fluid bs-docs-container content">
+		<div class="col-md-offset-2 col-md-8">
+			<script src="js/infobox.js"></script>
+		</div>
         <div class="col-md-offset-2 col-md-8" role="main">
 			<div class="bs-docs-section" id="start">
 				<h1>devonfw overview</h1>
