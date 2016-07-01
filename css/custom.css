@@ -216,7 +216,7 @@ a:hover {
 }
 
 .cg_internal {
-	display: none;
+	display: none !important;
 }
 .cg_internal.btn.btn-primary, .cg_internal.btn.btn-primary:hover {
 	background-color:#015776 !important;
