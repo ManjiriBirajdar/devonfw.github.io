@@ -215,8 +215,8 @@ a:hover {
 	font-size:10px;
 }
 
-.cg_internal {
-	display: none !important;
+.cg_internal, nav>li>a.cg_internal {
+	display: none;
 }
 .cg_internal.btn.btn-primary, .cg_internal.btn.btn-primary:hover {
 	background-color:#015776 !important;
