@@ -1,7 +1,15 @@
 $(function(){
-  if (document.location.toString().indexOf("troom")<0 && document.location.toString().indexOf("localhost")<0&& document.location.toString().indexOf("file")<0){
-    $('.cg_internal').remove();
+  if (document.location.toString().indexOf("troom")>=0  || document.location.toString().indexOf("localhost")>=0 || document.location.toString().indexOf("file:")>=0){
+    $('.cg_internal').show();
   }
+	if ($('#affix').length==0) return;
+	$('#affix').affix({
+		offset: {
+			top: $('#affix').offset().top
+		}
+	});
+
+
   $('p:contains("devonfw")').each(function(x){
 
 	$(this.childNodes).each(function(){
@@ -40,13 +48,4 @@ function wrapMatchesInNode(textNode) {
     textNode.parentNode.removeChild(textNode);
  
 }
-});
-
-$(function(){
-	if ($('#affix').length==0) return;
-	$('#affix').affix({
-		offset: {
-			top: $('#affix').offset().top
-		}
-	});
 });

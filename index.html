@@ -220,6 +220,7 @@
 			timeout:3000,
 			error: function(hrx,textStatus,error){
 				if (textStatus=='parsererror'){
+					$('.cg_internal').show();
 					$('[data-cap-href]').each(function(){
 						$(this).attr('href', $(this).data('cap-href'));
 					});
