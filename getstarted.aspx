@@ -127,7 +127,7 @@ margin-right:10px;
 			<ul class="custom-counter steps">
 				<li><h2>The devonfw guide <img src="images/book.png" width="30"></h2>
 					<p>First things first. If you´re a developer just beginning with devonfw use <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.devonfw_2_0/frs49847?dl=1">the devonfw guide</a> to get started!</p>
-					<p>If you`re an experienced hand, like a senior developer or architect, you should add the <a href=http://oasp.github.io/oasp4j/2.1.0/OASP4J.pdf">platform guide</a>.</p>
+					<p>If you`re an experienced hand, like a senior developer or architect, you should add the <a href="http://oasp.github.io/oasp4j/2.1.0/OASP4J.pdf">platform guide</a>.</p>
 					<p>This information is also available on the <a href="https://github.com/oasp/oasp4j/wiki">OASP4j</a> and <a href="https://github.com/devonfw/devon/wiki">devonfw</a> wikis which serve as a basis for the above mentioned PDF documents.
 					<p>devonfw uses OASP4k as lean open source architecture blueprint for the server side of an application. OASP4j offers you a holistic documentation for building your application. Stop with digging in the docs of many different open-source projects in parallel getting on the wrong track or lost in space. </p>
 				</li>
