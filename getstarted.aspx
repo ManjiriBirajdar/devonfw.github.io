@@ -126,9 +126,10 @@ margin-right:10px;
 			<h3 class="text-success">Get started with...</h3>
 			<ul class="custom-counter steps">
 				<li><h2>The devonfw guide <img src="images/book.png" width="30"></h2>
-					<p>First things first. If you´re a developer just beginning with devonfw use <a href="https://github.com/devonfw/devon/wiki">the devonfw guide</a> to get started!</p>
-					<p>If you`re an experienced hand, like a senior developer or architect, you should add the <a href=https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43016?dl=1">platform guide</a>, which you can find on the <a href="https://github.com/oasp/oasp4j/wiki">OASP4j wiki</a>.</p>
-					<p>devonfw uses OASP4J as lean open source architecture blueprint for the server side of an application. OASP4J offers you a holistic documentation for building your application. Stop with digging in the docs of many different open-source projects in parallel getting on the wrong track or lost in space. </p>
+					<p>First things first. If you´re a developer just beginning with devonfw use <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.devonfw_2_0/frs49847?dl=1">the devonfw guide</a> to get started!</p>
+					<p>If you`re an experienced hand, like a senior developer or architect, you should add the <a href=http://oasp.github.io/oasp4j/2.1.0/OASP4J.pdf">platform guide</a>.</p>
+					<p>This information is also available on the <a href="https://github.com/oasp/oasp4j/wiki">OASP4j</a> and <a href="https://github.com/devonfw/devon/wiki">devonfw</a> wikis which serve as a basis for the above mentioned PDF documents.
+					<p>devonfw uses OASP4k as lean open source architecture blueprint for the server side of an application. OASP4j offers you a holistic documentation for building your application. Stop with digging in the docs of many different open-source projects in parallel getting on the wrong track or lost in space. </p>
 				</li>
 				<li><h2>See some running examples <img src="images/cursor.png" width="30"></h2>
 					<p>There are currently two demos simulating a restaurant management application<p>
@@ -137,7 +138,7 @@ margin-right:10px;
 							<p><a target="_blank" href="http://devon-ci.cloudapp.net/devonfw-sample-server/jsclient">devon4sencha sample application</a>
 							<p>Further Sencha UI examples are avaiable under request from real engagements. Please contact us at yammer or by mail to be able to access</p>
 						</li>
-							<li><a target="_blank" href="http://oasp-ci.cloudapp.net/oasp4j-sample/jsclient">OASP4JS sample application</a></li>
+							<li><a target="_blank" href="http://oasp-ci.cloudapp.net/oasp4j-sample/jsclient">OASP4js sample application</a></li>
 					</ul>
 				</li>
 				<li>
@@ -160,8 +161,8 @@ margin-right:10px;
 							  <td>A complete guide to the whole devonfw distribution. Includes documentation about how to getting started with devonfw and Sencha (devon4sencha) along with a cookbook with more advanced and specific features of the distribution.</td>
 							 </tr>
 							 <tr>
-							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43016?dl=1">OAPS4J Guide</a></td>
-							  <td>A more specific guide about the OASP4J applications. Here you will find more advanced information about the architecture of the OASP4J solution.</td>
+							  <td><a href="http://oasp.github.io/oasp4j/2.1.0/OASP4J.pdf">OAPS4J Guide</a></td>
+							  <td>A more specific guide about the OASP4j applications. Here you will find more advanced information about the architecture of the OASP4j solution.</td>
 							</tr>
 							<tr>
 							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43012?dl=1">CobiGen Guide</a></td>
@@ -169,11 +170,11 @@ margin-right:10px;
 							</tr>
 						</tbody>
 					</table>
-					<p>You can also access the latest working-copy of our documentation in wiki format from the Github project pages</p>
+					<p>You can also access our documentation in wiki format from the Github project pages</p>
 					<ul>
 						<li><a href="https://github.com/devonfw/devon/wiki" role="button" target="_blank">devonfw wiki <span class="note"> - GitHub private repo, please request access</span></a></li>
-						<li><a href="https://github.com/oasp/oasp4j/wiki" role="button" target="_blank">OASP4J <span class="note"> - GitHub public repository</span></a></li>
-						<li><a href="https://github.com/oasp/oasp4js/wiki" role="button" target="_blank">OASP4JS <span class="note"> - GitHub public repository</span></a></li>
+						<li><a href="https://github.com/oasp/oasp4j/wiki" role="button" target="_blank">OASP4j <span class="note"> - GitHub public repository</span></a></li>
+						<li><a href="https://github.com/oasp/oasp4js/wiki" role="button" target="_blank">OASP4js <span class="note"> - GitHub public repository</span></a></li>
 						<li><a href="https://github.com/devonfw/tools-cobigen/wiki" target="_blank">CobiGen <span class="note"> - GitHub private repo, please request access</span></a></li>
 					</ul>
 				</li>
