@@ -126,7 +126,7 @@ margin-right:10px;
 			<h3 class="text-success">Get started with...</h3>
 			<ul class="custom-counter steps">
 				<li><h2>The devonfw guide <img src="images/book.png" width="30"></h2>
-					<p>First things first. If you´re a developer just beginning with devonfw use <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.devonfw_2_0/frs49847?dl=1">the devonfw guide</a> to get started!</p>
+					<p>First things first. If you´re a developer just beginning with devonfw use <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.devonfw_2_0/frs50016?dl=1">the devonfw guide</a> to get started!</p>
 					<p>If you`re an experienced hand, like a senior developer or architect, you should add the <a href="http://oasp.github.io/oasp4j/2.1.0/OASP4J.pdf">platform guide</a>.</p>
 					<p>This information is also available on the <a href="https://github.com/oasp/oasp4j/wiki">OASP4j</a> and <a href="https://github.com/devonfw/devon/wiki">devonfw</a> wikis which serve as a basis for the above mentioned PDF documents.
 					<p>devonfw uses OASP4j as lean open source architecture blueprint for the server side of an application. OASP4j offers you a holistic documentation for building your application. Stop with digging in the docs of many different open source projects in parallel, getting on the wrong track or lost in space. </p>
@@ -143,7 +143,7 @@ margin-right:10px;
 				</li>
 				<li>
 					<h2>Download the distribution <img src="images/tools.png" width="30"></h2>
-					<p>You can download from Teamforge the devonfw 2.0 distribution, the <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.2_0_0_alpha/frs49088?dl=1"> devonfw development environment (1Gb ZIP file)</a>.</p>			
+					<p>You can download from Teamforge the devonfw 2.0 distribution, the <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.devonfw_2_0/frs49948?dl=1"> devonfw development environment (1Gb ZIP file)</a>.</p>			
 				</li>
 				<li>
 					<h2>Setup & Documentation <img src="images/books.png" width="30"></h2>
@@ -157,7 +157,7 @@ margin-right:10px;
 						</thead>
 						<tbody>
 							<tr>
-							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.devonfw_2_0/frs49847?dl=1">Devonfw Guide</a></td>
+							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.devonfw_2_0/frs50016?dl=1">Devonfw Guide</a></td>
 							  <td>A complete guide to the whole devonfw distribution. Includes documentation about how to getting started with devonfw and Sencha (devon4sencha) along with a cookbook with more advanced and specific features of the distribution.</td>
 							 </tr>
 							 <tr>
