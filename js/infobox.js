@@ -1,4 +1,4 @@
-/*
+
 document.write('\
 <div style = "background-color: #015776;\
 			  color:white;\
@@ -9,17 +9,14 @@ document.write('\
 			  border:           1px solid #AFAFAF;\
 			  width:            100%;\
 			  behavior: url($(res.396.PIE_htc.path));">\
-	<p style = "font-size:200%">\
-		<marquee behavior="alternate" direction="right">\
+	<p style = "text-align:center; font-size:200%;">\
 			<b>!!! devonfw 2.0 is available now !!!</b>\
-		</marquee>\
 	</p>\
 	<p style="text-align:center; font-size:150%;">\
-		<a style="color:white;" href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw">Access devonfw 2.0 distribution</a>\
+		<a style="color:white;" href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.devonfw_2_0/frs49948?dl=1">Access devonfw 2.0 distribution</a>\
 	</p>\
 	<p>\
 		Devonfw 2.0 now provides several technical upgrades, revised IDE plugin integration and an improved test infrastructure. The main technical extensions are the integration of Spring Boot, allowing simpler configuration and deployment, auditing support, reporting with jasper and upgrade of the Sencha-client to SenchaV6. Exceptional effort has been spent on a set of tutorials to safely guide our young engineers. Also a lot of new supporting material, as sales slide decks for non-technical staff like sales and management is offered.\
 	</p>\
 </div>\
 ');
-*/
