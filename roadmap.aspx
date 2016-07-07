@@ -76,7 +76,7 @@
     </div>
 
      <div class="col-md-offset-2 col-md-8">
-        <h4 class="text-danger"><br/>future releases</h4>
+        <h4 class="text-danger"><br/>upcoming release</h4>
         <h2 class="page-header">devonfw version 2.1<small><i class="text-danger">End of 2016</i></small></h2>
     </div>
     <div class="col-md-offset-2 col-md-4">
@@ -129,7 +129,7 @@
     </div>
 
     <div class="col-md-offset-2 col-md-8">
-      <h4 class="text-danger"><br/>upcoming release</h4>
+	  <h4 class="text-success"><br/>latest release</h4>
       <h2 class="page-header">devonfw version 2.0<small><i class="text-danger">End of June 2016</i></small></h2>
     </div>
     <div class="col-md-offset-2 col-md-4">
@@ -190,7 +190,7 @@
     </div>
     
     <div class="col-md-offset-2 col-md-8">
-      <h4 class="text-success"><br/>latest release</h4>
+      <h4 class="text-success"><br/>previously released</h4>
       <h2 class="page-header">devonfw version 1.0<small><i class="text-success">Released End of June 2015</i></small></h2>
     </div>
     <div class="col-md-offset-2 col-md-4">
