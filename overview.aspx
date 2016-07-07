@@ -225,15 +225,17 @@
 				<div class="row">
 					<div class="col-lg-6 devon">
 						<h3>Server</h3>
-						<p>Here you find the Server Guide <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43013" target="_blank">PDF &raquo;</a></p>
-						<p>Here you find the devonfw Server Tutorial
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43015" target="_blank">PDF &raquo;</a> |
-							<a href="https://github.com/devonfw/devon/wiki/tutorial-devon-introduction" target="_blank">WIKI &raquo;</a>
+						<p>Here you find the Server Guide
+							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.devonfw_2_0/frs50016?dl=1" target="_blank">PDF &raquo;</a> |
+							<a href="https://github.com/devonfw/devon/wiki" target="_blank">WIKI &raquo;</a>
 						</p>
 					</div>
 					<div class="col-lg-6 oasp">
 						<h3>Server (Open source)</h3>
-						<p>Here you find the Server Core Guide <a href="https://github.com/oasp/oasp4j/wiki" target="_blank">Wiki &raquo;</a></p>
+						<p>Here you find the Server Core Guide
+							<a href="http://oasp.github.io/oasp4j/2.1.0/OASP4J.pdf " target="_blank">PDF &raquo;</a> |
+							<a href="https://github.com/oasp/oasp4j/wiki" target="_blank">WIKI &raquo;</a>
+						</p>
 					</div>
 				</div>
 			</div>
@@ -267,7 +269,7 @@
 						<p>devonfw comes with a prepackaged and preconfigured Eclipse-IDE. It contains an eclipse-archetype definition that allows to create an empty devonfw application. 
 							It further provides integration with several dozens of plugins including UML reverse-engineering, automatic adding of version-tags, soap-ui, terminal integration, sonarcube, anyedit, checkstyle, findbugs, eclemma for code-coverage, regexp-plugin, etc.
 							The same package you use for your customer project can be used to contribute to the devonfw product since we put all example implementations into the Eclipse workspace.</p>
-						<p>You can download the IDE (zip) from the devonfw teamforge <a href="https://coconet.capgemini.com/sf/frs/do/viewRelease/projects.apps2_devon/frs.devon_distribution.1_0_0">file release area</a>. Follow the <a href="https://github.com/oasp/oasp4j/wiki/oasp-ide-setup" target="_blank">IDE setup guide</a> to set up the IDE in less than 2 hours.</p>
+						<p>You can download the IDE (zip) from the devonfw teamforge <a href="https://coconet.capgemini.com/sf/frs/do/viewRelease/projects.apps2_devon/frs.devon_distribution.devonfw_2_0">file release area</a>. Follow the <a href="https://github.com/oasp/oasp4j/wiki/oasp-ide-setup" target="_blank">IDE setup guide</a> to set up the IDE in less than 2 hours.</p>
 						<p style="text-align:center"><img src="images/overview/IntegratedIDE.png" height="450" width="800" alt="Eclipse IDE"/></p>
 					</div>
 				</div>
