@@ -130,7 +130,7 @@
 
     <div class="col-md-offset-2 col-md-8">
 	  <h4 class="text-success"><br/>latest release</h4>
-      <h2 class="page-header">devonfw version 2.0<small><i class="text-danger">End of June 2016</i></small></h2>
+      <h2 class="page-header">devonfw version 2.0<small><i class="text-success">Released Beginning of July 2016</i></small></h2>
     </div>
     <div class="col-md-offset-2 col-md-4">
       <p>
