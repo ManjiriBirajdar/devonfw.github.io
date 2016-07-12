@@ -389,16 +389,7 @@
 							  <td>October 2015</td>
 							  <td>Manuel Cid Garcia</td>
 							  <td>on pause</td>
-							</tr>										
-							<tr>
-							  <td>Germany</td>
-							  <td>VW CMS</td>
-							  <td>devonfw</td>
-							  <td>Compliance Management System for all VW subsidiaries (3600 PD).</td>
-							  <td>November 2015</td>
-							  <td>Thilo Herrmann</td>
-							  <td>in bid phase</td>
-							</tr>										
+							</tr>																			
 							<tr>
 							  <td>Sweden</td>
 							  <td>Volvo Mig</td>
