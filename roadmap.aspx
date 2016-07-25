@@ -83,15 +83,27 @@
       <p>
         <h3><span class="fa fa-cube text-info"></span> Solution</h3>
         <ul>
-          <li>Devcon command line tool</li>
-          <li>File upload / download</li>
           <li>I18N support for server and metadata</li>
           <li>Appserver Compatibility (Websphere, JBoss)</li>
-          <li>IP Module: Test Reference Implementation</li>
-          <li>IP Module: Microervice integration portal</li>
-          <li>IP Module: RuleEngine</li>
-          <li>IP Module: Secure implementation guide</li>
-          <li>devonfw .Net core version</li>
+		  <li>Support for asynchronous REST services</li>
+		  <li>Compatibility guide for Java (7/8) & Tomcat (7/8)</li>
+		  <li>devonfw .Net core version</li>
+		  <li>File upload / download</li>
+		  <li>OASP4JS upgrade to Angular 2 & TypeScript</li>
+		  <li>Standard UI styleguide template</li>
+		  <li>UI web accessability conformity guide & certificate</li>
+		  <li>Graphical layer for devcon command line tool</li>
+		  <li>Test guide & reference implementation</li>
+		  <li>Secure implementation guide</li>
+		  <li>Efficient IDE provisioing based on Oomph</li>
+		  <li>Estimation tool</li>
+		  <li>Accelerator: Client UI code generation</li>
+		  <li>Accelarator: REST data access layer</li>
+		  <li>Development guide for devonfw IP modules</li>
+		  <li>IP Module: RuleEngine</li>
+		  <li>IP Module: UI thin portal frame component</li>
+		  <li>Security: Replace Simple Auth with OAuth2</li>
+		  <li>Security: Detailed OASP security check</li>
         </ul>
       </p>
     </div>
@@ -101,29 +113,19 @@
         <ul>
           <li>Devon onboarding kit</li>
           <li>Devon shared services offering SFaas</li>
-          <li>comprehensive Test Guide and Reference Implementation</li>
-          <li>Standard ui styleguide template</li>
-          <li>Estimation tool</li>
-          <li>TBD</li>
+		  <li>Comprehensive overview on product & license landscape</li>
         </ul>
       </p>
     </div>
-    <div class="col-md-offset-2 col-md-8">
+    <div class="col-md-4">
       <p>
         <h3><span class="fa fa-code text-info"></span> Integration Showcases</h3>
         <ul>
+		  <li>Production Line as regular devops platform</li>
+		  <li>OWASP AppSensor</li>
           <li>Cassandra (NoSQL) & SpringData (very basic)</li>
-          <li>OWASP AppSensor</li>
-          <li>devon Immediate Accelarators</li>
-            <ul>
-              <li>Security (with OpenAM)</li>
-              <li>Integration (with WSO2)</li>
-              <li>Monitoring (with Grafana, Sensu)</li>
-              <li>Logging (with ELK)</li>
-              <li>API management (with mule ESB)</li>
-              <li>Automated provisioning (with puppet)</li>
-            </ul>
-          </li>
+		  <li>DB integration: MySQL</li>
+		  <li>DB integration: Oracle</li>
         </ul>
       </p>
     </div>
@@ -178,7 +180,7 @@
         </ul>
       </p>
     </div>
-    <div class="col-md-offset-2 col-md-4">
+	<div class="col-md-offset-6 col-md-4">
       <p>
         <h3><span class="fa fa-code text-info"></span> Integration Showcases</h3>
         <ul>
