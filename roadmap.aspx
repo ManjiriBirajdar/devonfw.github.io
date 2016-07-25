@@ -72,7 +72,7 @@
   <div class="container-fluid content">
     <div class="col-md-offset-2 col-md-8">
       <h1>Roadmap</h1>
-      <p class="lead">devonfw V1.0 is available and ready to be used in projects. The roadmap towards version 2.0 aims to enrich features to address further requirements and provide supporting material.</p>
+      <p class="lead">devonfw V2.0 is available and ready to be used in projects. devonfw V2.1 is already on its way - adding further value as shown below.</p>
     </div>
 
      <div class="col-md-offset-2 col-md-8">
