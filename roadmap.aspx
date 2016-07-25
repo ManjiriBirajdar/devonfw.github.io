@@ -97,11 +97,11 @@
 		  <li>Secure implementation guide</li>
 		  <li>Efficient IDE provisioing based on Oomph</li>
 		  <li>Estimation tool</li>
-		  <li>Accelerator: Client UI code generation</li>
-		  <li>Accelarator: REST data access layer</li>
 		  <li>Development guide for devonfw IP modules</li>
 		  <li>IP Module: RuleEngine</li>
 		  <li>IP Module: UI thin portal frame component</li>
+		  <li>Accelerator: Client UI code generation</li>
+		  <li>Accelarator: REST data access layer</li>
 		  <li>Security: Replace Simple Auth with OAuth2</li>
 		  <li>Security: Detailed OASP security check</li>
         </ul>
