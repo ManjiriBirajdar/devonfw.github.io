@@ -298,6 +298,15 @@
 							  <td>>200k</td>
 							  <td>running</td>
 							</tr>							
+							<tr>
+							  <td>Spain</td>
+							  <td>Blendhub</td>
+							  <td>devonfw</td>
+							  <td>Digital transformation to the cloud</td>
+							  <td>Gonzalo Gabino</td>
+							  <td>160k</td>
+							  <td>running</td>
+							</tr>							
 						</tbody>
 					</table>
 				</div>
