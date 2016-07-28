@@ -81,7 +81,7 @@
 			<div class="bs-docs-section" id="sec1">
 				<h2 id="sec1">Roadmap</h2>
 				<div class="col-md-12">
-					<h2 class="text-danger page-header">devonfw.next<small><i class="text-danger">End of 2016</i></small></h2>
+					<h2 class="text-danger page-header">devonfw.next<small><i>End of 2016</i></small></h2>
 				</div>
 				<div class="col-md-12">
 					<p>The following features are planned to be added to the next releases.</p>
@@ -142,7 +142,7 @@
 				<h2 id="sec2">Releases</h2>
 				<p>The following versions of devonfw have already been released - continuously adding more value based on the feedback from several engagements.</p>
 				<div class="col-md-12">
-					<h2 class="page-header">devonfw version 2.0.1<small><i>Released End of July 2016</i></small></h2>
+					<h2 class="text-success" class="page-header">devonfw version 2.0.1<small><i>Released End of July 2016</i></small></h2>
 				</div>
 				<div class="col-md-12">
 					<h4 class="text-success"><br/>latest release</h4>
