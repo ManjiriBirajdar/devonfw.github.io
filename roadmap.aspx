@@ -5,11 +5,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <meta name="description" content="devonfw roadmap page">
+  <meta name="description" content="devonfw roadmap & releases page">
   <meta name="author" content="Capgemini CSD2015">
   <script type="text/javascript" src="/dtagent622_xjn_1019.js" data-dtconfig="rid=RID_-1160536081|rpid=217966859|domain=capgemini.com|reportUrl=dynaTraceMonitor"></script><link rel="icon" href="images/favicon.ico">
 
-  <title>devonfw - Roadmap</title>
+  <title>devonfw - Roadmap & Releases</title>
 
   <!-- Bootstrap core CSS -->
   <link href="bootstrap-3.3.4/css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -57,7 +57,7 @@
         <nav class="collapse navbar-collapse" role="navigation" id="menu">
           <ul class="nav nav-justified">
             <li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx">Overview</a></li>
-            <li><a class="cg_internal active" href="#">Roadmap</a></li>
+            <li><a class="cg_internal active" href="#">Roadmap & Releases</a></li>
             <li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/collaboration.aspx">Collaboration</a></li>
             <li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/references.aspx">Sales & Marketing</a></li>
             <li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/faq.aspx">FAQs</a></li>
