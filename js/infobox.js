@@ -1,4 +1,4 @@
-
+/*
 document.write('\
 <div style = "background-color: #015776;\
 			  color:white;\
@@ -20,3 +20,4 @@ document.write('\
 	</p>\
 </div>\
 ');
+*/
