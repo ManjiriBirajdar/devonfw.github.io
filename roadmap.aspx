@@ -142,10 +142,10 @@
 				<h2 id="sec2">Releases</h2>
 				<p>The following versions of devonfw have already been released - continuously adding more value based on the feedback from several engagements.</p>
 				<div class="col-md-12">
-					<h2 class="page-header">devonfw version 2.0.1<small><i>August 2016</i></small></h2>
+					<h2 class="text-success page-header">devonfw version 2.0.1<small><i>Released Beginning of August 2016</i></small></h2>
 				</div>
 				<div class="col-md-12">
-					<h4 class="text-danger"><br/>upcoming release</h4>
+					<h4 class="text-success"><br/>latest release</h4>
 				</div>
 				<div class="col-md-6">
 				  <p>
@@ -168,10 +168,7 @@
 				</div>
 				
 				<div class="col-md-12">
-					<h2 class="text-success page-header">devonfw version 2.0<small><i>Released Beginning of July 2016</i></small></h2>
-				</div>
-				<div class="col-md-12">
-					<h4 class="text-success"><br/>latest release</h4>
+					<h2 class="page-header">devonfw version 2.0<small><i>Released Beginning of July 2016</i></small></h2>
 				</div>
 				<div class="col-md-6">
 				  <p>
