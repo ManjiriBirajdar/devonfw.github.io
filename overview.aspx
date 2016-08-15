@@ -206,15 +206,11 @@
 				<div class="row">
 					<div class="col-lg-6 devon">
 						<h3>Sencha Web Client</h3>
-						<p>Here you find the Sencha Client Architecture
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43014" target="_blank">PDF &raquo;</a> |
-							<a href="https://github.com/devonfw/devon4sencha/wiki/guide-devon4sencha-introduction" target="_blank">WIKI &raquo;</a>
+						<p>Here you find the Devon4Sencha documentation
+							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.docs_current_version/frs50489?dl=1" target="_blank">PDF &raquo;</a> |
+							<a href="https://github.com/devonfw/devon-guide/wiki#the-presentation-layer-getting-started-with-devon4sencha" target="_blank">WIKI &raquo;</a>
 						</p>
 
-						<p>Here you find the Sencha Tutorial
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43021" target="_blank">PDF &raquo;</a> |
-							<a href="https://github.com/devonfw/devon4sencha/wiki/tutorial-devon4sencha-configuring-environment" target="_blank">WIKI &raquo;</a>
-						</p>
 					</div>
 					<div class="col-lg-6 oasp">
 						<h3>AngularJs Client</h3>
@@ -225,15 +221,15 @@
 				<div class="row">
 					<div class="col-lg-6 devon">
 						<h3>Server</h3>
-						<p>Here you find the Server Guide
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.2_0_1/frs50537?dl=1" target="_blank">PDF &raquo;</a> |
-							<a href="https://github.com/devonfw/devon/wiki" target="_blank">WIKI &raquo;</a>
+						<p>Here you find the Server documentation
+							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.docs_current_version/frs50489?dl=1" target="_blank">PDF &raquo;</a> |
+							<a href="https://github.com/devonfw/devon-guide/wiki#getting-started-with-the-service-layer" target="_blank">WIKI &raquo;</a>
 						</p>
 					</div>
 					<div class="col-lg-6 oasp">
 						<h3>Server (Open source)</h3>
 						<p>Here you find the Server Core Guide
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.2_0_1/frs50466?dl=1" target="_blank">PDF &raquo;</a> |
+							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.docs_current_version/frs50488?dl=1" target="_blank">PDF &raquo;</a> |
 							<a href="https://github.com/oasp/oasp4j/wiki" target="_blank">WIKI &raquo;</a>
 						</p>
 					</div>
@@ -269,7 +265,7 @@
 						<p>devonfw comes with a prepackaged and preconfigured Eclipse-IDE. It contains an eclipse-archetype definition that allows to create an empty devonfw application. 
 							It further provides integration with several dozens of plugins including UML reverse-engineering, automatic adding of version-tags, soap-ui, terminal integration, sonarcube, anyedit, checkstyle, findbugs, eclemma for code-coverage, regexp-plugin, etc.
 							The same package you use for your customer project can be used to contribute to the devonfw product since we put all example implementations into the Eclipse workspace.</p>
-						<p>You can download the IDE (zip) from the devonfw teamforge <a href="https://coconet.capgemini.com/sf/frs/do/viewRelease/projects.apps2_devon/frs.devon_distribution.2_0_1">file release area</a>. Follow the <a href="https://github.com/oasp/oasp4j/wiki/oasp-ide-setup" target="_blank">IDE setup guide</a> to set up the IDE in less than 2 hours.</p>
+						<p>You can download the latest IDE (zip) from the devonfw teamforge <a href="https://coconet.capgemini.com/sf/frs/do/listReleases/projects.apps2_devon/frs.devon_distribution">file release area</a>. Follow the <a href="https://github.com/devonfw/devon-guide/wiki/getting-started-download-and-install" target="_blank">IDE setup guide</a> to set up the IDE in less than 2 hours.</p>
 						<p style="text-align:center"><img src="images/overview/IntegratedIDE.png" height="450" width="800" alt="Eclipse IDE"/></p>
 					</div>
 				</div>
@@ -283,7 +279,7 @@
 							It is best integrated into the provided eclipse package but also works on command line.</p>
 						<p style="text-align:center"><img src="images/overview/cobigen.png" height="450" width="800" alt="Eclipse IDE"/></p>
 						<p>Here you find the CobiGen documentation
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.2_0_1/frs50465?dl=1" target="_blank">PDF &raquo;</a> |
+							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.docs_current_version/frs50487?dl=1" target="_blank">PDF &raquo;</a> |
 							<a href="https://github.com/devonfw/tools-cobigen/wiki" target="_blank">WIKI &raquo;</a>
 						</p>
 					</div>
@@ -394,10 +390,51 @@
 			</div>
 
 			<div class="bs-docs-section" id="sec7">
-				<h2>APPS2 Industrialisation catalogue</h2>
-				<p>The standard platform devonfw and related services are provided in the iProd Shared Service Catalogue as <b>SPaas</b>. Therefore you will be able to use these services with the group-tools: BRIDGE, INSERE, iSTART. devonfw therefore provides one of the first engineering related services to the Group.</p>
-				<p style="text-align:center"><img src="images/overview/industools.png" height="450" width="800" alt="devonfw in the SBU indus-catalogue"/></p>
-				<p>Please be aware that services on the left are visible to the whole SBU but the three supporting services on the right are visible in Spain and Germany only. However, don't hesitate to contact us anyway.</p>
+				<h2>APPS2 Industrialization catalog</h2>
+				<h3 id="sec7-1">devonfw - Standard Framework as a Service (SFaaS)</h3>
+				<p>The standard platform devonfw and related services are provided in the iProd Shared Service Catalog as <b>SFaas</b>. Therefore you will be able to use these services with the group-tools: BRIDGE, INSERE, iSTART. devonfw provides one of the first engineering related services to the Group.</p>
+				<p>The main features of our Standard Framework as a Service are:
+					<ul>
+						<li>Relieves you of the burden of designing and implementing the architecture for your application speeding up your project and reducing risks</li>
+						<li>The devonfw development environment along with show cases and an <b>application seed</b> are delivered ready to use based on your specifications of technologies to use</li>
+						<li>Integration with <b>CMaaS</b> and <b>CIaaS</b> to provide a complete development environment with code repository and continuous integration management with a unique request through SFaaS</li>
+						<li>Transparent development process: Devonfw includes common built-in functionalities and use cases that allow the engagement team to focus on developing business requirements, rather than concerning about technical aspects that should be currently seen as commodities</li>
+						<li>Support and advice about the SFaaS offer and devonfw</li>
+					</ul>
+				</p>
+				<br>
+				<p style="text-align:center"><img src="images/overview/industools-sfaas.png" width="98%" alt="devonfw in the SBU indus-catalogue"/></p>
+				
+				<p>To order the service: <a href="https://snscapappsfranceprod.service-now.com/CapESS2">Go to INSERE</a></p>
+				<p>To know more: <a href="http://talent.capgemini.com/global/pages/hubs/strategic_business_units/AppsTwo/what_we_do/appstwo_delivery/Industrialisation/standard_framework/">Talent Page</a></p>
+				<br/>
+				<p><b>SFaaS Presentation</b></p>
+				<p>The following videos have been extrated from the SFaaS presentation to industrialization leaders:
+					<ul>
+						<li>The first one an introduction to the service in the context of Devon and iCSD initiative.</li>
+						<li>The second one contains the presentationi of the SFaaS offer</li>
+					</ul>
+				<p>
+				<table>
+					<tr>
+						<td style="padding-right:10px">
+							<video width="320" height="180" controls preload="none" poster="http://devon-ci.cloudapp.net/troom/media/trainings/shared_services/SFaaSIntroduction.PNG">
+								<source src="http://devon-ci.cloudapp.net/troom/media/trainings/shared_services/SFaaS_Introduction.mp4" type="video/mp4" >
+							</video>
+						</td>
+						<td style="padding-left:10px">
+							<video width="320" height="180" controls preload="none" poster="http://devon-ci.cloudapp.net/troom/media/trainings/shared_services/SFaaS.PNG">
+								<source src="http://devon-ci.cloudapp.net/troom/media/trainings/shared_services/SFaaS_SFaaS.mp4" type="video/mp4" >
+							</video>
+						</td>
+					</tr>
+				</table>
+				<br><p><b>Criteria for service Applicability</b></p>
+				<ul>
+					<li>Engagements where Capgemini has Service and/or Project responsibility and N2K eligible</li>
+					<li>Engagements suitable for a Java-CSD solution where the customer doesn’t force the technologies to use</li>
+				</ul>
+				<p>The SFaaS service is included in 1.75% Indus fee on direct cost for N2K eligible engagements</p>
 			</div>
         </div>
 
@@ -440,6 +477,9 @@
 				    </li>
 				    <li>
 				        <a href="#sec7">INDUS services</a>
+						<ul class="nav">
+							<li><a href="#sec7-1">SFaaS</a></li>
+						</ul>
 				    </li>
 				</ul>
 			</nav>
