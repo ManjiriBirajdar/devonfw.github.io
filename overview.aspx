@@ -71,7 +71,7 @@
 		<div class="col-md-offset-2 col-md-2">
 			<a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx"><img src="images/logo.png" alt="devonfw-logo" /></a>				
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-8">
 			<nav class="navbar navbar-default" role="navigation" id="menunav">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
@@ -80,6 +80,7 @@
 					<ul class="nav nav-justified">
 						<li><a class="cg_internal active" href="#">Overview</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/roadmap.aspx">Roadmap & Releases</a></li>
+						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/ipcatalog.aspx">IP catalog</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/collaboration.aspx">Collaboration</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/references.aspx">Sales & Marketing</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/faq.aspx">FAQs</a></li>
@@ -270,22 +271,7 @@
 					</div>
 				</div>
 
-				<div class="row">
-					<div class="col-lg-12">
-						<h3 id="sec4-2">CobiGen (IP)</h3>
-						<p>  CobiGen is a high value IP asset that is used by devonfw projects to generate code across all layers of a devon-application, including the clients.
-							It works iteratively without leaving marks or regions in the code due to its basic understanding of Java.
-							Due to architecture patterns set in devonfw, the generator is able to support generation of higher-level concepts than just - class.
-							It is best integrated into the provided eclipse package but also works on command line.</p>
-						<p style="text-align:center"><img src="images/overview/cobigen.png" height="450" width="800" alt="Eclipse IDE"/></p>
-						<p>Here you find the CobiGen documentation
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.docs_current_version/frs50487?dl=1" target="_blank">PDF &raquo;</a> |
-							<a href="https://github.com/devonfw/tools-cobigen/wiki" target="_blank">WIKI &raquo;</a>
-						</p>
-					</div>
-				</div>
-
-				<h3 id="sec4-3">CI</h3>
+				<h3 id="sec4-2">CI</h3>
 				<p>devonfw team makes extensive use of modern integrated CI (Jenkins, etc.). However this is not part of the product devonfw. Your project may use it's own best fit project environment as required.
 				Worth mentioning here, the production line - once available as another shared service - will be the natural best fit IT4IT environment for the development process of a devonfw project, including full service CI, configuration management, artefact storage, issue tracking, etc. </p>
 
@@ -311,77 +297,6 @@
 		    </div>
 
 			<div class="bs-docs-section" id="sec5">
-				<h2>IP Add Ons</h2>
-				<p>devonfw gains further strength by a number of high value IP (intellectual property) solutions that are constantly extended:
-				<p>The aim is to make high value IP the USP that will sell devonfw to your client easily. To enforce this, IP will be integrated with a <b>plugin-system</b> that allows very easy adoption of a IP-solution in a project.</p>
-	
-				<div class="row">
-					<div class="col-lg-6 devon">
-						<h3 id="sec5-1">devon<b>4</b>sencha</h3>
-						<p>devon4sencha is an IP asset of devonfw that builds on top of <a href="https://www.sencha.com/products/extjs/#overview">Sencha ExtJs 6</a> libraries adding blueprint functionality like:
-							<ul>
-								<li>Automatic REST client creation</li>
-								<li>Protocol communication with the server</li>
-								<li>CORS support</li>
-								<li>Internationalization</li>
-								<li>Security management (login/logoff, csrf protection)</li>
-								<li>Layout templates</li>
-							</ul>
-						</p>
-						<p style="padding-left:150px">Check the video for some samples &gt;&gt;</p>
-					</div>
-					<div class="col-lg-6 devon">
-						<br/>
-						<br/>
-						<video width="320" height="240" controls preload="none">
-							<source src="http://devon-ci.cloudapp.net/troom/Webcast_Devon.mp4" type="video/mp4" >
-						</video>
-					</div>
-				</div>
-	          
-				<div class="row">
-					<div class="col-lg-6 devon">
-						<h3 id="sec5-2">devon<b>4</b>ionic</h3>
-						<p>devon4ionic is an IP asset of devonfw that shows an <a href="http://ionicframework.com/" target="_blank">Ionic client</a> with AngularJs and <a href="https://cordova.apache.org/" target="_blank">Cordova</a>:
-							<ul>
-								<li>hybrid mobile-apps across devices: Android, iOS, (Windows Phone)</li>
-								<li>simple Forms</li>
-								<li>lists</li>
-								<li>hardware features: take a photo</li>
-								<li>security (login/logoff)</li>
-								<li>suggested development tools</li>
-								<li>DevOps for crossplatform apps generation</li>
-							</ul>
-						</p>
-					</div>
-					<div class="col-lg-6 devon">
-	 					<br/>
-						<br/>
-						<img src="images/overview/ionic-examples.png" width="320" height="290" alt="screens from the Ionic mobile restaurant"/>
-					</div>
-				</div>
-	          
-				<div class="row">
-					<div class="col-lg-6 devon">
-						<h3 id="sec5-3">IP on the roadmap</h3>
-						<p>There is an increasing number of modular IP being worked at :
-							<ul>
-							  <li>Spring administration console</li>
-							  <li>App Server Compatibility (Websphere, JBoss, JEE 6)</li>
-							  <li>HANA-Backend + HANA features</li>
-							  <li>Enterprise integration with Immediate</li>
-							  <li>Security patterns</li>
-							  <li>Reporting</li>
-							</ul>
-						</p>
-					</div>
-					<div class="col-lg-6 devon">
-						<br/>
-					</div>
-				</div>
-			</div>
-          
-			<div class="bs-docs-section" id="sec6">
 				<h2>License scenarios</h2>
 				<p>The available licensing models allow three different usage scenarios that have been approved from legal.</p>
 				<p><a href="https://troom.capgemini.com/sites/vcc/devon/images/overview/license-devonfw-scenarios.png"><img src="https://troom.capgemini.com/sites/vcc/devon/images/overview/license-devonfw-scenarios.png" height="557" width="800" alt="devonfw license scenarios"/></a></p> 
@@ -389,9 +304,9 @@
 				<p><a href="http://www.apache.org/licenses/LICENSE-2.0.html">License Open Source (Apache License 2.0)</a>. The related documentation to OASP is licensed under <a href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons License (Attribution-NoDerivatives 4.0 International)</a> (using this combination of licenses on code and documentation is just normal in the world of Java open source).</p>
 			</div>
 
-			<div class="bs-docs-section" id="sec7">
+			<div class="bs-docs-section" id="sec6">
 				<h2>APPS2 Industrialization catalog</h2>
-				<h3 id="sec7-1">devonfw - Standard Framework as a Service (SFaaS)</h3>
+				<h3 id="sec6-1">devonfw - Standard Framework as a Service (SFaaS)</h3>
 				<p>The standard platform devonfw and related services are provided in the iProd Shared Service Catalog as <b>SFaas</b>. Therefore you will be able to use these services with the group-tools: BRIDGE, INSERE, iSTART. devonfw provides one of the first engineering related services to the Group.</p>
 				<p>The main features of our Standard Framework as a Service are:
 					<ul>
@@ -460,25 +375,16 @@
 				        <a href="#sec4">Tooling</a>
 				        <ul class="nav">
 							<li><a href="#sec4-1">IDE</a></li>
-							<li><a href="#sec4-2">CobiGen</a></li>
-							<li><a href="#sec4-3">CI</a></li>
+							<li><a href="#sec4-2">CI</a></li>
 				        </ul>
 				    </li>
 				    <li>
-				        <a href="#sec5">IP Add Ons</a>
-				        <ul class="nav">
-							<li><a href="#sec5-1">Sencha Client</a></li>
-							<li><a href="#sec5-2">Ionic Mobile Client</a></li>
-							<li><a href="#sec5-3">IP Roadmap</a></li>
-				        </ul>
+						<a href="#sec5">License</a>
 				    </li>
 				    <li>
-						<a href="#sec6">License</a>
-				    </li>
-				    <li>
-				        <a href="#sec7">INDUS services</a>
+				        <a href="#sec6">INDUS services</a>
 						<ul class="nav">
-							<li><a href="#sec7-1">SFaaS</a></li>
+							<li><a href="#sec6-1">SFaaS</a></li>
 						</ul>
 				    </li>
 				</ul>
