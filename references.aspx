@@ -281,15 +281,6 @@
 							  <td>running</td>
 							</tr>	
 							<tr>
-							  <td>Germany</td>
-							  <td>Daimler ISP4D</td>
-							  <td>OASP4js</td>
-							  <td>Webapplication to manage parameters in a grid.</td>
-							  <td>Max Emmert</td>
-							  <td>-</td>
-							  <td>running</td>
-							</tr>	
-							<tr>
 							  <td>Spain</td>
 							  <td>TEPSA</td>
 							  <td>devonfw</td>
@@ -336,6 +327,15 @@
 							  <td>Thilo Hermann</td>
 							  <td>in bid phase</td>
 							</tr>
+							<tr>
+							  <td>Germany</td>
+							  <td>Daimler POS@MBD (DiVa)</td>
+							  <td>devon server and client (AngularJS)</td>
+							  <td>New PoS (Point-of-Sales) System for Daimler in Germany, based on MVP, Microservices and PCF as PaaS</td>
+							  <td>August 2016</td>
+							  <td>Thilo Hermann</td>
+							  <td>in bid phase</td>
+							</tr>	
 							<tr>
 							  <td>Germany</td>
 							  <td>HPA - Harbour management</td>
@@ -401,20 +401,11 @@
 							</tr>																			
 							<tr>
 							  <td>Sweden</td>
-							  <td>Volvo Mig</td>
-							  <td>devonfw</td>
-							  <td>Migrate an existing application built on IBM process server to OS Java stack (3240 PD).</td>
-							  <td>November 2015</td>
-							  <td>Thilo Herrmann</td>
-							  <td>in bid phase</td>
-							</tr>										
-							<tr>
-							  <td>Germany</td>
-							  <td>TollCollect - KonZ</td>
-							  <td>devonfw</td>
-							  <td>Build of a centralized management solution for the toll bridges and other toll controll devices.</td>
-							  <td>February 2016</td>
-							  <td>Andreas Redel</td>
+							  <td>Volvo PoS</td>
+							  <td>.NET and Angular2</td>
+							  <td>PoS for Volvo Cars dealers (case name K2)</td>
+							  <td>Q3/4 2016</td>
+							  <td>Matthias Grundevik</td>
 							  <td>in bid phase</td>
 							</tr>										
 						</tbody>
