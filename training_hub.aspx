@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -40,6 +40,17 @@
 			  border-left: 20px solid #00A0D7;
 			  padding-left:5px;
 			}
+			
+			.tab-content {
+				border-left: 1px solid #ddd;
+				border-right: 1px solid #ddd;
+				border-bottom: 1px solid #ddd;
+				padding: 0px 10px 10px 10px;
+			}
+			
+			ul.nav li a {
+				text-decoration: initial;
+			}
 		</style>
 </head>
 
@@ -71,7 +82,7 @@
 		<div class="col-md-offset-2 col-md-2">
 			<a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx"><img src="images/logo.png" alt="devonfw-logo" /></a>				
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-8">
 			<nav class="navbar navbar-default" role="navigation" id="menunav">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
@@ -80,6 +91,7 @@
 					<ul class="nav nav-justified">
 						<li><a class="cg_internal active" href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx">Overview</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/roadmap.aspx">Roadmap & Releases</a></li>
+						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/ipcatalog.aspx">IP catalog</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/collaboration.aspx">Collaboration</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/references.aspx">Sales & Marketing</a></li>
 						<li><a class="cg_internal" href="#">Training hub</a></li>
@@ -95,11 +107,114 @@
       <div class="col-md-offset-2 col-md-8" role="main">
 			<div class="bs-docs-section" id="start">
 				<h1>devonfw training hub</h1>
-				<p class="lead">This section presents an overview of all available trainings and training documents of the product devonfw.</p>
+				<p class="lead">This section presents an overview of all available trainings and training documents and videos of the product devonfw.</p>
 			</div>
 		</div>
 		
 		<div class="col-md-offset-2 col-md-8">
+			<div class="bs-docs-section" id="sec5">
+				<h2 id="sec5">Devon Skillset</h2>
+				
+				<ul class="nav nav-tabs">
+				  <li class="active"><a data-toggle="tab" href="#em"><b>Devon Engagement Manager</b></a></li>
+				  <li><a data-toggle="tab" href="#arch"><b>Devon Architect</b></a></li>
+				  <li><a data-toggle="tab" href="#fdev"><b>Devon FrontEnd Developer</b></a></li>
+				  <li><a data-toggle="tab" href="#bdev"><b>Devon BackEnd Developer</b></a></li>
+				</ul>
+
+				<div class="tab-content">
+				  <div id="em" class="tab-pane fade in active">
+					<p><b><font color="#0098CC">Technical Skills:</b></font>
+						<ul>
+							<li>IT background mainly Java-based web technologies</li>
+							<li>Good undertstanding of Devon:
+								<ul>
+								  <li>Typical architecture patterns knowledge regarding software application design</li>
+								  <li>Accelerators and productivity boosters provided by the framework</li>
+								  <li>Main business and technical levers included</li>
+								</ul>
+							</li>
+						</ul>
+						<b><font color="#0098CC">Other Skills:</b></font>
+						<ul>
+							<li>Professional English level required</li>
+							<li>Experience managing and working with distributed teams</li>
+							<li>Good grasp on context of iCSD APPS2 initiative: purpose, goals and relevant stakeholders</li>
+							<li>Bid/Pre-sales support abilities regarding Devon-related opportunities</li>
+						</ul>
+					</p>
+				  </div>
+				  <div id="arch" class="tab-pane fade">
+					<p><b><font color="#0098CC">Technical Skills:</b></font>
+						<ul>
+							<li>University or polytechnic graduate (or equivalent)</li>
+							<li>Mandatory:
+								<ul>
+								  <li>Proven experience as an application/solution architect (enterprise architecture is neither a requirement nor an advantage)</li>
+								  <li>Experience with both server as well as client architectures</li>
+								</ul>
+							</li>
+							<li>Recommended:
+								<ul>
+								  <li>Experience with modern architectures: Cloud, Microservices</li>
+								  <li>Strong background in software engineering practices and patterns</li>
+								  <li>Experience with topics like testing, UX, DevOps</li>
+								</ul>
+							</li>
+						</ul>
+						<b><font color="#0098CC">Other Skills:</b></font>
+						<ul>
+							<li>Professional English level required</li>
+						</ul>
+					</p>
+				  </div>
+				  <div id="fdev" class="tab-pane fade">
+					<p><b><font color="#0098CC">Technical Skills:</b></font>
+						<ul>
+							<li>University or polytechnic graduate (or equivalent)</li>
+							<li>Mandatory:
+								<ul>
+								  <li>JavaScript / ECMAScript 5 or 2015</li>
+								  <li>Working knowledge of jQuery</li>
+								  <li>Basic HTML / CSS</li>
+								</ul>
+							</li>
+							<li>Recommended:
+								<ul>
+								  <li>HTML5 / CSS3</li>
+								  <li>Working with a modern Javascript tool chain (npm, bower, grunt, gulp…) IDE or Editor like Eclipse, Sublime, Atom…</li>
+								  <li>Unit tests (Mocha, Jasmin, or otherwise)</li>
+								  <li>Experience with a modern client-side library like Sencha Ext JS, Kendo UI, Angular, React, Backbone…</li>
+								</ul>
+							</li>
+						</ul>
+					</p>
+				  </div>
+				  <div id="bdev" class="tab-pane fade">
+					<p><b><font color="#0098CC">Technical Skills:</b></font>
+						<ul>
+							<li>University or polytechnic graduate (or equivalent)</li>
+							<li>Mandatory:
+								<ul>
+								  <li>Java 7 or 8</li>
+								  <li>SQL</li>
+								</ul>
+							</li>
+							<li>Recommended:
+								<ul>
+								  <li>IDE like Eclipse,  IntelliJ IDEA or Netbeans</li>
+								  <li>Actual experience working with databases like Oracle, MS SQL Server, PostgreSQL, MySQL…</li>
+								  <li>Maven</li>
+								  <li>Spring - JPA/Hibernate</li>
+								  <li>Unit tests (JUnit or similar)</li>
+								</ul>
+							</li>
+						</ul>
+					</p>
+				  </div>
+				</div>
+			</div>
+			<br/>
 			<div class="bs-docs-section" id="sec1">
 
 				<h2 id="sec1">Training types</h2>
@@ -135,7 +250,7 @@
         			<td>2015, December</td>
         			<td>10d</td>
         			<td>IN, Mumbai</td>
-        			<td>Devonfw Sencha client training for Daimler project</td>
+        			<td>Devonfw Sencha client training</td>
         		</tr>
         		<tr>
         			<td>2016, February</td>
@@ -225,7 +340,7 @@
         		</tr>
         		<tr>
         			<td>2016, Sep</td>
-        			<td>2</td>
+        			<td>2d</td>
         			<td>IT, Rome</td>
         			<td>Devonfw training - Overview release 2.0 + Sencha/Angular</td>
         		</tr>
@@ -287,11 +402,77 @@
 
 			<div class="bs-docs-section" id="sec4">
 				<h2>Video Tutorials</h2>
-				<div class="row">
-					<div class="col-lg-6 devon">
-						<p><b>Still under construction</b></p>
+					<p>The following videos have been extracted from Devonfw online trainings.  Therefore, please, be aware that these recordings belong to a training context and there could be some questions from the attendants and, occasionally, technical audio problems.</p>
+					<div class="row">
+						<div class="col-lg-6 devon">
+							<h3 id="sec4-1">Devon Overview</h3>
+							<video width="640" height="360" controls preload="none" poster="http://devon-ci.cloudapp.net/troom/media/trainings/overview/DevonOverview.PNG">
+								<source src="http://devon-ci.cloudapp.net/troom/media/trainings/overview/Devon_Overview.mp4" type="video/mp4" >
+							</video>
+						</div>
 					</div>
-				</div>
+					<br/>
+					<div class="row">
+						<div class="col-lg-6 devon">
+							<h3 id="sec4-2">devon<b>4</b>sencha</h3>
+							<p><b>Sencha Licensing</b></p>
+							<video width="640" height="360" controls preload="none" poster="http://devon-ci.cloudapp.net/troom/media/trainings/sencha/Sencha_Licensing.PNG">
+								<source src="http://devon-ci.cloudapp.net/troom/media/trainings/sencha/Sencha_Licensing.mp4" type="video/mp4" >
+							</video>
+						</div>
+					</div>
+					<br/>
+					<div class="row">
+						<div class="col-lg-6 devon">
+							<h3 id="sec4-3">Devonfw Server</h3>
+							<br/>
+							<p><b>OASP4J Introduction</b></p>
+							<video width="640" height="360" controls preload="none" poster="http://devon-ci.cloudapp.net/troom/media/trainings/server/ServerIntroduction.PNG">
+								<source src="http://devon-ci.cloudapp.net/troom/media/trainings/server/Server_Introduction.mp4" type="video/mp4" >
+							</video>
+							<br/>
+							<br/>
+							<p><b>OASP4J Part I</b></p>
+							<video width="640" height="360" controls preload="none" poster="http://devon-ci.cloudapp.net/troom/media/trainings/server/ServerPartI.PNG">
+								<source src="http://devon-ci.cloudapp.net/troom/media/trainings/server/Server_OASP4J_I.mp4" type="video/mp4" >
+							</video>
+							<br/>
+							<br/>
+							<p><b>OASP4J Part II</b></p>
+							<video width="640" height="360" controls preload="none" poster="http://devon-ci.cloudapp.net/troom/media/trainings/server/ServerPartII.PNG">
+								<source src="http://devon-ci.cloudapp.net/troom/media/trainings/server/Server_OASP4J_II.mp4" type="video/mp4" >
+							</video>
+							<br/>
+							<br/>
+							<p><b>OASP4J Part III</b></p>
+							<video width="640" height="360" controls preload="none" poster="http://devon-ci.cloudapp.net/troom/media/trainings/server/ServerPartIII.PNG">
+								<source src="http://devon-ci.cloudapp.net/troom/media/trainings/server/Server_OASP4J_III.mp4" type="video/mp4" >
+							</video>
+							<br/>
+							<br/>
+							<p><b>Reporting IP Module</b></p>
+							<video width="640" height="360" controls preload="none" poster="http://devon-ci.cloudapp.net/troom/media/trainings/server/ReportingModule.PNG">
+								<source src="http://devon-ci.cloudapp.net/troom/media/trainings/server/Reporting_Module.mp4" type="video/mp4" >
+							</video>
+						</div>
+					</div>
+					<br/>
+					<div class="row">
+						<div class="col-lg-6 devon">
+							<h3 id="sec4-4">Devon Environment</h3>
+							<p><b>Devcon</b></p>
+							<video width="640" height="360" controls preload="none" poster="http://devon-ci.cloudapp.net/troom/media/trainings/environment/Devcon.PNG">
+								<source src="http://devon-ci.cloudapp.net/troom/media/trainings/environment/Devcon.mp4" type="video/mp4" >
+							</video>
+							<br/>
+							<br/>
+							<p><b>Application Deployment</b></p>
+							<video width="640" height="360" controls preload="none" poster="http://devon-ci.cloudapp.net/troom/media/trainings/environment/ApplicationDeployment.PNG">
+								<source src="http://devon-ci.cloudapp.net/troom/media/trainings/environment/Application_Deployment.mp4" type="video/mp4" >
+							</video>
+						</div>
+					</div>
+					<br/>
 			</div>
     </div>
 
@@ -300,6 +481,9 @@
 			<nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm scrollspy">
 				<ul id="affix" class="nav bs-docs-sidenav" data-spy="affix">
 				    <li>
+				        <a href="#sec5">Devon Skillset</a>
+				    </li>
+					<li>
 				        <a href="#sec1">Training types</a>
 				    </li>
 				    <li>
@@ -310,6 +494,12 @@
 				    </li>
 				    <li>
 				        <a href="#sec4">Video Tutorials</a>
+						<ul class="nav">
+							<li><a href="#sec4-1">Devon - Overview</a></li>
+							<li><a href="#sec4-2">Devon4Sencha</a></li>
+							<li><a href="#sec4-3">Devonfw Server</a></li>
+							<li><a href="#sec4-4">Devon Environment</a></li>
+						</ul>
 				    </li>
 				</ul>
 			</nav>

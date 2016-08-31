@@ -49,7 +49,7 @@
     <div class="col-md-offset-2 col-md-2">
       <a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx"><img src="images/logo.png" alt="devonfw-logo" /></a>        
     </div>
-    <div class="col-md-6">
+    <div class="col-md-8">
       <nav class="navbar navbar-default" role="navigation" id="menunav">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
@@ -58,6 +58,7 @@
           <ul class="nav nav-justified">
             <li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx">Overview</a></li>
             <li><a class="cg_internal active" href="#">Roadmap & Releases</a></li>
+            <li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/ipcatalog.aspx">IP catalog</a></li>
             <li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/collaboration.aspx">Collaboration</a></li>
             <li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/references.aspx">Sales & Marketing</a></li>
             <li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/faq.aspx">FAQs</a></li>
@@ -73,7 +74,7 @@
 		<div class="col-md-offset-2 col-md-8" role="main">
 			<div class="bs-docs-section" id="start">
 				<h1>Roadmap & Releases</h1>
-				<p class="lead">devonfw V2.0.1 is available and ready to be used in projects. The next devon release is already on its way - adding additional features to the product.</p>
+				<p class="lead">devonfw V2.0 is available and ready to be used in projects. The next devon release is already on its way - adding additional features to the product.</p>
 			</div>
 		</div>
 		
@@ -142,7 +143,7 @@
 				<h2 id="sec2">Releases</h2>
 				<p>The following versions of devonfw have already been released - continuously adding more value based on the feedback from several engagements.</p>
 				<div class="col-md-12">
-					<h2 class="text-success page-header">devonfw version 2.0.1<small><i>Released End of July 2016</i></small></h2>
+					<h2 class="text-success page-header">devonfw version 2.0.1<small><i>Released Beginning of August 2016</i></small></h2>
 				</div>
 				<div class="col-md-12">
 					<h4 class="text-success"><br/>latest release</h4>

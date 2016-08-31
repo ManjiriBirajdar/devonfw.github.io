@@ -71,7 +71,7 @@
 		<div class="col-md-offset-2 col-md-2">
 			<a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx"><img src="images/logo.png" alt="devonfw-logo" /></a>				
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-8">
 			<nav class="navbar navbar-default" role="navigation" id="menunav">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
@@ -80,6 +80,7 @@
 					<ul class="nav nav-justified">
 						<li><a class="cg_internal active" href="#">Overview</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/roadmap.aspx">Roadmap & Releases</a></li>
+						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/ipcatalog.aspx">IP catalog</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/collaboration.aspx">Collaboration</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/references.aspx">Sales & Marketing</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/faq.aspx">FAQs</a></li>
@@ -206,15 +207,11 @@
 				<div class="row">
 					<div class="col-lg-6 devon">
 						<h3>Sencha Web Client</h3>
-						<p>Here you find the Sencha Client Architecture
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43014" target="_blank">PDF &raquo;</a> |
-							<a href="https://github.com/devonfw/devon4sencha/wiki/guide-devon4sencha-introduction" target="_blank">WIKI &raquo;</a>
+						<p>Here you find the Devon4Sencha documentation
+							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.docs_current_version/frs50489?dl=1" target="_blank">PDF &raquo;</a> |
+							<a href="https://github.com/devonfw/devon-guide/wiki#the-presentation-layer-getting-started-with-devon4sencha" target="_blank">WIKI &raquo;</a>
 						</p>
 
-						<p>Here you find the Sencha Tutorial
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43021" target="_blank">PDF &raquo;</a> |
-							<a href="https://github.com/devonfw/devon4sencha/wiki/tutorial-devon4sencha-configuring-environment" target="_blank">WIKI &raquo;</a>
-						</p>
 					</div>
 					<div class="col-lg-6 oasp">
 						<h3>AngularJs Client</h3>
@@ -225,15 +222,15 @@
 				<div class="row">
 					<div class="col-lg-6 devon">
 						<h3>Server</h3>
-						<p>Here you find the Server Guide
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.devonfw_2_0/frs50016?dl=1" target="_blank">PDF &raquo;</a> |
-							<a href="https://github.com/devonfw/devon/wiki" target="_blank">WIKI &raquo;</a>
+						<p>Here you find the Server documentation
+							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.docs_current_version/frs50489?dl=1" target="_blank">PDF &raquo;</a> |
+							<a href="https://github.com/devonfw/devon-guide/wiki#getting-started-with-the-service-layer" target="_blank">WIKI &raquo;</a>
 						</p>
 					</div>
 					<div class="col-lg-6 oasp">
 						<h3>Server (Open source)</h3>
 						<p>Here you find the Server Core Guide
-							<a href="http://oasp.github.io/oasp4j/2.1.0/OASP4J.pdf " target="_blank">PDF &raquo;</a> |
+							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.docs_current_version/frs50488?dl=1" target="_blank">PDF &raquo;</a> |
 							<a href="https://github.com/oasp/oasp4j/wiki" target="_blank">WIKI &raquo;</a>
 						</p>
 					</div>
@@ -269,27 +266,12 @@
 						<p>devonfw comes with a prepackaged and preconfigured Eclipse-IDE. It contains an eclipse-archetype definition that allows to create an empty devonfw application. 
 							It further provides integration with several dozens of plugins including UML reverse-engineering, automatic adding of version-tags, soap-ui, terminal integration, sonarcube, anyedit, checkstyle, findbugs, eclemma for code-coverage, regexp-plugin, etc.
 							The same package you use for your customer project can be used to contribute to the devonfw product since we put all example implementations into the Eclipse workspace.</p>
-						<p>You can download the IDE (zip) from the devonfw teamforge <a href="https://coconet.capgemini.com/sf/frs/do/viewRelease/projects.apps2_devon/frs.devon_distribution.devonfw_2_0">file release area</a>. Follow the <a href="https://github.com/oasp/oasp4j/wiki/oasp-ide-setup" target="_blank">IDE setup guide</a> to set up the IDE in less than 2 hours.</p>
+						<p>You can download the latest IDE (zip) from the devonfw teamforge <a href="https://coconet.capgemini.com/sf/frs/do/listReleases/projects.apps2_devon/frs.devon_distribution">file release area</a>. Follow the <a href="https://github.com/devonfw/devon-guide/wiki/getting-started-download-and-install" target="_blank">IDE setup guide</a> to set up the IDE in less than 2 hours.</p>
 						<p style="text-align:center"><img src="images/overview/IntegratedIDE.png" height="450" width="800" alt="Eclipse IDE"/></p>
 					</div>
 				</div>
 
-				<div class="row">
-					<div class="col-lg-12">
-						<h3 id="sec4-2">CobiGen (IP)</h3>
-						<p>  CobiGen is a high value IP asset that is used by devonfw projects to generate code across all layers of a devon-application, including the clients.
-							It works iteratively without leaving marks or regions in the code due to its basic understanding of Java.
-							Due to architecture patterns set in devonfw, the generator is able to support generation of higher-level concepts than just - class.
-							It is best integrated into the provided eclipse package but also works on command line.</p>
-						<p style="text-align:center"><img src="images/overview/cobigen.png" height="450" width="800" alt="Eclipse IDE"/></p>
-						<p>Here you find the CobiGen documentation
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43012" target="_blank">PDF &raquo;</a> |
-							<a href="https://github.com/devonfw/tools-cobigen/wiki" target="_blank">WIKI &raquo;</a>
-						</p>
-					</div>
-				</div>
-
-				<h3 id="sec4-3">CI</h3>
+				<h3 id="sec4-2">CI</h3>
 				<p>devonfw team makes extensive use of modern integrated CI (Jenkins, etc.). However this is not part of the product devonfw. Your project may use it's own best fit project environment as required.
 				Worth mentioning here, the production line - once available as another shared service - will be the natural best fit IT4IT environment for the development process of a devonfw project, including full service CI, configuration management, artefact storage, issue tracking, etc. </p>
 
@@ -315,77 +297,6 @@
 		    </div>
 
 			<div class="bs-docs-section" id="sec5">
-				<h2>IP Add Ons</h2>
-				<p>devonfw gains further strength by a number of high value IP (intellectual property) solutions that are constantly extended:
-				<p>The aim is to make high value IP the USP that will sell devonfw to your client easily. To enforce this, IP will be integrated with a <b>plugin-system</b> that allows very easy adoption of a IP-solution in a project.</p>
-	
-				<div class="row">
-					<div class="col-lg-6 devon">
-						<h3 id="sec5-1">devon<b>4</b>sencha</h3>
-						<p>devon4sencha is an IP asset of devonfw that builds on top of <a href="https://www.sencha.com/products/extjs/#overview">Sencha ExtJs 6</a> libraries adding blueprint functionality like:
-							<ul>
-								<li>Automatic REST client creation</li>
-								<li>Protocol communication with the server</li>
-								<li>CORS support</li>
-								<li>Internationalization</li>
-								<li>Security management (login/logoff, csrf protection)</li>
-								<li>Layout templates</li>
-							</ul>
-						</p>
-						<p style="padding-left:150px">Check the video for some samples &gt;&gt;</p>
-					</div>
-					<div class="col-lg-6 devon">
-						<br/>
-						<br/>
-						<video width="320" height="240" controls preload="none">
-							<source src="http://devon-ci.cloudapp.net/troom/Webcast_Devon.mp4" type="video/mp4" >
-						</video>
-					</div>
-				</div>
-	          
-				<div class="row">
-					<div class="col-lg-6 devon">
-						<h3 id="sec5-2">devon<b>4</b>ionic</h3>
-						<p>devon4ionic is an IP asset of devonfw that shows an <a href="http://ionicframework.com/" target="_blank">Ionic client</a> with AngularJs and <a href="https://cordova.apache.org/" target="_blank">Cordova</a>:
-							<ul>
-								<li>hybrid mobile-apps across devices: Android, iOS, (Windows Phone)</li>
-								<li>simple Forms</li>
-								<li>lists</li>
-								<li>hardware features: take a photo</li>
-								<li>security (login/logoff)</li>
-								<li>suggested development tools</li>
-								<li>DevOps for crossplatform apps generation</li>
-							</ul>
-						</p>
-					</div>
-					<div class="col-lg-6 devon">
-	 					<br/>
-						<br/>
-						<img src="images/overview/ionic-examples.png" width="320" height="290" alt="screens from the Ionic mobile restaurant"/>
-					</div>
-				</div>
-	          
-				<div class="row">
-					<div class="col-lg-6 devon">
-						<h3 id="sec5-3">IP on the roadmap</h3>
-						<p>There is an increasing number of modular IP being worked at :
-							<ul>
-							  <li>Spring administration console</li>
-							  <li>App Server Compatibility (Websphere, JBoss, JEE 6)</li>
-							  <li>HANA-Backend + HANA features</li>
-							  <li>Enterprise integration with Immediate</li>
-							  <li>Security patterns</li>
-							  <li>Reporting</li>
-							</ul>
-						</p>
-					</div>
-					<div class="col-lg-6 devon">
-						<br/>
-					</div>
-				</div>
-			</div>
-          
-			<div class="bs-docs-section" id="sec6">
 				<h2>License scenarios</h2>
 				<p>The available licensing models allow three different usage scenarios that have been approved from legal.</p>
 				<p><a href="https://troom.capgemini.com/sites/vcc/devon/images/overview/license-devonfw-scenarios.png"><img src="https://troom.capgemini.com/sites/vcc/devon/images/overview/license-devonfw-scenarios.png" height="557" width="800" alt="devonfw license scenarios"/></a></p> 
@@ -393,11 +304,52 @@
 				<p><a href="http://www.apache.org/licenses/LICENSE-2.0.html">License Open Source (Apache License 2.0)</a>. The related documentation to OASP is licensed under <a href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons License (Attribution-NoDerivatives 4.0 International)</a> (using this combination of licenses on code and documentation is just normal in the world of Java open source).</p>
 			</div>
 
-			<div class="bs-docs-section" id="sec7">
-				<h2>APPS2 Industrialisation catalogue</h2>
-				<p>The standard platform devonfw and related services are provided in the iProd Shared Service Catalogue as <b>SPaas</b>. Therefore you will be able to use these services with the group-tools: BRIDGE, INSERE, iSTART. devonfw therefore provides one of the first engineering related services to the Group.</p>
-				<p style="text-align:center"><img src="images/overview/industools.png" height="450" width="800" alt="devonfw in the SBU indus-catalogue"/></p>
-				<p>Please be aware that services on the left are visible to the whole SBU but the three supporting services on the right are visible in Spain and Germany only. However, don't hesitate to contact us anyway.</p>
+			<div class="bs-docs-section" id="sec6">
+				<h2>APPS2 Industrialization catalog</h2>
+				<h3 id="sec6-1">devonfw - Standard Framework as a Service (SFaaS)</h3>
+				<p>The standard platform devonfw and related services are provided in the iProd Shared Service Catalog as <b>SFaas</b>. Therefore you will be able to use these services with the group-tools: BRIDGE, INSERE, iSTART. devonfw provides one of the first engineering related services to the Group.</p>
+				<p>The main features of our Standard Framework as a Service are:
+					<ul>
+						<li>Relieves you of the burden of designing and implementing the architecture for your application speeding up your project and reducing risks</li>
+						<li>The devonfw development environment along with show cases and an <b>application seed</b> are delivered ready to use based on your specifications of technologies to use</li>
+						<li>Integration with <b>CMaaS</b> and <b>CIaaS</b> to provide a complete development environment with code repository and continuous integration management with a unique request through SFaaS</li>
+						<li>Transparent development process: Devonfw includes common built-in functionalities and use cases that allow the engagement team to focus on developing business requirements, rather than concerning about technical aspects that should be currently seen as commodities</li>
+						<li>Support and advice about the SFaaS offer and devonfw</li>
+					</ul>
+				</p>
+				<br>
+				<p style="text-align:center"><img src="images/overview/industools-sfaas.png" width="98%" alt="devonfw in the SBU indus-catalogue"/></p>
+				
+				<p>To order the service: <a href="https://snscapappsfranceprod.service-now.com/CapESS2">Go to INSERE</a></p>
+				<p>To know more: <a href="http://talent.capgemini.com/global/pages/hubs/strategic_business_units/AppsTwo/what_we_do/appstwo_delivery/Industrialisation/standard_framework/">Talent Page</a></p>
+				<br/>
+				<p><b>SFaaS Presentation</b></p>
+				<p>The following videos have been extrated from the SFaaS presentation to industrialization leaders:
+					<ul>
+						<li>The first one an introduction to the service in the context of Devon and iCSD initiative.</li>
+						<li>The second one contains the presentationi of the SFaaS offer</li>
+					</ul>
+				<p>
+				<table>
+					<tr>
+						<td style="padding-right:10px">
+							<video width="320" height="180" controls preload="none" poster="http://devon-ci.cloudapp.net/troom/media/trainings/shared_services/SFaaSIntroduction.PNG">
+								<source src="http://devon-ci.cloudapp.net/troom/media/trainings/shared_services/SFaaS_Introduction.mp4" type="video/mp4" >
+							</video>
+						</td>
+						<td style="padding-left:10px">
+							<video width="320" height="180" controls preload="none" poster="http://devon-ci.cloudapp.net/troom/media/trainings/shared_services/SFaaS.PNG">
+								<source src="http://devon-ci.cloudapp.net/troom/media/trainings/shared_services/SFaaS_SFaaS.mp4" type="video/mp4" >
+							</video>
+						</td>
+					</tr>
+				</table>
+				<br><p><b>Criteria for service Applicability</b></p>
+				<ul>
+					<li>Engagements where Capgemini has Service and/or Project responsibility and N2K eligible</li>
+					<li>Engagements suitable for a Java-CSD solution where the customer doesn’t force the technologies to use</li>
+				</ul>
+				<p>The SFaaS service is included in 1.75% Indus fee on direct cost for N2K eligible engagements</p>
 			</div>
         </div>
 
@@ -423,23 +375,17 @@
 				        <a href="#sec4">Tooling</a>
 				        <ul class="nav">
 							<li><a href="#sec4-1">IDE</a></li>
-							<li><a href="#sec4-2">CobiGen</a></li>
-							<li><a href="#sec4-3">CI</a></li>
+							<li><a href="#sec4-2">CI</a></li>
 				        </ul>
 				    </li>
 				    <li>
-				        <a href="#sec5">IP Add Ons</a>
-				        <ul class="nav">
-							<li><a href="#sec5-1">Sencha Client</a></li>
-							<li><a href="#sec5-2">Ionic Mobile Client</a></li>
-							<li><a href="#sec5-3">IP Roadmap</a></li>
-				        </ul>
+						<a href="#sec5">License</a>
 				    </li>
 				    <li>
-						<a href="#sec6">License</a>
-				    </li>
-				    <li>
-				        <a href="#sec7">INDUS services</a>
+				        <a href="#sec6">INDUS services</a>
+						<ul class="nav">
+							<li><a href="#sec6-1">SFaaS</a></li>
+						</ul>
 				    </li>
 				</ul>
 			</nav>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -97,7 +97,7 @@ margin-right:10px;
 		<div class="col-md-offset-2 col-md-2">
 			<a href="https://troom.capgemini.com/sites/vcc/devon/index.aspx"><img src="images/logo.png" alt="devonfw-logo" /></a>				
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-8">
 			<nav class="navbar navbar-default" role="navigation" id="menunav">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu" id="menubutton">Menu</button>
@@ -106,9 +106,9 @@ margin-right:10px;
 					<ul class="nav nav-justified">
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx">Overview</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/roadmap.aspx">Roadmap & Releases</a></li>
+						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/ipcatalog.aspx">IP catalog</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/collaboration.aspx">Collaboration</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/references.aspx">Sales & Marketing</a></li>
-						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/training_hub.aspx">Training hub</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/faq.aspx">FAQs</a></li>
 						<li><a class="cg_internal active" href="#">Getting started</a></li>
 					</ul>
@@ -127,8 +127,9 @@ margin-right:10px;
 			<h3 class="text-success">Get started with...</h3>
 			<ul class="custom-counter steps">
 				<li><h2>The devonfw guide <img src="images/book.png" width="30"></h2>
-					<p>First things first. If you´re a developer just beginning with devonfw use <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.devonfw_2_0/frs50016?dl=1">the devonfw guide</a> to get started!</p>
-					<p>If you`re an experienced hand, like a senior developer or architect, you should add the <a href="http://oasp.github.io/oasp4j/2.1.0/OASP4J.pdf">platform guide</a>.</p>
+					<p>First things first. If you´re a developer just beginning with devonfw use <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.docs_current_version/frs50489?dl=1">the devonfw guide</a> to get started!</p>
+					<p>You can use <a href="https://github.com/devonfw/devon/wiki/devcon-user-guide">The Devon Console, Devcon</a>, to help you with many automated tasks around the full life-cycle of Devon applications, from installing the basic working environment and generating a new project, to running a test server and deploying an application to production. Devcon is the easiest way to use Devonfw.</p>
+					<p>If you`re an experienced hand, like a senior developer or architect, you should add the <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.docs_current_version/frs50488?dl=1">platform guide</a>.</p>
 					<p>This information is also available on the <a href="https://github.com/oasp/oasp4j/wiki">OASP4j</a> and <a href="https://github.com/devonfw/devon/wiki">devonfw</a> wikis which serve as a basis for the above mentioned PDF documents.
 					<p>devonfw uses OASP4j as lean open source architecture blueprint for the server side of an application. OASP4j offers you a holistic documentation for building your application. Stop with digging in the docs of many different open source projects in parallel, getting on the wrong track or lost in space. </p>
 				</li>
@@ -144,7 +145,7 @@ margin-right:10px;
 				</li>
 				<li>
 					<h2>Download the distribution <img src="images/tools.png" width="30"></h2>
-					<p>You can download from Teamforge the devonfw 2.0 distribution, the <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.devonfw_2_0/frs49948?dl=1"> devonfw development environment (1Gb ZIP file)</a>.</p>			
+					<p>You can download from Teamforge the devonfw 2.0 distribution, the <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.docs_current_version/frs50739?dl=1"> devonfw development environment (1Gb ZIP file)</a>.</p>			
 				</li>
 				<li>
 					<h2>Setup & Documentation <img src="images/books.png" width="30"></h2>
@@ -158,15 +159,15 @@ margin-right:10px;
 						</thead>
 						<tbody>
 							<tr>
-							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.devonfw_2_0/frs50016?dl=1">Devonfw Guide</a></td>
+							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.docs_current_version/frs50489?dl=1">Devonfw Guide</a></td>
 							  <td>A complete guide to the whole devonfw distribution. Includes documentation about how to getting started with devonfw and Sencha (devon4sencha) along with a cookbook with more advanced and specific features of the distribution.</td>
 							 </tr>
 							 <tr>
-							  <td><a href="http://oasp.github.io/oasp4j/2.1.0/OASP4J.pdf">OAPS4J Guide</a></td>
+							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.docs_current_version/frs50488?dl=1">OAPS4J Guide</a></td>
 							  <td>A more specific guide about the OASP4j applications. Here you will find more advanced information about the architecture of the OASP4j solution.</td>
 							</tr>
 							<tr>
-							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.1_0_0/frs43012?dl=1">CobiGen Guide</a></td>
+							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.docs_current_version/frs50487?dl=1">CobiGen Guide</a></td>
 							  <td>This guide contains the documentation of the CobiGen core modurle as well all CobiGen plugins and the Cobigen Eclipse integration.</td>
 							</tr>
 						</tbody>
