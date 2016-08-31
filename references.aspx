@@ -244,16 +244,7 @@
 							  <td>Marco Rose</td>
 							  <td>200k</td>
 							  <td>running</td>
-							</tr>										
-							<tr>
-							  <td>Netherlands</td>
-							  <td>Logius DigiD</td>
-							  <td>devonfw</td>
-							  <td>Migration from Ruby to Devonfw of current DigiD solution used i.e. to provide login access for governmental departments like Tax authority</td>
-							  <td>Paul Kerseboom</td>
-							  <td>>10m</td>
-							  <td>running</td>
-							</tr>										
+							</tr>																				
 							<tr>
 							  <td>Spain</td>
 							  <td>Aguas de Valencia Group</td>
@@ -371,6 +362,15 @@
 							  <td>RFI to create new Order Management Solution using micro services</td>
 							  <td>June 2016</td>
 							  <td>Barbara Burkhard</td>
+							  <td>in bid phase</td>
+							</tr>
+							<tr>
+							  <td>Netherlands</td>
+							  <td>Logius DigiD</td>
+							  <td>devonfw</td>
+							  <td>Migration from Ruby to Devonfw of current DigiD solution used i.e. to provide login access for governmental departments like Tax authority</td>
+							  <td>2016/2017</td>
+							  <td>Maurice Driessen</td>
 							  <td>in bid phase</td>
 							</tr>
 							<tr>
