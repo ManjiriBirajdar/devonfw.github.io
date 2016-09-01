@@ -290,6 +290,15 @@
 							  <td>160k</td>
 							  <td>running</td>
 							</tr>							
+							<tr>
+							  <td>Sweden</td>
+							  <td>Volvo PoS</td>
+							  <td>.NET and Angular2</td>
+							  <td>PoS for Volvo Cars dealers (case name K2)</td>
+							  <td>Matthias Grundevik</td>
+							  <td>???</td>
+							  <td>running</td>
+							</tr>										
 						</tbody>
 					</table>
 				</div>
@@ -383,15 +392,6 @@
 							  <td>on pause</td>
 							</tr>										
 							<tr>
-							  <td>France</td>
-							  <td>Ecoflottes</td>
-							  <td>devonfw</td>
-							  <td></td>
-							  <td>October 2015</td>
-							  <td>Thilo Herrmann</td>
-							  <td>in bid phase</td>
-							</tr>										
-							<tr>
 							  <td>Spain</td>
 							  <td>Gas Natural</td>
 							  <td>devonfw</td>
@@ -400,15 +400,6 @@
 							  <td>Manuel Cid Garcia</td>
 							  <td>on pause</td>
 							</tr>																			
-							<tr>
-							  <td>Sweden</td>
-							  <td>Volvo PoS</td>
-							  <td>.NET and Angular2</td>
-							  <td>PoS for Volvo Cars dealers (case name K2)</td>
-							  <td>Q3/4 2016</td>
-							  <td>Matthias Grundevik</td>
-							  <td>in bid phase</td>
-							</tr>										
 						</tbody>
 					</table>
 				</div>
