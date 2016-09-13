@@ -292,14 +292,14 @@
 							  <td>running</td>
 							</tr>							
 							<tr>
-							  <td>Sweden</td>
-							  <td>Volvo PoS</td>
-							  <td>.NET and Angular2</td>
-							  <td>PoS for Volvo Cars dealers (case name K2)</td>
-							  <td>Matthias Grundevik</td>
-							  <td>???</td>
+							  <td>Germany</td>
+							  <td>ISP4D - Integrated Sales Planning for Daimler</td>
+							  <td>OASP4js</td>
+							  <td>Webapplication to manage parameters in a grid</td>
+							  <td>Max Emmert</td>
+							  <td>24k (only web dialog)</td>
 							  <td>running</td>
-							</tr>										
+							</tr>							
 						</tbody>
 					</table>
 				</div>
@@ -401,6 +401,24 @@
 							  <td>Manuel Cid Garcia</td>
 							  <td>on pause</td>
 							</tr>																			
+							<tr>
+							  <td>Sweden</td>
+							  <td>Volvo PoS</td>
+							  <td>.NET and Angular2</td>
+							  <td>PoS for Volvo Cars dealers (case name K2)</td>
+							  <td>Sep 2016</td>
+							  <td>Matthias Grundevik</td>
+							  <td>in bid phase</td>
+							</tr>										
+							<tr>
+							  <td>Germany</td>
+							  <td>Daimler - Parts as a Service</td>
+							  <td>devonfw</td>
+							  <td>Service in the logistic division to provide consolidated data around car parts. Based on Microservices and PCF.</td>
+							  <td>September 2016</td>
+							  <td>Thilo Hermann</td>
+							  <td>in bid phase</td>
+							</tr>	
 						</tbody>
 					</table>
 				</div>
