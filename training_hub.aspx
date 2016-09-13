@@ -339,10 +339,10 @@
         			<td>Fasttrack Devon Software Walkthrough</td>
         		</tr>
         		<tr>
-        			<td>2016, Sep</td>
-        			<td>2d</td>
+        			<td>2016, Oct 4th</td>
+        			<td>1d</td>
         			<td>IT, Rome</td>
-        			<td>Devonfw training - Overview release 2.0 + Sencha/Angular</td>
+        			<td>Devonfw training - Overview release 2.0 + Sencha/Angular (trainer: Malte)</td>
         		</tr>
         		<tr>
         			<td>2016, Oct 24</td>
