@@ -302,7 +302,7 @@
 							</tr>							
 							<tr>
 							  <td>France</td>
-							  <td> <a href="http://en.atalian.com/">Atalian</a> </td>
+							  <td> <a href="http://en.atalian.com/">Atalian</a> Digital Transformation</td>
 							  <td>devonfw server</td>
 							  <td>Application for service order creation, validation, dispatching and executing</td>
 							  <td>Frederic Desoize</td>
