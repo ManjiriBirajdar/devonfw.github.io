@@ -300,6 +300,15 @@
 							  <td>24k (only web dialog)</td>
 							  <td>running</td>
 							</tr>							
+							<tr>
+							  <td>France</td>
+							  <td> <a href="http://en.atalian.com/">Atalian</a> </td>
+							  <td>devonfw server</td>
+							  <td>Application for service order creation, validation, dispatching and executing</td>
+							  <td>Frederic Desoize</td>
+							  <td>3MEuro</td>
+							  <td>running</td>
+							</tr>
 						</tbody>
 					</table>
 				</div>
