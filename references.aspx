@@ -309,6 +309,15 @@
 							  <td>3MEuro</td>
 							  <td>running</td>
 							</tr>
+							<tr>
+							  <td>Germany</td>
+							  <td>Siemens BT - SFC (Smart Facilities C-Level)</td>
+							  <td>devonfw, Sencha</td>
+							  <td>Delivery of analytics-based services for connected buildings (commercial, industrial, public); <br/>Optimize energy costs, reliability, comfort and performance</td>
+							  <td>Functions: Andreas Hess (lead), Sebastian Peters; <br/>Technics: Martin Sander, Alexander Winkler</td>
+							  <td>1.6MEuro</td>
+							  <td>Go-Live: <br/>March 2017: Rel 2.0.1; <br/>Dec 2017: Rel 2.0.4</td>
+							</tr>
 						</tbody>
 					</table>
 				</div>
