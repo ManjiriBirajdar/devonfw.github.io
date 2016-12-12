@@ -1,4 +1,6 @@
 {
   "version":"1.1.0",
-  "url":"http://devonfw.github.io/download/devcon/devcon.jar"
+  "url":"http://devonfw.github.io/download/devcon/devcon.jar",
+  "devondist_file_id": "frs50508",
+  "oaspide_file_id": "frs49076"
 }
