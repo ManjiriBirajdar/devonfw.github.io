@@ -1,6 +1,10 @@
 {
   "version":"1.1.0",
   "url":"http://devonfw.github.io/download/devcon/devcon.jar",
+  // For the Devcon's 'dist install' command:
   "devondist_file_id": "frs50508",
-  "oaspide_file_id": "frs49076"
+  "oaspide_file_id": "frs49076",
+  // For the Devcon's 'oasp4js jumpstart' command:
+  "oasp4js_ang1_id": "frs51721",
+  "oasp4js_ang2_id": ""
 }
