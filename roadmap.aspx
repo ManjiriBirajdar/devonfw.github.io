@@ -83,7 +83,7 @@
 			<div class="bs-docs-section" id="sec1">
 				<h2 id="sec1">Roadmap</h2>
 				<div class="col-md-12">
-					<h2 class="text-danger page-header">devonfw.next<small><i>End of 2016</i></small></h2>
+					<h2 class="text-danger page-header">devonfw.next<small><i>2017</i></small></h2>
 				</div>
 				<div class="col-md-12">
 					<p>The following features are planned to be added to the next releases.</p>
@@ -92,25 +92,15 @@
 				  <p>
 					<h3><span class="fa fa-cube text-info"></span> Solution</h3>
 					<ul>
-					  <li>I18N support for server and metadata</li>
-					  <li>Appserver Compatibility (Websphere, JBoss)</li>
-					  <li>Support for asynchronous REST services</li>
-					  <li>Compatibility guide for Java (7/8) & Tomcat (7/8)</li>
-					  <li>devonfw .Net core version</li>
-					  <li>File upload / download</li>
 					  <li>OASP4JS upgrade to Angular 2 & TypeScript</li>
+					  <li>Test guide & reference implementation</li>
+					  <li>Appserver Compatibility (Websphere, JBoss)</li>
+					  <li>Estimation tool</li>
 					  <li>Standard UI styleguide template</li>
 					  <li>UI web accessability conformity guide & certificate</li>
-					  <li>Graphical layer for devcon command line tool</li>
-					  <li>Test guide & reference implementation</li>
 					  <li>Secure implementation guide</li>
 					  <li>Efficient IDE provisioing based on Oomph</li>
-					  <li>Estimation tool</li>
-					  <li>Development guide for devonfw IP modules</li>
-					  <li>IP Module: RuleEngine</li>
 					  <li>IP Module: UI thin portal frame component</li>
-					  <li>Accelerator: Client UI code generation</li>
-					  <li>Accelarator: REST data access layer</li>
 					  <li>Security: Replace Simple Auth with OAuth2</li>
 					  <li>Security: Detailed OASP security check</li>
 					</ul>
@@ -121,8 +111,6 @@
 					<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
 					<ul>
 					  <li>Devon onboarding kit</li>
-					  <li>Devon shared services offering SFaas</li>
-					  <li>Comprehensive overview on product & license landscape</li>
 					</ul>
 				  </p>
 				</div>
@@ -131,10 +119,7 @@
 					<h3><span class="fa fa-code text-info"></span> Integration Showcases</h3>
 					<ul>
 					  <li>Production Line as regular devops platform</li>
-					  <li>OWASP AppSensor</li>
-					  <li>Cassandra (NoSQL) & SpringData (very basic)</li>
-					  <li>DB integration: MySQL</li>
-					  <li>DB integration: Oracle</li>
+					  <li>RuleEngine</li>
 					</ul>
 				  </p>
 				</div>
@@ -144,10 +129,58 @@
 				<h2 id="sec2">Releases</h2>
 				<p>The following versions of devonfw have already been released - continuously adding more value based on the feedback from several engagements.</p>
 				<div class="col-md-12">
-					<h2 class="text-success page-header">devonfw version 2.0.1<small><i>Released Beginning of August 2016</i></small></h2>
+					<h2 class="text-success page-header">devonfw version 2.1.0 (Balu)<small><i>Released Mid of December 2016</i></small></h2>
 				</div>
 				<div class="col-md-12">
 					<h4 class="text-success"><br/>latest release</h4>
+				</div>
+				<div class="col-md-6">
+				  <p>
+					<h3><span class="fa fa-cube text-info"></span> Solution</h3>
+					<ul>
+					  <li>Based on OASP4J 2.2.0</li>
+					  <li>Cobigen code-generator UI code generation and more</li>
+					  <li>REST data access layer (Spring Data)</li>
+					  <li>I18N support for server and metadata</li>
+					  <li>Support for asynchronous REST services</li>
+					  <li>Compatibility guide for Java (7/8) & Tomcat (7/8)</li>
+					  <li>File upload / download client component</li>
+					  <li>Graphical layer for devcon command line tool</li>
+					  <li>Extensive web service development guide</li>
+					  <li>Development guide for devonfw IP modules</li>
+					  <li>Development guide for devcon command line tool</li>
+					  <li>DB integration: MySQL, Oracle, MS SQL Server, PostgreSQL</li>
+					  <li>Linux compatibility</li>
+					</ul>
+				  </p>
+				</div>
+				
+				<div class="col-md-6">
+				  <p>
+					<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
+					<ul>
+					  <li>Re-designed and improved pre-sales material: Devonfw & The Digital Journey</li>
+					  <li>Enhanced training material, also training videos on 360Learning</li>
+					  <li>New training hub section on devonfw website</li>
+					  <li>Comprehensive overview on product & license landscape</li>
+					  <li>Concept to involve lead architects in bids</li>
+					  <li>Concept to assure solutioning review during pre-sales</li>
+					</ul>
+				  </p>
+				</div>
+				
+				<div class="col-md-6">
+				  <p>
+					<h3><span class="fa fa-code text-info"></span> Integration Showcases</h3>
+					<ul>
+					  <li>OWASP AppSensor</li>
+					  <li>Apache Cassandra (NoSQL & Spring Data)</li>
+					</ul>
+				  </p>
+				</div>			
+				
+				<div class="col-md-12">
+					<h2 class="page-header">devonfw version 2.0.1<small><i>Released Beginning of August 2016</i></small></h2>
 				</div>
 				<div class="col-md-6">
 				  <p>
