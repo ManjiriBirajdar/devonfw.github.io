@@ -220,13 +220,30 @@
 							</div>
 						</div>
 					</div>
-    				<!-- Maintenance section -->
-					<div class="faqHeader page-header bs-docs-section" id="sec3"><h2>Maintenance questions</h2></div>
+					
+					<!-- Support section -->
+					<div class="faqHeader page-header bs-docs-section" id="sec3"><h2>Support questions</h2></div>
     				<!-- question5 -->
 					<div class="panel panel-default">
 						<div class="panel-heading">
 							<h4 class="panel-title">
-								<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseZero" id="sec3-1">How can I edit the content of these pages?</a>
+								<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseZero" id="sec3-1">How can I get support?</a>
+							</h4>
+						</div>
+						<div id="collapseZero" class="panel-collapse collapse">
+							<div class="panel-body">
+								<p>Devonfw is a community project. Our active community uses Yammer to discuss anything related - and sometimes not so related as well :-) - to devonfw. Instead of contacting experts individually, please use the <a href="https://www.yammer.com/capgemini.com/#/threads/inGroup?type=in_group&feedId=5030942">devonfw Yammer channel</a> to share experiences, have interesting discussions and to get support with any problem you may have. This prevents single experts from getting overloaded with requests and enables the entire community to benefit from the questions you have as well as the answers you receive.</p>
+							</div>
+						</div>
+					</div>
+					
+    				<!-- Maintenance section -->
+					<div class="faqHeader page-header bs-docs-section" id="sec4"><h2>Maintenance questions</h2></div>
+    				<!-- question6 -->
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title">
+								<a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseZero" id="sec4-1">How can I edit the content of these pages?</a>
 							</h4>
 						</div>
 						<div id="collapseZero" class="panel-collapse collapse">
@@ -267,7 +284,8 @@
 					<ul id="affix" class="nav bs-docs-sidenav" data-spy="affix">
 						<li><a href="#sec1">Infrastructure</a></li>
 						<li><a href="#sec2">OASP</a></li>
-						<li><a href="#sec3">Maintenance</a></li>
+						<li><a href="#sec3">Support</a></li>
+						<li><a href="#sec4">Maintenance</a></li>
 					</ul>
 					<a class="back-to-top" href="#top">Back to top</a>
 				</nav>
