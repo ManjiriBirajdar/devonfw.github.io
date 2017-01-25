@@ -3,7 +3,7 @@
 body {
 	font-family: 'Arial', sans-serif;
 	height:100%;
-	background-color:#015776;
+	background-color:#49BDEA;
 	position: relative;
 }
 
@@ -13,7 +13,7 @@ body {
 }
 
 .nav-justified > li > a:hover {
-	color:#015776;
+	color:#49BDEA;
 	text-decoration: underline;
 }
 
@@ -37,7 +37,7 @@ body {
 /* New CSS */
 
 a {
-	color:#015776;
+	color:#49BDEA;
 	text-decoration:underline;
 }
 
@@ -50,7 +50,7 @@ a {
 }
 
 .navbar-default {
-	background:#015776;
+	background:#49BDEA;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus {
@@ -98,18 +98,19 @@ ul.nav.nav-justified li:last-of-type {
 	margin-top:0;
 	padding-top:10px;
 	padding-bottom:10px;
+	line-height: 30px;
 	float: right;
 }
 
 .nav-justified > li > a, .nav-justified > li:last-child > a  {
-	color: #015776;
+	color: black;
 	text-decoration:none;
 	text-shadow:none;
 	font-size:14px;
 }
 
 .nav-justified > li > a:hover, .nav-justified > li:last-child > a:hover  {
-	color: #015776;
+	color: #49BDEA;
 	text-decoration:underline;
 }
 
@@ -158,7 +159,7 @@ p.lead {
 }
 
 .glyphicon.glyphicon-chevron-left:hover, .glyphicon.glyphicon-chevron-left:focus, .glyphicon.glyphicon-chevron-left:active, .glyphicon.glyphicon-chevron-right:hover, .glyphicon.glyphicon-chevron-right:active, .glyphicon.glyphicon-chevron-right:focus {
-	color:#015776;
+	color:#49BDEA;
 }
 
 .carousel-control, .carousel-control:hover, .carousel-control:focus  {
@@ -178,10 +179,14 @@ p.lead {
 }
 
 .carousel-indicators li.active, .carousel-indicators li:hover {
-	background-color:#015776;
+	background-color:#49BDEA;
 	border:none;
 	width:15px;
 	height:15px;
+}
+
+.bs-docs-sidebar a {
+	color: black !important;
 }
 
 .logos {
@@ -192,7 +197,7 @@ p.lead {
 
 .footer {
 	height:100px;
-	background-color:#015776;
+	background-color: #015776;
 	border-top:transparent;
 	margin-top:0px;
 	margin-bottom: 0px;
@@ -208,7 +213,7 @@ p.lead {
 }
 
 a:hover {
-	color:#015776;
+	color:#49BDEA;
 }
 
 .font10 {
@@ -219,7 +224,7 @@ a:hover {
 	display: none;
 }
 .cg_internal.btn.btn-primary, .cg_internal.btn.btn-primary:hover {
-	background-color:#015776 !important;
+	background-color:#49BDEA !important;
 	color:#FFFFFF !important;
 	margin-left:20px;
 }
