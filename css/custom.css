@@ -7,10 +7,6 @@ body {
 	position: relative;
 }
 
-.text-grey {
-	color: grey;
-}
-
 .nav-justified > li > a {
 	color: white;
 	text-shadow: 1px 1px 2px black;
@@ -191,6 +187,10 @@ p.lead {
 
 .bs-docs-sidebar a {
 	color: black !important;
+}
+
+.bs-docs-sidebar a:hover {
+	color: #49BDEA !important;
 }
 
 .logos {
