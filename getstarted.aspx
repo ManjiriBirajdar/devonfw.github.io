@@ -175,10 +175,10 @@ margin-right:10px;
 					</table>
 					<p>You can also access our documentation in wiki format from the Github project pages</p>
 					<ul>
-						<li><a href="https://github.com/devonfw/devon/wiki" role="button" target="_blank">devonfw wiki <span class="note"> - GitHub private repo, please request access</span></a></li>
-						<li><a href="https://github.com/oasp/oasp4j/wiki" role="button" target="_blank">OASP4j <span class="note"> - GitHub public repository</span></a></li>
-						<li><a href="https://github.com/oasp/oasp4js/wiki" role="button" target="_blank">OASP4js <span class="note"> - GitHub public repository</span></a></li>
-						<li><a href="https://github.com/devonfw/tools-cobigen/wiki" target="_blank">CobiGen <span class="note"> - GitHub private repo, please request access</span></a></li>
+						<li><a href="https://github.com/devonfw/devon/wiki" role="button" target="_blank">devonfw wiki </a> - GitHub private repo, please <a href="mailto:icsddevonfwsupport.apps2@capgemini.com">request access</a></li>
+						<li><a href="https://github.com/oasp/oasp4j/wiki" role="button" target="_blank">OASP4j </a> - GitHub public repository</li>
+						<li><a href="https://github.com/oasp/oasp4js/wiki" role="button" target="_blank">OASP4js </a> - GitHub public repository</li>
+						<li><a href="https://github.com/devonfw/tools-cobigen/wiki" target="_blank">CobiGen </a> - GitHub private repo, please <a href="mailto:icsddevonfwsupport.apps2@capgemini.com">request access</a></li>
 					</ul>
 				</li>
 				<li>
@@ -186,14 +186,14 @@ margin-right:10px;
 					<p>Once you are able to code applications with devonfw support you surely want to take a peek to the technology underneath and be able to customize for your needs. </p>
 					<p>Currently the code is hosted on Github, here are the main repositories</p>
 					<ul>
-						<li><a href="http://github.com/devonfw" role="button" target="_blank">devonfw project <span class="note"> - GitHub private repo, please request access</span></a></li>
+						<li><a href="http://github.com/devonfw" role="button" target="_blank">devonfw project</a> - GitHub private repo, please <a href="mailto:icsddevonfwsupport.apps2@capgemini.com">request access</a></li>
 						<ul>
-							<li><a href="http://github.com/devonfw/devon4sencha" role="button" target="_blank">devon4sencha <span class="note"> - GitHub private repo, please request access</span></a></li>
+							<li><a href="http://github.com/devonfw/devon4sencha" role="button" target="_blank">devon4sencha</a> - GitHub private repo, please <a href="mailto:icsddevonfwsupport.apps2@capgemini.com">request access</a></li>
 						</ul>
-						<li><a href="http://github.com/oasp/oasp4j/" role="button" target="_blank">OASP4 project <span class="note"> - GitHub public repo</span></a></li>
+						<li><a href="http://github.com/oasp/oasp4j/" role="button" target="_blank">OASP4 project </a> - GitHub public repo</li>
 						<ul>
-							<li><a href="http://github.com/oasp/oasp4j/" role="button" target="_blank">OASP4j <span class="note"> - GitHub public repo</span></a></li>
-							<li><a href="http://github.com/oasp/asp4js/" role="button" target="_blank">OASP4js <span class="note"> - GitHub public repo</span></a></li>
+							<li><a href="http://github.com/oasp/oasp4j/" role="button" target="_blank">OASP4j </a> - GitHub public repo</li>
+							<li><a href="http://github.com/oasp/asp4js/" role="button" target="_blank">OASP4js </a> - GitHub public repo</li>
 						</ul>
 					</ul>
 				</li>

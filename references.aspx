@@ -105,6 +105,10 @@
 		<div class="col-md-offset-2 col-md-8">
 			<div class="bs-docs-section" id="sec3">
 				<h2 id="sec1">External Marketing</h2>
+				<p>The following brochure advertises the main features of the devonfw platform</p>
+				<ul>
+					<li><a href="https://www.de.capgemini.com/sites/default/files/resource/pdf/brochure_devon_2016.pdf">Brochure devonfw 2016</a></li>
+				</ul>
 				<p>The following devonfw web sites are publicly accessible.</p>
 				<ul>
 					<li><a href="https://www.capgemini.com/devonfw">Main devon-page on capgemini.com (English)</a></li>

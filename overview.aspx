@@ -125,7 +125,7 @@
 
 				<p style="text-align:center"><img src="images/overview/productivity_flexibility_impact.png" alt=""/></p>
 				<br/>
-				<p>Please promote devonfw using our <a href="https://www.de.capgemini.com/resource-file-access/resource/pdf/devon_2.pdf">devonfw-Flyer</a>. Other marketing material is constantly improved on our open <a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw">Team Forge</a>.</p>
+				<p>Please promote devonfw using our <a href="https://www.de.capgemini.com/sites/default/files/resource/pdf/brochure_devon_2016.pdf">devonfw-Brochure</a>. Other marketing material is constantly improved on our open <a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw">Team Forge</a>.</p>
 
 				<h3 id="sec1-3">What is in the package?</h3>
 
