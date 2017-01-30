@@ -208,10 +208,7 @@
 				<div class="row">
 					<div class="col-lg-6 devon">
 						<h3>Sencha Web Client</h3>
-						<p>Here you find the Devon4Sencha documentation
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.current_version/frs51048?dl=1" target="_blank">PDF &raquo;</a> |
-							<a href="https://github.com/devonfw/devon-guide/wiki#the-presentation-layer-getting-started-with-devon4sencha" target="_blank">WIKI &raquo;</a>
-						</p>
+						<p>The Devon4Sencha documentation has been integrated into the devonfw server guide (see below).</p>
 
 					</div>
 					<div class="col-lg-6 oasp">
@@ -224,14 +221,14 @@
 					<div class="col-lg-6 devon">
 						<h3>Server</h3>
 						<p>Here you find the Server documentation
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.current_version/frs54567?dl=1" target="_blank">PDF &raquo;</a> |
+							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.2_1_0/frs54330?dl=1" target="_blank">PDF &raquo;</a> |
 							<a href="https://github.com/devonfw/devon-guide/wiki#getting-started-with-the-service-layer" target="_blank">WIKI &raquo;</a>
 						</p>
 					</div>
 					<div class="col-lg-6 oasp">
 						<h3>Server (Open source)</h3>
 						<p>Here you find the Server Core Guide
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.current_version/frs54568?dl=1" target="_blank">PDF &raquo;</a> |
+							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.2_1_0/frs54542?dl=1" target="_blank">PDF &raquo;</a> |
 							<a href="https://github.com/oasp/oasp4j/wiki" target="_blank">WIKI &raquo;</a>
 						</p>
 					</div>
