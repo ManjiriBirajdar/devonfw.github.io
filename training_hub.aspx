@@ -183,7 +183,7 @@
 								<ul>
 								  <li>HTML5 / CSS3</li>
 								  <li>Working with a modern Javascript tool chain (npm, bower, grunt, gulp…) IDE or Editor like Eclipse, Sublime, Atom…</li>
-								  <li>Unit tests (Mocha, Jasmin, or otherwise)</li>
+								  <li>Unit tests (Mocha, Jasmine, or otherwise)</li>
 								  <li>Experience with a modern client-side library like Sencha Ext JS, Kendo UI, Angular, React, Backbone…</li>
 								</ul>
 							</li>
