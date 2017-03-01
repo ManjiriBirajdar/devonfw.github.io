@@ -229,85 +229,7 @@
 			<div class="bs-docs-section" id="sec2" style="background-image: url(images/overview/restaurant.png)">
 				<h2>Training calendar</h2>
 				<p>The following table shows the schedule of trainings for devonfw.</p>
-        <table border width="100%" bordercolor=#000099>
-          <colgroup>
-            <col width="15%">
-            <col width="10%">
-            <col width="15%">
-            <col width="50%">
-           </colgroup> 
-         	<caption><b><font color="#0098CC">Finished devonfw trainings</b></font></caption>
-	        <thead >
-        		<tr bgcolor=#0098CC>
-			        <th><font color="#FFFFFF">date</font></th>
-        			<th><font color="#FFFFFF">duration</font></th>
-        			<th><font color="#FFFFFF">location</font></th>
-        			<th><font color="#FFFFFF">training title</font></th>
-        		</tr>
-        	</thead>
-        	<tbody>
-        		<tr>
-        			<td>2015, December</td>
-        			<td>10d</td>
-        			<td>IN, Mumbai</td>
-        			<td>Devonfw Sencha client training</td>
-        		</tr>
-        		<tr>
-        			<td>2016, February</td>
-        			<td></td>
-        			<td>PL, Wroclaw</td>
-        			<td>Rich Web Client School (Angular)</td>
-        		</tr>
-        		<tr>
-        			<td>2016, March</td>
-        			<td>4d</td>
-        			<td>PL, Wroclaw</td>
-        			<td>Devon Server School</td>
-        		</tr>
-        		<tr>
-        			<td>2016, March 17</td>
-        			<td>1d</td>
-        			<td>DE, Offenbach</td>
-        			<td>Practice training project TollCollect</td>
-        		</tr>
-        		<tr>
-        			<td>2016, May</td>
-        			<td>1.5d</td>
-        			<td>Nordics remote</td>
-        			<td>Overview Training</td>
-        		</tr>
-        		<tr>
-        			<td>2016, May 17</td>
-        			<td>4d</td>
-        			<td>MA, Casablanca</td>
-        			<td>Devon Overview-Training</td>
-        		</tr>
-        		<tr>
-        			<td>2016, June</td>
-        			<td>1d</td>
-        			<td>IT, Rome</td>
-        			<td>Devon Overview and HandsOn</td>
-        		</tr>
-        		<tr>
-        			<td>2016, July 18</td>
-        			<td>3d</td>
-        			<td>ES, remote</td>
-        			<td>Devonfw training for Shared Services</td>
-        		</tr>
-        		<tr>
-        			<td>2016, July 22</td>
-        			<td>1d</td>
-        			<td>DE, Offenbach</td>
-        			<td>Devon practice training</td>
-        		</tr>
-        		<tr>
-        			<td>2016, July 25</td>
-        			<td>5d</td>
-        			<td>IN, Mumbai</td>
-        			<td>Devon Training for Project HPA</td>
-        		</tr>
-        	</tbody>
-        </table>
+        
 
         <table border width="100%" bordercolor=#000099>
           <colgroup>
@@ -317,40 +239,242 @@
             <col width="50%">
            </colgroup> 
          	<caption><b><font color="#0098CC">Scheduled devonfw trainings</b></font></caption>
-	        <thead >
-        		<tr bgcolor=#0098CC>
-			        <th><font color="#FFFFFF">date</font></th>
-        			<th><font color="#FFFFFF">duration</font></th>
-        			<th><font color="#FFFFFF">location</font></th>
-        			<th><font color="#FFFFFF">training title</font></th>
-        		</tr>
-        	</thead>
-        	<tbody>
-        		<tr>
-        			<td>2016, Q3</td>
-        			<td></td>
-        			<td>DE, remote</td>
-        			<td>Fasttrack Devon Overview</td>
-        		</tr>
-        		<tr>
-        			<td>2016, Q3</td>
-        			<td></td>
-        			<td>DE, remote</td>
-        			<td>Fasttrack Devon Software Walkthrough</td>
-        		</tr>
-        		<tr>
-        			<td>2016, Oct 4th</td>
-        			<td>1d</td>
-        			<td>IT, Rome</td>
-        			<td>Devonfw training - Overview release 2.0 + Sencha/Angular (trainer: Malte)</td>
-        		</tr>
-        		<tr>
-        			<td>2016, Oct 24</td>
-        			<td></td>
-        			<td>DE, Munich</td>
-        			<td>Rich Web Client School (Angular)</td>
-        		</tr>
-        	</tbody>
+	        <table class="table table-bordered table-bordered-blue">
+	<table class="table table-bordered table-bordered-blue">
+	<thead>
+		<tr>
+			<th>date</th>
+			<th>duration</th>
+			<th>location</th>
+			<th>training title</th>
+			<th>Type</th>
+			<th>State</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>01.02.2017</td>
+			<td>3d</td>
+			<td>GE, Frankfurt</td>
+			<td>Rich Web Client School (Angular)</td>
+			<td>classroom</td>
+			<td>done</td>
+		</tr>
+		<tr>
+			<td>06.02.2017</td>
+			<td>2d</td>
+			<td>PL, Worclaw</td>
+			<td>Rich Web Client School (Angular)</td>
+			<td>classroom</td>
+			<td>done</td>
+		</tr>
+		<tr>
+			<td>03.04.2017</td>
+			<td>5d</td>
+			<td>IT, Rome</td>
+			<td>Devon Server (2d),
+Devon Client School (3d, Angular)</td>
+			<td>classroom</td>
+			<td>confirmed</td>
+		</tr>
+		<tr>
+			<td>24.04.2017</td>
+			<td>5d</td>
+			<td>IT, Milano</td>
+			<td>Devon Server (2d),
+Devon Client School (3d, Angular)</td>
+			<td>classroom</td>
+			<td>confirmed</td>
+		</tr>
+		<tr>
+			<td>19.05.2017</td>
+			<td>1d</td>
+			<td>GE, Nuremberg</td>
+			<td>OASP</td>
+			<td>classroom</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>19.06.2017</td>
+			<td>4d</td>
+			<td>GE, Hamburg</td>
+			<td>Rich Web Client School (Angular)</td>
+			<td>classroom</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>23.06.2017</td>
+			<td>1d</td>
+			<td>GE, Hamburg</td>
+			<td>Devon Server</td>
+			<td>classroom</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>08.09.2017</td>
+			<td>1d</td>
+			<td>GE, Cologne</td>
+			<td>Devon Server</td>
+			<td>classroom</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Q3 2017</td>
+			<td>1d</td>
+			<td>GE, Dusseldorf</td>
+			<td>Devon Client - Angular </td>
+			<td>classroom</td>
+			<td>unconfirmed</td>
+		</tr>
+		<tr>
+			<td>Q4 2017</td>
+			<td>1d</td>
+			<td>GE, Munich</td>
+			<td>Devon Server</td>
+			<td>classroom</td>
+			<td>unconfirmed</td>
+		</tr>
+		<tr>
+			<td>Q4 2017</td>
+			<td>1d</td>
+			<td>GE, Frankfurt</td>
+			<td>Devon Client - Angular </td>
+			<td>classroom</td>
+			<td>unconfirmed</td>
+		</tr>
+		<tr>
+			<td>Q4 2017</td>
+			<td>1d</td>
+			<td>GE, Munich</td>
+			<td>Devon Client - Angular </td>
+			<td>classroom</td>
+			<td>unconfirmed</td>
+		</tr>
+		<tr>
+			<td>tbd</td>
+			<td>1d</td>
+			<td>GE, Dusseldorf</td>
+			<td>Cont. Deployment with Production Line</td>
+			<td>classroom</td>
+			<td>unconfirmed</td>
+		</tr>
+		<tr>
+			<td>tbd</td>
+			<td>1d</td>
+			<td>GE, Dusseldorf</td>
+			<td>Set up and tailoring of Production Line</td>
+			<td>classroom</td>
+			<td>unconfirmed</td>
+		</tr>
+	</tbody>
+</table>
+	</table>
+ 
+
+	<table border width="100%" bordercolor=#000099>
+          <colgroup>
+            <col width="15%">
+            <col width="10%">
+            <col width="15%">
+            <col width="50%">
+           </colgroup> 
+         	<caption><b><font color="#0098CC">Finished devonfw trainings</b></font></caption>
+	        <table class="table table-bordered table-bordered-blue">
+	
+	<thead>
+		<tr>
+			<th>date</th>
+			<th>duration</th>
+			<th>location</th>
+			<th>training title</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>2015, December</td>
+			<td>10d</td>
+			<td>IN, Mumbai</td>
+			<td>Devonfw Sencha client training</td>
+		</tr>
+		<tr>
+			<td>2016, February</td>
+			<td></td>
+			<td>PL, Wroclaw</td>
+			<td>Rich Web Client School (Angular)</td>
+		</tr>
+		<tr>
+			<td>2016, March</td>
+			<td>4d</td>
+			<td>PL, Wroclaw</td>
+			<td>Devon Server School</td>
+		</tr>
+		<tr>
+			<td>2016, March 17</td>
+			<td>1d</td>
+			<td>DE, Offenbach</td>
+			<td>Practice training project TollCollect</td>
+		</tr>
+		<tr>
+			<td>2016, May</td>
+			<td>1.5d</td>
+			<td>Nordics remote</td>
+			<td>Overview Training</td>
+		</tr>
+		<tr>
+			<td>2016, May 17</td>
+			<td>4d</td>
+			<td>MA, Casablanca</td>
+			<td>Devon Overview-Training</td>
+		</tr>
+		<tr>
+			<td>2016, June</td>
+			<td>1d</td>
+			<td>IT, Rome</td>
+			<td>Devon Overview and HandsOn</td>
+		</tr>
+		<tr>
+			<td>2016, July 18</td>
+			<td>3d</td>
+			<td>ES, remote</td>
+			<td>Devonfw training for Shared Services</td>
+		</tr>
+		<tr>
+			<td>2016, July 22</td>
+			<td>1d</td>
+			<td>DE, Offenbach</td>
+			<td>Devon practice training</td>
+		</tr>
+		<tr>
+			<td>2016, July 25</td>
+			<td>5d</td>
+			<td>IN, Mumbai</td>
+			<td>Devon Training for Project HPA</td>
+		</tr>
+		<tr>
+			<td>2016, Q3</td>
+			<td></td>
+			<td>DE, remote</td>
+			<td>Fasttrack Devon Overview</td>
+		</tr>
+		<tr>
+			<td>2016, Q3</td>
+			<td></td>
+			<td>DE, remote</td>
+			<td>Fasttrack Devon Software Walkthrough</td>
+		</tr>
+		<tr>
+			<td>2016, Oct 4th</td>
+			<td>1d</td>
+			<td>IT, Rome</td>
+			<td>Devonfw training - Overview release 2.0 + Sencha/Angular (trainer: Malte)</td>
+		</tr>
+		<tr>
+			<td>2016, Oct 24</td>
+			<td></td>
+			<td>DE, Munich</td>
+			<td>Rich Web Client School (Angular)</td>
+		</tr>
+	</tbody>
         </table>
 			</div>
 
