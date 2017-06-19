@@ -4,7 +4,7 @@ body {
 	font-family: 'Arial', sans-serif;
 	height:100%;
 	background-color:#49BDEA;
-	position: relative;
+	position: absolute;
 }
 
 .nav-justified > li > a {
@@ -134,7 +134,6 @@ p.lead {
 }
 
 .carousel {
-	height:450px;
 }
 
 .item {
@@ -168,7 +167,9 @@ p.lead {
 }
 
 .carousel-control.right, .carousel-control.left  {
-	background:none;
+	background-color: #dedede;
+	height: 80%;
+	margin-top:3%;
 }
 
 .carousel-indicators li {
@@ -183,6 +184,20 @@ p.lead {
 	border:none;
 	width:15px;
 	height:15px;
+}
+
+.carousel-indicators {
+	position: static;
+	margin-left: 20%;
+}
+
+.carousel-inner h3 {
+	color: #49BDEA;
+	padding: 10px 0;
+}
+
+.carousel-inner {
+	height: 100%;
 }
 
 .bs-docs-sidebar a {
@@ -271,4 +286,78 @@ a:hover {
 }
 #affix a:hover {
 	text-decoration: underline;
+}
+
+.panel-heading {
+	background-color: #49BDEA !important;
+	border-color: #49BDEA !important;
+}
+
+.panel-primary {
+	border-color: #49BDEA !important;
+}
+
+.btn-prev {
+	float: left;
+}
+
+.btn-next {
+	float: right;
+}
+
+.btn-prev, .btn-next {
+	background-color: #40BDEA;
+	margin: 0 20px;
+}
+
+.video-description {
+
+}
+
+.carousel {
+	height: auto !important;
+}
+
+.item {
+	height: auto !important;
+}
+
+.description {
+	width: 75%;
+	margin: 0 auto;
+	text-align: left;
+	height: 200px !important;
+	max-height: 200px !important;
+}
+
+.description li {
+	text-align: left;
+}
+
+.description ul {
+	
+}
+
+.description h3 {
+	text-align: center;
+}
+
+.content {
+	padding-bottom: 40px;
+}
+
+h2 {
+	margin: 40px 0 20px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.orange {
+	color: orange;
+}
+
+.controls {
+	margin: 25px 0;
 }
