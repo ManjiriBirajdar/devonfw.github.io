@@ -27,7 +27,7 @@ function wrapMatchesInNode(textNode) {
  
     var temp = document.createElement('div');
  
-    temp.innerHTML = textNode.data.replace(/devonfw/g,'<span style="font-weight:bold;color:#aaa;"><b style="color:#037094">devon</b>fw</span>');
+    temp.innerHTML = textNode.data.replace(/devonfw/g,'<span style="font-weight:bold;color:#aaa;"><b style="color:#49BDEA">devon</b>fw</span>');
  
     // temp.innerHTML is now:
     // "n    This order's reference number is <a href="/order/RF83297">RF83297</a>.n"
