@@ -133,6 +133,7 @@ p.lead {
 }
 
 .carousel {
+	height: 450px;
 }
 
 .item {
@@ -166,9 +167,7 @@ p.lead {
 }
 
 .carousel-control.right, .carousel-control.left  {
-	background-color: #dedede;
-	height: 80%;
-	margin-top:3%;
+	background: none;
 }
 
 .carousel-indicators li {
@@ -185,7 +184,7 @@ p.lead {
 	height:15px;
 }
 
-.carousel-indicators {
+.training-videos .carousel-indicators {
 	position: static;
 	margin-left: 20%;
 }
@@ -193,10 +192,6 @@ p.lead {
 .carousel-inner h3 {
 	color: #49BDEA;
 	padding: 10px 0;
-}
-
-.carousel-inner {
-	height: 100%;
 }
 
 .bs-docs-sidebar a {
@@ -313,7 +308,7 @@ a:hover {
 
 }
 
-.carousel {
+.training-videos .carousel {
 	height: auto !important;
 }
 
