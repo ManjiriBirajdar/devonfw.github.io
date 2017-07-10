@@ -111,7 +111,7 @@
 			</div>
 		</div>
 		<div class="col-md-offset-2 col-md-8">
-			<div class="bs-doc-section" id="sec4">
+			<div class="bs-doc-section training-videos" id="sec4">
 				<h2 id="sec4">Video Tutorials</h2>
 				<ul class="nav nav-tabs">
 					<li class="active"><a data-toggle="tab" href="#mov-ov">Devon Overview</a></li>
