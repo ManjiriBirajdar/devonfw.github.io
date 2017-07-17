@@ -128,7 +128,7 @@ margin-right:10px;
 			<h3 class="text-success">Get started with...</h3>
 			<ul class="custom-counter steps">
 				<li><h2>The devonfw guide <img src="images/book.png" width="30"></h2>
-					<p>First things first. If you´re a developer just beginning with devonfw use <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.2_2_0/frs60075?dl=1">the devonfw guide</a> to get started!</p>
+					<p>First things first. If you´re a developer just beginning with devonfw use <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.current_version/frs54567?dl=1">the devonfw guide</a> to get started!</p>
 					<p>You can use <a href="https://github.com/devonfw/devon/wiki/devcon-user-guide">The Devon Console, Devcon</a>, to help you with many automated tasks around the full life-cycle of Devon applications, from installing the basic working environment and generating a new project, to running a test server and deploying an application to production. Devcon is the easiest way to use Devonfw.</p>
 					<p>If you`re an experienced hand, like a senior developer or architect, you should add the <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.current_version/frs54568?dl=1">platform guide</a>.</p>
 					<p>This information is also available on the <a href="https://github.com/oasp/oasp4j/wiki">OASP4j</a> and <a href="https://github.com/devonfw/devon/wiki">devonfw</a> wikis which serve as a basis for the above mentioned PDF documents.
@@ -160,7 +160,7 @@ margin-right:10px;
 						</thead>
 						<tbody>
 							<tr>
-							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.2_2_0/frs60075?dl=1">Devonfw Guide</a></td>
+							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.current_version/frs54567?dl=1">Devonfw Guide</a></td>
 							  <td>A complete guide to the whole devonfw distribution. Includes documentation about how to getting started with devonfw and Sencha (devon4sencha) along with a cookbook with more advanced and specific features of the distribution.</td>
 							 </tr>
 							 <tr>
