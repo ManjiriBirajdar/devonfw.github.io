@@ -221,7 +221,7 @@
 					<div class="col-lg-6 devon">
 						<h3>Server</h3>
 						<p>Here you find the Server documentation
-							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.2_1_0/frs54330?dl=1" target="_blank">PDF &raquo;</a> |
+							<a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.2_2_0/frs60075?dl=1" target="_blank">PDF &raquo;</a> |
 							<a href="https://github.com/devonfw/devon-guide/wiki#getting-started-with-the-service-layer" target="_blank">WIKI &raquo;</a>
 						</p>
 					</div>
