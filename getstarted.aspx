@@ -146,7 +146,7 @@ margin-right:10px;
 				</li>
 				<li>
 					<h2>Download the distribution <img src="images/tools.png" width="30"></h2>
-					<p>You can download from Teamforge the devonfw 2.2 distribution, the <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.2_2_0/frs60084?dl=1"> devonfw development environment (1Gb ZIP file)</a>.</p>			
+					<p>You can download from Teamforge the devonfw 2.2 distribution, the <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.current_version/frs54537?dl=1"> devonfw development environment (1Gb ZIP file)</a>.</p>			
 				</li>
 				<li>
 					<h2>Setup & Documentation <img src="images/books.png" width="30"></h2>
@@ -168,7 +168,7 @@ margin-right:10px;
 							  <td>A more specific guide about the OASP4j applications. Here you will find more advanced information about the architecture of the OASP4j solution.</td>
 							</tr>
 							<tr>
-							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.2_2_0/frs60081?dl=1">CobiGen Guide</a></td>
+							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.current_version/frs51047?dl=1">CobiGen Guide</a></td>
 							  <td>This guide contains the documentation of the CobiGen core modurle as well all CobiGen plugins and the Cobigen Eclipse integration.</td>
 							</tr>
 						</tbody>
