@@ -75,7 +75,7 @@
 		<div class="col-md-offset-2 col-md-8" role="main">
 			<div class="bs-docs-section" id="start">
 				<h1>Roadmap & Releases</h1>
-				<p class="lead">devonfw V2.0 is available and ready to be used in projects. The next devon release is already on its way - adding additional features to the product.</p>
+				<p class="lead">devonfw V2.2 is available and ready to be used in projects. The next devon release is already on its way - adding additional features to the product.</p>
 			</div>
 		</div>
 		
@@ -83,25 +83,25 @@
 			<div class="bs-docs-section" id="sec1">
 				<h2 id="sec1">Roadmap</h2>
 				<div class="col-md-12">
-					<h2 class="text-danger page-header">devonfw.next<small><i>2017</i></small></h2>
+					<h2 class="text-danger page-header">devonfw.next<small><i>End of 2017</i></small></h2>
 				</div>
 				<div class="col-md-12">
-					<p>The following features are planned to be added to the next releases.</p>
+					<p>The following features are planned to be added to the next releases (list incomplete).</p>
 				</div>
 				<div class="col-md-6">
 				  <p>
 					<h3><span class="fa fa-cube text-info"></span> Solution</h3>
 					<ul>
-					  <li>OASP4JS upgrade to Angular 2 & TypeScript</li>
-					  <li>Test guide & reference implementation</li>
-					  <li>Appserver Compatibility (Websphere, JBoss)</li>
-					  <li>Estimation tool</li>
+					  <li>devonfw IDE integration with Production Line</li>
+					  <li>OASP4JS Developer & Architecture Guide</li>
+					  <li>MDA (UML) Frontend for Cobigen </li>
+					  <li>Full integration of MyThaiStar in OASP</li>
+					  <li>End to End Testing Strategy / Methodology OASP4J + OASP4JS</li>
+					  <li>Test Automation (Selenium)</li>
 					  <li>Standard UI styleguide template</li>
 					  <li>UI web accessability conformity guide & certificate</li>
 					  <li>Secure implementation guide</li>
-					  <li>Efficient IDE provisioing based on Oomph</li>
 					  <li>IP Module: UI thin portal frame component</li>
-					  <li>Security: Replace Simple Auth with OAuth2</li>
 					  <li>Security: Detailed OASP security check</li>
 					</ul>
 				  </p>
@@ -110,7 +110,8 @@
 				  <p>
 					<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
 					<ul>
-					  <li>Devon onboarding kit</li>
+					  <li>Estimation tool</li>
+					  <li>Devonfw onboarding kit</li>
 					</ul>
 				  </p>
 				</div>
@@ -118,7 +119,6 @@
 				  <p>
 					<h3><span class="fa fa-code text-info"></span> Integration Showcases</h3>
 					<ul>
-					  <li>Production Line as regular devops platform</li>
 					  <li>RuleEngine</li>
 					</ul>
 				  </p>
@@ -128,11 +128,63 @@
 			<div class="bs-docs-section col-md-12" id="sec2">
 				<h2 id="sec2">Releases</h2>
 				<p>The following versions of devonfw have already been released - continuously adding more value based on the feedback from several engagements.</p>
+				
 				<div class="col-md-12">
-					<h2 class="text-success page-header">devonfw version 2.1.0 (Balu)<small><i>Released Mid of December 2016</i></small></h2>
+					<h2 class="text-success page-header">devonfw version 2.2.0 (Courage)<small><i>Released Beginning of July 2017</i></small></h2>
 				</div>
 				<div class="col-md-12">
 					<h4 class="text-success"><br/>latest release</h4>
+				</div>
+				<div class="col-md-6">
+				  <p>
+					<h3><span class="fa fa-cube text-info"></span> Solution</h3>
+					<ul>
+					  <li>Based on OASP4J 2.4.0</li>
+					  <li>Full Production Line integration</li>
+					  <li>My-thai-star - new example and reference application (incubator)</li>
+					  <li>Cobigen - multi-module project support</li>
+					  <li>Cobigen - client UI code generation</li>
+					  <li>Cobigen - refactoring towards language agnostic templates</li>
+					  <li>OASP4JS 2.0 - Application Templates for Angular 4 and Ionic 3</li>
+					  <li>OASP4JS 2.0 - Covalent & Bootstrap integration</li>
+					  <li>OASP4JS 2.0 - Component Gallery</li>
+					  <li>OASP - New Tutorials for OASP4j, OASP4js (Angular) and OASP4fn using My-Thai-Star as starting point</li>
+					  <li>OASP - New Portal: <a href="http://oasp.io/">http://oasp.io/</a></li>
+					  <li>Microservices Netflix</li>
+					  <li>Spring Integration as devonfw Module</li>
+					  <li>Devonfw Harvest contributions - e.g. new backend IP module Compose for Redis, Sencha component for extending GMapPanel and Sencha responsive Footer</li>
+					  <li>More Deployment options to JEE Application Servers and Docker/CloudFoundry</li>
+					  <li>New OASP Incubators - OASP4NET, OASP4X (Xamrin), OASP4Fn (Serverless)</li>
+					</ul>
+				  </p>
+				</div>
+				
+				<div class="col-md-6">
+				  <p>
+					<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
+					<ul>
+					  <li>Devonfw distribution based on Eclipse OOMPH</li>
+					  <li>Visual Studio Code / Atom support for web based development</li>
+					  <li>I18N - more documentation & conversion utility</li>
+					  <li>Devcon on Linux</li>
+					  <li>Revised Teamforge public document structure</li>
+					  <li>Revised project reference collection</li>
+					  <li>Revised training hub (incl. new videos): <a href="https://troom.capgemini.com/sites/vcc/devon/training_hub.aspx">https://troom.capgemini.com/sites/vcc/devon/training_hub.aspx</a></li>
+					</ul>
+				  </p>
+				</div>
+				
+				<div class="col-md-6">
+				  <p>
+					<h3><span class="fa fa-code text-info"></span> Integration Showcases</h3>
+					<ul>
+					  <li>OWASP Security Logging</li>
+					</ul>
+				  </p>
+				</div>
+				
+				<div class="col-md-12">
+					<h2 class="page-header">devonfw version 2.1.0 (Balu)<small><i>Released Mid of December 2016</i></small></h2>
 				</div>
 				<div class="col-md-6">
 				  <p>
