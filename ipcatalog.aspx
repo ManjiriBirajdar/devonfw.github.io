@@ -149,7 +149,7 @@
                     <div class="col-lg-6 devon">
                         <br/>
                         <br/>
-                        <img class="img-responsive" src="images/ipcatalog/cobigen.png" alt="Eclipse IDE" />
+                        <img class="img-responsive" src="images/ipcatalog/cobigen_logo_trans.png" alt="Accelerator CobiGen" />
                     </div>
                 </div>
 
