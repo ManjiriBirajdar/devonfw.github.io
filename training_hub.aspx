@@ -323,6 +323,17 @@
 					</div>
 				</div>
 			</div>
+			<div class="bs-docs-section" id="sec6">
+				<h2 id="sec6">Webcasts</h2>
+				<p>All Stuff That Matters webcasts and more in depth details can be found on the <a target="_blank" href="https://github.com/devonfw/devonfw-community/wiki/stuff-that-matters">devonfw community wiki</a> pages.</p>
+				<p>Direct links to the webcast recordings:</p>
+				<ul class="list-group">
+					<li class="list-group-item"><a target="_blank" href="https://www.yammer.com/capgemini.com/#/Threads/show?threadId=833921184&search_origin=global&scoring=linear1Y-prankie-group-private-higher&match=any-exact&search_sort=relevance&page=1&group_ids=5030942">Dealing with complexity on the front end</a> [January 28th] 2017]</li>
+					<li class="list-group-item"><a target="_blank" href="http://de-mucevolve02/files/videos/webcast-stuff-that-matters/iCSD_Stuff_That_Matters_Talk-Testing_with_OASP4J.m4v">Testing with OASP4J</a> [February 24th 2017]</li>
+					<li class="list-group-item"><a target="_blank" href="http://de-mucevolve02/files/videos/webcast-stuff-that-matters/2017-04-07_iCSD_Stuff_That_Matters_CobiGen.mp4">CobiGen</a> [April 7th 2017] </li>
+					<li class="list-group-item"><a target="_blank" href="http://de-mucevolve02/files/videos/webcast-stuff-that-matters/2017-07-28_iCSD_Stuff_That_Matters_devonfw_2_2.mp4">What's new in devonfw 2.2</a> [July 28th 2017]</li>
+				</ul>
+			</div>
 			<div class="bs-docs-section" id="sec1">
 
 				<h2 id="sec1">Training types</h2>
@@ -695,6 +706,9 @@
 				    </li>
 				    <li>
 				        <a href="#sec3">Training materials</a>
+				    </li>
+				    <li>
+				    	<a href="#sec6">Webcasts</a>
 				    </li>
 					<li>
 				        <a href="#sec1">Training types</a>
