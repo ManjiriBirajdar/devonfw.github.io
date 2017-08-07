@@ -118,6 +118,7 @@
 					<li><a data-toggle="tab" href="#mov-env">Devon Environment</a></li>
 					<li><a data-toggle="tab" href="#mov-svr">Devon Server</a></li>
 					<li><a data-toggle="tab" href="#mov-cl">Devon Client</a></li>
+					<li><a data-toggle="tab" href="#mov-wc">Webcasts</a></li>
 				</ul>
 				<div class="tab-content">
 					<div id="mov-ov" class="tab-pane fade in active">
@@ -283,6 +284,70 @@
 							</div>
 						</div>
 					</div>
+					<div id="mov-wc" class="tab-pane fade">
+						<div id="wc-carousel" class="carousel slide" data-interval="false">
+							<div class="controls">
+								<button type="button" class="btn btn-primary btn-prev" href="#wc-carousel" data-slide="prev">Previous</button>
+								<button type="button" class="btn btn-primary btn-next" href="#wc-carousel" data-slide="next">Next</button>
+								<ol class="carousel-indicators">
+									<li data-target="#wc-carousel" data-slide-to="0" class="active"></li>
+									<li data-target="#wc-carousel" data-slide-to="1" class=""></li>
+									<li data-target="#wc-carousel" data-slide-to="2" class=""></li>
+									<li data-target="#wc-carousel" data-slide-to="3" class=""></li>
+								</ol>
+							</div>
+							<div class="carousel-inner">
+								<div class="item active">
+									<video width="640" height="360" controls preload="none" poster="https://github.com/devonfw/devonfw-community/wiki/images/flyer-stuff-that-matters_frontend.gif">
+										<source src="" type="video/mp4" >
+									</video>
+									<div class="description">
+										<h3>Dealing with complexity on the frontend</h3>
+										<p>The first episode we will be taking a look at one of our front-end options provided by devonfw: Devon4sencha. This framework is based on Sencha, a powerful Javascript framework for creating “very” rich web applications.</p>
+										<p>We will see how it makes easy to deal with usually complex user interface patterns and explore some of the tools it provides.</p>
+									</div>
+								</div>
+								<div class="item">
+									<video width="640" height="360" controls preload="none" poster="https://github.com/devonfw/devonfw-community/wiki/images/flyer-stuff-that-matters-testing.gif">
+										<source src="http://de-mucevolve02/files/videos/webcast-stuff-that-matters/iCSD_Stuff_That_Matters_Talk-Testing_with_OASP4J.m4v" type="video/mp4" >
+									</video>
+									<div class="description">
+										<h3>Testing with OASP4J</h3>
+										<p>In this talk, we will investigate the testing facilities currently provided by OASP4J. We will focus on features which aid you to:</p>
+										<ul>
+											<li>Focus on test logic instead of infrastructure</li>
+											<li>Manage your test data</li>
+											<li>Configure your tests</li>
+										</ul>
+									</div>
+								</div>
+								<div class="item">
+									<video width="640" height="360" controls preload="none" poster="images/ipcatalog/cobigen_logo.png">
+										<source src="http://de-mucevolve02/files/videos/webcast-stuff-that-matters/2017-04-07_iCSD_Stuff_That_Matters_CobiGen.mp4" type="video/mp4" >
+									</video>
+									<div class="description">
+										<h3>CobiGen</h3>
+										<p>In this talk, we will investigate CobiGen as a SDK for your project. We will focus on</p>
+										<ul>
+											<li>a short introduction of CobiGen</li>
+											<li>how CobiGen can accelerate your oasp or non-oasp project</li>
+											<li>experience reports of existing projects utilizing and adapting CobiGen</li>
+										</ul>
+									</div>
+								</div>
+								<div class="item">
+									<video width="640" height="360" controls preload="none" poster="https://github.com/devonfw/devonfw-community/wiki/images/courage.jpg">
+										<source src="http://de-mucevolve02/files/videos/webcast-stuff-that-matters/2017-07-28_iCSD_Stuff_That_Matters_devonfw_2_2.mp4" type="video/mp4" >
+									</video>
+									<div class="description">
+										<h3>What's new in devonfw 2.2</h3>
+										<p>We will give an overview and show some demos about what´s new in the latest version of devonfw, version 2.2, code-named "Courage".</p>
+										<p>Members of the devonfw core team and some members of the devonfw community who have made contributions (components) in the context of he devonfw Harvest process.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 			<div class="bs-docs-section" id="sec3">
@@ -322,17 +387,6 @@
 						</div>
 					</div>
 				</div>
-			</div>
-			<div class="bs-docs-section" id="sec6">
-				<h2 id="sec6">Webcasts</h2>
-				<p>All Stuff That Matters webcasts and more in depth details can be found on the <a target="_blank" href="https://github.com/devonfw/devonfw-community/wiki/stuff-that-matters">devonfw community wiki</a> pages.</p>
-				<p>Direct links to the webcast recordings:</p>
-				<ul class="list-group">
-					<li class="list-group-item"><a target="_blank" href="https://www.yammer.com/capgemini.com/#/Threads/show?threadId=833921184&search_origin=global&scoring=linear1Y-prankie-group-private-higher&match=any-exact&search_sort=relevance&page=1&group_ids=5030942">Dealing with complexity on the front end</a> [January 28th] 2017]</li>
-					<li class="list-group-item"><a target="_blank" href="http://de-mucevolve02/files/videos/webcast-stuff-that-matters/iCSD_Stuff_That_Matters_Talk-Testing_with_OASP4J.m4v">Testing with OASP4J</a> [February 24th 2017]</li>
-					<li class="list-group-item"><a target="_blank" href="http://de-mucevolve02/files/videos/webcast-stuff-that-matters/2017-04-07_iCSD_Stuff_That_Matters_CobiGen.mp4">CobiGen</a> [April 7th 2017] </li>
-					<li class="list-group-item"><a target="_blank" href="http://de-mucevolve02/files/videos/webcast-stuff-that-matters/2017-07-28_iCSD_Stuff_That_Matters_devonfw_2_2.mp4">What's new in devonfw 2.2</a> [July 28th 2017]</li>
-				</ul>
 			</div>
 			<div class="bs-docs-section" id="sec1">
 
@@ -706,9 +760,6 @@
 				    </li>
 				    <li>
 				        <a href="#sec3">Training materials</a>
-				    </li>
-				    <li>
-				    	<a href="#sec6">Webcasts</a>
 				    </li>
 					<li>
 				        <a href="#sec1">Training types</a>
