@@ -137,7 +137,7 @@
 								<div class="carousel-inner">
 									<div class="item active">
 										<video width="640" height="360" controls preload="none" poster="http://de-mucevolve02/files/videos/poster/devonfw_overview_session.png">
-											<source src="http://de-mucevolve02/files/videos/devon_overview_sessions/20160408_Devon-Overview-Session.avi" type="video/avi" >
+											<source src="http://de-mucevolve02/files/videos/devon_overview_sessions/20160408_Devon-Overview-Session.mp4" type="video/mp4" >
 										</video>
 										<div class="description">
 											<h3>Devon Overview Session</h3>
@@ -185,6 +185,7 @@
 									<button type="button" class="btn btn-primary btn-next" href="#env-carousel" data-slide="next">Next</button>
 									<ol class="carousel-indicators">
 										<li data-target="#env-carousel" data-slide-to="0" class="active"></li>
+										<li data-target="#env-carousel" data-slide-to="1"></li>
 									</ol>
 								</div>
 								<div class="carousel-inner">
@@ -195,6 +196,15 @@
 										<div class="description">
 											<h3>Devcon</h3>
 											<p>This video presents the basis of <span class="bold">Devcon</span>, the cross-platform tool to manage the life-cycle of the devonfw applications. The video shows the basic usage of Devcon from installation of the tool to real examples through the command line and also using the graphic user interface. Duration 29mn. This course is for architects and developers.</p>
+										</div>
+									</div>
+									<div class="item">
+										<video width="640" height="360" controls preload="none" poster="images/ipcatalog/cobigen_logo.png">
+											<source src="http://de-mucevolve02/files/videos/devon_environment/CobiGen_Video_Tutorial.mp4" type="video/mp4">
+										</video>
+										<div class="description">
+											<h3>CobiGen</h3>
+											<p>The video gives a general overview of CobiGen and demonstrates its code generation features for both server and client side with real examples. Duration 13 min. This course is for architects and developers.</p>
 										</div>
 									</div>
 								</div>
@@ -298,9 +308,6 @@
 							</div>
 							<div class="carousel-inner">
 								<div class="item active">
-									<video width="640" height="360" controls preload="none" poster="https://github.com/devonfw/devonfw-community/wiki/images/flyer-stuff-that-matters_frontend.gif">
-										<source src="" type="video/mp4" >
-									</video>
 									<div class="description">
 										<h3>Dealing with complexity on the frontend</h3>
 										<p>The first episode we will be taking a look at one of our front-end options provided by devonfw: Devon4sencha. This framework is based on Sencha, a powerful Javascript framework for creating “very” rich web applications.</p>
