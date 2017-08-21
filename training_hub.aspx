@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -411,134 +411,184 @@
 			            <col width="50%">
 		        	</colgroup> 
 		         	<caption><b><font color="#0098CC">Scheduled devonfw trainings</font></caption>
-			        <table class="table table-bordered table-bordered-blue">
-					<table class="table table-bordered table-bordered-blue">
-						<thead>
-							<tr>
-								<th>date</th>
-								<th>duration</th>
-								<th>location</th>
-								<th>training title</th>
-								<th>Type</th>
-								<th>State</th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-								<td>01.02.2017</td>
-								<td>3d</td>
-								<td>GE, Frankfurt</td>
-								<td>Rich Web Client School (Angular)</td>
-								<td>classroom</td>
-								<td>done</td>
-							</tr>
-							<tr>
-								<td>06.02.2017</td>
-								<td>2d</td>
-								<td>PL, Worclaw</td>
-								<td>Rich Web Client School (Angular)</td>
-								<td>classroom</td>
-								<td>done</td>
-							</tr>
-							<tr>
-								<td>03.04.2017</td>
-								<td>5d</td>
-								<td>IT, Rome</td>
-								<td>Devon Server (2d), Devon Client School (3d, Angular)</td>
-								<td>classroom</td>
-								<td>confirmed</td>
-							</tr>
-							<tr>
-								<td>24.04.2017</td>
-								<td>5d</td>
-								<td>IT, Milano</td>
-								<td>Devon Server (2d), Devon Client School (3d, Angular)</td>
-								<td>classroom</td>
-								<td>confirmed</td>
-							</tr>
-							<tr>
-								<td>19.05.2017</td>
-								<td>1d</td>
-								<td>GE, Nuremberg</td>
-								<td>OASP</td>
-								<td>classroom</td>
-								<td></td>
-							</tr>
-							<tr>
-								<td>19.06.2017</td>
-								<td>4d</td>
-								<td>GE, Hamburg</td>
-								<td>Rich Web Client School (Angular)</td>
-								<td>classroom</td>
-								<td></td>
-							</tr>
-							<tr>
-								<td>23.06.2017</td>
-								<td>1d</td>
-								<td>GE, Hamburg</td>
-								<td>Devon Server</td>
-								<td>classroom</td>
-								<td></td>
-							</tr>
-							<tr>
-								<td>08.09.2017</td>
-								<td>1d</td>
-								<td>GE, Cologne</td>
-								<td>Devon Server</td>
-								<td>classroom</td>
-								<td></td>
-							</tr>
-							<tr>
-								<td>Q3 2017</td>
-								<td>1d</td>
-								<td>GE, Dusseldorf</td>
-								<td>Devon Client - Angular </td>
-								<td>classroom</td>
-								<td>unconfirmed</td>
-							</tr>
-							<tr>
-								<td>Q4 2017</td>
-								<td>1d</td>
-								<td>GE, Munich</td>
-								<td>Devon Server</td>
-								<td>classroom</td>
-								<td>unconfirmed</td>
-							</tr>
-							<tr>
-								<td>Q4 2017</td>
-								<td>1d</td>
-								<td>GE, Frankfurt</td>
-								<td>Devon Client - Angular </td>
-								<td>classroom</td>
-								<td>unconfirmed</td>
-							</tr>
-							<tr>
-								<td>Q4 2017</td>
-								<td>1d</td>
-								<td>GE, Munich</td>
-								<td>Devon Client - Angular </td>
-								<td>classroom</td>
-								<td>unconfirmed</td>
-							</tr>
-							<tr>
-								<td>tbd</td>
-								<td>1d</td>
-								<td>GE, Dusseldorf</td>
-								<td>Cont. Deployment with Production Line</td>
-								<td>classroom</td>
-								<td>unconfirmed</td>
-							</tr>
-							<tr>
-								<td>tbd</td>
-								<td>1d</td>
-								<td>GE, Dusseldorf</td>
-								<td>Set up and tailoring of Production Line</td>
-								<td>classroom</td>
-								<td>unconfirmed</td>
-							</tr>
-						</tbody>
-					</table>
-				</table>
+<!-- scheduled devonfw trainings aktualisieren BEGIN -->
+<table class="table table-bordered table-bordered-blue">
+	<thead>
+		<tr>
+			<th>date</th>
+			<th>duration</th>
+			<th>location</th>
+			<th>training title</th>
+			<th>Type</th>
+			<th>State</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>01.02.2017</td>
+			<td>3d</td>
+			<td>GE, Frankfurt</td>
+			<td>Rich Web Client School (Angular)</td>
+			<td>classroom</td>
+			<td>done</td>
+		</tr>
+		<tr>
+			<td>06.02.2017</td>
+			<td>2d</td>
+			<td>PL, Worclaw</td>
+			<td>Rich Web Client School (Angular)</td>
+			<td>classroom</td>
+			<td>done</td>
+		</tr>
+		<tr>
+			<td>14.03.2017</td>
+			<td>1d</td>
+			<td>IN, Bangalore</td>
+			<td>devonfw/OASP4J server refresher training for the project team VTAS</td>
+			<td>classroom</td>
+			<td>done</td>
+		</tr>
+		<tr>
+			<td>03.04.2017</td>
+			<td>5d</td>
+			<td>IT, Rome</td>
+			<td>Devon Server (2d),
+Devon Client School (3d, Angular)</td>
+			<td>classroom</td>
+			<td>done</td>
+		</tr>
+		<tr>
+			<td>08.05.2017</td>
+			<td>5d</td>
+			<td>IT, Milano</td>
+			<td>Devon Server (2d),
+Devon Client School (3d, Angular)</td>
+			<td>classroom</td>
+			<td>done</td>
+		</tr>
+		<tr>
+			<td>19.05.2017</td>
+			<td>1d</td>
+			<td>GE, Nuremberg</td>
+			<td>OASP</td>
+			<td>classroom</td>
+			<td>done</td>
+		</tr>
+		<tr>
+			<td>19.06.2017</td>
+			<td>4d</td>
+			<td>GE, Hamburg</td>
+			<td>Rich Web Client School (Angular)</td>
+			<td>classroom</td>
+			<td>done</td>
+		</tr>
+		<tr>
+			<td>23.06.2017</td>
+			<td>1d</td>
+			<td>GE, Hamburg</td>
+			<td>Devon Server</td>
+			<td>classroom</td>
+			<td>done</td>
+		</tr>
+		<tr>
+			<td>24.07.2017</td>
+			<td>2w</td>
+			<td>IN, Bangalore</td>
+			<td>Devon Server & Sencha training for the Indian BU</td>
+			<td>classroom</td>
+			<td>done</td>
+		</tr>
+		<tr>
+			<td>15.09.2017</td>
+			<td>1d</td>
+			<td>GE, Cologne</td>
+			<td>Devon Server</td>
+			<td>classroom</td>
+			<td>confirmed</td>
+		</tr>
+		<tr>
+			<td>29.09.2017</td>
+			<td>1d</td>
+			<td>GE, Frankfurt</td>
+			<td>Devon Client - Angular </td>
+			<td>classroom</td>
+			<td>confirmed</td>
+		</tr>
+		<tr>
+			<td>20.11.2017</td>
+			<td>4d</td>
+			<td>GE, Dusseldorf</td>
+			<td>Rich Web Client School (Angular)</td>
+			<td>classroom</td>
+			<td>confirmed</td>
+		</tr>
+		<tr>
+			<td>08.12.2017</td>
+			<td>1d</td>
+			<td>GE, Munich</td>
+			<td>Devon Server</td>
+			<td>classroom</td>
+			<td>confirmed</td>
+		</tr>
+		<tr>
+			<td>15.12.2017</td>
+			<td>1d</td>
+			<td>GE, Munich</td>
+			<td>Devon Client - Angular </td>
+			<td>classroom</td>
+			<td>confirmed</td>
+		</tr>
+		<tr>
+			<td>Q4 2017</td>
+			<td>3d</td>
+			<td>GE, tbd</td>
+			<td>Server Platforms</td>
+			<td>classroom</td>
+			<td>unconfirmed</td>
+		</tr>
+		<tr>
+			<td>tbd</td>
+			<td>1d</td>
+			<td>GE, Munich</td>
+			<td>Continuous Integration</td>
+			<td>classroom</td>
+			<td>unconfirmed</td>
+		</tr>
+		<tr>
+			<td>tbd</td>
+			<td>1d</td>
+			<td>GE, Hannover</td>
+			<td>Continuous Integration</td>
+			<td>classroom</td>
+			<td>unconfirmed</td>
+		</tr>
+		<tr>
+			<td>tbd</td>
+			<td>1d</td>
+			<td>GE, Dusseldorf</td>
+			<td>Cont. Deployment with Production Line</td>
+			<td>classroom</td>
+			<td>unconfirmed</td>
+		</tr>
+		<tr>
+			<td>tbd</td>
+			<td>1d</td>
+			<td>GE, Dusseldorf</td>
+			<td>Set up and tailoring of Production Line</td>
+			<td>classroom</td>
+			<td>unconfirmed</td>
+		</tr>
+		<tr>
+			<td>tbd</td>
+			<td>1d</td>
+			<td>GE, Dusseldorf</td>
+			<td>Devon Client - Angular </td>
+			<td>classroom</td>
+			<td>unconfirmed</td>
+		</tr>
+	</tbody>
+</table>
+<!-- scheduled devonfw trainings aktualisieren ENDE -->
 				<table border width="100%" bordercolor=#000099>
 			          <colgroup>
 			            <col width="15%">
@@ -547,6 +597,7 @@
 			            <col width="50%">
 			           </colgroup> 
 			         	<caption><b><font color="#0098CC">Finished devonfw trainings</b></font></caption>
+<!-- Finished devon trainings aktualisieren BEGIN -->
 				        <table class="table table-bordered table-bordered-blue">
 				
 				<thead>
@@ -644,6 +695,7 @@
 					</tr>
 				</tbody>
         	</table>
+<!-- Finished devon trainings aktualisieren ENDE -->
 		</div>
 			<div class="bs-docs-section" id="sec5">
 				<h2 id="sec5">Devon Skillset</h2>
