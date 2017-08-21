@@ -129,395 +129,494 @@
 				<h3 id="sec3-1">References for devonfw usage in projects</h3>
 				<p>Treat any of the following references confidential until you received approval from the project-contact.</p>
 				<div class="table-responsive">
-					<table class="table table-bordered table-bordered-blue">
-						<thead>
-							<tr>
-							  <th>Country</th>
-							  <th>Project</th>
-							  <th>devonfw components</th>
-							  <th>Remark</th>
-							  <th>Contact</th>
-							  <th>exp. revenue</th>
-							  <th>finished?</th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-							  <td>Germany</td>
-							  <td>LFU ADAMAS</td>
-							  <td>full OASP4j</td>
-							  <td>enterprise application platform approach mith multiple CSD-applications on OASP</td>
-							  <td>Joerg Hohwiller</td>
-							  <td></td>
-							  <td>running</td>
-							</tr>
-							<tr>
-							  <td>Germany</td>
-							  <td>Deutsche Welle</td>
-							  <td>OASP4js</td>
-							  <td>NSC-project; OASP4JS-Application-Template as basis of development</td>
-							  <td>Marek Matczak</td>
-							  <td></td>
-							  <td></td>
-							</tr>
-							<tr>
-							  <td>Germany</td>
-							  <td>DHL Parcelshop Europe</td>
-							  <td>OASP4j</td>
-							  <td>Usage of architecture-blueprint/concepts of OASP for a native mobile app + server.</td>
-							  <td>Horst Jilg</td>
-							  <td></td>
-							  <td>running</td>
-							</tr>
-							<tr>
-							  <td>Germany</td>
-							  <td>VKB</td>
-							  <td>OASP4js</td>
-							  <td>consulting for the build of a pricing calculator for new CRM-portal</td>
-							  <td>Alexander Hofmann</td>
-							  <td></td>
-							  <td></td>
-							</tr>
-							<tr>
-							  <td>Germany</td>
-							  <td>Institute for Finanzwirtschaft Hamburg CAWIN</td>
-							  <td>OASP4net</td>
-							  <td>Usage of architecture-blueprint/concepts of OASP. Contributor to OASP.Net</td>
-							  <td>Sebastian Willemsen</td>
-							  <td></td>
-							  <td>finished</td>
-							</tr>
-							<tr>
-							  <td>Germany</td>
-							  <td>Bundesnotarkammer</td>
-							  <td>OASP4j/OASP4js</td>
-							  <td>frame contract - first project expected in January</td>
-							  <td>Karl Prott</td>
-							  <td></td>
-							  <td>running</td>
-							</tr>						
-							<tr>
-							  <td>Spain</td>
-							  <td>Carrefour</td>
-							  <td>devonfw</td>
-							  <td>Optimization of distribution processes and tracking customer orders.</td>
-							  <td>Manuel Cid Garcia</td>
-							  <td></td>
-							  <td>running</td>
-							</tr>						
-							<tr>
-							  <td>Spain</td>
-							  <td>Carrefour</td>
-							  <td>devonfw</td>
-							  <td>Logistics system re-engineering to Devon. Customer buys devon-package.</td>
-							  <td>Manuel Cid Garcia</td>
-							  <td></td>
-							  <td>running</td>
-							</tr>						
-							<tr>
-							  <td>Germany</td>
-							  <td>Daimler Febe</td>
-							  <td>devonfw/Sencha</td>
-							  <td>HR application, architect support from Spain</td>
-							  <td>Thilo Hermann</td>
-							  <td>1,5m</td>
-							  <td>running</td>
-							</tr>										
-							<tr>
-							  <td>Spain</td>
-							  <td>Grupo Boluda Lines</td>
-							  <td>devonfw</td>
-							  <td>Development of an extranet for the booking of containers for customers.</td>
-							  <td>Manuel Cid Garcia</td>
-							  <td>>40k</td>
-							  <td>running</td>
-							</tr>										
-							<tr>
-							  <td>Spain</td>
-							  <td>Iberia</td>
-							  <td>devonfw</td>
-							  <td>Tablet Application for Flight Coordinators</td>
-							  <td>Manuel Cid Garcia</td>
-							  <td>>250k</td>
-							  <td>running</td>
-							</tr>
-							<tr>
-							  <td>Germany</td>
-							  <td>BVA UMF</td>
-							  <td>oasp</td>
-							  <td>Webapplication for young refugee administration to be used by youth welfare offices across Germany.</td>
-							  <td>Marco Rose</td>
-							  <td>200k</td>
-							  <td>running</td>
-							</tr>																				
-							<tr>
-							  <td>Spain</td>
-							  <td>Aguas de Valencia Group</td>
-							  <td>devonfw</td>
-							  <td>Development of a kanban tool that covers the billing life cycle (meter). Running on JBoss</td>
-							  <td>Manuel Cid Garcia</td>
-							  <td>>60k</td>
-							  <td>running</td>
-							</tr>										
-							<tr>
-							  <td>France</td>
-							  <td>French public ministry - Apep</td>
-							  <td>devonfw</td>
-							  <td>Apep is a mobile application for the driver examination ( the client is the French minister). devon is used to build the back-end for the mobile app.</td>
-							  <td>Mabrouk Belhout</td>
-							  <td></td>
-							  <td>running</td>
-							</tr>										
-							<tr>
-							  <td>Germany</td>
-							  <td>TollCollect - ZME</td>
-							  <td>oasp</td>
-							  <td>Rebuild of a decentralized solution for gathering and billing toll data. Mostly high traffiq backend.</td>
-							  <td>Olaf Detering-Meyer</td>
-							  <td>big</td>
-							  <td>running</td>
-							</tr>	
-							<tr>
-							  <td>Spain</td>
-							  <td>TEPSA</td>
-							  <td>devonfw</td>
-							  <td>Business Process Re-engineering</td>
-							  <td>Manuel Cid Garcia</td>
-							  <td>>200k</td>
-							  <td>running</td>
-							</tr>							
-							<tr>
-							  <td>Spain</td>
-							  <td>Blendhub</td>
-							  <td>devonfw</td>
-							  <td>Digital transformation to the cloud</td>
-							  <td>Gonzalo Gabino</td>
-							  <td>160k</td>
-							  <td>running</td>
-							</tr>							
-							<tr>
-							  <td>Germany</td>
-							  <td>ISP4D - Integrated Sales Planning for Daimler</td>
-							  <td>OASP4js</td>
-							  <td>Webapplication to manage parameters in a grid</td>
-							  <td>Max Emmert</td>
-							  <td>24k (only web dialog)</td>
-							  <td>running</td>
-							</tr>							
-							<tr>
-							  <td>France</td>
-							  <td> <a href="http://en.atalian.com/">Atalian</a> Digital Transformation</td>
-							  <td>devonfw server</td>
-							  <td>Application for service order creation, validation, dispatching and executing</td>
-							  <td>Frederic Desoize</td>
-							  <td>3MEuro</td>
-							  <td>running</td>
-							</tr>
-							<tr>
-							  <td>Germany</td>
-							  <td>Siemens BT - SFC (Smart Facilities C-Level)</td>
-							  <td>devonfw, Sencha</td>
-							  <td>Delivery of analytics-based services for connected buildings (commercial, industrial, public); <br/>Optimize energy costs, reliability, comfort and performance</td>
-							  <td>Functions: Andreas Hess (lead), Sebastian Peters; <br/>Technics: Martin Sander, Alexander Winkler</td>
-							  <td>1.6MEuro</td>
-							  <td>Go-Live: <br/>March 2017: Rel 2.0.1; <br/>Dec 2017: Rel 2.0.4</td>
-							</tr>
-						</tbody>
-					</table>
+<!-- Project References aktualiseren BEGIN --> 
+<table class="table table-bordered table-bordered-blue">
+	<thead>
+		<th>Country</th>
+		<th>Project</th>
+		<th>Project scope & remarks</th>
+		<th>Contact</th>
+		<th>exp. revenue</th>
+		<th>Status</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>France</td>
+			<td>French public ministry - Apep</td>
+			<td>Apep is a mobile application for the driver examination ( the client is the French minister). devon is used to build the back-end for the mobile app.</td>
+			<td>Mabrouk Belhout</td>
+			<td></td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>France</td>
+			<td>Atalian Digital Transformation</td>
+			<td>Application for service order creation, validation, dispatching and executing</td>
+			<td>Frederic Desoize</td>
+			<td>3MEuro</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>France</td>
+			<td>GRDF - TULIPE project</td>
+			<td></td>
+			<td>Fabrice Moreno</td>
+			<td>1M</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>LFU ADAMAS</td>
+			<td>enterprise application platform approach mith multiple CSD-applications on OASP</td>
+			<td>Joerg Hohwiller</td>
+			<td></td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Deutsche Welle</td>
+			<td>NSC-project; OASP4JS-Application-Template as basis of development</td>
+			<td>Marek Matczak</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>DHL Parcelshop Europe</td>
+			<td>Usage of architecture-blueprint/concepts of OASP for a native mobile app + server.</td>
+			<td>Oliver Hecker</td>
+			<td></td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>VKB</td>
+			<td>consulting for the build of a pricing calculator for new CRM-portal</td>
+			<td>Alexander Hofmann</td>
+			<td></td>
+			<td>paused</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Institute for Finanzwirtschaft Hamburg CAWIN</td>
+			<td>Usage of architecture-blueprint/concepts of OASP. Contributor to OASP.Net</td>
+			<td>Sebastian Willemsen</td>
+			<td></td>
+			<td>finished</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Bundesnotarkammer Rahmenvertrag</td>
+			<td>frame contract - first project expected in January</td>
+			<td>Karl Prott</td>
+			<td></td>
+			<td>completed</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Daimler Febe</td>
+			<td>HR application, architect support from Spain</td>
+			<td>Thilo Hermann Manager: Michael Kurz</td>
+			<td>1,5m</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>BVA UMF</td>
+			<td>Webapplication for young refugee administration to be used by youth welfare offices across Germany.</td>
+			<td>Marco Rose</td>
+			<td>200k</td>
+			<td>completed</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>TollCollect - ZME</td>
+			<td>Rebuild of a decentralized solution for gathering and billing toll data. Mostly high traffiq backend.</td>
+			<td>Olaf Detering-Meyer</td>
+			<td>big</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>ISP4D - Integrated Sales Planning for Daimler</td>
+			<td>Webapplication to manage parameters in a grid</td>
+			<td>Max Emmert</td>
+			<td>24k (only web dialog)</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Siemens BT - SFC (Smart Facilities C-Level)</td>
+			<td>Delivery of analytics-based services for connected buildings (commercial, industrial, public); Optimize energy costs, reliability, comfort and performance</td>
+			<td>Functions: Andreas Hess (lead), Sebastian Peters; Technics: Martin Sander, Alexander Winkler</td>
+			<td>1,6MEuro</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Daimler POS@MBD (DIVA)</td>
+			<td>Point-Of-Sales application for the German market of a German automotive OEM. Agile greenfield approach for replacing the current 12 year old solution. Capgemini is delivering this year 3 MVPs to confirm the strategy.
+Delivery planning: 14.10. 2016: Delivery of 1st MVP, 11.11.2016: Delivery of 2nd MVP, 9.12.2016: Delivery of 3rd MVP. Might be subject to change due to the agile delivery approach.</td>
+			<td>Gayass Daher</td>
+			<td>417TEuro in 2016; Overall volume of the project is 20MEuro.</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Daimler - Parts Data Hub (PaaS)</td>
+			<td>Service in the logistic division to provide consolidated data around car parts. Based on Microservices and PCF. Teamsize: 20; Project locations: Stuttgart, Munich, Hamburg, Bangalore</td>
+			<td>Michael Kurz</td>
+			<td>650k</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>BVA Public Security</td>
+			<td>Usage and adoption of architecture-blueprints/concepts for OASP and Angular2-project-seed</td>
+			<td>Simon Spielmann</td>
+			<td></td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>VTAS (Vehicle Testing Analyzing System)</td>
+			<td>For the quality management departments in production plants who execute the validation of production VTAS (Vehicle Testing Analyzing System) is a quality management system, that supports process management and project planning. Unlike ZEUS (for development etc.) our project is relevant for the approval phase of vehicle production and delivery. </td>
+			<td>Lead: Michael Kurz Architekt: Gayass Daher</td>
+			<td>800kEuro</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Qiagen - GeneRead Database</td>
+			<td>Development of a new product to collect and archive data of different devices in an NGS workflow. Microservice architecture based on OASP4J.</td>
+			<td>Benedikt Blomen</td>
+			<td>100kEuro</td>
+			<td>completed</td>
+		</tr>
+		<tr>
+			<td>Italy</td>
+			<td>Hera </td>
+			<td>Creation of a backoffice factory intended to  develop Mobile Apps with Angular 2.0 and Ionic 2.0 , which are compatible and integrated with IBM's Mobile First Platform 7.1</td>
+			<td>Elisa Mazzucchi</td>
+			<td>1.5 million with a duration of 3 years</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Italy</td>
+			<td>Fedeuram - Intesa Sanpaolo Private Banking
+PWM Fase 1</td>
+			<td>Web application for Private Wealth Management.   The business area is Banking, in particular financial advisory</td>
+			<td>Stefano Venezia</td>
+			<td>380kEuro</td>
+			<td>paused</td>
+		</tr>
+		<tr>
+			<td>Italy</td>
+			<td>Smart Asset Repository Tool</td>
+			<td>Asset Repository and its evolutions. The evolutions are running</td>
+			<td>Riccardo Elia</td>
+			<td>170kEuro</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Italy</td>
+			<td>Project Portfolio Management</td>
+			<td>Project Portfolio Management</td>
+			<td>Riccardo Elia</td>
+			<td>120kEuro</td>
+			<td>completed</td>
+		</tr>
+		<tr>
+			<td>Italy</td>
+			<td>Lispa L4</td>
+			<td>Web App Viewer Territorio </td>
+			<td>De Pascalis</td>
+			<td>420kEuro</td>
+			<td>completed</td>
+		</tr>
+		<tr>
+			<td>Italy</td>
+			<td>Lispa L4</td>
+			<td>Web App/Mob WebAgri </td>
+			<td>De Pascalis</td>
+			<td>1MEuro</td>
+			<td>completed</td>
+		</tr>
+		<tr>
+			<td>Italy</td>
+			<td>Payment central system</td>
+			<td>Payment central system evolutionary</td>
+			<td>Simone Rufo</td>
+			<td>56kEuro</td>
+			<td>completed</td>
+		</tr>
+		<tr>
+			<td>Italy</td>
+			<td>VIC</td>
+			<td>Project Portfolio Management </td>
+			<td>De Pascalis</td>
+			<td></td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Italy</td>
+			<td>Carta Zero</td>
+			<td>Dematerialization </td>
+			<td>Treccani</td>
+			<td>20kEuro</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Italy</td>
+			<td>Project Portfolio Management</td>
+			<td>Project Portfolio Management</td>
+			<td>Simone Rufo</td>
+			<td></td>
+			<td>completed</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Carrefour</td>
+			<td>Optimization of distribution processes and tracking customer orders.</td>
+			<td>Manuel Cid Garcia</td>
+			<td></td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Carrefour</td>
+			<td>Logistics system re-engineering to Devon. Customer buys devon-package.</td>
+			<td>Manuel Cid Garcia</td>
+			<td></td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Grupo Boluda Lines</td>
+			<td>Development of an extranet for the booking of containers for customers.</td>
+			<td>Manuel Cid Garcia</td>
+			<td>>40k</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Iberia</td>
+			<td>Tablet Application for Flight Coordinators</td>
+			<td>Manuel Cid Garcia</td>
+			<td>>250k</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Aguas de Valencia Group</td>
+			<td>Development of a kanban tool that covers the billing life cycle (meter). Running on JBoss</td>
+			<td>Manuel Cid Garcia</td>
+			<td>>60k</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>TEPSA</td>
+			<td>Business Process Re-engineering</td>
+			<td>Manuel Cid Garcia</td>
+			<td>>200k</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Blendhub</td>
+			<td>Digital transformation to the cloud</td>
+			<td>Gonzalo Gabino</td>
+			<td>160k</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Daimler iCON 2.0</td>
+			<td>BI-Modal IT with existing iCON 1.x based on Microservices</td>
+			<td>Roland Plaß</td>
+			<td>>200k</td>
+			<td>running</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Project References aktualiseren ENDE -->
 				</div>
 					
 				<h3 id="sec3-2">Currently used in akquisitions</h3>
 				<p>devonfw/OASP has been considered in the following sales.</p>
 				<div class="table-responsive">
-					<table class="table table-bordered table-bordered-blue">
-						<thead>
-							<tr>
-							  <th>Country</th>
-							  <th>Opportunity</th>
-							  <th>devonfw components</th>
-							  <th>Remark</th>
-							  <th>Date</th>
-							  <th>Contact</th>
-							  <th>Status</th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-							  <td>Germany</td>
-							  <td>Daimler - SMARAGD</td>
-							  <td>devon server and client</td>
-							  <td>Replace Central RD System of Daimler with a custom solution in an agile way; Deployment to PCF.</td>
-							  <td>July 2016</td>
-							  <td>Thilo Hermann</td>
-							  <td>in bid phase</td>
-							</tr>
-							<tr>
-							  <td>Germany</td>
-							  <td>Daimler POS@MBD (DiVa)</td>
-							  <td>devon server and client (AngularJS)</td>
-							  <td>New PoS (Point-of-Sales) System for Daimler in Germany, based on MVP, Microservices and PCF as PaaS</td>
-							  <td>August 2016</td>
-							  <td>Thilo Hermann</td>
-							  <td>in bid phase</td>
-							</tr>	
-							<tr>
-							  <td>Germany</td>
-							  <td>HPA - Harbour management</td>
-							  <td>devon server and client</td>
-							  <td>Implement a fullstack application for Hamburg Port Authority with strong GIS focus</td>
-							  <td>June 2016</td>
-							  <td>Carsten Frank</td>
-							  <td>in bid phase</td>
-							</tr>
-							<tr>
-							  <td>Germany</td>
-							  <td>UBA</td>
-							  <td>OASP</td>
-							  <td>RFI at Federal ministry for Environment</td>
-							  <td>June 2016</td>
-							  <td>Lars Santesson</td>
-							  <td>in bid phase</td>
-							</tr>
-							<tr>
-							  <td>Germany</td>
-							  <td>EOS - IT receivables management</td>
-							  <td>devon</td>
-							  <td>Planning of Greenfield implementation for their core systemwith a microservice architecture Java (server side) and Javascript based clients. Crossborder staffing of devon experts from Spain</td>
-							  <td>June 2016</td>
-							  <td>Thomas Arend</td>
-							  <td>in bid phase</td>
-							</tr>
-							<tr>
-							  <td>Germany</td>
-							  <td>VW</td>
-							  <td>devon</td>
-							  <td>RFI to create new Order Management Solution using micro services</td>
-							  <td>June 2016</td>
-							  <td>Barbara Burkhard</td>
-							  <td>in bid phase</td>
-							</tr>
-							<tr>
-							  <td>Netherlands</td>
-							  <td>Logius DigiD</td>
-							  <td>devonfw</td>
-							  <td>Migration from Ruby to Devonfw of current DigiD solution used i.e. to provide login access for governmental departments like Tax authority</td>
-							  <td>2016/2017</td>
-							  <td>Maurice Driessen</td>
-							  <td>in bid phase</td>
-							</tr>
-							<tr>
-							  <td>Spain</td>
-							  <td>Malaga Town Council eAdministration Platform</td>
-							  <td>devonfw</td>
-							  <td></td>
-							  <td>August 2015</td>
-							  <td>Manuel Cid Garcia</td>
-							  <td>on pause</td>
-							</tr>										
-							<tr>
-							  <td>Spain</td>
-							  <td>Gas Natural</td>
-							  <td>devonfw</td>
-							  <td>Developing an estimation tool, configurable, for Gas Natural. It includes all front-office, for the creation of estimates, and the back office for administration, configuration and operation metrics tool.</td>
-							  <td>October 2015</td>
-							  <td>Manuel Cid Garcia</td>
-							  <td>on pause</td>
-							</tr>																			
-							<tr>
-							  <td>Sweden</td>
-							  <td>Volvo PoS</td>
-							  <td>.NET and Angular2</td>
-							  <td>PoS for Volvo Cars dealers (case name K2)</td>
-							  <td>Sep 2016</td>
-							  <td>Matthias Grundevik</td>
-							  <td>in bid phase</td>
-							</tr>										
-							<tr>
-							  <td>Germany</td>
-							  <td>Daimler - Parts as a Service</td>
-							  <td>devonfw</td>
-							  <td>Service in the logistic division to provide consolidated data around car parts. Based on Microservices and PCF.</td>
-							  <td>September 2016</td>
-							  <td>Thilo Hermann</td>
-							  <td>in bid phase</td>
-							</tr>	
-						</tbody>
-					</table>
-				</div>
-				
-				<h3 id="sec3-3">University activities</h3>
-				<p>devonfw/OASP is used within the following university-collaborations to attract students.</p>
-				<div class="table-responsive">
-					<table class="table table-bordered table-bordered-blue">
-						<thead>
-							<tr>
-							  <th>Country</th>
-							  <th>University</th>
-							  <th>Activity</th>
-							  <th>Date</th>
-							  <th>Contact</th>
-							  <th>Status</th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-							  <td>Spain</td>
-							  <td>Valencia University </td>
-							  <td>agreement for a cathedra / chair on Devon for students</td>
-							  <td>August 2015</td>
-							  <td>Manuel Cid Garcia</td>
-							  <td>started</td>
-							</tr>						
-							<tr>
-							  <td>Germany</td>
-							  <td>University of Kaiserlautern</td>
-							  <td>Practical semester for a group of students to build a mobile client on OASP with AngularJs, IONIC, Cordova.</td>
-							  <td>April - September 2015</td>
-							  <td>Malte Brunnlieb</td>
-							  <td>finished</td>
-							</tr>						
-							<tr>
-							  <td>Germany</td>
-							  <td>University of Darmstadt</td>
-							  <td>Practical semester for a group of students to integrate OASP with Immediate security (OAuth, OpenID, OpenAM, Kerberos).</td>
-							  <td>April - Oktober 2015</td>
-							  <td>Joerg Hohwiller</td>
-							  <td>running</td>
-							</tr>						
-							<tr>
-							  <td>Germany</td>
-							  <td>University of Cologne/Gummersbach</td>
-							  <td>Practical semester for a group of students to develop and integrate richt-client-controls into OASP4js.</td>
-							  <td>September 2015 - February 2016</td>
-							  <td>Axel Burghoff</td>
-							  <td>running</td>
-							</tr>						
-							<tr>
-							  <td>Germany</td>
-							  <td>University of Darmstadt</td>
-							  <td>Practical semester for two groups of students to work on usability patterns on OASP.</td>
-							  <td>Oktober 2015 - March 2016</td>
-							  <td>Simon Barnikol</td>
-							  <td>running</td>
-							</tr>						
-							<tr>
-							  <td>Germany</td>
-							  <td>University of Darmstadt</td>
-							  <td>Series of lectures on software engineering using devon-material.</td>
-							  <td>September 2015 - February 2016</td>
-							  <td>Martin Girschick</td>
-							  <td>planned</td>
-							</tr>	
-							<tr>
-							  <td>Germany</td>
-							  <td>University of Cologne/Gummersbach	</td>
-							  <td>Practical semester for a group of students to develop and implement microservices with OASP.</td>
-							  <td>March 2016 - September 2016</td>
-							  <td>Axel Burghof</td>
-							  <td>running</td>
-							</tr>									
-						</tbody>
-					</table>
+<!-- Bid References aktualiseren BEGIN -->
+<table class="table table-bordered table-bordered-blue">
+	<thead>
+		<th>Country</th>
+		<th>Opportunity</th>
+		<th>Bid scope & remarks</th>
+		<th>Bid data
+(last update)</th>
+		<th>Contact</th>
+		<th>Status</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Germany</td>
+			<td>Daimler - SMARAGD</td>
+			<td>Replace Central RD System of Daimler with a custom solution in an agile way; Deployment to PCF.</td>
+			<td></td>
+			<td>Thilo Hermann</td>
+			<td>lost bid</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>HPA - Harbour management</td>
+			<td>Implement a fullstack application for Hamburg Port Authority with strong GIS focus</td>
+			<td></td>
+			<td>Carsten Frank</td>
+			<td>active bid</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>UBA</td>
+			<td>RFI at Federal ministry for Environment</td>
+			<td></td>
+			<td>Lars Santesson</td>
+			<td>active bid</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>EOS - IT receivables management</td>
+			<td>Planning of Greenfield implementation for their core systemwith a microservice architecture Java (server side) and Javascript based clients. Crossborder staffing of devon experts from Spain</td>
+			<td></td>
+			<td>Thomas Arend</td>
+			<td>active bid</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>VW</td>
+			<td>RFI to create new Order Management Solution using micro services</td>
+			<td></td>
+			<td>Barbara Burkhard</td>
+			<td>paused bid</td>
+		</tr>
+		<tr>
+			<td>Netherlands</td>
+			<td>Logius DigiD</td>
+			<td>Migration from Ruby to Devonfw of current DigiD solution used i.e. to provide login access for governmental departments like Tax authority</td>
+			<td></td>
+			<td>Maurice Driessen</td>
+			<td>active bid</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Malaga Town Council eAdministration Platform</td>
+			<td></td>
+			<td></td>
+			<td>Manuel Cid Garcia</td>
+			<td>paused bid</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Gas Natural</td>
+			<td>Developing an estimation tool, configurable, for Gas Natural. It includes all front-office, for the creation of estimates, and the back office for administration, configuration and operation metrics tool.</td>
+			<td></td>
+			<td>Manuel Cid Garcia</td>
+			<td>paused bid</td>
+		</tr>
+		<tr>
+			<td>Sweden</td>
+			<td>Volvo PoS</td>
+			<td>PoS for Volvo Cars dealers (case name K2)</td>
+			<td></td>
+			<td>Matthias Grundevik</td>
+			<td>active bid</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>GRC Global</td>
+			<td>Generic Approval Business micro service in AWS</td>
+			<td></td>
+			<td>Gonzalo Gabino</td>
+			<td>active bid</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Fermax</td>
+			<td>IoT Micro service in the Cloud</td>
+			<td></td>
+			<td>Gonzalo Gabino</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>KSK</td>
+			<td>preparing bid with solutioning and PoC for a workflow-driven word-document editing solution. OASP likely to be used on server and web-frontend.</td>
+			<td>27.06.2017</td>
+			<td>Arno Hildebrandt
+Olaf Deterding</td>
+			<td>active bid</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Bundesagentur für Arbeit - Replace the current Swing Client  of Allegro</td>
+			<td>Replace the current Swing Client by a modern Web Implementation, probably based upon Angular JS</td>
+			<td>27.06.2017</td>
+			<td>Rico Starke</td>
+			<td>paused bid</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Michael Truckenbrodt, Martin Stechert</td>
+			<td>active bid</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Implementierung einer zentralen Einsatzdatenbank</td>
+			<td>Implementation of central ressource management and planning system for police operations in the German federal state lower saxony
+(Replace current Excel-based solution by a modern Web-based solution with a central database)</td>
+			<td></td>
+			<td>Markus Hellenthal,
+Arne Hauenschild</td>
+			<td>lost bid</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Bundesnotarkammer Rahmenvertrag</td>
+			<td>Capgemini won in 2015 as one of three providers a frame contract; concrete projects need additional supplies in separate mini bids.</td>
+			<td></td>
+			<td>Mark-Andrew Hartinger</td>
+			<td>won bid</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>LFU ADAMAS</td>
+			<td>enterprise application platform approach mith multiple CSD-applications on OASP</td>
+			<td></td>
+			<td>Christian Neuchl</td>
+			<td>won bid</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>IT-Anwendung zur Unterstützung strategischer Krisenmanagement-Übungen</td>
+			<td>Liferay as portal for an Open-Source application to support the management of strategic crisis exercises
+(No OASP/devon solution!)</td>
+			<td></td>
+			<td>Michael Köhler</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Urkundenarchiv</td>
+			<td>The federal notary agency has to digitalize it charter archive.</td>
+			<td>18.07.2017</td>
+			<td>Remo Bergmann</td>
+			<td>active bid</td>
+		</tr>
+	</tbody>
+</table>
+<!-- Bid References aktualiseren ENDE -->
 				</div>
 			</div>		
 				
