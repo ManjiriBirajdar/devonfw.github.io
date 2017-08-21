@@ -303,18 +303,10 @@
 									<li data-target="#wc-carousel" data-slide-to="0" class="active"></li>
 									<li data-target="#wc-carousel" data-slide-to="1" class=""></li>
 									<li data-target="#wc-carousel" data-slide-to="2" class=""></li>
-									<li data-target="#wc-carousel" data-slide-to="3" class=""></li>
 								</ol>
 							</div>
 							<div class="carousel-inner">
 								<div class="item active">
-									<div class="description">
-										<h3>Dealing with complexity on the frontend</h3>
-										<p>The first episode we will be taking a look at one of our front-end options provided by devonfw: Devon4sencha. This framework is based on Sencha, a powerful Javascript framework for creating “very” rich web applications.</p>
-										<p>We will see how it makes easy to deal with usually complex user interface patterns and explore some of the tools it provides.</p>
-									</div>
-								</div>
-								<div class="item">
 									<video width="640" height="360" controls preload="none" poster="https://github.com/devonfw/devonfw-community/wiki/images/flyer-stuff-that-matters-testing.gif">
 										<source src="http://de-mucevolve02/files/videos/webcast-stuff-that-matters/iCSD_Stuff_That_Matters_Talk-Testing_with_OASP4J.m4v" type="video/mp4" >
 									</video>
