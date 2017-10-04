@@ -25,7 +25,7 @@
 	border-bottom: 1px solid white;
 }
 
-.mycontent a:hover {
+.mycontent a:hover {	
 	text-decoration: none;
 	border-bottom: 1px solid rgb(0, 160, 215);
 }
@@ -141,8 +141,8 @@ margin-right:10px;
 							<p><a target="_blank" href="http://devon-ci.cloudapp.net/devonfw-sample-server/jsclient">devon4sencha sample application</a>
 							<p>Further Sencha UI examples are avaiable under request from real engagements. Please contact us at yammer or by mail to be able to access</p>
 						</li>
-						<li><a target="_blank" href="http://oasp-ci.cloudapp.net/oasp4j-sample/jsclient">OASP4js sample application</a></li>
-						<li><a target="_blank" href="http://de-mucdevondepl01:8090">My Thai Star application</a></li>
+						<li><a target="_blank" href="http://oasp-ci.cloudapp.net/oasp4j-sample/jsclient">OASP4js sample application (Legacy)</a></li>
+						<li><a target="_blank" href="http://de-mucdevondepl01:8090">OASP4js - My Thai Star reference application</a></li>
 					</ul>
 				</li>
 				<li>
@@ -194,16 +194,14 @@ margin-right:10px;
 						<li><a href="http://github.com/oasp/oasp4j/" role="button" target="_blank">OASP4 project </a><span class="text-grey"> - GitHub public repo</span></li>
 						<ul>
 							<li><a href="http://github.com/oasp/oasp4j/" role="button" target="_blank">OASP4j </a><span class="text-grey"> - GitHub public repo</span></li>
-							<li><a href="http://github.com/oasp/osp4js/" role="button" target="_blank">OASP4js (legacy)- sample application </a><span class="text-grey"> - GitHub public repo</span></li>
-							<li><a href="http://github.com/devonfw/my-thai-star" role="button" target="_blank">OASP4js - My Thai Star application</a><span class="text-grey"> - GitHub public repo</span></li>
+							<li><a href="http://github.com/oasp/oasp4js/" role="button" target="_blank">OASP4js sample application (Legacy) </a><span class="text-grey"> - GitHub public repo</span></li>
+							<li><a href="http://github.com/devonfw/my-thai-star" role="button" target="_blank">My Thai Star reference application</a><span class="text-grey"> - GitHub public repo</span></li>
+							<li>OASP4js Resources<span class="text-grey"></span></li>
 							<ul>
-								<li><a href="" role="button" target="_blank">OASP4js Resources </a><span class="text-grey"></span></li>
-								<ul>
-									<li><a href="https://github.com/oasp/oasp4js-angular-catalog" role="button" target="_blank">Component Catalog</a></li>
-									<li><a href="https://github.com/oasp/oasp-tutorial-sources" role="button" target="_blank">Tutorial</a></li>
-									<li><a href="https://github.com/oasp/my-thai-star/tree/develop/angular" role="button" target="_blank">My thai Start Application</a></li>
-									<li><a href="https://github.com/oasp/oasp4js-application-template" role="button" target="_blank">Template</a></li>
-								</ul>
+								<li><a href="https://github.com/oasp/oasp4js-angular-catalog" role="button" target="_blank">Component Catalog</a></li>
+								<li><a href="https://github.com/oasp/oasp-tutorial-sources" role="button" target="_blank">Tutorial</a></li>
+								<li><a href="https://github.com/oasp/my-thai-star/tree/develop/angular" role="button" target="_blank">My thai Start Application</a></li>
+								<li><a href="https://github.com/oasp/oasp4js-application-template" role="button" target="_blank">Template</a></li>
 							</ul>
 						</ul>
 					</ul>
