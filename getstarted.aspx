@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -131,18 +131,18 @@ margin-right:10px;
 					<p>First things first. If you´re a developer just beginning with devonfw use <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.current_version/frs54567?dl=1">the devonfw guide</a> to get started!</p>
 					<p>You can use <a href="https://github.com/devonfw/devon/wiki/devcon-user-guide">The Devon Console, Devcon</a>, to help you with many automated tasks around the full life-cycle of Devon applications, from installing the basic working environment and generating a new project, to running a test server and deploying an application to production. Devcon is the easiest way to use Devonfw.</p>
 					<p>If you`re an experienced hand, like a senior developer or architect, you should add the <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.current_version/frs54568?dl=1">platform guide</a>.</p>
-					<p>This information is also available on the <a href="https://github.com/oasp/oasp4j/wiki">OASP4j</a> and <a href="https://github.com/devonfw/devon/wiki">devonfw</a> wikis which serve as a basis for the above mentioned PDF documents.
-					<p>devonfw uses OASP4j as lean open source architecture blueprint for the server side of an application. OASP4j offers you a holistic documentation for building your application. Stop with digging in the docs of many different open source projects in parallel, getting on the wrong track or lost in space. </p>
+					<p>This information is also available on the <a href="https://github.com/oasp/oasp4J/wiki">OASP4J</a> and <a href="https://github.com/devonfw/devon/wiki">devonfw</a> wikis which serve as a basis for the above mentioned PDF documents.
+					<p>devonfw uses OASP4J as lean open source architecture blueprint for the server side of an application. OASP4J offers you a holistic documentation for building your application. Stop with digging in the docs of many different open source projects in parallel, getting on the wrong track or lost in space. </p>
 				</li>
 				<li><h2>See some running examples <img src="images/cursor.png" width="30"></h2>
-					<p>There are currently three demos simulating a restaurant management application<p>
-					<ul>
-						<li>
-							<p><a target="_blank" href="http://devon-ci.cloudapp.net/devonfw-sample-server/jsclient">devon4sencha sample application</a>
-							<p>Further Sencha UI examples are avaiable under request from real engagements. Please contact us at yammer or by mail to be able to access</p>
-						</li>
-						<li><a target="_blank" href="http://oasp-ci.cloudapp.net/oasp4j-sample/jsclient">OASP4js sample application (Legacy)</a></li>
-						<li><a target="_blank" href="http://de-mucdevondepl01:8090">OASP4js - My Thai Star reference application</a></li>
+					<p>There are currently three demos simulating a restaurant management application. The main one is the new reference application <strong>My Thai Star</strong> built using the latest OASP technologies. The other two are the legacy implementations of the previous restaurant application, using Sencha and AngularJS (version 1) respectively.<p>
+						<ul>
+							<li><a target="_blank" href="http://de-mucdevondepl01:8090">OASP4JS - My Thai Star reference application</a></li>
+							<li>
+								<p><a target="_blank" href="http://devon-ci.cloudapp.net/devonfw-sample-server/jsclient">devon4sencha sample application</a>
+								<p>Further Sencha UI examples are available under request from real engagements. Please contact us at yammer or by mail to be able to access</p>
+							</li>
+							<li><a target="_blank" href="http://oasp-ci.cloudapp.net/oasp4J-sample/jsclient">OASP4JS sample application (Legacy)</a></li>
 					</ul>
 				</li>
 				<li>
@@ -156,7 +156,7 @@ margin-right:10px;
 					<table class="table table-bordered table-bordered-blue">
 						<thead>
 							<tr>
-							  <th colspan="2" style="text-align:center;">devonfw distribution 2.1 files</th>
+							  <th colspan="2" style="text-align:center;">devonfw distribution 2.2 files</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -166,7 +166,7 @@ margin-right:10px;
 							 </tr>
 							 <tr>
 							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.current_version/frs54568?dl=1">OAPS4J Guide</a></td>
-							  <td>A more specific guide about the OASP4j applications. Here you will find more advanced information about the architecture of the OASP4j solution.</td>
+							  <td>A more specific guide about the OASP4J applications. Here you will find more advanced information about the architecture of the OASP4J solution.</td>
 							</tr>
 							<tr>
 							  <td><a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.current_version/frs51047?dl=1">CobiGen Guide</a></td>
@@ -177,9 +177,10 @@ margin-right:10px;
 					<p>You can also access our documentation in wiki format from the Github project pages</p>
 					<ul>
 						<li><a href="https://github.com/devonfw/devon/wiki" role="button" target="_blank">devonfw wiki </a><span class="text-grey"> - GitHub private repo, please </span><a href="mailto:icsddevonfwsupport.apps2@capgemini.com">request access</a></li>
-						<li><a href="https://github.com/oasp/oasp4j/wiki" role="button" target="_blank">OASP4j </a><span class="text-grey"> - GitHub public repository</span></li>
-						<li><a href="https://github.com/oasp/oasp4js/wiki" role="button" target="_blank">OASP4js </a><span class="text-grey"> - GitHub public repository</span></li>
-						<li><a href="https://github.com/devonfw/tools-cobigen/wiki" target="_blank">CobiGen </a><span class="text-grey"> - GitHub private repo, please </span><a href="mailto:icsddevonfwsupport.apps2@capgemini.com">request access</a></li>
+						<li><a href="https://github.com/oasp/oasp-tutorial-sources" target="_blank">OASP Tutorial Sources </a><span class="text-grey"> - GitHub public repository </span></li>
+						<li><a href="https://github.com/oasp/oasp4J/wiki" role="button" target="_blank">OASP4J </a><span class="text-grey"> - GitHub public repository</span></li>
+						<li><a href="https://github.com/oasp/oasp4JS/wiki" role="button" target="_blank">OASP4JS (Legacy)</a><span class="text-grey"> - GitHub public repository</span></li>
+						<li><a href="https://github.com/devonfw/tools-cobigen/wiki" target="_blank">CobiGen </a><span class="text-grey"> - GitHub private repo, please </span><a href="mailto:icsddevonfwsupport.apps2@capgemini.com">request access</a></li>						
 					</ul>
 				</li>
 				<li>
@@ -191,18 +192,18 @@ margin-right:10px;
 						<ul>
 							<li><a href="http://github.com/devonfw/devon4sencha" role="button" target="_blank">devon4sencha</a><span class="text-grey"> - GitHub private repo, please </span><a href="mailto:icsddevonfwsupport.apps2@capgemini.com">request access</a></li>
 						</ul>
-						<li><a href="http://github.com/oasp/oasp4j/" role="button" target="_blank">OASP4 project </a><span class="text-grey"> - GitHub public repo</span></li>
+						<li><a href="http://github.com/oasp/oasp4J/" role="button" target="_blank">OASP4 project </a><span class="text-grey"> - GitHub public repo</span></li>
 						<ul>
-							<li><a href="http://github.com/oasp/oasp4j/" role="button" target="_blank">OASP4j </a><span class="text-grey"> - GitHub public repo</span></li>
-							<li><a href="http://github.com/oasp/oasp4js/" role="button" target="_blank">OASP4js sample application (Legacy) </a><span class="text-grey"> - GitHub public repo</span></li>
-							<li><a href="http://github.com/devonfw/my-thai-star" role="button" target="_blank">My Thai Star reference application</a><span class="text-grey"> - GitHub public repo</span></li>
-							<li>OASP4js Resources<span class="text-grey"></span></li>
+							<li><a href="http://github.com/oasp/oasp4J/" role="button" target="_blank">OASP4J </a><span class="text-grey"> - GitHub public repo</span></li>
+							<li><a href="http://github.com/oasp/my-thai-star" role="button" target="_blank">My Thai Star reference application</a><span class="text-grey"> - GitHub public repo</span></li>
+							<li>OASP4JS Resources<span class="text-grey"></span></li>
 							<ul>
-								<li><a href="https://github.com/oasp/oasp4js-angular-catalog" role="button" target="_blank">Component Catalog</a></li>
+								<li><a href="https://github.com/oasp/oasp4JS-angular-catalog" role="button" target="_blank">Component Catalog</a></li>
 								<li><a href="https://github.com/oasp/oasp-tutorial-sources" role="button" target="_blank">Tutorial</a></li>
-								<li><a href="https://github.com/oasp/my-thai-star/tree/develop/angular" role="button" target="_blank">My thai Start Application</a></li>
-								<li><a href="https://github.com/oasp/oasp4js-application-template" role="button" target="_blank">Template</a></li>
+								<li><a href="https://github.com/oasp/my-thai-star/tree/develop/angular" role="button" target="_blank">My Thai Star Application</a></li>
+								<li><a href="https://github.com/oasp/oasp4JS-application-template" role="button" target="_blank">New Application Template</a></li>
 							</ul>
+							<li><a href="http://github.com/oasp/oasp4JS/" role="button" target="_blank">OASP4JS sample application (Legacy) </a><span class="text-grey"> - GitHub public repo</span></li>
 						</ul>
 					</ul>
 				</li>
