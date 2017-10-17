@@ -129,54 +129,6 @@
 			</div>
 		</div>
 		<div class="col-md-offset-2 col-md-8">
-			
-			<div class="bs-docs-section" id="sec3">
-				<h2 id="sec3">OASP Technology Stacks</h2>
-
-				<ul class="nav nav-tabs">
-					<li class="active"><a data-toggle="tab" href="#oasp4js">OASP4JS</a></li>
-					<li><a data-toggle="tab" href="#oasp4j">OASP4J</a></li>
-					<li><a data-toggle="tab" href="#oasp4fn">OASP4FN</a></li>
-					<li><a data-toggle="tab" href="#oasp4net">OASP4NET</a></li>
-					<li><a data-toggle="tab" href="#oasp4x">OASP4X</a></li>
-					<li><a data-toggle="tab" href="#oasp4mobile">OASP4Mobile</a></li>
-				</ul>
-			
-				<div class="tab-content">
-			
-					<div id="oasp4js" class="tab-pane fade in active">
-						<h3>OASP4JS</h3>
-						<img src="images/onepager_placeholder.png" width="100%">
-					</div>
-			
-					<div id="oasp4j" class="tab-pane fade">
-						<h3>OASP4J</h3>
-						<img src="images/onepager_placeholder.png" width="100%">
-					</div>
-			
-					<div id="oasp4fn" class="tab-pane fade">
-						<h3>OASP4FN</h3>
-						<img src="images/onepager_placeholder.png" width="100%">
-					</div>
-			
-					<div id="oasp4net" class="tab-pane fade">
-						<h3>OASP4NET</h3>
-						<img src="images/onepager_placeholder.png" width="100%">
-					</div>
-			
-					<div id="oasp4x" class="tab-pane fade">
-						<h3>OASP4X</h3>
-						<img src="images/onepager_placeholder.png" width="100%">
-					</div>
-			
-					<div id="oasp4mobile" class="tab-pane fade">
-						<h3>OASP4Mobile</h3>
-						<img src="images/onepager_placeholder.png" width="100%">
-					</div>
-			
-				</div>
-		
-			</div>
 
 			<div class="bs-docs-section" id="sec4">
 				<h2 id="sec4">Contributing to devonfw</h2>
@@ -305,6 +257,50 @@
 							</div>
 
 						</div>
+						<div class="col-md-offset-1 col-md-10">
+							<div class="col-md-12"">
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										OASP Technology Stacks
+									</div>
+									<div class="panel-body">
+										<div class="col-md-12">
+											<div class="col-md-4">
+												<a href="images/onepager_placeholder.png"><img src="images/onepager_placeholder.png" width="100%"/></a>
+												OASP4JS
+											</div>
+											<div class="col-md-4">
+												<a href="images/onepager_placeholder.png"><img src="images/onepager_placeholder.png" width="100%"/></a>
+												OASP4J
+											</div>
+											<div class="col-md-4">
+												<a href="images/onepager_placeholder.png"><img src="images/onepager_placeholder.png" width="100%"/></a>
+												OASP4FN
+											</div>
+										</div>
+										<div class="col-md-12">
+											
+											<div class="col-md-4">
+												<a href="images/onepager_placeholder.png"><img src="images/onepager_placeholder.png" width="100%"/></a>
+												OASP4NET
+											</div>
+											<div class="col-md-4">
+												<a href="images/onepager_placeholder.png"><img src="images/onepager_placeholder.png" width="100%"/></a>
+												OASP4X
+											</div>
+											<div class="col-md-4">
+												<a href="images/onepager_placeholder.png"><img src="images/onepager_placeholder.png" width="100%"/></a>
+												OASP4Mobile
+											</div>
+										</div>
+										<div class="col-md-12">
+											<br/>
+											<p>More information can be found in the following <a href="#sec3">OASP Technology Stack</a> section.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 
 					</div>
 
@@ -326,6 +322,55 @@
 				</div>
 
 			</div>
+
+			<div class="bs-docs-section" id="sec3">
+				<h2 id="sec3">OASP Technology Stacks</h2>
+
+				<ul class="nav nav-tabs">
+					<li class="active"><a data-toggle="tab" href="#oasp4js">OASP4JS</a></li>
+					<li><a data-toggle="tab" href="#oasp4j">OASP4J</a></li>
+					<li><a data-toggle="tab" href="#oasp4fn">OASP4FN</a></li>
+					<li><a data-toggle="tab" href="#oasp4net">OASP4NET</a></li>
+					<li><a data-toggle="tab" href="#oasp4x">OASP4X</a></li>
+					<li><a data-toggle="tab" href="#oasp4mobile">OASP4Mobile</a></li>
+				</ul>
+			
+				<div class="tab-content">
+			
+					<div id="oasp4js" class="tab-pane fade in active">
+						<h3>OASP4JS</h3>
+						<img src="images/onepager_placeholder.png" width="100%">
+					</div>
+			
+					<div id="oasp4j" class="tab-pane fade">
+						<h3>OASP4J</h3>
+						<img src="images/onepager_placeholder.png" width="100%">
+					</div>
+			
+					<div id="oasp4fn" class="tab-pane fade">
+						<h3>OASP4FN</h3>
+						<img src="images/onepager_placeholder.png" width="100%">
+					</div>
+			
+					<div id="oasp4net" class="tab-pane fade">
+						<h3>OASP4NET</h3>
+						<img src="images/onepager_placeholder.png" width="100%">
+					</div>
+			
+					<div id="oasp4x" class="tab-pane fade">
+						<h3>OASP4X</h3>
+						<img src="images/onepager_placeholder.png" width="100%">
+					</div>
+			
+					<div id="oasp4mobile" class="tab-pane fade">
+						<h3>OASP4Mobile</h3>
+						<img src="images/onepager_placeholder.png" width="100%">
+					</div>
+			
+				</div>
+		
+			</div>
+			
 			<div class="bs-docs-section" id="sec5">
 				<h2 id="sec5">Newsletter &amp; Webcast</h2>
 
@@ -424,15 +469,15 @@
 			<nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm scrollspy">
 				<ul id="affix" class="nav bs-docs-sidenav" data-spy="affix">
 					<li>
-						<a href="#sec3">devonfw Technology Stack</a>
-					</li>
-					<li>
 						<a href="#sec4">Contributing to devonfw</a>
 						<ul class="nav">
 							<li><a href="#sec4-1">Topic Landscape</a></li>
 							<li><a href="#sec4-2">Harvesting</a></li>
 							<li><a href="#sec4-3">Notes on Contribution</a></li>
 						</ul>
+					</li>
+					<li>
+						<a href="#sec3">OASP Technology Stacks</a>
 					</li>
 					<li>
 						<a href="#sec5">Newsletter &amp; Webcast</a>
