@@ -6,6 +6,10 @@ body {
 	background-color:#49BDEA;
 }
 
+h2 {
+	clear: both !important;
+}
+
 .nav-justified > li > a {
 	color: white;
 	text-shadow: 1px 1px 2px black;
@@ -282,9 +286,10 @@ a:hover {
 	text-decoration: underline;
 }
 
-.panel-heading {
+.panel-default .panel-heading {
 	background-color: #49BDEA !important;
 	border-color: #49BDEA !important;
+	color: white !important;
 }
 
 .panel-primary {
@@ -354,4 +359,30 @@ h2 {
 
 .controls {
 	margin: 25px 0;
+}
+
+.jumbotron.community {
+	background-color: #fafafa;
+	color: #555;
+	padding: 0;
+}
+
+.jumbotron.community .container {
+	background: url(../images/print.png);
+	background-repeat: no-repeat;
+	background-position: 110% -100%;
+	background-size: 35%;
+	padding: 35px 30px 75px;
+}
+
+.jumbotron.community h1 {
+	color: #49BDEA;
+}
+
+.jumbotron.community p {
+	color: #555;
+}
+
+.con-sec {
+	min-height: 275px;
 }
