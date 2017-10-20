@@ -106,7 +106,7 @@
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/overview.aspx">Overview</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/roadmap.aspx">Roadmap & Releases</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/ipcatalog.aspx">IP catalog</a></li>
-						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/collaboration.aspx">Collaboration</a></li>
+						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/collaboration.aspx">Community</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/references.aspx">Sales & Marketing</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/training_hub.aspx">Training hub</a></li>
 						<li><a class="cg_internal" href="https://troom.capgemini.com/sites/vcc/devon/faq.aspx">FAQs</a></li>
@@ -129,293 +129,9 @@
 			</div>
 		</div>
 		<div class="col-md-offset-2 col-md-8">
-
-			<div class="bs-docs-section" id="sec4">
-				<h2 id="sec4">Contributing to devonfw</h2>
-
-				<div class="bs-docs-section">
-					<h3 id="sec4-1">Topic Landscape</h3>
-	
-					<div class="container-fluid">
-						
-						<div class="col-md-offset-1 col-md-10">
-							
-							<div class="col-md-4">
-								<div class="panel panel-default">
-									<div class="panel-heading">
-										Cobigen Extensions
-									</div>
-									<div class="panel-body">
-										Extensions for the Cobigen code generator
-										<br/><strong>Lead: </strong>...
-									</div>
-								</div>
-							</div>
-							
-							<div class="col-md-4">
-								<div class="panel panel-default">
-									<div class="panel-heading">
-										Accelerated Solution Design
-									</div>
-									<div class="panel-body">
-										Acceleration using blueprints, best practices, guides and best practices
-										<br/><strong>Lead: </strong>...
-									</div>
-								</div>
-							</div>
-							
-							<div class="col-md-4">
-								<div class="panel panel-default">
-									<div class="panel-heading">
-										E2E Testing
-									</div>
-									<div class="panel-body">
-										Testing the application flow
-										<br/><strong>Lead: </strong>...
-									</div>
-								</div>
-							</div>
-
-						</div>
-
-						<div class="col-md-offset-1 col-md-10">
-							
-							<div class="col-md-4">
-								<div class="panel panel-default">
-									<div class="panel-heading">
-										devonfw Client Guide
-									</div>
-									<div class="panel-body">
-										Thorough devonfw guide and documentation
-										<br/><strong>Lead: </strong>...
-									</div>
-								</div>
-							</div>
-							
-							<div class="col-md-4">
-								<div class="panel panel-default">
-									<div class="panel-heading">
-										IDE
-									</div>
-									<div class="panel-body">
-										Several IDE's supported by devonfw
-										<br/><strong>Lead: </strong>...
-									</div>
-								</div>
-							</div>
-							
-							<div class="col-md-4">
-								<div class="panel panel-default">
-									<div class="panel-heading">
-										.NET Code Generation
-									</div>
-									<div class="panel-body">
-										Automated .NET Code Generation
-										<br/><strong>Lead: </strong>...
-									</div>
-								</div>
-							</div>
-
-						</div>
-
-						<div class="col-md-offset-1 col-md-10">
-							
-							<div class="col-md-4">
-								<div class="panel panel-default">
-									<div class="panel-heading">
-										Towards an Automated Environment Provisioning
-									</div>
-									<div class="panel-body">
-										Automatically generate and provision test environments
-										<br/><strong>Lead: </strong>...
-									</div>
-								</div>
-							</div>
-							
-							<div class="col-md-4">
-								<div class="panel panel-default">
-									<div class="panel-heading">
-										My Thai Star
-									</div>
-									<div class="panel-body">
-										Information about My Thai Star, a sample application
-										<br/><strong>Lead: </strong>...
-									</div>
-								</div>
-							</div>
-							
-							<div class="col-md-4">
-								<div class="panel panel-default">
-									<div class="panel-heading">
-										Kickstarter for Progressive Web Applications (PWAs) based on Angular 4
-									</div>
-									<div class="panel-body">
-										Accelerate development of web applications using the kickstarter
-										<br/><strong>Lead: </strong>...
-									</div>
-								</div>
-							</div>
-
-						</div>
-						<div class="col-md-offset-1 col-md-10">
-							<div class="col-md-12"">
-								<div class="panel panel-default">
-									<div class="panel-heading">
-										OASP Technology Stacks
-									</div>
-									<div class="panel-body">
-										<div class="col-md-12">
-											<div class="col-md-4">
-												<a href="images/onepager_placeholder.png"><img src="images/onepager_placeholder.png" width="100%"/></a>
-												OASP4JS
-											</div>
-											<div class="col-md-4">
-												<a href="images/onepager_placeholder.png"><img src="images/onepager_placeholder.png" width="100%"/></a>
-												OASP4J
-											</div>
-											<div class="col-md-4">
-												<a href="images/onepager_placeholder.png"><img src="images/onepager_placeholder.png" width="100%"/></a>
-												OASP4FN
-											</div>
-										</div>
-										<div class="col-md-12">
-											
-											<div class="col-md-4">
-												<a href="images/onepager_placeholder.png"><img src="images/onepager_placeholder.png" width="100%"/></a>
-												OASP4NET
-											</div>
-											<div class="col-md-4">
-												<a href="images/onepager_placeholder.png"><img src="images/onepager_placeholder.png" width="100%"/></a>
-												OASP4X
-											</div>
-											<div class="col-md-4">
-												<a href="images/onepager_placeholder.png"><img src="images/onepager_placeholder.png" width="100%"/></a>
-												OASP4Mobile
-											</div>
-										</div>
-										<div class="col-md-12">
-											<br/>
-											<p>More information can be found in the following <a href="#sec3">OASP Technology Stack</a> section.</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-					</div>
-
-				</div>
-
-				<div class="bs-docs-section">
-					<h3 id="sec4-2">Harvesting</h3>
-					<p>Everyone agrees that apart from a strong architecture framework, an essential part of the mission of devonfw is to provide a large component library or module catalogue. This also plays an essential part within that principal goal of devonfw: avoiding that we reinvent the wheel from time and time again. However, there is not enough budget available to create a fully featured component catalogue and often a complex component is out of scope of what an individual member of the community would be able to contribute. Ideally, the engagements would contribute to the catalogue but often there is just not enough time nor resources available within the scope of the engagement.</p>
-					<p>In order to solve this persistent problem we propose the devonfw Harvest.</p>
-					<a href="https://troom.capgemini.com/sites/vcc/devon/images/devon-collaboration.png"><img src="images/devon-collaboration.png" width="50%"/></a>
-					<p>This is meant to be an agile process wherein the engagements do not have to change their client focused approach. They implement their modules and components in the interest of and within the context of the project. However, we offer them the opportunity to contribute their work within devonfw by participating in “the Harvest”. During these events, basically hackathons, members of the devonfw and OASP communities help volunteers from the engagements “extract” project specific components and turn them into more generic modules which can be used by any future engagement from all over APPS2. By participating in a Harvest, those involved in the engagements can guarantee the existence of the module in future projects, which is to everyone’s advantage, and contribute back to the community; become part of that community. And as a teaser we offer a price for the best component for each Harvest.</p>
-					<p>This, and everlasting fame, of course.</p>
-				</div>
-				<div class="bs-docs-section">
-					<h3 id="sec4-3">Notes on Contribution</h3>
-					<p>devonfw Platform is organized in a way that it is easy for you to contribute. Therefore we have chosen to use github - the number one platform for social coding - which provides lean processes and great tooling. Currently most repositories are marked as private, hence invisible to you. You can send an email from your Capgemini account with your github login to the devonfw team if you want to get access. Please ensure your real name is set in your github account or your login is matching your Capgemini CORP login. You will be also added to our Capgemini OASP mailing list (see contact).</p>
-					<p>In order to contribute code we use git and github pull-requests. Lead developers can directly commit to the git repository while (later) everybody can clone and fork the repository and create pull-requests. These can be reviewed, commented and discussed and finally integrated (or rejected).</p>
-					<p>We are very happy to receive contributions from projects or individual experts. Before you invest your time and work into a larger change or contribution please get in contact before to ensure you will not waste your energy (somebody else might already work on the same thing, etc.). To get in touch and discuss with us please meet us in Yammer.</p>
-				</div>
-
-			</div>
-
-			<div class="bs-docs-section" id="sec3">
-				<h2 id="sec3">OASP Technology Stacks</h2>
-
-				<ul class="nav nav-tabs">
-					<li class="active"><a data-toggle="tab" href="#oasp4js">OASP4JS</a></li>
-					<li><a data-toggle="tab" href="#oasp4j">OASP4J</a></li>
-					<li><a data-toggle="tab" href="#oasp4fn">OASP4FN</a></li>
-					<li><a data-toggle="tab" href="#oasp4net">OASP4NET</a></li>
-					<li><a data-toggle="tab" href="#oasp4x">OASP4X</a></li>
-					<li><a data-toggle="tab" href="#oasp4mobile">OASP4Mobile</a></li>
-				</ul>
-			
-				<div class="tab-content">
-			
-					<div id="oasp4js" class="tab-pane fade in active">
-						<h3>OASP4JS</h3>
-						<img src="images/onepager_placeholder.png" width="100%">
-					</div>
-			
-					<div id="oasp4j" class="tab-pane fade">
-						<h3>OASP4J</h3>
-						<img src="images/onepager_placeholder.png" width="100%">
-					</div>
-			
-					<div id="oasp4fn" class="tab-pane fade">
-						<h3>OASP4FN</h3>
-						<img src="images/onepager_placeholder.png" width="100%">
-					</div>
-			
-					<div id="oasp4net" class="tab-pane fade">
-						<h3>OASP4NET</h3>
-						<img src="images/onepager_placeholder.png" width="100%">
-					</div>
-			
-					<div id="oasp4x" class="tab-pane fade">
-						<h3>OASP4X</h3>
-						<img src="images/onepager_placeholder.png" width="100%">
-					</div>
-			
-					<div id="oasp4mobile" class="tab-pane fade">
-						<h3>OASP4Mobile</h3>
-						<img src="images/onepager_placeholder.png" width="100%">
-					</div>
-			
-				</div>
 		
-			</div>
-			
-			<div class="bs-docs-section" id="sec5">
-				<h2 id="sec5">Newsletter &amp; Webcast</h2>
-
-				<div class="bs-docs-section">
-					<h3 id="sec5-1">Newsletter</h3>
-
-					<p>The iCSD newsletter is <a href="https://devonfw.github.io/we-dev-on/" target="_blank">we-dev-on</a>. It is a reader-supported publication for and from the devonfw &amp; OASP communities all over Capgemini APPS2. It deals with current topics in the iCSD space including general news such as approaching releases or upcoming webcasts, but also tips and tricks, (Yammer) discussions, opinions or anything else worth sharing.</p>
-						
-				</div>
-
-				<div class="bs-docs-section">
-					<h3 id="sec5-2">Webcast</h3>
-				
-						<p>In the year 2017 we have started with a new webcast series for you, called “iCSD - Stuff That Matters” (thanks to Maurice Driessen for the great name). The idea is to organize webcasts dealing with topics which seem relevant for the community related with devonfw and OASP. Each session is planned for half an hour up to an hour with reserved time for Q&amp;A. There, you will be able to ask anything related to the topic or iCSD in general.</p>
-						<p>We started with a highly attended first session the 27th of January 2017 by Angel Marin from Capgemini Spain (Valencia) about “Dealing with Complexity on the Front End”. Angel took a look at one of our front-end options provided by devonfw: Devon4sencha. This framework is based on Sencha Ext JS, a powerful JavaScript framework for creating rich web applications. He showed how it makes it easy to deal with usually complex user interface patterns and during the session he explored some of the tools it provides. There was time for Q&amp;A and people did not hesitate to ask anything that came to their mind.</p>
-						<p>A second session was held the 24th of February by Jonas Molina Ramirez from Capgemini Germany (Frankfurt) about “Testing with OASP4j”. During his his talk Jonas investigated the testing facilities currently provided by OASP4j and he showed those features which aid you with the following:</p>
-						<ul>
-							<li>Focus on test logic instead of infrastructure</li>
-							<li>Manage your test data</li>
-							<li>Configure your tests</li>
-						</ul>
-						<p>The edited video of this talk has been uploaded to Teamforge and can be found in the Server section. It will be included soon in the devonfw Catalog in the 360 learning platform.</p>
-						<p>The third episode, held on beginning of April, dealt with the ins and outs of Cobigen, the code generator in devonfw. The Webcasts are definitely meant to be open. So, as always, you are very welcome to propose certain topics and / or present a topic yourself.</p>
-						<p>The latest webcast held on 28th of July was all about Courage, the newest version of devonfw (2.2). Some demos were shown, as well as what's new and what has changed.</p>
-
-				</div>
-			</div>
-			<div class="bs-docs-section" id="sec6">
-				<h2 id="sec6">Sounding Board Meeting</h2>
-
-				<p>The so called Sounding Board is a monthly meeting in which the topics are:</p>
-				<ul>
-					<li>Technical state of projects</li>
-					<li>devonfw related activities in Spain</li>
-					<li>Status of devonfw</li>
-					<li>iCSD news and events</li>
-				</ul>
-				<p>The main purpose of this meeting is to provide feedback on the asset usage: Where are the problems, what are positive aspects, new suggestions, upcoming requirements, etc.</p>
-				<p>This meeting's attendants are the iCSD devonfw Team, BU representatives and Project managers of Solution Architects from engagements using devonfw, Studio Lead Architects from AD Centers and optionally other architects related to this topic.</p>
-				<p>The benefits of such a meeting is to gain knowledge about the projects using devonfw as well as feedback - What are the benefits or downsides, what could be improved? Furthermore, the identification of features, which could be harvested for devonfw reusage are necessary.</p>
-
-			</div>
-
-			<div class="bs-docs-section" id="sec2">
-				<h2 id="sec2">How we collaborate</h2>
+			<div class="bs-docs-section" id="sec1">
+				<h2 id="sec1">How we collaborate</h2>
 
 				<div class="container-fluid">
 				
@@ -462,6 +178,279 @@
 			
 			</div>
 
+			<div class="bs-docs-section" id="sec2">
+				<h2 id="sec2">Contributing to devonfw</h2>
+				
+				<div class="bs-docs-section">
+					<p>devonfw Platform is organized in a way that it is easy for you to contribute. Therefore we have chosen to use github - the number one platform for social coding - which provides lean processes and great tooling. Currently most repositories are marked as private, hence invisible to you. You can send an email from your Capgemini account with your github login to the devonfw team if you want to get access. Please ensure your real name is set in your github account or your login is matching your Capgemini CORP login. You will be also added to our Capgemini OASP mailing list (see contact).</p>
+					<p>In order to contribute code we use git and github pull-requests. Lead developers can directly commit to the git repository while (later) everybody can clone and fork the repository and create pull-requests. These can be reviewed, commented and discussed and finally integrated (or rejected).</p>
+					<p>We are very happy to receive contributions from projects or individual experts. Before you invest your time and work into a larger change or contribution please get in contact before to ensure you will not waste your energy (somebody else might already work on the same thing, etc.). To get in touch and discuss with us please meet us in Yammer.</p>
+				</div>
+
+				<div class="bs-docs-section">
+					<h3 id="sec2-1">Topic Landscape</h3>
+	
+					<div class="container-fluid">
+					
+						<div class="col-md-offset-1 col-md-10">
+							<div class="col-md-12"">
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										OASP Technology Stacks
+									</div>
+									<div class="panel-body">
+										<div class="col-md-12">
+											<div class="col-md-4">
+												<a href="images/collaboration/onepager_oasp4j.png"><img src="images/collaboration/onepager_oasp4j.png" width="100%"/></a>
+											</div>
+											<div class="col-md-4">
+												<a href="images/collaboration/onepager_oasp4js.png"><img src="images/collaboration/onepager_oasp4js.png" width="100%"/></a>
+											</div>
+											<div class="col-md-4">
+												<a href="images/collaboration/onepager_oasp4net.png"><img src="images/collaboration/onepager_oasp4net.png" width="100%"/></a>
+											</div>
+										</div>
+										<div class="col-md-12">
+											
+											<div class="col-md-4">
+												<a href="images/collaboration/onepager_oasp4x.png"><img src="images/collaboration/onepager_oasp4x.png" width="100%"/></a>
+											</div>
+											<div class="col-md-4">
+												<a href="images/collaboration/onepager_oasp4mobile.png"><img src="images/collaboration/onepager_oasp4mobile.png" width="100%"/></a>
+											</div>
+											<div class="col-md-4">
+												<a href="images/collaboration/onepager_oasp4fn.png"><img src="images/collaboration/onepager_oasp4fn.png" width="100%"/></a>
+											</div>
+										</div>
+										<div class="col-md-12">
+											<br/>
+											<p>More information can be found in the following <a href="#sec3">OASP Technology Stack</a> section.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						<div class="col-md-offset-1 col-md-10">
+							
+							<div class="col-md-4">
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										Cobigen Extensions
+									</div>
+									<div class="panel-body">
+										Extensions for our famous code generator CobiGen
+										<br/><strong>Contact: Malte Brunnlieb</strong>
+									</div>
+								</div>
+							</div>
+							
+							<div class="col-md-4">
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										Accelerated Solution Design
+									</div>
+									<div class="panel-body">
+										Acceleration using blueprints, best practices, guides with a special focus on methodology
+										<br/><strong>Contact: Iwan van der Kleijn</strong>
+									</div>
+								</div>
+							</div>
+							
+							<div class="col-md-4">
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										E2E Testing
+									</div>
+									<div class="panel-body">
+										Testing is one of our current focus topics
+										<br/><strong>Contact: Lukasz Stefaniszyn</strong>
+									</div>
+								</div>
+							</div>
+
+						</div>
+
+						<div class="col-md-offset-1 col-md-10">
+							
+							<div class="col-md-4">
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										devonfw Client Guide
+									</div>
+									<div class="panel-body">
+										While we have a concrete layered technical architecture for the server in OASP, we are still lacking a pendant on the client. Therefore, one current focus topic is the definition / creation of a Client (Architecture) Guide.
+										<br/><strong>Contact: Tim Lüecke</strong>
+									</div>
+								</div>
+							</div>
+							
+							<div class="col-md-4">
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										IDE
+									</div>
+									<div class="panel-body">
+										Apart from Eclipse devonfw provides a fully featured IDE for modern web development with VS Code which has quite some room for further additions
+										<br/><strong>Contact: Santos Jiménez Linares</strong>
+									</div>
+								</div>
+							</div>
+							
+							<div class="col-md-4">
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										.NET Code Generation
+									</div>
+									<div class="panel-body">
+										Extension of our CobiGen code generator to also support .NET
+										<br/><strong>Contact: Maurice Driessen</strong>
+									</div>
+								</div>
+							</div>
+
+						</div>
+
+						<div class="col-md-offset-1 col-md-10">
+							
+							<div class="col-md-4">
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										Towards an Automated Environment Provisioning
+									</div>
+									<div class="panel-body">
+										Automatically generate and provision (test) environments
+										<br/><strong>Contact: Thorsten Peter</strong>
+									</div>
+								</div>
+							</div>
+							
+							<div class="col-md-4">
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										My Thai Star
+									</div>
+									<div class="panel-body">
+										Everything concerning our new reference application: MyThaiStar
+										<br/><strong>Contact: Santos Jiménez Linares</strong>
+									</div>
+								</div>
+							</div>
+							
+							<div class="col-md-4">
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										Kickstarter for Progressive Web Applications (PWAs) based on Angular 4
+									</div>
+									<div class="panel-body">
+										PWAs are "The Next Big Thing" for the mobile development. They can offer great UX comparable to native mobile apps, but being still a web application running in a browser.
+										<br/><strong>Contact: Marek Matczak</strong>
+									</div>
+								</div>
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="bs-docs-section">
+					<h3 id="sec2-2">Harvesting</h3>
+					<p>Everyone agrees that apart from a strong architecture framework, an essential part of the mission of devonfw is to provide a large component library or module catalogue. This also plays an essential part within that principal goal of devonfw: avoiding that we reinvent the wheel from time and time again. However, there is not enough budget available to create a fully featured component catalogue and often a complex component is out of scope of what an individual member of the community would be able to contribute. Ideally, the engagements would contribute to the catalogue but often there is just not enough time nor resources available within the scope of the engagement.</p>
+					<p>In order to solve this persistent problem we propose the devonfw Harvest.</p>
+					<a href="https://troom.capgemini.com/sites/vcc/devon/images/devon-collaboration.png"><img src="images/devon-collaboration.png" width="50%"/></a>
+					<p>This is meant to be an agile process wherein the engagements do not have to change their client focused approach. They implement their modules and components in the interest of and within the context of the project. However, we offer them the opportunity to contribute their work within devonfw by participating in “the Harvest”. During these events, basically hackathons, members of the devonfw and OASP communities help volunteers from the engagements “extract” project specific components and turn them into more generic modules which can be used by any future engagement from all over APPS2. By participating in a Harvest, those involved in the engagements can guarantee the existence of the module in future projects, which is to everyone’s advantage, and contribute back to the community; become part of that community. And as a teaser we offer a price for the best component for each Harvest.</p>
+					<p>This, and everlasting fame, of course.</p>
+				</div>
+
+			</div>
+
+			<div class="bs-docs-section" id="sec3">
+				<h2 id="sec3">OASP Technology Stacks</h2>
+
+				<ul class="nav nav-tabs">
+					<li class="active"><a data-toggle="tab" href="#oasp4j">OASP4J</a></li>
+					<li><a data-toggle="tab" href="#oasp4js">OASP4JS</a></li>
+					<li><a data-toggle="tab" href="#oasp4net">OASP4NET</a></li>
+					<li><a data-toggle="tab" href="#oasp4x">OASP4X</a></li>
+					<li><a data-toggle="tab" href="#oasp4mobile">OASP4Mobile</a></li>
+					<li><a data-toggle="tab" href="#oasp4fn">OASP4FN</a></li>
+				</ul>
+			
+				<div class="tab-content">
+			
+					<div id="oasp4j" class="tab-pane fade in active">
+						<img src="images/collaboration/onepager_oasp4j.png" width="100%">
+					</div>
+			
+					<div id="oasp4js" class="tab-pane fade">
+						<img src="images/collaboration/onepager_oasp4js.png" width="100%">
+					</div>
+			
+					<div id="oasp4net" class="tab-pane fade">
+						<img src="images/collaboration/onepager_oasp4net.png" width="100%">
+					</div>
+					
+					<div id="oasp4x" class="tab-pane fade">
+						<img src="images/collaboration/onepager_oasp4x.png" width="100%">
+					</div>
+					
+					<div id="oasp4mobile" class="tab-pane fade">
+						<img src="images/collaboration/onepager_oasp4mobile.png" width="100%">
+					</div>
+					
+					<div id="oasp4fn" class="tab-pane fade">
+						<img src="images/collaboration/onepager_oasp4fn.png" width="100%">
+					</div>
+			
+				</div>
+		
+			</div>
+			
+			<div class="bs-docs-section" id="sec4">
+				<h2 id="sec5">Newsletter &amp; Webcast</h2>
+
+				<div class="bs-docs-section">
+					<h3 id="sec4-1">Newsletter</h3>
+
+					<p>The iCSD newsletter is <a href="https://devonfw.github.io/we-dev-on/" target="_blank">we-dev-on</a>. It is a reader-supported publication for and from the devonfw &amp; OASP communities all over Capgemini APPS2. It deals with current topics in the iCSD space including general news such as approaching releases or upcoming webcasts, but also tips and tricks, (Yammer) discussions, opinions or anything else worth sharing.</p>
+						
+				</div>
+
+				<div class="bs-docs-section">
+					<h3 id="sec4-2">Webcast</h3>
+				
+						<p>In the year 2017 we have started with a new webcast series for you, called “iCSD - Stuff That Matters” (thanks to Maurice Driessen for the great name). The idea is to organize webcasts dealing with topics which seem relevant for the community related with devonfw and OASP. Each session is planned for half an hour up to an hour with reserved time for Q&amp;A. There, you will be able to ask anything related to the topic or iCSD in general.</p>
+						<p>We started with a highly attended first session the 27th of January 2017 by Angel Marin from Capgemini Spain (Valencia) about “Dealing with Complexity on the Front End”. Angel took a look at one of our front-end options provided by devonfw: Devon4sencha. This framework is based on Sencha Ext JS, a powerful JavaScript framework for creating rich web applications. He showed how it makes it easy to deal with usually complex user interface patterns and during the session he explored some of the tools it provides. There was time for Q&amp;A and people did not hesitate to ask anything that came to their mind.</p>
+						<p>A second session was held the 24th of February by Jonas Molina Ramirez from Capgemini Germany (Frankfurt) about “Testing with OASP4j”. During his his talk Jonas investigated the testing facilities currently provided by OASP4j and he showed those features which aid you with the following:</p>
+						<ul>
+							<li>Focus on test logic instead of infrastructure</li>
+							<li>Manage your test data</li>
+							<li>Configure your tests</li>
+						</ul>
+						<p>The edited video of this talk has been uploaded to Teamforge and can be found in the Server section. It will be included soon in the devonfw Catalog in the 360 learning platform.</p>
+						<p>The third episode, held on beginning of April, dealt with the ins and outs of Cobigen, the code generator in devonfw. The Webcasts are definitely meant to be open. So, as always, you are very welcome to propose certain topics and / or present a topic yourself.</p>
+						<p>The latest webcast held on 28th of July was all about Courage, the newest version of devonfw (2.2). Some demos were shown, as well as what's new and what has changed.</p>
+
+				</div>
+			</div>
+			<div class="bs-docs-section" id="sec5">
+				<h2 id="sec5">Sounding Board Meeting</h2>
+
+				<p>The so called Sounding Board is a monthly meeting in which the topics are:</p>
+				<ul>
+					<li>Technical state of projects</li>
+					<li>devonfw related activities</li>
+					<li>Status of devonfw</li>
+					<li>iCSD news</li>
+				</ul>
+				<p>The main purpose of this meeting is to provide feedback on the asset usage: Where are the problems, what are positive aspects, new suggestions, upcoming requirements, etc.</p>
+				<p>This meeting's attendants are the iCSD devonfw Team, BU representatives and Project managers of Solution Architects from engagements using devonfw, Studio Lead Architects from AD Centers and optionally other architects related to this topic.</p>
+				<p>The benefits of such a meeting is to gain knowledge about the projects using devonfw as well as feedback - What are the benefits or downsides, what could be improved? Furthermore, the identification of features, which could be harvested for devonfw usage, is necessary.</p>
+
+			</div>
+
 		</div>
 
 		<!-- right navigation -->
@@ -469,28 +458,27 @@
 			<nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm scrollspy">
 				<ul id="affix" class="nav bs-docs-sidenav" data-spy="affix">
 					<li>
-						<a href="#sec4">Contributing to devonfw</a>
+						<a href="#sec1">How we collaborate</a>
+					</li>
+					<li>
+						<a href="#sec2">Contributing to devonfw</a>
 						<ul class="nav">
-							<li><a href="#sec4-1">Topic Landscape</a></li>
-							<li><a href="#sec4-2">Harvesting</a></li>
-							<li><a href="#sec4-3">Notes on Contribution</a></li>
+							<li><a href="#sec2-1">Topic Landscape</a></li>
+							<li><a href="#sec2-2">Harvesting</a></li>
 						</ul>
 					</li>
 					<li>
 						<a href="#sec3">OASP Technology Stacks</a>
 					</li>
 					<li>
-						<a href="#sec5">Newsletter &amp; Webcast</a>
+						<a href="#sec4">Newsletter &amp; Webcast</a>
 						<ul class="nav">
-							<li><a href="#sec5-1">Newsletter</a></li>
-							<li><a href="#sec5-2">Webcast</a></li>
+							<li><a href="#sec4-1">Newsletter</a></li>
+							<li><a href="#sec4-2">Webcast</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="#sec6">Sounding Board Meeting</a>
-					</li>
-					<li>
-						<a href="#sec2">How we collaborate</a>
+						<a href="#sec5">Sounding Board Meeting</a>
 					</li>
 				</ul>
 			</nav>
