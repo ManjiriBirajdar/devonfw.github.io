@@ -1,9 +1,9 @@
 {
-  "version":"1.3.0",
+  "version":"1.4.0",
   "url":"http://devonfw.github.io/download/devcon/devcon.jar",
   "devondist_file_id": "frs60084",
   "oaspide_file_id": "frs54315",
   "oasp4js_ang1_id": "frs51721",
   "oasp4js_ang2_id": "frs51961",
-  "oasp_template_version": "2.4.0"
+  "oasp_template_version": "2.5.0"
 }
