@@ -164,13 +164,13 @@
 						<img class="img-responsive halfimg center-block" src="images/newsletter.png"/>
 						<h3>Newsletter</h3>
 						<p>Newsletter: <a href="https://devonfw.github.io/we-dev-on/" target="_blank">we-dev-on</a></p>
-						<p>Announcements on <a href="https://yammer.com/capgemini.com/groups/devon" target="_blank">Yammer</a></p>
+						<p>Announcements on <a href="https://www.yammer.com/capgemini.com/#/threads/inGroup?type=in_group&feedId=5030942" target="_blank">Yammer</a></p>
 					</div>
 
 					<div class="col-md-3">
 						<img class="img-responsive halfimg center-block" src="images/webcast.png"/>
 						<h3>Webcast</h3>
-						<p>Announcements on <a href="https://yammer.com/capgemini.com/groups/devon" target="_blank">Yammer</a></p>
+						<p>Announcements on <a href="https://www.yammer.com/capgemini.com/#/threads/inGroup?type=in_group&feedId=5030942" target="_blank">Yammer</a></p>
 						<p>Collection on <a href="https://github.com/devonfw/devonfw-community/wiki/stuff-that-matters" target="_blank">GitHub</a></p>
 					</div>
 				
