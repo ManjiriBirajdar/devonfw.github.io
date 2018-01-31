@@ -147,7 +147,7 @@ margin-right:10px;
 				</li>
 				<li>
 					<h2>Download the distribution <img src="images/tools.png" width="30"></h2>
-					<p>You can download from Teamforge the devonfw 2.2 distribution, the <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.current_version/frs54537?dl=1"> devonfw development environment (1Gb ZIP file)</a>.</p>			
+					<p>You can download from Teamforge the devonfw 2.3 distribution, the <a href="https://coconet.capgemini.com/sf/frs/do/downloadFile/projects.apps2_devon/frs.devon_distribution.current_version/frs54537?dl=1"> devonfw development environment (1Gb ZIP file)</a>.</p>			
 				</li>
 				<li>
 					<h2>Setup & Documentation <img src="images/books.png" width="30"></h2>
@@ -156,7 +156,7 @@ margin-right:10px;
 					<table class="table table-bordered table-bordered-blue">
 						<thead>
 							<tr>
-							  <th colspan="2" style="text-align:center;">devonfw distribution 2.2 files</th>
+							  <th colspan="2" style="text-align:center;">devonfw distribution 2.3 files</th>
 							</tr>
 						</thead>
 						<tbody>

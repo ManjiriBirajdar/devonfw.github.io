@@ -75,11 +75,12 @@
 		<div class="col-md-offset-2 col-md-8" role="main">
 			<div class="bs-docs-section" id="start">
 				<h1>Roadmap & Releases</h1>
-				<p class="lead">devonfw V2.2 is available and ready to be used in projects. The next devon release is already on its way - adding additional features to the product.</p>
+				<p class="lead">devonfw V2.3 is available and ready to be used in projects. The next devon release is already on its way - adding additional features to the product.</p>
 			</div>
 		</div>
 		
 		<div class="col-md-offset-2 col-md-8">
+			<!--
 			<div class="bs-docs-section" id="sec1">
 				<h2 id="sec1">Roadmap</h2>
 				<div class="col-md-12">
@@ -123,17 +124,65 @@
 					</ul>
 				  </p>
 				</div>
-			</div>
+			</div>-->
 		
 			<div class="bs-docs-section col-md-12" id="sec2">
 				<h2 id="sec2">Releases</h2>
-				<p>The following versions of devonfw have already been released - continuously adding more value based on the feedback from several engagements.</p>
+				<p>The following versions of devonfw have already been released - continuously adding more value based on the feedback and contributions from several engagements.</p>
 				
 				<div class="col-md-12">
-					<h2 class="text-success page-header">devonfw version 2.2.0 (Courage)<small><i>Released Beginning of July 2017</i></small></h2>
+					<h2 class="text-success page-header">devonfw version 2.3.0 (Dash)<small><i>Released January 2018</i></small></h2>
 				</div>
 				<div class="col-md-12">
 					<h4 class="text-success"><br/>latest release</h4>
+				</div>
+				<div class="col-md-6">
+				  <p>
+					<h3><span class="fa fa-cube text-info"></span> Solution</h3>
+					<ul>
+					  <li>Based on OASP4J 2.5.0</li>
+  					  <li>OASP4J 2.5 - (Microservice) support for JAX-RS & JAX-WS clients</li>
+					  <li>OASP4J 2.5 - Separate security logs for OASP4J log component</li>
+					  <li>OASP4J 2.5 - Admin interface for OASP4J apps (based on CodeCentric´s Spring Boot Admin)</li>
+					  <li>OASP4J 2.5 - SpringBoot-like starters for the integration of several IP modules</li>
+					  <li>OASP4JS - Upgrade to Angular 5.1</li>
+					  <li>OASP4JS - Upgrade to Angular Material 5 and Covalent 1.0.0 RC1</li>
+					  <li>My-thai-star - new example and reference application - fully integrated</li>
+					  <li>Refactored devonfw guide (new getting started & tutorial sections)
+					  <li>Allure (Selenium) Test Framework for functional testing of web applications</li>
+					  <li>Cobigen - Contract-first code generation support based on Swagger/YAML</li>
+					  <li>Cobigen -  project templates  and docs updated</li>
+					  <li>CobiGen Ionic CRUD app generation</li>
+					  <li>JHipster devonfw code generation</li>
+					  <li>Incubator - DOT.NET Core and Xamarin Frameworks</li>
+					</ul>
+				  </p>
+				</div>
+				
+				<div class="col-md-6">
+				  <p>
+					<h3><span class="fa fa-wrench text-info"></span> Tools & Supporting material</h3>
+					<ul>
+					  <li>Eclipse Oxygen integrated</li>
+					  <li>Visual Studio Code latest version included and pre-configured</li>
+					  <li>Yarn package manager included.</li>
+					  <li>Devcon - bugfixes and new features</li>
+					</ul>
+				  </p>
+				</div>
+				
+				<div class="col-md-6">
+				  <p>
+					<h3><span class="fa fa-code text-info"></span> Integration Showcases</h3>
+					<ul>
+					  <li>devonfw has been Primed by Red Hat for OpenShift</li>
+					  <li>devonfw Shop Floor - "How we use our Devonfw projects in Openshift DevOps environments"</li>
+					</ul>
+				  </p>
+				</div>
+				
+				<div class="col-md-12">
+					<h2 class="text-success page-header">devonfw version 2.2.0 (Courage)<small><i>Released Beginning of July 2017</i></small></h2>
 				</div>
 				<div class="col-md-6">
 				  <p>
