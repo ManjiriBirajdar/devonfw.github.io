@@ -103,8 +103,8 @@
 		</div>
 			
 		<div class="col-md-offset-2 col-md-8">
-			<div class="bs-docs-section" id="sec3">
-				<h2 id="sec1">External Marketing</h2>
+			<div class="bs-docs-section" id="sec1">
+				<h2>External Marketing</h2>
 				<p>The following brochure advertises the main features of the devonfw platform</p>
 				<ul>
 					<li><a href="https://www.de.capgemini.com/sites/default/files/resource/pdf/brochure_devon_2016.pdf">Brochure devonfw 2016</a></li>
@@ -117,7 +117,9 @@
 					<li><a href="http://devonfw.github.io">Devonfw-page on Github</a></li>
 					<li><a href="http://oasp.io">OASP main page on Github</a></li>
 				</ul>
-				<h2 id="sec2">Internal Marketing</h2>
+			</div>
+			<div class="bs-docs-section" id="sec2">
+				<h2>Internal Marketing</h2>
 				<p>For internal marketing the following material is accessible internally.</p>
 				<ul>
 					<li><a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.bid_support">Bidsupport templates</a></li>
@@ -125,7 +127,9 @@
 					<li><a href="https://coconet.capgemini.com/sf/docman/do/listDocuments/projects.apps2_devon/docman.root.devonfw.marketing.presentations">Recent presentations</a></li>
 					<li><a href="http://devon.es.capgemini.com">Spanish devon portal (entry point to access several "vintage" Devon applications)</a></li>
 				</ul>
-				<h2 id="sec3">References</h2>
+			</div>
+			<div class="bs-docs-section" id="sec3">
+				<h2>References</h2>
 				<h3 id="sec3-1">References for devonfw usage in projects</h3>
 				<p>Treat any of the following references confidential until you received approval from the project-contact.</p>
 				<div class="table-responsive">
@@ -140,30 +144,6 @@
 		<th>Status</th>
 	</thead>
 	<tbody>
-		<tr>
-			<td>France</td>
-			<td>French public ministry - Apep</td>
-			<td>Apep is a mobile application for the driver examination ( the client is the French minister). devon is used to build the back-end for the mobile app.</td>
-			<td>Mabrouk Belhout</td>
-			<td></td>
-			<td>running</td>
-		</tr>
-		<tr>
-			<td>France</td>
-			<td>Atalian Digital Transformation</td>
-			<td>Application for service order creation, validation, dispatching and executing</td>
-			<td>Frederic Desoize</td>
-			<td>3MEuro</td>
-			<td>running</td>
-		</tr>
-		<tr>
-			<td>France</td>
-			<td>GRDF - TULIPE project</td>
-			<td></td>
-			<td>Fabrice Moreno</td>
-			<td>1M</td>
-			<td>running</td>
-		</tr>
 		<tr>
 			<td>Germany</td>
 			<td>LFU ADAMAS</td>
@@ -231,9 +211,9 @@
 		<tr>
 			<td>Germany</td>
 			<td>TollCollect - ZME</td>
-			<td>Rebuild of a decentralized solution for gathering and billing toll data. Mostly high traffiq backend.</td>
+			<td>Rebuild of a decentralized solution for gathering and billing toll data. Mostly high traffic backend. Team size around 100 people (approx. 25% in Poland) during peak times.</td>
 			<td>Olaf Detering-Meyer</td>
-			<td>big</td>
+			<td>17MEuro</td>
 			<td>running</td>
 		</tr>
 		<tr>
@@ -266,7 +246,7 @@ Delivery planning: 14.10. 2016: Delivery of 1st MVP, 11.11.2016: Delivery of 2nd
 			<td>Daimler - Parts Data Hub (PaaS)</td>
 			<td>Service in the logistic division to provide consolidated data around car parts. Based on Microservices and PCF. Teamsize: 20; Project locations: Stuttgart, Munich, Hamburg, Bangalore</td>
 			<td>Michael Kurz</td>
-			<td>650k</td>
+			<td>1,5MEuro</td>
 			<td>running</td>
 		</tr>
 		<tr>
@@ -282,7 +262,7 @@ Delivery planning: 14.10. 2016: Delivery of 1st MVP, 11.11.2016: Delivery of 2nd
 			<td>VTAS (Vehicle Testing Analyzing System)</td>
 			<td>For the quality management departments in production plants who execute the validation of production VTAS (Vehicle Testing Analyzing System) is a quality management system, that supports process management and project planning. Unlike ZEUS (for development etc.) our project is relevant for the approval phase of vehicle production and delivery. </td>
 			<td>Lead: Michael Kurz Architekt: Gayass Daher</td>
-			<td>800kEuro</td>
+			<td>1MEuro</td>
 			<td>running</td>
 		</tr>
 		<tr>
@@ -292,6 +272,127 @@ Delivery planning: 14.10. 2016: Delivery of 1st MVP, 11.11.2016: Delivery of 2nd
 			<td>Benedikt Blomen</td>
 			<td>100kEuro</td>
 			<td>completed</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Daimler iCON 2.0</td>
+			<td>BI-Modal IT with existing iCON 1.x based on Microservices</td>
+			<td>Roland Plaß</td>
+			<td>>200k</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>Allocation Yield Platform</td>
+			<td>Web application for Yield Optimizatoin of Carrier Allocations.</td>
+			<td>Tim Lüecke</td>
+			<td>> 700k</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>VGM Chain</td>
+			<td>How Blockchain connects Logistic Partners  to make container shipping safer. Capgemini implemented K+Ns first blockchain in just 2 months.</td>
+			<td>Tim Lüecke</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Germany</td>
+			<td>COCOS (Common Customs Operations System)</td>
+			<td>Transmission and completion (digitization) of customs data for international parcels. A graphical user interface based on OASP4JS is being used for data completion, itinery planning and problem management.</td>
+			<td>Johannes Schröder</td>
+			<td></td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Carrefour</td>
+			<td>Optimization of distribution processes and tracking customer orders.</td>
+			<td>Manuel Cid Garcia</td>
+			<td></td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Carrefour</td>
+			<td>Logistics system re-engineering to Devon. Customer buys devon-package.</td>
+			<td>Manuel Cid Garcia</td>
+			<td></td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Grupo Boluda Lines</td>
+			<td>Development of an extranet for the booking of containers for customers.</td>
+			<td>Manuel Cid Garcia</td>
+			<td>>40k</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Iberia</td>
+			<td>Tablet Application for Flight Coordinators</td>
+			<td>Manuel Cid Garcia</td>
+			<td>>250k</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Aguas de Valencia Group</td>
+			<td>Development of a kanban tool that covers the billing life cycle (meter). Running on JBoss</td>
+			<td>Manuel Cid Garcia</td>
+			<td>>60k</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>TEPSA</td>
+			<td>Business Process Re-engineering</td>
+			<td>Manuel Cid Garcia</td>
+			<td>>200k</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>Spain</td>
+			<td>Blendhub</td>
+			<td>Digital transformation to the cloud</td>
+			<td>Gonzalo Gabino</td>
+			<td>160k</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>France</td>
+			<td>French public ministry - Apep</td>
+			<td>Apep is a mobile application for the driver examination ( the client is the French minister). devon is used to build the back-end for the mobile app.</td>
+			<td>Mabrouk Belhout</td>
+			<td></td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>France</td>
+			<td>Atalian Digital Transformation</td>
+			<td>Application for service order creation, validation, dispatching and executing</td>
+			<td>Frederic Desoize</td>
+			<td>3MEuro</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>France</td>
+			<td>GRDF - TULIPE project</td>
+			<td></td>
+			<td>Fabrice Moreno</td>
+			<td>1M</td>
+			<td>running</td>
+		</tr>
+		<tr>
+			<td>France</td>
+			<td>Service de Portabilité du Numéro (SPN)</td>
+			<td>REST APIs & other back-end apps (no Web UI)</td>
+			<td>Arch.: Mathieu Demarquay
+Lead : Steeve Raymond</td>
+			<td></td>
+			<td>running</td>
 		</tr>
 		<tr>
 			<td>Italy</td>
@@ -374,249 +475,9 @@ PWM Fase 1</td>
 			<td></td>
 			<td>completed</td>
 		</tr>
-		<tr>
-			<td>Spain</td>
-			<td>Carrefour</td>
-			<td>Optimization of distribution processes and tracking customer orders.</td>
-			<td>Manuel Cid Garcia</td>
-			<td></td>
-			<td>running</td>
-		</tr>
-		<tr>
-			<td>Spain</td>
-			<td>Carrefour</td>
-			<td>Logistics system re-engineering to Devon. Customer buys devon-package.</td>
-			<td>Manuel Cid Garcia</td>
-			<td></td>
-			<td>running</td>
-		</tr>
-		<tr>
-			<td>Spain</td>
-			<td>Grupo Boluda Lines</td>
-			<td>Development of an extranet for the booking of containers for customers.</td>
-			<td>Manuel Cid Garcia</td>
-			<td>>40k</td>
-			<td>running</td>
-		</tr>
-		<tr>
-			<td>Spain</td>
-			<td>Iberia</td>
-			<td>Tablet Application for Flight Coordinators</td>
-			<td>Manuel Cid Garcia</td>
-			<td>>250k</td>
-			<td>running</td>
-		</tr>
-		<tr>
-			<td>Spain</td>
-			<td>Aguas de Valencia Group</td>
-			<td>Development of a kanban tool that covers the billing life cycle (meter). Running on JBoss</td>
-			<td>Manuel Cid Garcia</td>
-			<td>>60k</td>
-			<td>running</td>
-		</tr>
-		<tr>
-			<td>Spain</td>
-			<td>TEPSA</td>
-			<td>Business Process Re-engineering</td>
-			<td>Manuel Cid Garcia</td>
-			<td>>200k</td>
-			<td>running</td>
-		</tr>
-		<tr>
-			<td>Spain</td>
-			<td>Blendhub</td>
-			<td>Digital transformation to the cloud</td>
-			<td>Gonzalo Gabino</td>
-			<td>160k</td>
-			<td>running</td>
-		</tr>
-		<tr>
-			<td>Germany</td>
-			<td>Daimler iCON 2.0</td>
-			<td>BI-Modal IT with existing iCON 1.x based on Microservices</td>
-			<td>Roland Plaß</td>
-			<td>>200k</td>
-			<td>running</td>
-		</tr>
 	</tbody>
 </table>
 <!-- Project References aktualiseren ENDE -->
-				</div>
-					
-				<h3 id="sec3-2">Currently used in akquisitions</h3>
-				<p>devonfw/OASP has been considered in the following sales.</p>
-				<div class="table-responsive">
-<!-- Bid References aktualiseren BEGIN -->
-<table class="table table-bordered table-bordered-blue">
-	<thead>
-		<th>Country</th>
-		<th>Opportunity</th>
-		<th>Bid scope & remarks</th>
-		<th>Bid data
-(last update)</th>
-		<th>Contact</th>
-		<th>Status</th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Germany</td>
-			<td>Daimler - SMARAGD</td>
-			<td>Replace Central RD System of Daimler with a custom solution in an agile way; Deployment to PCF.</td>
-			<td></td>
-			<td>Thilo Hermann</td>
-			<td>lost bid</td>
-		</tr>
-		<tr>
-			<td>Germany</td>
-			<td>HPA - Harbour management</td>
-			<td>Implement a fullstack application for Hamburg Port Authority with strong GIS focus</td>
-			<td></td>
-			<td>Carsten Frank</td>
-			<td>active bid</td>
-		</tr>
-		<tr>
-			<td>Germany</td>
-			<td>UBA</td>
-			<td>RFI at Federal ministry for Environment</td>
-			<td></td>
-			<td>Lars Santesson</td>
-			<td>active bid</td>
-		</tr>
-		<tr>
-			<td>Germany</td>
-			<td>EOS - IT receivables management</td>
-			<td>Planning of Greenfield implementation for their core systemwith a microservice architecture Java (server side) and Javascript based clients. Crossborder staffing of devon experts from Spain</td>
-			<td></td>
-			<td>Thomas Arend</td>
-			<td>active bid</td>
-		</tr>
-		<tr>
-			<td>Germany</td>
-			<td>VW</td>
-			<td>RFI to create new Order Management Solution using micro services</td>
-			<td></td>
-			<td>Barbara Burkhard</td>
-			<td>paused bid</td>
-		</tr>
-		<tr>
-			<td>Netherlands</td>
-			<td>Logius DigiD</td>
-			<td>Migration from Ruby to Devonfw of current DigiD solution used i.e. to provide login access for governmental departments like Tax authority</td>
-			<td></td>
-			<td>Maurice Driessen</td>
-			<td>active bid</td>
-		</tr>
-		<tr>
-			<td>Spain</td>
-			<td>Malaga Town Council eAdministration Platform</td>
-			<td></td>
-			<td></td>
-			<td>Manuel Cid Garcia</td>
-			<td>paused bid</td>
-		</tr>
-		<tr>
-			<td>Spain</td>
-			<td>Gas Natural</td>
-			<td>Developing an estimation tool, configurable, for Gas Natural. It includes all front-office, for the creation of estimates, and the back office for administration, configuration and operation metrics tool.</td>
-			<td></td>
-			<td>Manuel Cid Garcia</td>
-			<td>paused bid</td>
-		</tr>
-		<tr>
-			<td>Sweden</td>
-			<td>Volvo PoS</td>
-			<td>PoS for Volvo Cars dealers (case name K2)</td>
-			<td></td>
-			<td>Matthias Grundevik</td>
-			<td>active bid</td>
-		</tr>
-		<tr>
-			<td>Spain</td>
-			<td>GRC Global</td>
-			<td>Generic Approval Business micro service in AWS</td>
-			<td></td>
-			<td>Gonzalo Gabino</td>
-			<td>active bid</td>
-		</tr>
-		<tr>
-			<td>Spain</td>
-			<td>Fermax</td>
-			<td>IoT Micro service in the Cloud</td>
-			<td></td>
-			<td>Gonzalo Gabino</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>Germany</td>
-			<td>KSK</td>
-			<td>preparing bid with solutioning and PoC for a workflow-driven word-document editing solution. OASP likely to be used on server and web-frontend.</td>
-			<td>27.06.2017</td>
-			<td>Arno Hildebrandt
-Olaf Deterding</td>
-			<td>active bid</td>
-		</tr>
-		<tr>
-			<td>Germany</td>
-			<td>Bundesagentur für Arbeit - Replace the current Swing Client  of Allegro</td>
-			<td>Replace the current Swing Client by a modern Web Implementation, probably based upon Angular JS</td>
-			<td>27.06.2017</td>
-			<td>Rico Starke</td>
-			<td>paused bid</td>
-		</tr>
-		<tr>
-			<td>Germany</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td>Michael Truckenbrodt, Martin Stechert</td>
-			<td>active bid</td>
-		</tr>
-		<tr>
-			<td>Germany</td>
-			<td>Implementierung einer zentralen Einsatzdatenbank</td>
-			<td>Implementation of central ressource management and planning system for police operations in the German federal state lower saxony
-(Replace current Excel-based solution by a modern Web-based solution with a central database)</td>
-			<td></td>
-			<td>Markus Hellenthal,
-Arne Hauenschild</td>
-			<td>lost bid</td>
-		</tr>
-		<tr>
-			<td>Germany</td>
-			<td>Bundesnotarkammer Rahmenvertrag</td>
-			<td>Capgemini won in 2015 as one of three providers a frame contract; concrete projects need additional supplies in separate mini bids.</td>
-			<td></td>
-			<td>Mark-Andrew Hartinger</td>
-			<td>won bid</td>
-		</tr>
-		<tr>
-			<td>Germany</td>
-			<td>LFU ADAMAS</td>
-			<td>enterprise application platform approach mith multiple CSD-applications on OASP</td>
-			<td></td>
-			<td>Christian Neuchl</td>
-			<td>won bid</td>
-		</tr>
-		<tr>
-			<td>Germany</td>
-			<td>IT-Anwendung zur Unterstützung strategischer Krisenmanagement-Übungen</td>
-			<td>Liferay as portal for an Open-Source application to support the management of strategic crisis exercises
-(No OASP/devon solution!)</td>
-			<td></td>
-			<td>Michael Köhler</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>Germany</td>
-			<td>Urkundenarchiv</td>
-			<td>The federal notary agency has to digitalize it charter archive.</td>
-			<td>18.07.2017</td>
-			<td>Remo Bergmann</td>
-			<td>active bid</td>
-		</tr>
-	</tbody>
-</table>
-<!-- Bid References aktualiseren ENDE -->
 				</div>
 			</div>		
 				
@@ -672,8 +533,6 @@ Arne Hauenschild</td>
 						<a href="#sec3">References</a>
 							<ul class="nav">
 								<li><a href="#sec3-1">References for devonfw usage</a></li>
-								<li><a href="#sec3-2">Currently used in acquisitions</a></li>
-								<li><a href="#sec3-3">University activities</a></li>
 							</ul>
 					</li>
 					<li>
